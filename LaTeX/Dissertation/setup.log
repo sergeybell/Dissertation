@@ -1,0 +1,38 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.15)  10 DEC 2023 13:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**setup.tex
+(./setup.tex
+LaTeX2e <2018-12-01>
+\c@intvl=\count80
+\c@otstup=\count81
+\c@contnumeq=\count82
+\c@contnumfig=\count83
+\c@contnumtab=\count84
+\c@pgnum=\count85
+\c@chapstyle=\count86
+\c@headingdelim=\count87
+\c@headingalign=\count88
+\c@headingsize=\count89
+./setup.tex:46: Undefined control sequence.
+l.46 \settocdepth
+                 {subsection}    % до какого уровня подра...
+
+? 
+./setup.tex:46: Emergency stop.
+l.46 \settocdepth
+                 {subsection}    % до какого уровня подра...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 44 strings out of 492616
+ 570 string characters out of 6129481
+ 57124 words of memory out of 5000000
+ 4065 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 9i,0n,15p,136b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+./setup.tex:46:  ==> Fatal error occurred, no output PDF file produced!
