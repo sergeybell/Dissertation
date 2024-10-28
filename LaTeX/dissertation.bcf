@@ -3629,6 +3629,46 @@
   </bcf:bibdata>
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 1 -->
+  <bcf:bibdata section="1">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/author.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/registered.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="1">
+    <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 2 -->
+  <bcf:bibdata section="2">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/author.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/registered.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="2">
+    <bcf:citekey order="1" intorder="1" nocite="1">vakbib2</bcf:citekey>
+    <bcf:citekey order="2" intorder="2" nocite="1">patbib1</bcf:citekey>
+    <bcf:citekey order="3" intorder="3" nocite="1">progbib1</bcf:citekey>
+    <bcf:citekey order="4" intorder="4" nocite="1">bib1</bcf:citekey>
+    <bcf:citekey order="5" intorder="5" nocite="1">confbib1</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">lee</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">lee</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">jump</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">pip</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">hans</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">resonant</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">syresin</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">bb</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">malyshev</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">bbcern</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">laclare</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">sc</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">blond1</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">blond</bcf:citekey>
+  </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
     <bcf:sort order="1">
@@ -3639,4 +3679,22 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="1"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
