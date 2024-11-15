@@ -5,13 +5,11 @@
 \contentsline {chapter}{\chapternumberline {1}Особенности двойственной магнитооптической структуры коллайдера NICA для ускорения тяжелых ионов и легких частиц частиц}{10}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Дуальность магнитооптической структуры NICA для тяжелых ионов и легких ядер}{10}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Оптимизация времени жизни пучка}{10}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Стохастическое охлаждение}{11}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Внутрипучковое рассеяние}{17}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}Протонная мода}{18}{subsection.1.1.4}%
-\contentsline {section}{\numberline {1.2}Выбор критической энергии в магнитооптической структуре с учетом ускорения тяжелых ионов и легких частиц.}{19}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Критическая энергия}{19}{subsection.1.2.1}%
-\contentsline {section}{\numberline {1.3}Решение проблемы внутрипучкового рассеяния для тяжелых ионов и протонов в ускорителе NICA }{20}{section.1.3}%
-\contentsline {section}{\numberline {1.4}IBS в «резонансной» и регулярной структурах}{20}{section.1.4}%
+\contentsline {section}{\numberline {1.2}Решение проблемы внутрипучкового рассеяния для тяжелых ионов и протонов в ускорителе NICA }{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Стохастическое охлаждение}{11}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Внутрипучковое рассеяние в «резонансной» и регулярной структурах}{17}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Выбор критической энергии в магнитооптической структуре с учетом ускорения тяжелых ионов и легких частиц.}{19}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Критическая энергия}{19}{subsection.1.4.1}%
 \contentsline {section}{\numberline {1.5}Заключение}{20}{section.1.5}%
 \contentsline {chapter}{\chapternumberline {2}Регулирование критической энергии методом резонансной вариации дисперсионной функции в коллайдере NICA }{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Краткий обзор теории построения «Резонансной» магнитооптической структуры}{22}{section.2.1}%
@@ -42,34 +40,34 @@
 \contentsline {section}{\numberline {3.6}Ускорение и накопление пучка с использованием ВЧ резонаторов и barrier backet cavity}{62}{section.3.6}%
 \contentsline {section}{\numberline {3.7}Заключение}{62}{section.3.7}%
 \contentsline {chapter}{\chapternumberline {4}Изучение особенностей магнитооптической структуры синхротронов NICA и Nuclotron с учетом ускорения поляризованных пучков и модернизация магнитооптической структуры Nuclotron с учётом возможности изучения ЭДМ}{63}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Прохождение критической энергии ускорителя NICA в синхротроне Nuclotron}{64}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Использование Nuclotron в качестве бустера легких поляризованных частиц в коллайдер NICA}{64}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Требвания к магнитооптической структуре синхротронов NICA-Nuclotron в задаче исследования электрического дипольного момента легких ядер}{65}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Электостатический дефлектор}{66}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Прямой фильтр Вина}{67}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Длина элемента}{68}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Сорт частиц}{68}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Энергия эксперимента}{69}{subsection.4.2.5}%
-\contentsline {section}{\numberline {4.3}Магнитооптика Nuclotron}{69}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}8-периодическая структура}{69}{subsection.4.3.1}%
-\contentsline {subsubsection}{Немодернизированная 8-периодическая структура}{70}{section*.40}%
-\contentsline {subsubsection}{Модернизированная 8-периодическая структура}{70}{section*.41}%
-\contentsline {subsection}{\numberline {4.3.2}Модернизированная 16-периодическая структура}{71}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Адаптация существующей структуры синхротрона NICA для реализации режима «квази-замороженного спина»}{71}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Метод введения ByPass c расположенными на них Wien filters}{72}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Предпосылки модернизации главного кольца NICA}{72}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Магнитооптическая структура с отводными каналами ByPass}{74}{subsection.4.4.3}%
-\contentsline {subsubsection}{Первичная схема с 3 квадруполями}{75}{section*.43}%
-\contentsline {subsubsection}{Схема ByPass с 5 квадруполями}{76}{section*.46}%
-\contentsline {subsubsection}{Окончательный вариант}{77}{section*.49}%
-\contentsline {section}{\numberline {4.5}Спин-орбитальная динамика пучка в Wien filters, спин-орбитальный трекинг в магнитном кольце со скрещенными E+B элементами}{79}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Режим «квази-замороженного спина»}{80}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Декогеренция спина}{80}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Секступольная коррекция}{81}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Коррекция $\upalpha _{1}, \upeta _{1}$}{85}{subsection.4.5.4}%
-\contentsline {subsection}{\numberline {4.5.5}Вывод}{86}{subsection.4.5.5}%
-\contentsline {section}{\numberline {4.6}Исследование поведения поляризации пучка при совершении процедуры скачка критической энергии}{86}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Результаты математического 3D моделирования динамики пучка в ускорительном комплексе NICA-Nuclotron}{86}{section.4.7}%
-\contentsline {chapter}{Заключение}{87}{chapter*.56}%
-\contentsline {chapter}{Словарь терминов}{88}{chapter*.57}%
-\contentsline {chapter}{Список рисунков}{89}{section*.58}%
-\contentsline {chapter}{Список таблиц}{93}{section*.59}%
+\contentsline {section}{\numberline {4.3}Орбитальная и спиновая динамика в электромагнитных полях}{66}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Общий концепт квазизамороженной структуры}{68}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Длина элемента}{71}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Сорт частиц}{71}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Энергия эксперимента}{72}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Магнитооптика Nuclotron}{72}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}8-периодическая структура}{72}{subsection.4.5.1}%
+\contentsline {subsubsection}{Немодернизированная 8-периодическая структура}{73}{section*.43}%
+\contentsline {subsubsection}{Модернизированная 8-периодическая структура}{73}{section*.44}%
+\contentsline {subsection}{\numberline {4.5.2}Модернизированная 16-периодическая структура}{74}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Адаптация существующей структуры синхротрона NICA для реализации режима «квази-замороженного спина»}{74}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Метод введения ByPass c расположенными на них Wien filters}{75}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Предпосылки модернизации главного кольца NICA}{75}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Магнитооптическая структура с отводными каналами ByPass}{77}{subsection.4.6.3}%
+\contentsline {subsubsection}{Первичная схема с 3 квадруполями}{78}{section*.46}%
+\contentsline {subsubsection}{Схема ByPass с 5 квадруполями}{79}{section*.49}%
+\contentsline {subsubsection}{Окончательный вариант}{80}{section*.52}%
+\contentsline {section}{\numberline {4.7}Спин-орбитальная динамика пучка в Wien filters, спин-орбитальный трекинг в магнитном кольце со скрещенными E+B элементами}{82}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Режим «квази-замороженного спина»}{83}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Декогеренция спина}{83}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Секступольная коррекция}{84}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Коррекция $\upalpha _{1}, \upeta _{1}$}{88}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Вывод}{89}{subsection.4.7.5}%
+\contentsline {section}{\numberline {4.8}Исследование поведения поляризации пучка при совершении процедуры скачка критической энергии}{89}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Результаты математического 3D моделирования динамики пучка в ускорительном комплексе NICA-Nuclotron}{89}{section.4.9}%
+\contentsline {chapter}{Заключение}{90}{chapter*.59}%
+\contentsline {chapter}{Словарь терминов}{91}{chapter*.60}%
+\contentsline {chapter}{Список рисунков}{92}{section*.61}%
+\contentsline {chapter}{Список таблиц}{97}{section*.62}%

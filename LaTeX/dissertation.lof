@@ -1,7 +1,7 @@
 \babel@toc {russian}{}\relax 
 \addvspace {10pt}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Регулярная ФОДО структура.}}{14}{figure.caption.3}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces "Резонансная" магнитооптическая структура с повышенной критической энергией.}}{15}{figure.caption.4}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Регулярная ФОДО структура.}}{15}{figure.caption.3}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces "Резонансная" магнитооптическая структура с повышенной критической энергией.}}{16}{figure.caption.4}%
 \contentsline {figure}{\numberline {1.3}{\ignorespaces "Резонансная" магнитооптическая структура с реальной и комплексной критической энергией в арках.}}{16}{figure.caption.5}%
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Зависимость времени охлаждения от энергии}}{17}{figure.caption.6}%
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Зависимость постоянной времени разогрева пучка из-за внутрипучкового рассеяния в регулярной, «резонансной» и комбинированной структурах от энергии пучка.}}{18}{figure.caption.7}%
@@ -40,14 +40,17 @@
 \contentsline {figure}{\numberline {3.20}{\ignorespaces Фазовая плоскость при удержании пучка внутри ВЧ-барьера. Слева – начальное распределение, справа – распределение после $2\times {10}^5 оборотов$.}}{61}{figure.caption.38}%
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Фазовая плоскость при скачке, ВЧ-барьеры отключены. Слева – начальное распределение, справа – распределение после $6\times {10}^3$ оборотов.}}{61}{figure.caption.39}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Принципиальная схема обходных каналов ByPass в существующем комплексе NICA.}}{73}{figure.caption.42}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Принципиальная схема ByPass с 3 квадруполями.}}{76}{figure.caption.44}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Twiss-параметры для ByPass с 3 квадруполями. Черными линиями показано расположение дефлекторов.}}{76}{figure.caption.45}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Принципиальная схема ByPass с 5 квадруполями.}}{77}{figure.caption.47}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Twiss-параметры для ByPass с 5 квадруполями. Черными линиями показано расположение дефлекторов.}}{77}{figure.caption.48}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Принципиальная схема адаптированной структуры кольца NICA c ByPass.}}{78}{figure.caption.50}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Twiss-функции для половины адаптированной структуры кольца NICA c ByPass. Фильтры Вина, расположенные на прямом участке.}}{79}{figure.caption.51}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Twiss-параметры ByPass NICA для дейтронного режима в OptiM. Также показано расположение секступольных семейств.}}{82}{figure.caption.52}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 2 семейств секступолей для получения нулевой бетатронной хроматичности.}}{83}{figure.caption.53}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 3 семейств секступолей для получения спиновой когерентности.}}{84}{figure.caption.54}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Зависимость частоты прецессии спина от координат x, y, d для различных случаев оптимизации. NC – натуральная хроматичность (красная линия); BC – нулевая (бетатронная) хроматичность (синяя пунктирная линия); SC – спиновая когерентность (зеленая линия); $BC_{\upalpha }$ – нулевая хроматичность и $\upalpha _1=0$ (фиолетовая линия); $BC_{eta}$ – нулевая хроматичность и ноль $\upeta _1=0$ (светло-голубая линия).}}{85}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Твисс-функции текущей регулярной структуры Nuclotron.}}{64}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Вращение положительно заряженной частицы а) в магнитном поле; б) электростатическом поле.}}{67}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Поворот спина в арке относительно импульса.}}{70}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Принципиальная схема обходных каналов ByPass в существующем комплексе NICA.}}{76}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Принципиальная схема ByPass с 3 квадруполями.}}{79}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Twiss-параметры для ByPass с 3 квадруполями. Черными линиями показано расположение дефлекторов.}}{79}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Принципиальная схема ByPass с 5 квадруполями.}}{80}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Twiss-параметры для ByPass с 5 квадруполями. Черными линиями показано расположение дефлекторов.}}{80}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Принципиальная схема адаптированной структуры кольца NICA c ByPass.}}{81}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Twiss-функции для половины адаптированной структуры кольца NICA c ByPass. Фильтры Вина, расположенные на прямом участке.}}{82}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Twiss-параметры ByPass NICA для дейтронного режима в OptiM. Также показано расположение секступольных семейств.}}{85}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 2 семейств секступолей для получения нулевой бетатронной хроматичности.}}{86}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 3 семейств секступолей для получения спиновой когерентности.}}{87}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Зависимость частоты прецессии спина от координат x, y, d для различных случаев оптимизации. NC – натуральная хроматичность (красная линия); BC – нулевая (бетатронная) хроматичность (синяя пунктирная линия); SC – спиновая когерентность (зеленая линия); $BC_{\upalpha }$ – нулевая хроматичность и $\upalpha _1=0$ (фиолетовая линия); $BC_{eta}$ – нулевая хроматичность и ноль $\upeta _1=0$ (светло-голубая линия).}}{88}{figure.caption.58}%
