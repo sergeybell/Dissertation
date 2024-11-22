@@ -584,10 +584,6 @@ INPUT ./common/characteristic.tex
 INPUT ./common/characteristic.tex
 INPUT ./common/characteristic.tex
 INPUT common/characteristic.tex
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-INPUT /Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/latt1000.tfm
 INPUT /Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm
 INPUT /Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm
 INPUT ./images/1_SC_common.png
@@ -679,4 +675,3 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb
