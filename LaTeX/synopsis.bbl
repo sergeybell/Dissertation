@@ -1,0 +1,168 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Kolokolchikov:2021trans}
+\selectlanguageifdefined{english}
+\BibEmph{Kolokolchikov~S.~D., Senichev~Y.~V.} Magneto-Optical Structure of the
+  NICA Collider with High Transition Energy~// \BibEmph{Physics of Atomic
+  Nuclei}. ---
+\newblock 2021. ---
+\newblock Vol.~84, no.~10. ---
+\newblock Pp.~1734--1742. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778821100185}.
+
+\bibitem{Kolokolchikov:2023_bb_IPAC}
+\selectlanguageifdefined{english}
+Acceleration and crossing of transition energy investigation using an RF
+  structure of the barrier bucket type in the NICA accelerator complex~/
+  S~Kolokolchikov, Y~Senichev, A~Melnikov, E~Syresin~// \BibEmph{Journal of
+  Physics: Conference Series}. ---
+\newblock 2023. ---
+\newblock Vol. 2420, no.~1. ---
+\newblock P.~012001. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/1742-6596/2420/1/012001}.
+
+\bibitem{Senichev:2023_QFS}
+\selectlanguageifdefined{english}
+Quasi-frozen spin concept of magneto-optical structure of NICA adapted to study
+  the electric dipole moment of the deuteron and to search for the axion~/
+  Y~Senichev, A~Aksentyev, S~Kolokolchikov et~al.~// \BibEmph{Journal of
+  Physics: Conference Series}. ---
+\newblock 2023. ---
+\newblock Vol. 2420, no.~1. ---
+\newblock P.~012052. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/1742-6596/2420/1/012052}.
+
+\bibitem{Kolokolchikov:2023_bypass_IPAC}
+\selectlanguageifdefined{english}
+ByPass optics design in NICA storage ring for experiment with polarized beams
+  for EDM search~/ S~Kolokolchikov, A~Aksentyev, A~Melnikov et~al.~//
+  \BibEmph{Journal of Physics: Conference Series}. ---
+\newblock 2024. ---
+\newblock Vol. 2687, no.~2. ---
+\newblock P.~022026. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/1742-6596/2687/2/022026}.
+
+\bibitem{Kolokolchikov:2023_sc_IPAC}
+\selectlanguageifdefined{english}
+Spin coherence and betatron chromaticity of deuteron beam in NICA storage
+  ring~/ S~Kolokolchikov, A~Aksentyev, A~Melnikov, Y~Senichev~//
+  \BibEmph{Journal of Physics: Conference Series}. ---
+\newblock 2024. ---
+\newblock Vol. 2687, no.~2. ---
+\newblock P.~022027. ---
+\newblock URL: \BibUrl{https://dx.doi.org/10.1088/1742-6596/2687/2/022027}.
+
+\bibitem{Senichev:2024_nica_edm}
+\selectlanguageifdefined{english}
+NICA Facilities for the Search for EDM Light Nuclei~/ Yu.~Senichev,
+  A.~Aksentyev, S.~Kolokolchikov et~al.~// \BibEmph{Physics of Atomic Nuclei}.
+  ---
+\newblock 2024. ---
+\newblock Vol.~87, no.~4. ---
+\newblock Pp.~436--441. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778824700534}.
+
+\bibitem{Syresin:2021_polar}
+\selectlanguageifdefined{english}
+Formation of Polarized Proton Beams in the NICA Collider-Accelerator Complex~/
+  E.~M.~Syresin, A.~V.~Butenko, P.~R.~Zenkevich et~al.~// \BibEmph{Physics of
+  Particles and Nuclei}. ---
+\newblock 2021. ---
+\newblock Vol.~52, no.~5. ---
+\newblock Pp.~997--1017. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063779621050051}.
+
+\bibitem{Senichev:2023_nuclotron}
+\selectlanguageifdefined{english}
+Consideration of an Adapted Nuclotron Structure for Searching for the Electric
+  Dipole Moment of Light Nuclei~/ Yu.~V.~Senichev, A.~E.~Aksentyev,
+  S.~D.~Kolokolchikov et~al.~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~11. ---
+\newblock Pp.~2434--2438. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110418}.
+
+\bibitem{Kolokolchikov:2025_dual}
+\selectlanguageifdefined{english}
+(to be written) Dual-structure features for heavy ion and light particles at
+  NICA collider~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
+  Yu.V.~Senichev~// \BibEmph{Chinese Physics C}. ---
+\newblock 2025.
+
+\bibitem{Kolokolchikov:2025_nuclotron}
+\selectlanguageifdefined{english}
+(to be written) Modernization of Nuclotron as booster for NICA and EDM
+  experiment~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
+  Yu.V.~Senichev~// \BibEmph{JETP Letters}. ---
+\newblock 2025.
+
+\bibitem{Kolokolchikov:2025_jump}
+\selectlanguageifdefined{english}
+(to be published) Transition energy crossing in NICA collider of polarized
+  proton beam in harmonic and barrier RF~/ S.D.~Kolokolchikov, Yu.V.~Senichev,
+  A.E.~Aksentyev, A.A.~Melnikov~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2025.
+
+\bibitem{Kolokolchikov:2025_U70}
+\selectlanguageifdefined{english}
+\BibEmph{Kolokolchikov~S.D., Senichev~Yu.V., Kalinin~V.A.} (to be published)
+  Transition energy crossing in harmonic RF at U-70 proton synchrotron~//
+  \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2025.
+
+\bibitem{Kolokolchikov:2024_bb_rupac}
+\selectlanguageifdefined{english}
+Longitudinal Dynamic in NICA Barrier Bucket RF System at Transition Energy
+  Including Impedances in BLonD~/ S.~Kolokolchikov, Yu.~Senichev, A.~Aksentev
+  et~al.~// \BibEmph{Physics of Particles and Nuclei Letters}. ---
+\newblock 2024. ---
+\newblock Vol.~21, no.~3. ---
+\newblock Pp.~419--424. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1547477124700389}.
+
+\bibitem{Kolokolchikov:2023_sc}
+\selectlanguageifdefined{english}
+Spin Coherence and Betatron Chromaticity of Deuteron Beam in
+  ``Quasi-Frozen''Spin Regime~/ S.~Kolokolchikov, A.~Aksentiev, A.~Melnikov,
+  Yu.~Senichev~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~12. ---
+\newblock Pp.~2684--2688. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S106377882311025X}.
+
+\bibitem{Kolokolchikov:2023_bypass}
+\selectlanguageifdefined{english}
+Designing Bypass Channels in NICA Accelerator Complex for Polarized Beam
+  Experiments for EDM Search~/ S.~Kolokolchikov, A.~Aksentyev, A.~Melnikov
+  et~al.~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~11. ---
+\newblock Pp.~2423--2428. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110248}.
+
+\bibitem{Kolokolchikov:2024_bb_dspin}
+\selectlanguageifdefined{english}
+Transition Energy Crossing of Polarized Proton Beam at NICA~/ S.~Kolokolchikov,
+  Yu.~Senichev, A.~Aksentiev et~al.~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2024. ---
+\newblock Vol.~87, no.~3. ---
+\newblock Pp.~212--215. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778824700054}.
+
+\bibitem{Kolokolchikov:2023_pecular}
+\selectlanguageifdefined{english}
+\BibEmph{Kolokolchikov~S., Senichev~Yu.} Peculiarities of Crossing and Raising
+  the Synchrotron Transition Energy~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~10. ---
+\newblock Pp.~2260--2264. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110236}.
+
+\end{thebibliography}

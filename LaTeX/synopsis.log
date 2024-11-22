@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  14 NOV 2024 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  22 NOV 2024 12:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1654,340 +1654,35 @@ Package hyperref Info: Option `plainpages' set `false' on input line 169.
 Package hyperref Info: Option `colorlinks' set `true' on input line 169.
 
 Excluding comment 'commentbox') (./Synopsis/synstyles.tex)
-(./Synopsis/userstyles.tex) (./biblio/biblatex.tex
-(/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count431
-\csq@gtype=\count432
-\csq@glevel=\count433
-\csq@qlevel=\count434
-\csq@maxlvl=\count435
-\csq@tshold=\count436
-\csq@ltx@everypar=\toks67
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+(./Synopsis/userstyles.tex) (./biblio/predefined.tex
+(/usr/local/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
-File: csquotes.cfg 
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count437
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-\c@tabx@nest=\count438
-\c@listtotal=\count439
-\c@listcount=\count440
-\c@liststart=\count441
-\c@liststop=\count442
-\c@citecount=\count443
-\c@citetotal=\count444
-\c@multicitecount=\count445
-\c@multicitetotal=\count446
-\c@instcount=\count447
-\c@maxnames=\count448
-\c@minnames=\count449
-\c@maxitems=\count450
-\c@minitems=\count451
-\c@citecounter=\count452
-\c@maxcitecounter=\count453
-\c@savedcitecounter=\count454
-\c@uniquelist=\count455
-\c@uniquename=\count456
-\c@refsection=\count457
-\c@refsegment=\count458
-\c@maxextratitle=\count459
-\c@maxextratitleyear=\count460
-\c@maxextraname=\count461
-\c@maxextradate=\count462
-\c@maxextraalpha=\count463
-\c@abbrvpenalty=\count464
-\c@highnamepenalty=\count465
-\c@lownamepenalty=\count466
-\c@maxparens=\count467
-\c@parenlevel=\count468
-\blx@tempcnta=\count469
-\blx@tempcntb=\count470
-\blx@tempcntc=\count471
-\c@blx@maxsection=\count472
-\blx@maxsegment@0=\count473
-\blx@notetype=\count474
-\blx@parenlevel@text=\count475
-\blx@parenlevel@foot=\count476
-\blx@sectionciteorder@0=\count477
-\blx@sectionciteorderinternal@0=\count478
-\blx@entrysetcounter=\count479
-\blx@biblioinstance=\count480
-\labelnumberwidth=\skip277
-\labelalphawidth=\skip278
-\biblabelsep=\skip279
-\bibnamesep=\skip280
-\bibinitsep=\skip281
-\bibparsep=\skip282
-\bibhang=\skip283
-\blx@bcfin=\read5
-\blx@bcfout=\write6
-\blx@langwohyphens=\language90
-\c@mincomprange=\count481
-\c@maxcomprange=\count482
-\c@mincompwidth=\count483
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'gost-numeric.dbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
-File: gost-numeric.dbx 2023/04/25 v1.24 biblatex-gost data model
-Package biblatex Info: Trying to load biblatex-gost data model...
-Package biblatex Info: ... file 'biblatex-gost.dbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx
-File: biblatex-gost.dbx 2023/04/25 v1.24 biblatex-gost data model
-))
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count484
-\c@savedafterword=\count485
-\c@annotator=\count486
-\c@savedannotator=\count487
-\c@author=\count488
-\c@savedauthor=\count489
-\c@bookauthor=\count490
-\c@savedbookauthor=\count491
-\c@commentator=\count492
-\c@savedcommentator=\count493
-\c@editor=\count494
-\c@savededitor=\count495
-\c@editora=\count496
-\c@savededitora=\count497
-\c@editorb=\count498
-\c@savededitorb=\count499
-\c@editorc=\count500
-\c@savededitorc=\count501
-\c@foreword=\count502
-\c@savedforeword=\count503
-\c@holder=\count504
-\c@savedholder=\count505
-\c@introduction=\count506
-\c@savedintroduction=\count507
-\c@namea=\count508
-\c@savednamea=\count509
-\c@nameb=\count510
-\c@savednameb=\count511
-\c@namec=\count512
-\c@savednamec=\count513
-\c@translator=\count514
-\c@savedtranslator=\count515
-\c@shortauthor=\count516
-\c@savedshortauthor=\count517
-\c@shorteditor=\count518
-\c@savedshorteditor=\count519
-\c@booktranslator=\count520
-\c@savedbooktranslator=\count521
-\c@bookcommentator=\count522
-\c@savedbookcommentator=\count523
-\c@bookannotator=\count524
-\c@savedbookannotator=\count525
-\c@bookintroduction=\count526
-\c@savedbookintroduction=\count527
-\c@bookforeword=\count528
-\c@savedbookforeword=\count529
-\c@bookafterword=\count530
-\c@savedbookafterword=\count531
-\c@labelname=\count532
-\c@savedlabelname=\count533
-\c@institution=\count534
-\c@savedinstitution=\count535
-\c@lista=\count536
-\c@savedlista=\count537
-\c@listb=\count538
-\c@savedlistb=\count539
-\c@listc=\count540
-\c@savedlistc=\count541
-\c@listd=\count542
-\c@savedlistd=\count543
-\c@liste=\count544
-\c@savedliste=\count545
-\c@listf=\count546
-\c@savedlistf=\count547
-\c@location=\count548
-\c@savedlocation=\count549
-\c@organization=\count550
-\c@savedorganization=\count551
-\c@origlocation=\count552
-\c@savedoriglocation=\count553
-\c@origpublisher=\count554
-\c@savedorigpublisher=\count555
-\c@publisher=\count556
-\c@savedpublisher=\count557
-\c@language=\count558
-\c@savedlanguage=\count559
-\c@origlanguage=\count560
-\c@savedoriglanguage=\count561
-\c@bookoriglanguage=\count562
-\c@savedbookoriglanguage=\count563
-\c@specdata=\count564
-\c@savedspecdata=\count565
-\c@credits=\count566
-\c@savedcredits=\count567
-\c@bookcredits=\count568
-\c@savedbookcredits=\count569
-\c@editioncredits=\count570
-\c@savededitioncredits=\count571
-\c@pageref=\count572
-\c@savedpageref=\count573
-\shorthandwidth=\skip284
-\shortjournalwidth=\skip285
-\shortserieswidth=\skip286
-\shorttitlewidth=\skip287
-\shortauthorwidth=\skip288
-\shorteditorwidth=\skip289
-\locallabelnumberwidth=\skip290
-\locallabelalphawidth=\skip291
-\localshorthandwidth=\skip292
-\localshortjournalwidth=\skip293
-\localshortserieswidth=\skip294
-\localshorttitlewidth=\skip295
-\localshortauthorwidth=\skip296
-\localshorteditorwidth=\skip297
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count574
-\c@textcitetotal=\count575
-\c@textcitemaxnames=\count576
-\c@biburlbigbreakpenalty=\count577
-\c@biburlbreakpenalty=\count578
-\c@biburlnumpenalty=\count579
-\c@biburlucpenalty=\count580
-\c@biburllcpenalty=\count581
-\biburlbigskip=\muskip21
-\biburlnumskip=\muskip22
-\biburlucskip=\muskip23
-\biburllcskip=\muskip24
-\c@smartand=\count582
-)
-Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
-Package biblatex Info: ... file 'gost-numeric.bbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
-File: gost-numeric.bbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load bibliography style 'gost-standard'...
-Package biblatex Info: ... file 'gost-standard.bbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
-File: gost-standard.bbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load biblatex-gost generic definitions...
-Package biblatex Info: ... file 'biblatex-gost.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
-File: biblatex-gost.def 2023/04/25 v1.24 biblatex-gost styles
-)
-\c@blx@gost@pointer=\count583
-\c@bbx:relatedcount=\count584
-\c@bbx:relatedtotal=\count585
-Package biblatex Info: Redefining autocite command 'footnote'.
-Package biblatex Info: Redefining autocite command 'superscript'.
-))
-Package biblatex Info: Trying to load citation style 'gost-numeric'...
-Package biblatex Info: ... file 'gost-numeric.cbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
-File: gost-numeric.cbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count586
-\c@cbx@tempcntb=\count587
-\c@cbx@tempcntc=\count588
-\c@cbx@tempcntd=\count589
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-))
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg 
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2024-02-20 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-\c@citenum=\count590
-\c@citenum@totc=\count591
-\c@citeauthorvak=\count592
-\c@citeauthorvak@totc=\count593
-\c@citeauthorscopus=\count594
-\c@citeauthorscopus@totc=\count595
-\c@citeauthorwos=\count596
-\c@citeauthorwos@totc=\count597
-\c@citeauthorother=\count598
-\c@citeauthorother@totc=\count599
-\c@citeauthorconf=\count600
-\c@citeauthorconf@totc=\count601
-\c@citeauthor=\count602
-\c@citeauthor@totc=\count603
-\c@citeauthorvakscopuswos=\count604
-\c@citeauthorvakscopuswos@totc=\count605
-\c@citeauthorscopuswos=\count606
-\c@citeauthorscopuswos@totc=\count607
-\c@citeregistered=\count608
-\c@citeregistered@totc=\count609
-\c@citeauthorpatent=\count610
-\c@citeauthorpatent@totc=\count611
-\c@citeauthorprogram=\count612
-\c@citeauthorprogram@totc=\count613
-\c@citeexternal=\count614
-\c@citeexternal@totc=\count615
+\c@citenum=\count431
+\c@citenum@totc=\count432
 )
 Selected options:
 Draft mode: 0
 Font: 1
 AltFont: 1
-Bibliography backend: 1
+Bibliography backend: 0
 Precompile images: 0
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'russian'.
-(./synopsis.aux)
+(./synopsis.aux
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex' multiply defined.
+
+
+LaTeX Warning: Label `fig:latex@cref' multiply defined.
+
+)
 \openout1 = `synopsis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -2015,20 +1710,19 @@ Package nag Info: Command \RaggedLeft not defined, skipping amendment on input
 line 40.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
  line 40.
-
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count616
+\scratchcounter=\count433
 \scratchdimen=\dimen390
 \scratchbox=\box94
-\nofMPsegments=\count617
-\nofMParguments=\count618
-\everyMPshowfont=\toks68
-\MPscratchCnt=\count619
+\nofMPsegments=\count434
+\nofMParguments=\count435
+\everyMPshowfont=\toks67
+\MPscratchCnt=\count436
 \MPscratchDim=\dimen391
-\MPnumerator=\count620
-\makeMPintoPDFobject=\count621
-\everyMPtoPDFconversion=\toks69
+\MPnumerator=\count437
+\makeMPintoPDFobject=\count438
+\everyMPtoPDFconversion=\toks68
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -2083,146 +1777,11 @@ Dictionary: translator-basic-dictionary, Language: English
 LaTeX Info: Redefining \th on input line 40.
 Package hyperref Info: Link coloring ON on input line 40.
  (./synopsis.out) (./synopsis.out)
-\@outlinefile=\write7
-\openout7 = `synopsis.out'.
+\@outlinefile=\write6
+\openout6 = `synopsis.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'russian' -> 'russian-gost'...
-Package biblatex Info: ... file 'russian-gost.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
-File: russian-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load language 'russian'...
-Package biblatex Info: ... file 'russian.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
-File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'russian'...
-Package biblatex Info: ... file 'russian.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
-File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
-Package biblatex Info: ... file 'english-gost.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
-File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout6 = `synopsis.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'synopsis.bbl' not found.
-
-No file synopsis.bbl.
-
-Package biblatex Warning: citation 'vakbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vakbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'wosbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'scbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'patbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'progbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vakbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'patbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'progbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
 Package nag Info: Command \captionabove not defined, skipping amendment on inpu
 t line 40.
 Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
@@ -2279,221 +1838,183 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--44
  []
 
 [2.2 <./images/secretary-signature.png>] (./Synopsis/content.tex
-(./common/characteristic.tex
-Underfull \hbox (badness 2134) in paragraph at lines 3--5
-[]\T2A/cmr/m/n/10 Поведение спи^^?на ча^^?сти^^?цы в ан^^?сам^^?бле опи^^?сы^^?
-ва^^?ет^^?ся урав^^?не^^?ни^^?ем
+(./common/characteristic.tex [3.3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
  []
 
 
-Underfull \vbox (badness 1205) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
- [3.3
+ []
 
-]
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Overfull \hbox (3.34505pt too wide) in paragraph at lines 46--47
+[]\T2A/cmr/m/n/10 Применен ме^^?тод про^^?ек^^?ти^^?ро^^?ва^^?ния "ре^^?зо^^?на
+нс^^?ной"магнитооптической
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [4.4]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-41.
-
+66.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 4303) in paragraph at lines 57--58
-[]$[]$\T2A/cmr/m/n/10 . Ос^^?нов^^?ны^^?ми ме^^?то^^?да^^?ми
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+[]$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ны^^?ми ме^^?то^^?да^^?ми
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 82--84
 \T2A/cmr/m/n/10 ис^^?сле^^?до^^?ва^^?ния яв^^?ля^^?ют^^?ся ма^^?те^^?ма^^?ти^^?
 че^^?ское и ком^^?пью^^?тер^^?ное мо^^?де^^?ли^^?ро^^?ва^^?
  []
 
-[4.4]
-Underfull \hbox (badness 7504) in paragraph at lines 79--80
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+[5.5]
+Underfull \hbox (badness 7504) in paragraph at lines 93--94
 []\T2A/cmr/m/n/10 Принципы про^^?ек^^?ти^^?ро^^?ва^^?ния оп^^?ти^^?маль^^?ных м
 аг^^?ни^^?то^^?оп^^?ти^^?че^^?ских
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+[]$[]$ \T2A/cmr/m/n/10 по^^?лу^^?чен^^?ных ре^^?зуль^^?та^^?тов под^^?твер^^?жд
+а^^?ет^^?ся со^^?
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 98--100
+\T2A/cmr/m/n/10 гла^^?со^^?ва^^?ни^^?ем ана^^?ли^^?ти^^?че^^?ских вы^^?чис^^?ле
+^^?ний с ре^^?зуль^^?та^^?та^^?ми чис^^?лен^^?ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 100--103
 []$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ные ре^^?зуль^^?та^^?ты ра^^?бо^^?ты до^^?кла
 ^^?ды^^?ва^^?
  []
 
+[6.6]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
-Underfull \hbox (badness 2197) in paragraph at lines 86--88
-\T2A/cmr/m/n/10 лись на кон^^?фе^^?рен^^?ци^^?ях: ИТ^^?ЭФ'20, МФ^^?ТИ'20, RuPAC
-'21, Ла^^?Плаз'21,
  []
 
-\blx@maxsegment@1=\count622
-\blx@sectionciteorder@1=\count623
-Package biblatex Info: Reference section=1 on input line 173.
-Package biblatex Info: Setting label 'refsection:1' on input line 173.
 
-Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 173
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+) [7.7]
+<images/1_SC_common.png, id=155, 483.8075pt x 314.17375pt>
+File: images/1_SC_common.png Graphic file (type png)
+<use images/1_SC_common.png>
+Package pdftex.def Info: images/1_SC_common.png  used on input line 52.
+(pdftex.def)             Requested size: 159.65697pt x 103.67764pt.
+<images/1_IBS.png, id=156, 323.7696pt x 201.3924pt>
+File: images/1_IBS.png Graphic file (type png)
+<use images/1_IBS.png>
+Package pdftex.def Info: images/1_IBS.png  used on input line 55.
+(pdftex.def)             Requested size: 161.8844pt x 100.69594pt.
+ [8.8 <./images/1_SC_common.png> <./images/1_IBS.png>]
+<images/3_g_tr_BB.png, id=174, 214.401pt x 198.5016pt>
+File: images/3_g_tr_BB.png Graphic file (type png)
+<use images/3_g_tr_BB.png>
+Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 82.
+(pdftex.def)             Requested size: 160.80034pt x 148.87582pt.
+<images/3_eta_tr_BB.png, id=175, 230.7822pt x 182.6022pt>
+File: images/3_eta_tr_BB.png Graphic file (type png)
+<use images/3_eta_tr_BB.png>
+Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 85.
+(pdftex.def)             Requested size: 173.08621pt x 136.95131pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9.9]
+<images/2_twiss_3FODO_regular.png, id=181, 531.9875pt x 355.3275pt>
+File: images/2_twiss_3FODO_regular.png Graphic file (type png)
+<use images/2_twiss_3FODO_regular.png>
+Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
+08.
+(pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
+<images/2_Twiss_Superperiod.png, id=182, 531.9875pt x 355.3275pt>
+File: images/2_Twiss_Superperiod.png Graphic file (type png)
+<use images/2_Twiss_Superperiod.png>
+Package pdftex.def Info: images/2_Twiss_Superperiod.png  used on input line 111
 .
+(pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
+ [10.10 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png> <./images/2_twiss_3
+FODO_regular.png> <./images/2_Twiss_Superperiod.png>]
+<images/4_arc_B+E.png, id=195, 469.2732pt x 316.0608pt>
+File: images/4_arc_B+E.png Graphic file (type png)
+<use images/4_arc_B+E.png>
+Package pdftex.def Info: images/4_arc_B+E.png  used on input line 129.
+(pdftex.def)             Requested size: 164.24808pt x 110.62292pt.
+<images/4_arc_B+E_WF.png, id=196, 411.5375pt x 210.7875pt>
+File: images/4_arc_B+E_WF.png Graphic file (type png)
+<use images/4_arc_B+E_WF.png>
+Package pdftex.def Info: images/4_arc_B+E_WF.png  used on input line 132.
+(pdftex.def)             Requested size: 144.04028pt x 73.77672pt.
+ [11.11 <./images/4_arc_B+E.png> <./images/4_arc_B+E_WF.png>] (./common/concl.t
+ex
+Underfull \vbox (badness 5388) has occurred while \output is active []
 
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 173
-.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
-173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 17
-3.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
-73.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioregistered' not found on input line 17
-3.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
-173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
- 173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-Package biblatex Warning: Keyword 'biblioauthor' not found on input line 173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-Package biblatex Info: Reference section=0 on input line 173.
-\blx@maxsegment@2=\count624
-\blx@sectionciteorder@2=\count625
-Package biblatex Info: Reference section=2 on input line 173.
-Package biblatex Info: Setting label 'refsection:2' on input line 173.
-
-LaTeX Warning: Citation 'vakbib2' undefined on input line 173.
-
-
-LaTeX Warning: Citation 'patbib1' undefined on input line 173.
-
-
-LaTeX Warning: Citation 'progbib1' undefined on input line 173.
-
-
-LaTeX Warning: Citation 'bib1' undefined on input line 173.
-
-
-LaTeX Warning: Citation 'confbib1' undefined on input line 173.
-
-Package biblatex Info: Reference section=0 on input line 173.
-)
-Underfull \vbox (badness 1960) has occurred while \output is active []
-
- [5.5]
-<images/latex.png, id=137, 451.6875pt x 194.7275pt>
-File: images/latex.png Graphic file (type png)
-<use images/latex.png>
-Package pdftex.def Info: images/latex.png  used on input line 46.
-(pdftex.def)             Requested size: 121.95724pt x 52.57712pt.
-<images/knuth1.jpg, id=138, 157.68pt x 186.15pt>
-File: images/knuth1.jpg Graphic file (type jpg)
-<use images/knuth1.jpg>
-Package pdftex.def Info: images/knuth1.jpg  used on input line 49.
-(pdftex.def)             Requested size: 85.35826pt x 100.7723pt.
-
-
-LaTeX Warning: Citation 'vakbib1' on page 6 undefined on input line 69.
-
-
-LaTeX Warning: Citation 'vakbib2' on page 6 undefined on input line 69.
-
-[6.6 <./images/latex.png> <./images/knuth1.jpg>] (./common/concl.tex)
+ [12.12])
 pdfTeX warning (ext4): destination with the same identifier (name{publications.
 1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 ...РµС‚СЃСЏ РІ СЂР°Р·РґРµР»Рµ <<\publications
+l.161 ...µС‚СЃСЏ РІ СЂР°Р·РґРµР»Рµ <<\publications
                                                   >>\ С„Р°Р№Р»Р°
-
-LaTeX Warning: Citation 'vakbib1' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'vakbib2' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'wosbib1' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'scbib1' undefined on input line 154.
+(./synopsis.bbl
+bibitemlist
+[13.13] [14.14]
+Underfull \hbox (badness 2351) in paragraph at lines 132--139
+[]\T2A/cmr/m/n/10 Spin Co^^?her^^?ence and Be^^?ta^^?tron Chro^^?matic^^?i^^?ty
+ of Deuteron Beam in
+ []
 
 
-LaTeX Warning: Citation 'patbib1' undefined on input line 154.
+Underfull \hbox (badness 1533) in paragraph at lines 152--158
+[]\T2A/cmr/m/n/10 Transition En^^?er^^?gy Cross^^?ing of Po^^?lar^^?ized Pro^^?
+ton Beam at NICA /
+ []
 
-
-LaTeX Warning: Citation 'progbib1' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'confbib1' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'confbib2' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'bib1' undefined on input line 154.
-
-
-LaTeX Warning: Citation 'bib2' undefined on input line 154.
-
-
-LaTeX Warning: Empty bibliography on input line 154.
-
-
-Package biblatex Warning: Keyword 'biblioexternal' not found on input line 154.
-
-
-
-LaTeX Warning: Empty bibliography on input line 154.
-
-
-Package biblatex Warning: Keyword 'biblioexternal' not found on input line 154.
-
-
-
-LaTeX Warning: Empty bibliography on input line 154.
-
-) [7.7] [8.8]
+)) [15.15] [16.16]
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -2670,25 +2191,8 @@ common/fonts.tex
 common/styles.tex
 Synopsis/synstyles.tex
 Synopsis/userstyles.tex
-biblio/biblatex.tex
-csquotes.sty    2022-09-14 v5.2n context-sensitive quotations (JAW)
-csquotes.def    2022-09-14 v5.2n csquotes generic definitions (JAW)
-csquotes.cfg    
-biblatex.sty    2023/03/05 v3.19 programmable bibliographies (PK/MW)
-  logreq.sty    2010/08/04 v1.0 xml request logger
-  logreq.def    2010/08/04 v1.0 logreq spec v1.0
-  blx-dm.def    2023/03/05 v3.19 biblatex localization (PK/MW)
-biblatex-gost.dbx    2023/04/25 v1.24 biblatex-gost data model
-gost-numeric.dbx    2023/04/25 v1.24 biblatex-gost data model
-blx-compat.def    2023/03/05 v3.19 biblatex compatibility (PK/MW)
-biblatex.def    2023/03/05 v3.19 biblatex compatibility (PK/MW)
-biblatex-gost.def    2023/04/25 v1.24 biblatex-gost styles
-gost-standard.bbx    2023/04/25 v1.24 biblatex-gost styles
-gost-numeric.bbx    2023/04/25 v1.24 biblatex-gost styles
-numeric-comp.cbx    2023/03/05 v3.19 biblatex citation style (PK/MW)
-gost-numeric.cbx    2023/04/25 v1.24 biblatex-gost styles
-biblatex.cfg    
-blx-case-expl3.sty    2023/03/05 v3.19 expl3 case changing code for biblatex
+biblio/predefined.tex
+    cite.sty    2015/02/27  v 5.5
 supp-pdf.mkii
 epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
 epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
@@ -2696,10 +2200,6 @@ siunitx-abbreviations.cfg    2021-04-17 v2.8e siunitx: Abbreviated units
 translator-basic-dictionary-English.dict    
 synopsis.out
 synopsis.out
- russian.lbx    2023/03/05 v3.19 biblatex localization (PK/MW)
-russian-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
- english.lbx    2023/03/05 v3.19 biblatex localization (PK/MW)
-english-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
     umsa.fd    2013/01/14 v3.01 AMS symbols A
     umsb.fd    2013/01/14 v3.01 AMS symbols B
 Synopsis/title.tex
@@ -2715,52 +2215,57 @@ images/secretary-signature.png
 Synopsis/content.tex
 common/characteristic.tex
  t2acmtt.fd    2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-images/latex.png
-images/knuth1.jpg
+images/1_SC_common.png
+images/1_IBS.png
+images/3_g_tr_BB.png
+images/3_eta_tr_BB.png
+images/2_twiss_3FODO_regular.png
+images/2_Twiss_Superperiod.png
+images/4_arc_B+E.png
+images/4_arc_B+E_WF.png
 common/concl.tex
+synopsis.bbl
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `synopsis.out' has not changed.
-(rerunfilecheck)             Checksum: 5775165D1E4660670C4C984214BD276D;2853.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                synopsis
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'synopsis.run.xml'.
-\openout1 = `synopsis.run.xml'.
-
+(rerunfilecheck)             Checksum: 0631900636471FB2C03B0B0E0501438C;3194.
  ) 
 Here is how much of TeX's memory you used:
- 47499 strings out of 474116
- 924096 string characters out of 5743682
- 1995745 words of memory out of 5000000
- 68991 multiletter control sequences out of 15000+600000
- 574259 words of font info for 79 fonts, out of 8000000 for 9000
+ 38872 strings out of 474116
+ 747570 string characters out of 5743682
+ 1940187 words of memory out of 5000000
+ 60391 multiletter control sequences out of 15000+600000
+ 575938 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,14n,98p,1771b,3121s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/loc
-al/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/tex
-live/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
-/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2
-024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/202
-4/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2024/
-texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on synopsis.pdf (8 pages, 287171 bytes).
+ 94i,14n,98p,1894b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive
+/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/
+texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2024/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texm
+f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-di
+st/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2024/texmf-dist
+/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2024/texmf-dist/f
+onts/type1/public/cm-super/sftt1000.pfb>
+Output written on synopsis.pdf (16 pages, 694056 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 53 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 
