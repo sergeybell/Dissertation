@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex synopsis"] 1732289601.66619 "synopsis.aux" "synopsis.bbl" "synopsis" 1732289607.41283 0
+["bibtex synopsis"] 1732357138.89072 "synopsis.aux" "synopsis.bbl" "synopsis" 1732357144.41795 0
   "./BibTeX-Styles/utf8gost71u.bst" 1699124873 30568 3bfa9814b94110d5511e2e415a8bda8d ""
   "./biblio/author.bib" 1732199678.71932 18285 8e23067b62df5163290340b1eda28ca2 ""
-  "synopsis.aux" 1732289606.55573 3968 3ae7fb43863262aa8600b6db1894f254 "pdflatex"
+  "synopsis.aux" 1732357143.60316 4549 d89771ecbdecb090ea0921e42317a97a "pdflatex"
   (generated)
   "synopsis.bbl"
   "synopsis.blg"
   (rewritten before read)
-["pdflatex"] 1732289601.87446 "synopsis.tex" "synopsis.pdf" "synopsis" 1732289607.4131 0
+["pdflatex"] 1732357139.09993 "synopsis.tex" "synopsis.pdf" "synopsis" 1732357144.4182 0
   "/Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1719664578.75848 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1731575458.80807 3336 216c27338cb0f11f0d2908d69ce3de23 ""
   "/Users/Bell/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1731575464.55678 3308 eee81981029f67083258db36df06e523 ""
@@ -285,7 +285,7 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711550593.44775 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711550470 8221421 c302fd29592269dd2e036d72a2e1c174 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Synopsis/content.tex" 1732270293.84812 25749 a1bb379385e7638c45fbd51683346ba4 ""
+  "Synopsis/content.tex" 1732354434.21657 27505 59320c6a226047dc97616b1b32dd4ed3 ""
   "Synopsis/setup.tex" 1732204964.007 4737 b234d68337c04af3edcead2dfeb69231 ""
   "Synopsis/synpackages.tex" 1699124873 459 18e2e9f6e5fa833e8d9f500816838d63 ""
   "Synopsis/synstyles.tex" 1699124873 2382 e4c7aa5828253d651d94e42f02f59c75 ""
@@ -293,8 +293,8 @@
   "Synopsis/userpackages.tex" 1699124873 361 9e23f24bbab3c3b5ab6c8f853a830e6e ""
   "Synopsis/userstyles.tex" 1699124873 65 64f30dea2714c436408b14aa69c4dbfd ""
   "biblio/predefined.tex" 1699124873 3116 9854152bdac5ea434185b21c0ad03946 ""
-  "common/characteristic.tex" 1732289592.42409 34465 d8c96ae5aac4fb597178cd2cc3bcfdb2 ""
-  "common/concl.tex" 1732119318.26173 3261 402654267307b8f00fb531b9071d36af ""
+  "common/characteristic.tex" 1732355909.33953 36402 914b45fdae6f6cc149a4f3c9f6e028ad ""
+  "common/concl.tex" 1732357130.43764 4671 38da157fe45a697f30934f4760551bc9 ""
   "common/data.tex" 1707734296.86913 10021 ed1508e5daa9455b4a643c77b062d52f ""
   "common/fonts.tex" 1699124873 4596 d6a9fb3d5326141999f057f582bdc0bf ""
   "common/newnames.tex" 1699124873 3225 e3a6b727ce1480b7e745c8a332cfc533 ""
@@ -313,9 +313,9 @@
   "images/personal-signature.png" 1699124873 1723 dc98ed4fb039cfe5011500bbac78bea7 ""
   "images/secretary-signature.png" 1699124873 1891 7d64efed6b6aacea37df318ce32efcd3 ""
   "siunitx.cfg" 1699124873 18459 53a6e5c345550251030966f9a09f058c ""
-  "synopsis.aux" 1732289606.55573 3968 3ae7fb43863262aa8600b6db1894f254 "pdflatex"
-  "synopsis.bbl" 1732289601.86177 6954 3ace8ad2d2f31bc16111b46ea250dde9 "bibtex synopsis"
-  "synopsis.out" 1732289606.59022 3051 fb1872fb025e030fd35c1b865f99ca1e "pdflatex"
+  "synopsis.aux" 1732357143.60316 4549 d89771ecbdecb090ea0921e42317a97a "pdflatex"
+  "synopsis.bbl" 1732357139.08863 6954 99760b98b9a2f5c8cd0874955a2b7727 "bibtex synopsis"
+  "synopsis.out" 1732357143.63088 3051 fb1872fb025e030fd35c1b865f99ca1e "pdflatex"
   "synopsis.tex" 1699124873 3898 c8a7ca330814508a213794a1240415d4 ""
   (generated)
   "synopsis.aux"
