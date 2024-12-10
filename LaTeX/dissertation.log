@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  22 NOV 2024 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  10 DEC 2024 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1954,62 +1954,150 @@ No file dissertation.toc.
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
-
- []
-
 [4.4]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
+Underfull \hbox (badness 3930) in paragraph at lines 21--22
+\T2A/cmr/m/n/14.4 плек^^?се NICA-^^?Nuclotron. По^^?стро^^?ен^^?ный уско^^?ри^^
+?тель^^?ный ком^^?плекс яв^^?ля^^?ет^^?ся
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 46--47
-[]\T2A/cmr/m/n/14.4 Применен ме^^?тод про^^?ек^^?ти^^?ро^^?ва^^?ния "ре^^?зо^^?
-нанс^^?ной"магнитооптической
+Underfull \hbox (badness 3138) in paragraph at lines 23--24
+[]\T2A/cmr/m/n/14.4 В кол^^?лай^^?де^^?ре NICA для ре^^?а^^?ли^^?за^^?ции кон^^
+?цеп^^?ции "квази-^^?замо^^?ро^^?жен^^?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
+Underfull \hbox (badness 5260) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 но^^?го"спина необ^^?хо^^?ди^^?ма уста^^?нов^^?ка со^^?от^^?в
+ет^^?ству^^?ю^^?ще^^?го обо^^?ру^^?до^^?ва^^?ния. Для
  []
 
 [5.5]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
  []
 
 [6.6]
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 2644) in paragraph at lines 56--57
+[]\T2A/cmr/m/n/14.4 Применен ме^^?тод про^^?ек^^?ти^^?ро^^?ва^^?ния "ре^^?зо^^?
+нанс^^?ной"магнитооптической
+ []
+
+[7.7]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
-[7.7])
+[8.8]
+
+LaTeX Warning: Citation `Kolokolchikov:2025_dual' on page 9 undefined on input 
+line 82.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2021trans' on page 9 undefined on input 
+line 85.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_pecular' on page 9 undefined on inp
+ut line 86.
+
+
+LaTeX Warning: Citation `Syresin:2021_polar' on page 9 undefined on input line 
+86.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2025_U70' on page 9 undefined on input l
+ine 87.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2025_jump' on page 9 undefined on input 
+line 87.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2024_bb_rupac' on page 9 undefined on in
+put line 87.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_bb_IPAC' on page 9 undefined on inp
+ut line 87.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2024_bb_dspin' on page 9 undefined on in
+put line 87.
+
+
+LaTeX Warning: Citation `Senichev:2023_QFS' on page 9 undefined on input line 8
+9.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_bypass' on page 9 undefined on inpu
+t line 90.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_bypass_IPAC' on page 9 undefined on
+ input line 90.
+
+
+LaTeX Warning: Citation `Senichev:2024_nica_edm' on page 9 undefined on input l
+ine 90.
+
+
+LaTeX Warning: Citation `Senichev:2023_nuclotron' on page 9 undefined on input 
+line 91.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2025_nuclotron' on page 9 undefined on i
+nput line 91.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_sc' on page 9 undefined on input li
+ne 92.
+
+
+LaTeX Warning: Citation `Kolokolchikov:2023_sc_IPAC' on page 9 undefined on inp
+ut line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+[9.9]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+ []
+
+)
 
 Package totcount Warning: Rerun to get correct total counts on input line 20.
 
@@ -2046,25 +2134,26 @@ Package totcount Warning: Rerun to get correct total counts on input line 33.
 \@c=\count483
 \@last=\count484
 \@pnul=\count485
-) [8.8]
+[10.10]) [11.11]
 \openout2 = `Dissertation/part1.aux'.
 
- (./Dissertation/part1.tex [9.9
+ (./Dissertation/part1.tex [12.12
 
 
 
 
-] [10.10]
+] [13.13]
 LaTeX Font Info:    Calculating math sizes for size <10.07999> on input line 72
 .
- [11.11] [12.12]
-<images/1_regular.png, id=127, 469.2732pt x 237.5274pt>
+ [14.14] [15.15]
+<images/1_regular.png, id=141, 469.2732pt x 237.5274pt>
 File: images/1_regular.png Graphic file (type png)
 <use images/1_regular.png>
 Package pdftex.def Info: images/1_regular.png  used on input line 133.
 (pdftex.def)             Requested size: 497.92325pt x 252.03879pt.
- [13.13]
-<images/1_resonant.png, id=139, 469.2732pt x 237.5274pt>
+
+[16.16]
+<images/1_resonant.png, id=153, 469.2732pt x 237.5274pt>
 File: images/1_resonant.png Graphic file (type png)
 <use images/1_resonant.png>
 Package pdftex.def Info: images/1_resonant.png  used on input line 142.
@@ -2073,7 +2162,7 @@ Package pdftex.def Info: images/1_resonant.png  used on input line 142.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/1_combined.png, id=141, 469.2732pt x 237.5274pt>
+<images/1_combined.png, id=155, 469.2732pt x 237.5274pt>
 File: images/1_combined.png Graphic file (type png)
 <use images/1_combined.png>
 Package pdftex.def Info: images/1_combined.png  used on input line 151.
@@ -2081,22 +2170,22 @@ Package pdftex.def Info: images/1_combined.png  used on input line 151.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/1_SC.png, id=143, 236.5638pt x 199.4652pt>
+<images/1_SC.png, id=157, 236.5638pt x 199.4652pt>
 File: images/1_SC.png Graphic file (type png)
 <use images/1_SC.png>
 Package pdftex.def Info: images/1_SC.png  used on input line 160.
 (pdftex.def)             Requested size: 246.46957pt x 207.81631pt.
-<images/1_SC_wide.png, id=145, 236.5638pt x 200.4288pt>
+<images/1_SC_wide.png, id=159, 236.5638pt x 200.4288pt>
 File: images/1_SC_wide.png Graphic file (type png)
 <use images/1_SC_wide.png>
 Package pdftex.def Info: images/1_SC_wide.png  used on input line 161.
 (pdftex.def)             Requested size: 246.46957pt x 208.82025pt.
-[14.14 <./images/1_regular.png>]
+[17.17 <./images/1_regular.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15.15 <./images/1_resonant.png> <./images/1_combined.png>]
-<images/1_IBS.png, id=165, 323.7696pt x 201.3924pt>
+[18.18 <./images/1_resonant.png> <./images/1_combined.png>]
+<images/1_IBS.png, id=178, 323.7696pt x 201.3924pt>
 File: images/1_IBS.png Graphic file (type png)
 <use images/1_IBS.png>
 Package pdftex.def Info: images/1_IBS.png  used on input line 178.
@@ -2110,754 +2199,848 @@ Underfull \hbox (badness 1960) in paragraph at lines 179--179
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16.16 <./images/1_SC.png> <./images/1_SC_wide.png>] [17.17 <./images/1_IBS.png
+[19.19 <./images/1_SC.png> <./images/1_SC_wide.png>] [20.20 <./images/1_IBS.png
 >]
 
-LaTeX Warning: Citation `lee' on page 18 undefined on input line 204.
+LaTeX Warning: Citation `lee' on page 21 undefined on input line 216.
+
+[21.21]
+
+LaTeX Warning: Reference `eq:slip-factor_0' on page 22 undefined on input line 
+237.
 
 
-LaTeX Warning: Reference `eq:long_motion_eq' on page 18 undefined on input line
- 220.
+LaTeX Warning: Reference `eq:long_motion_eq' on page 22 undefined on input line
+ 237.
 
-[18.18]) [19.19]
+
+LaTeX Warning: Reference `eq:slip-factor_0' on page 22 undefined on input line 
+237.
+
+
+LaTeX Warning: Citation `ng' on page 22 undefined on input line 237.
+
+[22.22]) [23.23]
 \openout2 = `Dissertation/part2.aux'.
 
- (./Dissertation/part2.tex [20.20
+ (./Dissertation/part2.tex [24.24
 
 
 
 
-] [21.21] [22.22]
+]
+<images/2_twiss_fodo_cell.pdf, id=228, 794.97pt x 614.295pt>
+File: images/2_twiss_fodo_cell.pdf Graphic file (type pdf)
+<use images/2_twiss_fodo_cell.pdf>
+Package pdftex.def Info: images/2_twiss_fodo_cell.pdf  used on input line 23.
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+<images/2_twiss_fdo_cell.pdf, id=230, 794.97pt x 614.295pt>
+File: images/2_twiss_fdo_cell.pdf Graphic file (type pdf)
+<use images/2_twiss_fdo_cell.pdf>
+Package pdftex.def Info: images/2_twiss_fdo_cell.pdf  used on input line 24.
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+<images/2_twiss_odfdo_cell.pdf, id=232, 794.97pt x 614.295pt>
+File: images/2_twiss_odfdo_cell.pdf Graphic file (type pdf)
+<use images/2_twiss_odfdo_cell.pdf>
+Package pdftex.def Info: images/2_twiss_odfdo_cell.pdf  used on input line 25.
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+<images/2_twiss_fodo_regular.pdf, id=234, 794.97pt x 614.295pt>
+File: images/2_twiss_fodo_regular.pdf Graphic file (type pdf)
+<use images/2_twiss_fodo_regular.pdf>
+Package pdftex.def Info: images/2_twiss_fodo_regular.pdf  used on input line 27
+.
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+<images/2_twiss_fdo_regular.pdf, id=236, 794.97pt x 614.295pt>
+File: images/2_twiss_fdo_regular.pdf Graphic file (type pdf)
+<use images/2_twiss_fdo_regular.pdf>
+Package pdftex.def Info: images/2_twiss_fdo_regular.pdf  used on input line 28.
 
-LaTeX Warning: Reference `eq:alpha_general' on page 23 undefined on input line 
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+<images/2_twiss_odfdo_regular.pdf, id=238, 794.97pt x 614.295pt>
+File: images/2_twiss_odfdo_regular.pdf Graphic file (type pdf)
+<use images/2_twiss_odfdo_regular.pdf>
+Package pdftex.def Info: images/2_twiss_odfdo_regular.pdf  used on input line 2
+9.
+(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
+ [25.25 <./images/2_twiss_fodo_cell.pdf, page is rotated 90 degrees> <./images/
+2_twiss_fdo_cell.pdf, page is rotated 90 degrees> <./images/2_twiss_odfdo_cell.
+pdf, page is rotated 90 degrees> <./images/2_twiss_fodo_regular.pdf, page is ro
+tated 90 degrees> <./images/2_twiss_fdo_regular.pdf, page is rotated 90 degrees
+> <./images/2_twiss_odfdo_regular.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\T2A/cmr/m/n/14.4 Для кол^^?лай^^?дер^^?ных экс^^?пе^^?ри^^?мен^^?тов, необ^^
+?хо^^?ди^^?мо в точ^^?ке встре^^?чи
+ []
+
+
+LaTeX Warning: Reference `eq:long_motion_eq' on page 26 undefined on input line
+ 54.
+
+[26.26]
+Overfull \hbox (35.42273pt too wide) detected at line 76
+[][][]\OT1/cmr/m/n/14.4 ^^A\OML/cmm/m/it/14.4 t[] \OT1/cmr/m/n/14.4 = ^^A\OML/c
+mm/m/it/14.4 t[] \OT1/cmr/m/n/14.4 + \OML/cmm/m/it/14.4 T[] []
+ []
+
+
+LaTeX Warning: Reference `eq:de_blond' on page 27 undefined on input line 85.
+
+[27.27]
+<images/3_adiabatic_time.png, id=325, 231.7458pt x 142.131pt>
+File: images/3_adiabatic_time.png Graphic file (type png)
+<use images/3_adiabatic_time.png>
+Package pdftex.def Info: images/3_adiabatic_time.png  used on input line 106.
+(pdftex.def)             Requested size: 243.98512pt x 149.64314pt.
+<images/3_nonlin_time.png, id=327, 231.7458pt x 142.131pt>
+File: images/3_nonlin_time.png Graphic file (type png)
+<use images/3_nonlin_time.png>
+Package pdftex.def Info: images/3_nonlin_time.png  used on input line 107.
+(pdftex.def)             Requested size: 243.98512pt x 149.64314pt.
+<images/3_eta_beam_lenght.png, id=329, 578.16pt x 433.62pt>
+File: images/3_eta_beam_lenght.png Graphic file (type png)
+<use images/3_eta_beam_lenght.png>
+Package pdftex.def Info: images/3_eta_beam_lenght.png  used on input line 122.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_eta_energy_spread.png, id=331, 578.16pt x 433.62pt>
+File: images/3_eta_energy_spread.png Graphic file (type png)
+<use images/3_eta_energy_spread.png>
+Package pdftex.def Info: images/3_eta_energy_spread.png  used on input line 123
+.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_eta_emit.png, id=333, 578.16pt x 433.62pt>
+File: images/3_eta_emit.png Graphic file (type png)
+<use images/3_eta_emit.png>
+Package pdftex.def Info: images/3_eta_emit.png  used on input line 124.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+ [28.28 <./images/3_adiabatic_time.png> <./images/3_nonlin_time.png>]
+[29.29 <./images/3_eta_beam_lenght.png> <./images/3_eta_energy_spread.png> <./i
+mages/3_eta_emit.png>]
+<images/3_wo_jump_beam_lenght.png, id=359, 578.16pt x 433.62pt>
+File: images/3_wo_jump_beam_lenght.png Graphic file (type png)
+<use images/3_wo_jump_beam_lenght.png>
+Package pdftex.def Info: images/3_wo_jump_beam_lenght.png  used on input line 1
+40.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_wo_jump_energy_spread.png, id=361, 578.16pt x 433.62pt>
+File: images/3_wo_jump_energy_spread.png Graphic file (type png)
+<use images/3_wo_jump_energy_spread.png>
+Package pdftex.def Info: images/3_wo_jump_energy_spread.png  used on input line
+ 141.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_wo_jump_emit.png, id=363, 578.16pt x 433.62pt>
+File: images/3_wo_jump_emit.png Graphic file (type png)
+<use images/3_wo_jump_emit.png>
+Package pdftex.def Info: images/3_wo_jump_emit.png  used on input line 142.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+
+Underfull \hbox (badness 1852) in paragraph at lines 151--151
+[]|\T2A/cmr/m/n/14.4 Параметры мо^^?де^^?
+ []
+
+
+Overfull \hbox (1.97684pt too wide) in paragraph at lines 151--151
+ []|\T2A/cmr/m/n/14.4 Сохранение 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 155--155
+[]|$\U/eur/m/n/14.4 [] \OT1/cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 ; []$
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 163--164
+[]|\T2A/cmr/m/n/14.4 Уменьшение дли^^?ны сгуст^^?ка
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 169--170
+[]|\T2A/cmr/m/n/14.4 Уменьшение дли^^?ны сгуст^^?ка
+ []
+
+
+Package nag Warning: `center' environment in table.
+(nag)                Maybe you want \centering instead on input line 184.
+
+[30.30 <./images/3_wo_jump_beam_lenght.png> <./images/3_wo_jump_energy_spread.p
+ng> <./images/3_wo_jump_emit.png>] [31.31]
+<images/3_twiss_U70_regular.png, id=384, 231.7458pt x 118.041pt>
+File: images/3_twiss_U70_regular.png Graphic file (type png)
+<use images/3_twiss_U70_regular.png>
+Package pdftex.def Info: images/3_twiss_U70_regular.png  used on input line 206
+.
+(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
+<images/3_twiss_U70_modulated.png, id=386, 231.7458pt x 118.041pt>
+File: images/3_twiss_U70_modulated.png Graphic file (type png)
+<use images/3_twiss_U70_modulated.png>
+Package pdftex.def Info: images/3_twiss_U70_modulated.png  used on input line 2
+07.
+(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
+ [32.32 <./images/3_twiss_U70_regular.png> <./images/3_twiss_U70_modulated.png>
+]
+
+Package nag Warning: `center' environment in table.
+(nag)                Maybe you want \centering instead on input line 232.
+
+<images/3_gamma_transition_jump_U70.png, id=398, 331.9602pt x 250.536pt>
+File: images/3_gamma_transition_jump_U70.png Graphic file (type png)
+<use images/3_gamma_transition_jump_U70.png>
+Package pdftex.def Info: images/3_gamma_transition_jump_U70.png  used on input 
+line 237.
+(pdftex.def)             Requested size: 243.98512pt x 184.13982pt.
+<images/3_eta0_jump_U70.png, id=400, 330.033pt x 250.536pt>
+File: images/3_eta0_jump_U70.png Graphic file (type png)
+<use images/3_eta0_jump_U70.png>
+Package pdftex.def Info: images/3_eta0_jump_U70.png  used on input line 238.
+(pdftex.def)             Requested size: 243.98512pt x 185.21405pt.
+<images/3_jump_U70_oscilogram.png, id=402, 421.0932pt x 316.0608pt>
+File: images/3_jump_U70_oscilogram.png Graphic file (type png)
+<use images/3_jump_U70_oscilogram.png>
+Package pdftex.def Info: images/3_jump_U70_oscilogram.png  used on input line 2
+46.
+(pdftex.def)             Requested size: 243.98512pt x 183.13213pt.
+<images/3_jump_U70_beam_profile.png, id=404, 240.4182pt x 169.5936pt>
+File: images/3_jump_U70_beam_profile.png Graphic file (type png)
+<use images/3_jump_U70_beam_profile.png>
+Package pdftex.def Info: images/3_jump_U70_beam_profile.png  used on input line
+ 247.
+(pdftex.def)             Requested size: 243.98512pt x 172.11626pt.
+<images/3_jump_U70_beam_lenght.png, id=406, 345.9324pt x 265.9536pt>
+File: images/3_jump_U70_beam_lenght.png Graphic file (type png)
+<use images/3_jump_U70_beam_lenght.png>
+Package pdftex.def Info: images/3_jump_U70_beam_lenght.png  used on input line 
+253.
+(pdftex.def)             Requested size: 243.98512pt x 187.57846pt.
+<images/3_jump_beam_lenght.png, id=408, 578.16pt x 433.62pt>
+File: images/3_jump_beam_lenght.png Graphic file (type png)
+<use images/3_jump_beam_lenght.png>
+Package pdftex.def Info: images/3_jump_beam_lenght.png  used on input line 259.
+
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_jump_energy_spread.png, id=410, 578.16pt x 433.62pt>
+File: images/3_jump_energy_spread.png Graphic file (type png)
+<use images/3_jump_energy_spread.png>
+Package pdftex.def Info: images/3_jump_energy_spread.png  used on input line 26
+0.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_jump_emit.png, id=412, 578.16pt x 433.62pt>
+File: images/3_jump_emit.png Graphic file (type png)
+<use images/3_jump_emit.png>
+Package pdftex.def Info: images/3_jump_emit.png  used on input line 261.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_jump_imp_beam_lenght.png, id=414, 578.16pt x 433.62pt>
+File: images/3_jump_imp_beam_lenght.png Graphic file (type png)
+<use images/3_jump_imp_beam_lenght.png>
+Package pdftex.def Info: images/3_jump_imp_beam_lenght.png  used on input line 
+267.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_jump_imp_energy_spread.png, id=416, 578.16pt x 433.62pt>
+File: images/3_jump_imp_energy_spread.png Graphic file (type png)
+<use images/3_jump_imp_energy_spread.png>
+Package pdftex.def Info: images/3_jump_imp_energy_spread.png  used on input lin
+e 268.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+<images/3_jump_imp_emit.png, id=418, 578.16pt x 433.62pt>
+File: images/3_jump_imp_emit.png Graphic file (type png)
+<use images/3_jump_imp_emit.png>
+Package pdftex.def Info: images/3_jump_imp_emit.png  used on input line 269.
+(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
+
+Underfull \hbox (badness 1852) in paragraph at lines 280--280
+[]|\T2A/cmr/m/n/14.4 Параметры мо^^?де^^?
+ []
+
+
+Overfull \hbox (1.97684pt too wide) in paragraph at lines 280--280
+ []|\T2A/cmr/m/n/14.4 Сохранение 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 286--287
+[]|$\U/eur/m/n/14.4 [] \OT1/cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 ; []$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+[]|\T2A/cmr/m/n/14.4 Нелинейность от^^?сут^^?ству^^?ет,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+[]|\T2A/cmr/m/n/14.4 Уменьшение дли^^?ны по^^?сле
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 306--307
+[]|\T2A/cmr/m/n/14.4 Длина сгуст^^?ка су^^?ще^^?ствен^^?но
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 311--312
+\T2A/cmr/m/n/14.4 поль^^?ных ко^^?ле^^?ба^^?ний, неболь^^?
+ []
+
+
+Package nag Warning: `center' environment in table.
+(nag)                Maybe you want \centering instead on input line 314.
+
+[33.33] [34.34 <./images/3_gamma_transition_jump_U70.png> <./images/3_eta0_jump
+_U70.png> <./images/3_jump_U70_oscilogram.png> <./images/3_jump_U70_beam_profil
+e.png>] [35.35 <./images/3_jump_U70_beam_lenght.png> <./images/3_jump_beam_leng
+ht.png> <./images/3_jump_energy_spread.png> <./images/3_jump_emit.png> <./image
+s/3_jump_imp_beam_lenght.png> <./images/3_jump_imp_energy_spread.png> <./images
+/3_jump_imp_emit.png>] [36.36] [37.37]
+<images/3_gamma_tr_vs_dQF.png, id=471, 243.7908pt x 127.1952pt>
+File: images/3_gamma_tr_vs_dQF.png Graphic file (type png)
+<use images/3_gamma_tr_vs_dQF.png>
+Package pdftex.def Info: images/3_gamma_tr_vs_dQF.png  used on input line 328.
+(pdftex.def)             Requested size: 243.98512pt x 127.29968pt.
+<images/3_tunes_vs_dQF.png, id=473, 219.7008pt x 127.1952pt>
+File: images/3_tunes_vs_dQF.png Graphic file (type png)
+<use images/3_tunes_vs_dQF.png>
+Package pdftex.def Info: images/3_tunes_vs_dQF.png  used on input line 329.
+(pdftex.def)             Requested size: 243.98512pt x 141.26208pt.
+<images/3_2nd_MCF_vs_g_tr.png, id=475, 239.4546pt x 107.9232pt>
+File: images/3_2nd_MCF_vs_g_tr.png Graphic file (type png)
+<use images/3_2nd_MCF_vs_g_tr.png>
+Package pdftex.def Info: images/3_2nd_MCF_vs_g_tr.png  used on input line 335.
+(pdftex.def)             Requested size: 243.98512pt x 109.96492pt.
+<images/3_3nd_MCF_vs_g_tr.png, id=477, 228.3732pt x 107.9232pt>
+File: images/3_3nd_MCF_vs_g_tr.png Graphic file (type png)
+<use images/3_3nd_MCF_vs_g_tr.png>
+Package pdftex.def Info: images/3_3nd_MCF_vs_g_tr.png  used on input line 336.
+(pdftex.def)             Requested size: 243.98512pt x 115.30705pt.
+ [38.38 <./images/3_gamma_tr_vs_dQF.png> <./images/3_tunes_vs_dQF.png> <./image
+s/3_2nd_MCF_vs_g_tr.png> <./images/3_3nd_MCF_vs_g_tr.png>]
+<images/3_g_tr_harmonic.png, id=493, 233.673pt x 181.6386pt>
+File: images/3_g_tr_harmonic.png Graphic file (type png)
+<use images/3_g_tr_harmonic.png>
+Package pdftex.def Info: images/3_g_tr_harmonic.png  used on input line 348.
+(pdftex.def)             Requested size: 243.98512pt x 189.65353pt.
+<images/3_eta_tr_harmonic.png, id=495, 233.673pt x 183.5658pt>
+File: images/3_eta_tr_harmonic.png Graphic file (type png)
+<use images/3_eta_tr_harmonic.png>
+Package pdftex.def Info: images/3_eta_tr_harmonic.png  used on input line 349.
+(pdftex.def)             Requested size: 243.98512pt x 191.66577pt.
+ [39.39 <./images/3_g_tr_harmonic.png> <./images/3_eta_tr_harmonic.png>]
+
+LaTeX Warning: Reference `long' on page 40 undefined on input line 361.
+
+[40.40]
+
+LaTeX Warning: Citation `syresin' on page 41 undefined on input line 363.
+
+
+LaTeX Warning: Reference `fig:jump_NICA' on page 41 undefined on input line 366
+.
+
+<images/3_Jump_NICA.png, id=513, 229.8186pt x 213.4374pt>
+File: images/3_Jump_NICA.png Graphic file (type png)
+<use images/3_Jump_NICA.png>
+Package pdftex.def Info: images/3_Jump_NICA.png  used on input line 370.
+(pdftex.def)             Requested size: 219.58511pt x 203.9368pt.
+<images/3_Jump_NICA_2.png, id=514, 237.5274pt x 213.4374pt>
+File: images/3_Jump_NICA_2.png Graphic file (type png)
+<use images/3_Jump_NICA_2.png>
+Package pdftex.def Info: images/3_Jump_NICA_2.png  used on input line 374.
+(pdftex.def)             Requested size: 219.58511pt x 197.32227pt.
+[41.41 <./images/3_Jump_NICA.png> <./images/3_Jump_NICA_2.png>]
+
+LaTeX Warning: Reference `fig:tr' on page 42 undefined on input line 388.
+
+
+LaTeX Warning: Reference `fig:alpha' on page 42 undefined on input line 388.
+
+<images/3_g_tr_BB.png, id=524, 214.401pt x 198.5016pt>
+File: images/3_g_tr_BB.png Graphic file (type png)
+<use images/3_g_tr_BB.png>
+Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 391.
+(pdftex.def)             Requested size: 243.98512pt x 225.90042pt.
+<images/3_eta_tr_BB.png, id=526, 230.7822pt x 182.6022pt>
+File: images/3_eta_tr_BB.png Graphic file (type png)
+<use images/3_eta_tr_BB.png>
+Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 392.
+(pdftex.def)             Requested size: 243.98512pt x 193.0475pt.
+
+LaTeX Warning: Citation `bb' on page 42 undefined on input line 397.
+
+
+LaTeX Warning: Citation `malyshev' on page 42 undefined on input line 397.
+
+
+LaTeX Warning: Reference `fig:rf' on page 42 undefined on input line 397.
+
+<images/3_BB.png, id=528, 217.7736pt x 176.3388pt>
+File: images/3_BB.png Graphic file (type png)
+<use images/3_BB.png>
+Package pdftex.def Info: images/3_BB.png  used on input line 401.
+(pdftex.def)             Requested size: 373.44243pt x 302.41965pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `sign' on page 42 undefined on input line 415.
+
+[42.42 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
+
+LaTeX Warning: Citation `bbcern' on page 43 undefined on input line 417.
+
+
+LaTeX Warning: Reference `fig:wave' on page 43 undefined on input line 438.
+
+[43.43 <./images/3_BB.png>]
+<images/3_BB_V.png, id=554, 231.7458pt x 180.675pt>
+File: images/3_BB_V.png Graphic file (type png)
+<use images/3_BB_V.png>
+Package pdftex.def Info: images/3_BB_V.png  used on input line 448.
+(pdftex.def)             Requested size: 243.98512pt x 190.22435pt.
+<images/3_BB_fourier_coef.png, id=556, 237.5274pt x 180.675pt>
+File: images/3_BB_fourier_coef.png Graphic file (type png)
+<use images/3_BB_fourier_coef.png>
+Package pdftex.def Info: images/3_BB_fourier_coef.png  used on input line 449.
+(pdftex.def)             Requested size: 243.98512pt x 185.59557pt.
+
+
+LaTeX Warning: Citation `laclare' on page 44 undefined on input line 457.
+
+
+LaTeX Warning: Reference `fig:signal' on page 44 undefined on input line 457.
+
+<images/3_Imp_vs_freq.png, id=558, 239.4546pt x 164.2938pt>
+File: images/3_Imp_vs_freq.png Graphic file (type png)
+<use images/3_Imp_vs_freq.png>
+Package pdftex.def Info: images/3_Imp_vs_freq.png  used on input line 465.
+(pdftex.def)             Requested size: 253.93811pt x 174.23079pt.
+<images/3_induced_voltage.png, id=560, 219.7008pt x 164.2938pt>
+File: images/3_induced_voltage.png Graphic file (type png)
+<use images/3_induced_voltage.png>
+Package pdftex.def Info: images/3_induced_voltage.png  used on input line 466.
+(pdftex.def)             Requested size: 239.00102pt x 178.73573pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `sc' on page 44 undefined on input line 472.
+
+
+LaTeX Warning: Reference `fig:2' on page 44 undefined on input line 481.
+
+
+LaTeX Warning: Reference `fig:3' on page 44 undefined on input line 481.
+
+[44.44 <./images/3_BB_V.png> <./images/3_BB_fourier_coef.png>]
+
+LaTeX Warning: Reference `eta' on page 45 undefined on input line 484.
+
+<images/3_BB_PS_near_tr.png, id=575, 233.673pt x 226.446pt>
+File: images/3_BB_PS_near_tr.png Graphic file (type png)
+<use images/3_BB_PS_near_tr.png>
+Package pdftex.def Info: images/3_BB_PS_near_tr.png  used on input line 487.
+(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
+<images/3_BB_PS_near_tr_2.png, id=577, 233.673pt x 226.446pt>
+File: images/3_BB_PS_near_tr_2.png Graphic file (type png)
+<use images/3_BB_PS_near_tr_2.png>
+Package pdftex.def Info: images/3_BB_PS_near_tr_2.png  used on input line 488.
+(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 489.
+
+Missing character: There is no о in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 489.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 489.
+
+Missing character: There is no о in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+[45.45 <./images/3_Imp_vs_freq.png> <./images/3_induced_voltage.png>]
+<images/3_BB_PS_jump.png, id=589, 233.673pt x 226.446pt>
+File: images/3_BB_PS_jump.png Graphic file (type png)
+<use images/3_BB_PS_jump.png>
+Package pdftex.def Info: images/3_BB_PS_jump.png  used on input line 496.
+(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
+<images/3_BB_PS_jump_2.png, id=591, 233.673pt x 226.446pt>
+File: images/3_BB_PS_jump_2.png Graphic file (type png)
+<use images/3_BB_PS_jump_2.png>
+Package pdftex.def Info: images/3_BB_PS_jump_2.png  used on input line 497.
+(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
+
+
+LaTeX Warning: Citation `blond1' on page 46 undefined on input line 502.
+
+
+LaTeX Warning: Citation `blond' on page 46 undefined on input line 502.
+
+[46.46 <./images/3_BB_PS_near_tr.png> <./images/3_BB_PS_near_tr_2.png> <./image
+s/3_BB_PS_jump.png> <./images/3_BB_PS_jump_2.png>]
+<images/3_tunes_vs_g_tr.png, id=607, 193.6836pt x 168.63pt>
+File: images/3_tunes_vs_g_tr.png Graphic file (type png)
+<use images/3_tunes_vs_g_tr.png>
+Package pdftex.def Info: images/3_tunes_vs_g_tr.png  used on input line 521.
+(pdftex.def)             Requested size: 243.98512pt x 212.43631pt.
+ [47.47 <./images/3_tunes_vs_g_tr.png>] [48.48]
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 566.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 566.
+
+Missing character: There is no Ц in font cmr12!
+<images/3_microwave_inst_vs_lenght.png, id=623, 355.0866pt x 183.5658pt>
+File: images/3_microwave_inst_vs_lenght.png Graphic file (type png)
+<use images/3_microwave_inst_vs_lenght.png>
+Package pdftex.def Info: images/3_microwave_inst_vs_lenght.png  used on input l
+ine 573.
+(pdftex.def)             Requested size: 383.40302pt x 198.21448pt.
+[49.49]) [50.50 <./images/3_microwave_inst_vs_lenght.png>]
+\openout2 = `Dissertation/part3.aux'.
+
+
+(./Dissertation/part3.tex [51.51
+
+
+
+
+] [52.52] [53.53]
+
+LaTeX Warning: Reference `eq:alpha_general' on page 54 undefined on input line 
 81.
 
 
-LaTeX Warning: Reference `eq:alpha_general' on page 23 undefined on input line 
+LaTeX Warning: Reference `eq:alpha_general' on page 54 undefined on input line 
 83.
 
 
-LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 23 undefined on input lin
+LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 54 undefined on input lin
 e 97.
 
 
-LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 23 undefined on input lin
+LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 54 undefined on input lin
 e 97.
 
 
-LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 23 undefined on input lin
+LaTeX Warning: Reference `fig:fodo_fdo_odfdo' on page 54 undefined on input lin
 e 97.
 
-[23.23]
-<images/2_twiss_fodo_cell.pdf, id=229, 794.97pt x 614.295pt>
+[54.54]
 File: images/2_twiss_fodo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_cell.pdf>
 Package pdftex.def Info: images/2_twiss_fodo_cell.pdf  used on input line 101.
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_cell.pdf, id=231, 794.97pt x 614.295pt>
 File: images/2_twiss_fdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_cell.pdf>
 Package pdftex.def Info: images/2_twiss_fdo_cell.pdf  used on input line 102.
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_cell.pdf, id=233, 794.97pt x 614.295pt>
 File: images/2_twiss_odfdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_cell.pdf>
 Package pdftex.def Info: images/2_twiss_odfdo_cell.pdf  used on input line 103.
 
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fodo_regular.pdf, id=235, 794.97pt x 614.295pt>
-File: images/2_twiss_fodo_regular.pdf Graphic file (type pdf)
-<use images/2_twiss_fodo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_fodo_regular.pdf  used on input line 10
-5.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_regular.pdf, id=237, 794.97pt x 614.295pt>
-File: images/2_twiss_fdo_regular.pdf Graphic file (type pdf)
-<use images/2_twiss_fdo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_regular.pdf  used on input line 106
-.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_regular.pdf, id=239, 794.97pt x 614.295pt>
-File: images/2_twiss_odfdo_regular.pdf Graphic file (type pdf)
-<use images/2_twiss_odfdo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_odfdo_regular.pdf  used on input line 1
-07.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fodo_resonant.pdf, id=241, 794.97pt x 614.295pt>
+<images/2_twiss_fodo_resonant.pdf, id=674, 794.97pt x 614.295pt>
 File: images/2_twiss_fodo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_resonant.pdf>
 Package pdftex.def Info: images/2_twiss_fodo_resonant.pdf  used on input line 1
-09.
+05.
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_resonant.pdf, id=243, 794.97pt x 614.295pt>
+<images/2_twiss_fdo_resonant.pdf, id=676, 794.97pt x 614.295pt>
 File: images/2_twiss_fdo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_resonant.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_resonant.pdf  used on input line 11
-0.
+Package pdftex.def Info: images/2_twiss_fdo_resonant.pdf  used on input line 10
+6.
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_resonant.pdf, id=245, 794.97pt x 614.295pt>
+<images/2_twiss_odfdo_resonant.pdf, id=678, 794.97pt x 614.295pt>
 File: images/2_twiss_odfdo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_resonant.pdf>
 Package pdftex.def Info: images/2_twiss_odfdo_resonant.pdf  used on input line 
-111.
+107.
 (pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
- [24.24 <./images/2_twiss_fodo_cell.pdf, page is rotated 90 degrees> <./images/
-2_twiss_fdo_cell.pdf, page is rotated 90 degrees> <./images/2_twiss_odfdo_cell.
-pdf, page is rotated 90 degrees> <./images/2_twiss_fodo_regular.pdf, page is ro
-tated 90 degrees> <./images/2_twiss_fdo_regular.pdf, page is rotated 90 degrees
-> <./images/2_twiss_odfdo_regular.pdf, page is rotated 90 degrees> <./images/2_
-twiss_fodo_resonant.pdf, page is rotated 90 degrees> <./images/2_twiss_fdo_reso
-nant.pdf, page is rotated 90 degrees> <./images/2_twiss_odfdo_resonant.pdf, pag
-e is rotated 90 degrees>]
+ [55.55 <./images/2_twiss_fodo_resonant.pdf, page is rotated 90 degrees> <./ima
+ges/2_twiss_fdo_resonant.pdf, page is rotated 90 degrees> <./images/2_twiss_odf
+do_resonant.pdf, page is rotated 90 degrees>]
 
-LaTeX Warning: Reference `eq:alpha_general' on page 25 undefined on input line 
-137.
+LaTeX Warning: Reference `eq:alpha_general' on page 56 undefined on input line 
+133.
 
-<images/2_superperiod.png, id=344, 352.31625pt x 111.41624pt>
+<images/2_superperiod.png, id=721, 352.31625pt x 111.41624pt>
 File: images/2_superperiod.png Graphic file (type png)
 <use images/2_superperiod.png>
-Package pdftex.def Info: images/2_superperiod.png  used on input line 149.
+Package pdftex.def Info: images/2_superperiod.png  used on input line 145.
 (pdftex.def)             Requested size: 497.92325pt x 157.46413pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:superperiod_3FODO' on page 25 undefined on input 
-line 154.
+LaTeX Warning: Reference `fig:superperiod_3FODO' on page 56 undefined on input 
+line 150.
 
-<images/2_twiss_3FODO_regular.png, id=346, 531.9875pt x 355.3275pt>
+<images/2_twiss_3FODO_regular.png, id=723, 531.9875pt x 355.3275pt>
 File: images/2_twiss_3FODO_regular.png Graphic file (type png)
 <use images/2_twiss_3FODO_regular.png>
 Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
-57.
+53.
 (pdftex.def)             Requested size: 243.98512pt x 162.95923pt.
-<images/2_twiss_3FODO_modulated.png, id=348, 207.6558pt x 170.5572pt>
+<images/2_twiss_3FODO_modulated.png, id=725, 207.6558pt x 170.5572pt>
 File: images/2_twiss_3FODO_modulated.png Graphic file (type png)
 <use images/2_twiss_3FODO_modulated.png>
 Package pdftex.def Info: images/2_twiss_3FODO_modulated.png  used on input line
- 158.
+ 154.
 (pdftex.def)             Requested size: 243.98512pt x 200.40993pt.
-[25.25]
 
-LaTeX Warning: Reference `fig:twiss_3FODO' on page 26 undefined on input line 1
-63.
+LaTeX Warning: Reference `fig:twiss_3FODO' on page 56 undefined on input line 1
+59.
 
+[56.56]
 
-LaTeX Warning: Reference `fig:twiss_3FODO' on page 26 undefined on input line 1
-65.
+LaTeX Warning: Reference `fig:twiss_3FODO' on page 57 undefined on input line 1
+61.
 
-[26.26 <./images/2_superperiod.png> <./images/2_twiss_3FODO_regular.png> <./ima
-ges/2_twiss_3FODO_modulated.png>] [27.27]
-<images/2_supp_scheme_regular.png, id=380, 623.32875pt x 79.29625pt>
+[57.57 <./images/2_superperiod.png> <./images/2_twiss_3FODO_regular.png> <./ima
+ges/2_twiss_3FODO_modulated.png>] [58.58]
+<images/2_supp_scheme_regular.png, id=756, 623.32875pt x 79.29625pt>
 File: images/2_supp_scheme_regular.png Graphic file (type png)
 <use images/2_supp_scheme_regular.png>
-Package pdftex.def Info: images/2_supp_scheme_regular.png  used on input line 2
-03.
+Package pdftex.def Info: images/2_supp_scheme_regular.png  used on input line 1
+99.
 (pdftex.def)             Requested size: 497.92325pt x 63.3439pt.
-<images/2_supp_Twiss_regular.png, id=382, 156.585pt x 100.2144pt>
+<images/2_supp_Twiss_regular.png, id=758, 156.585pt x 100.2144pt>
 File: images/2_supp_Twiss_regular.png Graphic file (type png)
 <use images/2_supp_Twiss_regular.png>
 Package pdftex.def Info: images/2_supp_Twiss_regular.png  used on input line 20
-4.
+0.
 (pdftex.def)             Requested size: 497.92325pt x 318.7154pt.
-<images/2_supp_elem_regular.png, id=384, 844.15375pt x 342.27875pt>
+<images/2_supp_elem_regular.png, id=760, 844.15375pt x 342.27875pt>
 File: images/2_supp_elem_regular.png Graphic file (type png)
 <use images/2_supp_elem_regular.png>
-Package pdftex.def Info: images/2_supp_elem_regular.png  used on input line 205
+Package pdftex.def Info: images/2_supp_elem_regular.png  used on input line 201
 .
 (pdftex.def)             Requested size: 497.92325pt x 201.89569pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/2_supp_scheme_ES.png, id=386, 616.3025pt x 89.33376pt>
+<images/2_supp_scheme_ES.png, id=762, 616.3025pt x 89.33376pt>
 File: images/2_supp_scheme_ES.png Graphic file (type png)
 <use images/2_supp_scheme_ES.png>
-Package pdftex.def Info: images/2_supp_scheme_ES.png  used on input line 215.
+Package pdftex.def Info: images/2_supp_scheme_ES.png  used on input line 211.
 (pdftex.def)             Requested size: 497.92325pt x 72.1759pt.
-<images/2_supp_Twiss_ES.png, id=388, 156.585pt x 93.951pt>
+<images/2_supp_Twiss_ES.png, id=764, 156.585pt x 93.951pt>
 File: images/2_supp_Twiss_ES.png Graphic file (type png)
 <use images/2_supp_Twiss_ES.png>
-Package pdftex.def Info: images/2_supp_Twiss_ES.png  used on input line 216.
+Package pdftex.def Info: images/2_supp_Twiss_ES.png  used on input line 212.
 (pdftex.def)             Requested size: 497.92325pt x 298.79575pt.
-<images/2_supp_elem_ES.png, id=390, 848.16875pt x 344.28625pt>
+<images/2_supp_elem_ES.png, id=766, 848.16875pt x 344.28625pt>
 File: images/2_supp_elem_ES.png Graphic file (type png)
 <use images/2_supp_elem_ES.png>
-Package pdftex.def Info: images/2_supp_elem_ES.png  used on input line 217.
+Package pdftex.def Info: images/2_supp_elem_ES.png  used on input line 213.
 (pdftex.def)             Requested size: 497.92325pt x 202.11322pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/2_supp_scheme_AS.png, id=392, 613.29124pt x 68.255pt>
+<images/2_supp_scheme_AS.png, id=768, 613.29124pt x 68.255pt>
 File: images/2_supp_scheme_AS.png Graphic file (type png)
 <use images/2_supp_scheme_AS.png>
-Package pdftex.def Info: images/2_supp_scheme_AS.png  used on input line 224.
+Package pdftex.def Info: images/2_supp_scheme_AS.png  used on input line 220.
 (pdftex.def)             Requested size: 497.92325pt x 55.41537pt.
-<images/2_supp_Twiss_AS.png, id=394, 156.585pt x 101.178pt>
+<images/2_supp_Twiss_AS.png, id=770, 156.585pt x 101.178pt>
 File: images/2_supp_Twiss_AS.png Graphic file (type png)
 <use images/2_supp_Twiss_AS.png>
-Package pdftex.def Info: images/2_supp_Twiss_AS.png  used on input line 225.
+Package pdftex.def Info: images/2_supp_Twiss_AS.png  used on input line 221.
 (pdftex.def)             Requested size: 497.92325pt x 321.77995pt.
-<images/2_supp_elem_AS.png, id=396, 845.1575pt x 380.42125pt>
+<images/2_supp_elem_AS.png, id=772, 845.1575pt x 380.42125pt>
 File: images/2_supp_elem_AS.png Graphic file (type png)
 <use images/2_supp_elem_AS.png>
-Package pdftex.def Info: images/2_supp_elem_AS.png  used on input line 226.
+Package pdftex.def Info: images/2_supp_elem_AS.png  used on input line 222.
 (pdftex.def)             Requested size: 497.92325pt x 224.12732pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[28.28] [29.29 <./images/2_supp_scheme_regular.png> <./images/2_supp_Twiss_regu
-lar.png> <./images/2_supp_elem_regular.png>] [30.30 <./images/2_supp_scheme_ES.
-png> <./images/2_supp_Twiss_ES.png> <./images/2_supp_elem_ES.png>] [31.31 <./im
+[59.59] [60.60 <./images/2_supp_scheme_regular.png> <./images/2_supp_Twiss_regu
+lar.png> <./images/2_supp_elem_regular.png>] [61.61 <./images/2_supp_scheme_ES.
+png> <./images/2_supp_Twiss_ES.png> <./images/2_supp_elem_ES.png>] [62.62 <./im
 ages/2_supp_scheme_AS.png> <./images/2_supp_Twiss_AS.png> <./images/2_supp_elem
 _AS.png>]
-<images/2_disp_supp.png, id=439, 192.72pt x 141.1674pt>
+<images/2_disp_supp.png, id=815, 192.72pt x 141.1674pt>
 File: images/2_disp_supp.png Graphic file (type png)
 <use images/2_disp_supp.png>
-Package pdftex.def Info: images/2_disp_supp.png  used on input line 255.
+Package pdftex.def Info: images/2_disp_supp.png  used on input line 251.
 (pdftex.def)             Requested size: 248.96162pt x 182.363pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/2_disp_supp_modulated.png, id=441, 298.716pt x 291.9708pt>
+<images/2_disp_supp_modulated.png, id=817, 298.716pt x 291.9708pt>
 File: images/2_disp_supp_modulated.png Graphic file (type png)
 <use images/2_disp_supp_modulated.png>
 Package pdftex.def Info: images/2_disp_supp_modulated.png  used on input line 2
-64.
+60.
 (pdftex.def)             Requested size: 248.96162pt x 243.347pt.
-[32.32] [33.33 <./images/2_disp_supp.png> <./images/2_disp_supp_modulated.png>]
-<images/2_modulated_ring.png, id=458, 469.2732pt x 275.5896pt>
+ [63.63 <./images/2_disp_supp.png>]
+<images/2_modulated_ring.png, id=826, 469.2732pt x 275.5896pt>
 File: images/2_modulated_ring.png Graphic file (type png)
 <use images/2_modulated_ring.png>
-Package pdftex.def Info: images/2_modulated_ring.png  used on input line 276.
+Package pdftex.def Info: images/2_modulated_ring.png  used on input line 272.
 (pdftex.def)             Requested size: 497.92325pt x 292.42635pt.
-[34.34 <./images/2_modulated_ring.png>]
-<images/2_ES_x_dpp0.png, id=469, 232.87pt x 170.6375pt>
+ [64.64 <./images/2_disp_supp_modulated.png>]
+<images/2_ES_x_dpp0.png, id=836, 232.87pt x 170.6375pt>
 File: images/2_ES_x_dpp0.png Graphic file (type png)
 <use images/2_ES_x_dpp0.png>
-Package pdftex.def Info: images/2_ES_x_dpp0.png  used on input line 298.
+Package pdftex.def Info: images/2_ES_x_dpp0.png  used on input line 294.
 (pdftex.def)             Requested size: 243.98512pt x 178.78929pt.
-<images/2_ES_y_dpp0.png, id=471, 235.88126pt x 170.6375pt>
+<images/2_ES_y_dpp0.png, id=838, 235.88126pt x 170.6375pt>
 File: images/2_ES_y_dpp0.png Graphic file (type png)
 <use images/2_ES_y_dpp0.png>
-Package pdftex.def Info: images/2_ES_y_dpp0.png  used on input line 299.
+Package pdftex.def Info: images/2_ES_y_dpp0.png  used on input line 295.
 (pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_ES_x_dpp0,3.png, id=473, 234.8775pt x 170.6375pt>
+<images/2_ES_x_dpp0,3.png, id=840, 234.8775pt x 170.6375pt>
 File: images/2_ES_x_dpp0,3.png Graphic file (type png)
 <use images/2_ES_x_dpp0,3.png>
-Package pdftex.def Info: images/2_ES_x_dpp0,3.png  used on input line 300.
+Package pdftex.def Info: images/2_ES_x_dpp0,3.png  used on input line 296.
 (pdftex.def)             Requested size: 243.98512pt x 177.2531pt.
-<images/2_ES_y_dpp0,3.png, id=475, 235.88126pt x 170.6375pt>
+<images/2_ES_y_dpp0,3.png, id=842, 235.88126pt x 170.6375pt>
 File: images/2_ES_y_dpp0,3.png Graphic file (type png)
 <use images/2_ES_y_dpp0,3.png>
-Package pdftex.def Info: images/2_ES_y_dpp0,3.png  used on input line 301.
+Package pdftex.def Info: images/2_ES_y_dpp0,3.png  used on input line 297.
 (pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_ES_x_dpp0,5.png, id=477, 236.885pt x 170.6375pt>
+<images/2_ES_x_dpp0,5.png, id=844, 236.885pt x 170.6375pt>
 File: images/2_ES_x_dpp0,5.png Graphic file (type png)
 <use images/2_ES_x_dpp0,5.png>
-Package pdftex.def Info: images/2_ES_x_dpp0,5.png  used on input line 302.
+Package pdftex.def Info: images/2_ES_x_dpp0,5.png  used on input line 298.
 (pdftex.def)             Requested size: 243.98512pt x 175.75858pt.
-<images/2_ES_y_dpp0,5.png, id=479, 231.86626pt x 170.6375pt>
+<images/2_ES_y_dpp0,5.png, id=846, 231.86626pt x 170.6375pt>
 File: images/2_ES_y_dpp0,5.png Graphic file (type png)
 <use images/2_ES_y_dpp0,5.png>
-Package pdftex.def Info: images/2_ES_y_dpp0,5.png  used on input line 303.
+Package pdftex.def Info: images/2_ES_y_dpp0,5.png  used on input line 299.
 (pdftex.def)             Requested size: 243.98512pt x 179.56pt.
-
+ [65.65 <./images/2_modulated_ring.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/2_AS_x_dpp0.png, id=481, 235.88126pt x 170.6375pt>
+<images/2_AS_x_dpp0.png, id=858, 235.88126pt x 170.6375pt>
 File: images/2_AS_x_dpp0.png Graphic file (type png)
 <use images/2_AS_x_dpp0.png>
-Package pdftex.def Info: images/2_AS_x_dpp0.png  used on input line 311.
+Package pdftex.def Info: images/2_AS_x_dpp0.png  used on input line 307.
 (pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_AS_y_dpp0.png, id=483, 237.88875pt x 170.6375pt>
+<images/2_AS_y_dpp0.png, id=860, 237.88875pt x 170.6375pt>
 File: images/2_AS_y_dpp0.png Graphic file (type png)
 <use images/2_AS_y_dpp0.png>
-Package pdftex.def Info: images/2_AS_y_dpp0.png  used on input line 312.
+Package pdftex.def Info: images/2_AS_y_dpp0.png  used on input line 308.
 (pdftex.def)             Requested size: 243.98512pt x 175.01912pt.
-<images/2_AS_x_dpp0,3.png, id=485, 241.90375pt x 170.6375pt>
+<images/2_AS_x_dpp0,3.png, id=862, 241.90375pt x 170.6375pt>
 File: images/2_AS_x_dpp0,3.png Graphic file (type png)
 <use images/2_AS_x_dpp0,3.png>
-Package pdftex.def Info: images/2_AS_x_dpp0,3.png  used on input line 313.
+Package pdftex.def Info: images/2_AS_x_dpp0,3.png  used on input line 309.
 (pdftex.def)             Requested size: 243.98512pt x 172.11337pt.
-<images/2_AS_y_dpp0,3.png, id=487, 235.88126pt x 170.6375pt>
+<images/2_AS_y_dpp0,3.png, id=864, 235.88126pt x 170.6375pt>
 File: images/2_AS_y_dpp0,3.png Graphic file (type png)
 <use images/2_AS_y_dpp0,3.png>
-Package pdftex.def Info: images/2_AS_y_dpp0,3.png  used on input line 314.
+Package pdftex.def Info: images/2_AS_y_dpp0,3.png  used on input line 310.
 (pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_AS_x_dpp0,5.png, id=489, 230.8625pt x 170.6375pt>
+<images/2_AS_x_dpp0,5.png, id=866, 230.8625pt x 170.6375pt>
 File: images/2_AS_x_dpp0,5.png Graphic file (type png)
 <use images/2_AS_x_dpp0,5.png>
-Package pdftex.def Info: images/2_AS_x_dpp0,5.png  used on input line 315.
+Package pdftex.def Info: images/2_AS_x_dpp0,5.png  used on input line 311.
 (pdftex.def)             Requested size: 243.98512pt x 180.3385pt.
-<images/2_AS_y_dpp0,5.png, id=491, 237.88875pt x 170.6375pt>
+<images/2_AS_y_dpp0,5.png, id=868, 237.88875pt x 170.6375pt>
 File: images/2_AS_y_dpp0,5.png Graphic file (type png)
 <use images/2_AS_y_dpp0,5.png>
-Package pdftex.def Info: images/2_AS_y_dpp0,5.png  used on input line 316.
+Package pdftex.def Info: images/2_AS_y_dpp0,5.png  used on input line 312.
 (pdftex.def)             Requested size: 243.98512pt x 175.01912pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[35.35] [36.36 <./images/2_ES_x_dpp0.png> <./images/2_ES_y_dpp0.png> <./images/
+[66.66] [67.67 <./images/2_ES_x_dpp0.png> <./images/2_ES_y_dpp0.png> <./images/
 2_ES_x_dpp0,3.png> <./images/2_ES_y_dpp0,3.png> <./images/2_ES_x_dpp0,5.png> <.
-/images/2_ES_y_dpp0,5.png>] [37.37 <./images/2_AS_x_dpp0.png> <./images/2_AS_y_
+/images/2_ES_y_dpp0,5.png>] [68.68 <./images/2_AS_x_dpp0.png> <./images/2_AS_y_
 dpp0.png> <./images/2_AS_x_dpp0,3.png> <./images/2_AS_y_dpp0,3.png> <./images/2
 _AS_x_dpp0,5.png> <./images/2_AS_y_dpp0,5.png>])
-\openout2 = `Dissertation/part3.aux'.
-
- (./Dissertation/part3.tex
-
-LaTeX Warning: Citation `lee' on page 38 undefined on input line 12.
-
-[38.38
-
-
-
-
-
-] [39.39]
-<images/3_adiabatic_time.png, id=551, 231.7458pt x 142.131pt>
-File: images/3_adiabatic_time.png Graphic file (type png)
-<use images/3_adiabatic_time.png>
-Package pdftex.def Info: images/3_adiabatic_time.png  used on input line 55.
-(pdftex.def)             Requested size: 243.98512pt x 149.64314pt.
-<images/3_nonlin_time.png, id=553, 231.7458pt x 142.131pt>
-File: images/3_nonlin_time.png Graphic file (type png)
-<use images/3_nonlin_time.png>
-Package pdftex.def Info: images/3_nonlin_time.png  used on input line 56.
-(pdftex.def)             Requested size: 243.98512pt x 149.64314pt.
-<images/3_eta_beam_lenght.png, id=555, 578.16pt x 433.62pt>
-File: images/3_eta_beam_lenght.png Graphic file (type png)
-<use images/3_eta_beam_lenght.png>
-Package pdftex.def Info: images/3_eta_beam_lenght.png  used on input line 73.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_eta_energy_spread.png, id=557, 578.16pt x 433.62pt>
-File: images/3_eta_energy_spread.png Graphic file (type png)
-<use images/3_eta_energy_spread.png>
-Package pdftex.def Info: images/3_eta_energy_spread.png  used on input line 74.
-
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_eta_emit.png, id=559, 578.16pt x 433.62pt>
-File: images/3_eta_emit.png Graphic file (type png)
-<use images/3_eta_emit.png>
-Package pdftex.def Info: images/3_eta_emit.png  used on input line 75.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
- [40.40 <./images/3_adiabatic_time.png> <./images/3_nonlin_time.png>]
-<images/3_wo_jump_beam_lenght.png, id=572, 578.16pt x 433.62pt>
-File: images/3_wo_jump_beam_lenght.png Graphic file (type png)
-<use images/3_wo_jump_beam_lenght.png>
-Package pdftex.def Info: images/3_wo_jump_beam_lenght.png  used on input line 8
-7.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_wo_jump_energy_spread.png, id=574, 578.16pt x 433.62pt>
-File: images/3_wo_jump_energy_spread.png Graphic file (type png)
-<use images/3_wo_jump_energy_spread.png>
-Package pdftex.def Info: images/3_wo_jump_energy_spread.png  used on input line
- 88.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_wo_jump_emit.png, id=576, 578.16pt x 433.62pt>
-File: images/3_wo_jump_emit.png Graphic file (type png)
-<use images/3_wo_jump_emit.png>
-Package pdftex.def Info: images/3_wo_jump_emit.png  used on input line 89.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
- [41.41 <./images/3_eta_beam_lenght.png> <./images/3_eta_energy_spread.png> <./
-images/3_eta_emit.png>]
-<images/3_twiss_U70_regular.png, id=589, 231.7458pt x 118.041pt>
-File: images/3_twiss_U70_regular.png Graphic file (type png)
-<use images/3_twiss_U70_regular.png>
-Package pdftex.def Info: images/3_twiss_U70_regular.png  used on input line 106
-.
-(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
-<images/3_twiss_U70_modulated.png, id=591, 231.7458pt x 118.041pt>
-File: images/3_twiss_U70_modulated.png Graphic file (type png)
-<use images/3_twiss_U70_modulated.png>
-Package pdftex.def Info: images/3_twiss_U70_modulated.png  used on input line 1
-07.
-(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
- [42.42 <./images/3_wo_jump_beam_lenght.png> <./images/3_wo_jump_energy_spread.
-png> <./images/3_wo_jump_emit.png> <./images/3_twiss_U70_regular.png> <./images
-/3_twiss_U70_modulated.png>]
-<images/3_gamma_transition_jump_U70.png, id=610, 331.9602pt x 250.536pt>
-File: images/3_gamma_transition_jump_U70.png Graphic file (type png)
-<use images/3_gamma_transition_jump_U70.png>
-Package pdftex.def Info: images/3_gamma_transition_jump_U70.png  used on input 
-line 115.
-(pdftex.def)             Requested size: 243.98512pt x 184.13982pt.
-<images/3_eta0_jump_U70.png, id=612, 330.033pt x 250.536pt>
-File: images/3_eta0_jump_U70.png Graphic file (type png)
-<use images/3_eta0_jump_U70.png>
-Package pdftex.def Info: images/3_eta0_jump_U70.png  used on input line 116.
-(pdftex.def)             Requested size: 243.98512pt x 185.21405pt.
-<images/3_jump_U70_oscilogram.png, id=614, 421.0932pt x 316.0608pt>
-File: images/3_jump_U70_oscilogram.png Graphic file (type png)
-<use images/3_jump_U70_oscilogram.png>
-Package pdftex.def Info: images/3_jump_U70_oscilogram.png  used on input line 1
-24.
-(pdftex.def)             Requested size: 243.98512pt x 183.13213pt.
-<images/3_jump_U70_beam_profile.png, id=616, 240.4182pt x 169.5936pt>
-File: images/3_jump_U70_beam_profile.png Graphic file (type png)
-<use images/3_jump_U70_beam_profile.png>
-Package pdftex.def Info: images/3_jump_U70_beam_profile.png  used on input line
- 125.
-(pdftex.def)             Requested size: 243.98512pt x 172.11626pt.
-<images/3_jump_U70_beam_lenght.png, id=618, 345.9324pt x 265.9536pt>
-File: images/3_jump_U70_beam_lenght.png Graphic file (type png)
-<use images/3_jump_U70_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_U70_beam_lenght.png  used on input line 
-131.
-(pdftex.def)             Requested size: 243.98512pt x 187.57846pt.
-<images/3_jump_beam_lenght.png, id=620, 578.16pt x 433.62pt>
-File: images/3_jump_beam_lenght.png Graphic file (type png)
-<use images/3_jump_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_beam_lenght.png  used on input line 137.
-
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_energy_spread.png, id=622, 578.16pt x 433.62pt>
-File: images/3_jump_energy_spread.png Graphic file (type png)
-<use images/3_jump_energy_spread.png>
-Package pdftex.def Info: images/3_jump_energy_spread.png  used on input line 13
-8.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_emit.png, id=624, 578.16pt x 433.62pt>
-File: images/3_jump_emit.png Graphic file (type png)
-<use images/3_jump_emit.png>
-Package pdftex.def Info: images/3_jump_emit.png  used on input line 139.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_beam_lenght.png, id=626, 578.16pt x 433.62pt>
-File: images/3_jump_imp_beam_lenght.png Graphic file (type png)
-<use images/3_jump_imp_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_imp_beam_lenght.png  used on input line 
-145.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_energy_spread.png, id=628, 578.16pt x 433.62pt>
-File: images/3_jump_imp_energy_spread.png Graphic file (type png)
-<use images/3_jump_imp_energy_spread.png>
-Package pdftex.def Info: images/3_jump_imp_energy_spread.png  used on input lin
-e 146.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_emit.png, id=630, 578.16pt x 433.62pt>
-File: images/3_jump_imp_emit.png Graphic file (type png)
-<use images/3_jump_imp_emit.png>
-Package pdftex.def Info: images/3_jump_imp_emit.png  used on input line 147.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
- [43.43 <./images/3_gamma_transition_jump_U70.png> <./images/3_eta0_jump_U70.pn
-g>] [44.44 <./images/3_jump_U70_oscilogram.png> <./images/3_jump_U70_beam_profi
-le.png> <./images/3_jump_U70_beam_lenght.png>] [45.45 <./images/3_jump_beam_len
-ght.png> <./images/3_jump_energy_spread.png> <./images/3_jump_emit.png> <./imag
-es/3_jump_imp_beam_lenght.png> <./images/3_jump_imp_energy_spread.png> <./image
-s/3_jump_imp_emit.png>]
-<images/3_tunes_vs_g_tr.png, id=673, 193.6836pt x 168.63pt>
-File: images/3_tunes_vs_g_tr.png Graphic file (type png)
-<use images/3_tunes_vs_g_tr.png>
-Package pdftex.def Info: images/3_tunes_vs_g_tr.png  used on input line 179.
-(pdftex.def)             Requested size: 243.98512pt x 212.43631pt.
-[46.46 <./images/3_tunes_vs_g_tr.png>] [47.47] [48.48]
-<images/3_g_tr_harmonic.png, id=692, 233.673pt x 181.6386pt>
-File: images/3_g_tr_harmonic.png Graphic file (type png)
-<use images/3_g_tr_harmonic.png>
-Package pdftex.def Info: images/3_g_tr_harmonic.png  used on input line 216.
-(pdftex.def)             Requested size: 243.98512pt x 189.65353pt.
-<images/3_eta_tr_harmonic.png, id=694, 233.673pt x 183.5658pt>
-File: images/3_eta_tr_harmonic.png Graphic file (type png)
-<use images/3_eta_tr_harmonic.png>
-Package pdftex.def Info: images/3_eta_tr_harmonic.png  used on input line 217.
-(pdftex.def)             Requested size: 243.98512pt x 191.66577pt.
- [49.49 <./images/3_g_tr_harmonic.png> <./images/3_eta_tr_harmonic.png>]
-<images/3_g_tr_BB.png, id=707, 214.401pt x 198.5016pt>
-File: images/3_g_tr_BB.png Graphic file (type png)
-<use images/3_g_tr_BB.png>
-Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 230.
-(pdftex.def)             Requested size: 243.98512pt x 225.90042pt.
-<images/3_eta_tr_BB.png, id=709, 230.7822pt x 182.6022pt>
-File: images/3_eta_tr_BB.png Graphic file (type png)
-<use images/3_eta_tr_BB.png>
-Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 231.
-(pdftex.def)             Requested size: 243.98512pt x 193.0475pt.
- [50.50 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 264.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 264.
-
-Missing character: There is no Ц in font cmr12!
-<images/3_microwave_inst_vs_lenght.png, id=720, 355.0866pt x 183.5658pt>
-File: images/3_microwave_inst_vs_lenght.png Graphic file (type png)
-<use images/3_microwave_inst_vs_lenght.png>
-Package pdftex.def Info: images/3_microwave_inst_vs_lenght.png  used on input l
-ine 271.
-(pdftex.def)             Requested size: 383.40302pt x 198.21448pt.
-[51.51]
-
-LaTeX Warning: Citation `jump' on page 52 undefined on input line 285.
-
-
-LaTeX Warning: Citation `pip' on page 52 undefined on input line 285.
-
-[52.52 <./images/3_microwave_inst_vs_lenght.png>]
-
-LaTeX Warning: Citation `hans' on page 53 undefined on input line 287.
-
-
-LaTeX Warning: Reference `long' on page 53 undefined on input line 297.
-
-
-LaTeX Warning: Citation `resonant' on page 53 undefined on input line 299.
-
-[53.53]
-
-LaTeX Warning: Citation `syresin' on page 54 undefined on input line 306.
-
-
-LaTeX Warning: Reference `fig:jump_NICA' on page 54 undefined on input line 309
-.
-
-<images/3_Jump_NICA.png, id=745, 229.8186pt x 213.4374pt>
-File: images/3_Jump_NICA.png Graphic file (type png)
-<use images/3_Jump_NICA.png>
-Package pdftex.def Info: images/3_Jump_NICA.png  used on input line 313.
-(pdftex.def)             Requested size: 219.58511pt x 203.9368pt.
-<images/3_Jump_NICA_2.png, id=746, 237.5274pt x 213.4374pt>
-File: images/3_Jump_NICA_2.png Graphic file (type png)
-<use images/3_Jump_NICA_2.png>
-Package pdftex.def Info: images/3_Jump_NICA_2.png  used on input line 317.
-(pdftex.def)             Requested size: 219.58511pt x 197.32227pt.
-
-LaTeX Warning: Reference `fig:tr' on page 54 undefined on input line 331.
-
-
-LaTeX Warning: Reference `fig:alpha' on page 54 undefined on input line 331.
-
-[54.54 <./images/3_Jump_NICA.png> <./images/3_Jump_NICA_2.png>]
-<images/3_gamma_tr_vs_dQF.png, id=760, 243.7908pt x 127.1952pt>
-File: images/3_gamma_tr_vs_dQF.png Graphic file (type png)
-<use images/3_gamma_tr_vs_dQF.png>
-Package pdftex.def Info: images/3_gamma_tr_vs_dQF.png  used on input line 334.
-(pdftex.def)             Requested size: 243.98512pt x 127.29968pt.
-<images/3_tunes_vs_dQF.png, id=762, 219.7008pt x 127.1952pt>
-File: images/3_tunes_vs_dQF.png Graphic file (type png)
-<use images/3_tunes_vs_dQF.png>
-Package pdftex.def Info: images/3_tunes_vs_dQF.png  used on input line 335.
-(pdftex.def)             Requested size: 243.98512pt x 141.26208pt.
-<images/3_2nd_MCF_vs_g_tr.png, id=764, 239.4546pt x 107.9232pt>
-File: images/3_2nd_MCF_vs_g_tr.png Graphic file (type png)
-<use images/3_2nd_MCF_vs_g_tr.png>
-Package pdftex.def Info: images/3_2nd_MCF_vs_g_tr.png  used on input line 341.
-(pdftex.def)             Requested size: 243.98512pt x 109.96492pt.
-<images/3_3nd_MCF_vs_g_tr.png, id=766, 228.3732pt x 107.9232pt>
-File: images/3_3nd_MCF_vs_g_tr.png Graphic file (type png)
-<use images/3_3nd_MCF_vs_g_tr.png>
-Package pdftex.def Info: images/3_3nd_MCF_vs_g_tr.png  used on input line 342.
-(pdftex.def)             Requested size: 243.98512pt x 115.30705pt.
-
-
-LaTeX Warning: Citation `bb' on page 55 undefined on input line 351.
-
-
-LaTeX Warning: Citation `malyshev' on page 55 undefined on input line 351.
-
-
-LaTeX Warning: Reference `fig:rf' on page 55 undefined on input line 351.
-
-<images/3_BB.png, id=768, 217.7736pt x 176.3388pt>
-File: images/3_BB.png Graphic file (type png)
-<use images/3_BB.png>
-Package pdftex.def Info: images/3_BB.png  used on input line 355.
-(pdftex.def)             Requested size: 373.44243pt x 302.41965pt.
-[55.55 <./images/3_gamma_tr_vs_dQF.png> <./images/3_tunes_vs_dQF.png> <./images
-/3_2nd_MCF_vs_g_tr.png> <./images/3_3nd_MCF_vs_g_tr.png>] [56.56 <./images/3_BB
-.png>]
-
-LaTeX Warning: Reference `sign' on page 57 undefined on input line 369.
-
-
-LaTeX Warning: Citation `bbcern' on page 57 undefined on input line 371.
-
-
-LaTeX Warning: Reference `fig:wave' on page 57 undefined on input line 392.
-
-<images/3_BB_V.png, id=795, 231.7458pt x 180.675pt>
-File: images/3_BB_V.png Graphic file (type png)
-<use images/3_BB_V.png>
-Package pdftex.def Info: images/3_BB_V.png  used on input line 402.
-(pdftex.def)             Requested size: 243.98512pt x 190.22435pt.
-<images/3_BB_fourier_coef.png, id=797, 237.5274pt x 180.675pt>
-File: images/3_BB_fourier_coef.png Graphic file (type png)
-<use images/3_BB_fourier_coef.png>
-Package pdftex.def Info: images/3_BB_fourier_coef.png  used on input line 403.
-(pdftex.def)             Requested size: 243.98512pt x 185.59557pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `laclare' on page 57 undefined on input line 411.
-
-
-LaTeX Warning: Reference `fig:signal' on page 57 undefined on input line 411.
-
-[57.57]
-<images/3_Imp_vs_freq.png, id=808, 239.4546pt x 164.2938pt>
-File: images/3_Imp_vs_freq.png Graphic file (type png)
-<use images/3_Imp_vs_freq.png>
-Package pdftex.def Info: images/3_Imp_vs_freq.png  used on input line 419.
-(pdftex.def)             Requested size: 253.93811pt x 174.23079pt.
-<images/3_induced_voltage.png, id=810, 219.7008pt x 164.2938pt>
-File: images/3_induced_voltage.png Graphic file (type png)
-<use images/3_induced_voltage.png>
-Package pdftex.def Info: images/3_induced_voltage.png  used on input line 420.
-(pdftex.def)             Requested size: 239.00102pt x 178.73573pt.
-
-
-LaTeX Warning: Citation `sc' on page 58 undefined on input line 426.
-
-[58.58 <./images/3_BB_V.png> <./images/3_BB_fourier_coef.png> <./images/3_Imp_v
-s_freq.png> <./images/3_induced_voltage.png>]
-
-LaTeX Warning: Reference `fig:2' on page 59 undefined on input line 435.
-
-
-LaTeX Warning: Reference `fig:3' on page 59 undefined on input line 435.
-
-
-LaTeX Warning: Reference `eta' on page 59 undefined on input line 438.
-
-<images/3_BB_PS_near_tr.png, id=828, 233.673pt x 226.446pt>
-File: images/3_BB_PS_near_tr.png Graphic file (type png)
-<use images/3_BB_PS_near_tr.png>
-Package pdftex.def Info: images/3_BB_PS_near_tr.png  used on input line 441.
-(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
-<images/3_BB_PS_near_tr_2.png, id=830, 233.673pt x 226.446pt>
-File: images/3_BB_PS_near_tr_2.png Graphic file (type png)
-<use images/3_BB_PS_near_tr_2.png>
-Package pdftex.def Info: images/3_BB_PS_near_tr_2.png  used on input line 442.
-(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 443.
-
-Missing character: There is no о in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no в in font cmr12!
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 443.
-
-Missing character: There is no о in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no в in font cmr12!
-<images/3_BB_PS_jump.png, id=832, 233.673pt x 226.446pt>
-File: images/3_BB_PS_jump.png Graphic file (type png)
-<use images/3_BB_PS_jump.png>
-Package pdftex.def Info: images/3_BB_PS_jump.png  used on input line 450.
-(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
-<images/3_BB_PS_jump_2.png, id=834, 233.673pt x 226.446pt>
-File: images/3_BB_PS_jump_2.png Graphic file (type png)
-<use images/3_BB_PS_jump_2.png>
-Package pdftex.def Info: images/3_BB_PS_jump_2.png  used on input line 451.
-(pdftex.def)             Requested size: 243.98512pt x 236.43811pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `blond1' on page 59 undefined on input line 456.
-
-
-LaTeX Warning: Citation `blond' on page 59 undefined on input line 456.
-
-[59.59] [60.60 <./images/3_BB_PS_near_tr.png> <./images/3_BB_PS_near_tr_2.png> 
-<./images/3_BB_PS_jump.png> <./images/3_BB_PS_jump_2.png>]) [61.61]
 \openout2 = `Dissertation/part4.aux'.
 
+ (./Dissertation/part4.tex
+[69.69
 
-(./Dissertation/part4.tex [62.62
 
 
 
 
 ]
-<images/4_old_nuclotron.png, id=871, 709.65125pt x 441.65pt>
+<images/4_old_nuclotron.png, id=917, 709.65125pt x 441.65pt>
 File: images/4_old_nuclotron.png Graphic file (type png)
 <use images/4_old_nuclotron.png>
 Package pdftex.def Info: images/4_old_nuclotron.png  used on input line 24.
 (pdftex.def)             Requested size: 492.94675pt x 306.79422pt.
- [63.63 <./images/4_old_nuclotron.png>]
-[64.64] [65.65]
-<images/4_orbital_B.png, id=894, 221.628pt x 135.3858pt>
+ [70.70 <./images/4_old_nuclotron.png>] [71.71] [72.72]
+<images/4_orbital_B.png, id=940, 221.628pt x 135.3858pt>
 File: images/4_orbital_B.png Graphic file (type png)
 <use images/4_orbital_B.png>
 Package pdftex.def Info: images/4_orbital_B.png  used on input line 70.
 (pdftex.def)             Requested size: 243.98512pt x 149.04465pt.
-<images/4_orbital_E.png, id=896, 221.628pt x 135.3858pt>
+<images/4_orbital_E.png, id=942, 221.628pt x 135.3858pt>
 File: images/4_orbital_E.png Graphic file (type png)
 <use images/4_orbital_E.png>
 Package pdftex.def Info: images/4_orbital_E.png  used on input line 71.
 (pdftex.def)             Requested size: 243.98512pt x 149.04465pt.
- [66.66 <./images/4_orbital_B.png> <./images/4_orbital_E.png>]
+ [73.73 <./images/4_orbital_B.png> <./images/4_orbital_E.png>]
 Overfull \hbox (17.65587pt too wide) detected at line 109
 [][][][] \OT1/cmr/m/n/14.4 = [] \OMS/cmsy/m/n/14.4 ^^@ [] \OT1/cmr/m/n/14.4 = [
 ] [] [] \OMS/cmsy/m/n/14.4 ^^@ [][] \OT1/cmr/m/n/14.4 = [] [] [] \OMS/cmsy/m/n/
 14.4 ^^B []
  []
 
-[67.67]
-<images/4_arc_B.png, id=922, 277.035pt x 230.7822pt>
+[74.74]
+<images/4_arc_B.png, id=968, 277.035pt x 230.7822pt>
 File: images/4_arc_B.png Graphic file (type png)
 <use images/4_arc_B.png>
 Package pdftex.def Info: images/4_arc_B.png  used on input line 142.
 (pdftex.def)             Requested size: 194.18976pt x 161.76828pt.
-<images/4_arc_B+E.png, id=924, 469.2732pt x 316.0608pt>
+<images/4_arc_B+E.png, id=970, 469.2732pt x 316.0608pt>
 File: images/4_arc_B+E.png Graphic file (type png)
 <use images/4_arc_B+E.png>
 Package pdftex.def Info: images/4_arc_B+E.png  used on input line 143.
@@ -2872,19 +3055,19 @@ Underfull \hbox (badness 1874) in paragraph at lines 148--150
 ^^?не^^?ние в маг^^?нит^^?ном по^^?ле
  []
 
-[68.68] [69.69 <./images/4_arc_B.png> <./images/4_arc_B+E.png>] [70.70]
-[71.71] [72.72]
+[75.75] [76.76 <./images/4_arc_B.png> <./images/4_arc_B+E.png>] [77.77]
+[78.78] [79.79]
 
-LaTeX Warning: Reference `sec:EDM/requirements' on page 73 undefined on input l
+LaTeX Warning: Reference `sec:EDM/requirements' on page 80 undefined on input l
 ine 258.
 
-[73.73] [74.74]
-<images/4_NICA_bypass.png, id=985, 898.35625pt x 471.7625pt>
+[80.80] [81.81]
+<images/4_NICA_bypass.png, id=1032, 898.35625pt x 471.7625pt>
 File: images/4_NICA_bypass.png Graphic file (type png)
 <use images/4_NICA_bypass.png>
 Package pdftex.def Info: images/4_NICA_bypass.png  used on input line 273.
 (pdftex.def)             Requested size: 497.92325pt x 261.47855pt.
- [75.75 <./images/4_NICA_bypass.png>]
+ [82.82 <./images/4_NICA_bypass.png>]
 
 LaTeX Warning: Command \cyrs invalid in math mode on input line 280.
 
@@ -2933,12 +3116,12 @@ LaTeX Warning: Command \cyrm invalid in math mode on input line 287.
 
 Missing character: There is no м in font cmr12!
 Missing character: There is no м in font cmr12!
-[76.76]
+[83.83]
 
 LaTeX Warning: Command \cyrm invalid in math mode on input line 293.
 
 Missing character: There is no м in font cmr12!
-<images/4_bypass_3scheme.png, id=999, 1020.81375pt x 219.82124pt>
+<images/4_bypass_3scheme.png, id=1046, 1020.81375pt x 219.82124pt>
 File: images/4_bypass_3scheme.png Graphic file (type png)
 <use images/4_bypass_3scheme.png>
 Package pdftex.def Info: images/4_bypass_3scheme.png  used on input line 298.
@@ -2946,7 +3129,7 @@ Package pdftex.def Info: images/4_bypass_3scheme.png  used on input line 298.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/4_bypass_3quad.png, id=1001, 524.96124pt x 283.0575pt>
+<images/4_bypass_3quad.png, id=1048, 524.96124pt x 283.0575pt>
 File: images/4_bypass_3quad.png Graphic file (type png)
 <use images/4_bypass_3quad.png>
 Package pdftex.def Info: images/4_bypass_3quad.png  used on input line 305.
@@ -2974,14 +3157,14 @@ Missing character: There is no м in font cmr12!
 LaTeX Warning: Command \cyrm invalid in math mode on input line 312.
 
 Missing character: There is no м in font cmr12!
-[77.77]
-<images/4_bypass_5scheme.png, id=1008, 785.93625pt x 189.70876pt>
+[84.84]
+<images/4_bypass_5scheme.png, id=1055, 785.93625pt x 189.70876pt>
 File: images/4_bypass_5scheme.png Graphic file (type png)
 <use images/4_bypass_5scheme.png>
 Package pdftex.def Info: images/4_bypass_5scheme.png  used on input line 316.
 (pdftex.def)             Requested size: 497.92325pt x 120.1916pt.
- [78.78 <./images/4_bypass_3scheme.png> <./images/4_bypass_3quad.png>]
-<images/4_bypass_5quad.png, id=1022, 483.8075pt x 280.04625pt>
+ [85.85 <./images/4_bypass_3scheme.png> <./images/4_bypass_3quad.png>]
+<images/4_bypass_5quad.png, id=1069, 483.8075pt x 280.04625pt>
 File: images/4_bypass_5quad.png Graphic file (type png)
 <use images/4_bypass_5quad.png>
 Package pdftex.def Info: images/4_bypass_5quad.png  used on input line 323.
@@ -2995,14 +3178,14 @@ Missing character: There is no м in font cmr12!
 LaTeX Warning: Command \cyrm invalid in math mode on input line 330.
 
 Missing character: There is no м in font cmr12!
-[79.79 <./images/4_bypass_5scheme.png> <./images/4_bypass_5quad.png>]
-<images/4_bypass_real_scheme.png, id=1036, 1072.005pt x 245.91875pt>
+[86.86 <./images/4_bypass_5scheme.png> <./images/4_bypass_5quad.png>]
+<images/4_bypass_real_scheme.png, id=1082, 1072.005pt x 245.91875pt>
 File: images/4_bypass_real_scheme.png Graphic file (type png)
 <use images/4_bypass_real_scheme.png>
 Package pdftex.def Info: images/4_bypass_real_scheme.png  used on input line 33
 7.
 (pdftex.def)             Requested size: 497.92325pt x 114.22345pt.
-<images/4_bypass_twiss_ring.png, id=1038, 548.0475pt x 290.08376pt>
+<images/4_bypass_twiss_ring.png, id=1084, 548.0475pt x 290.08376pt>
 File: images/4_bypass_twiss_ring.png Graphic file (type png)
 <use images/4_bypass_twiss_ring.png>
 Package pdftex.def Info: images/4_bypass_twiss_ring.png  used on input line 344
@@ -3012,9 +3195,9 @@ Package pdftex.def Info: images/4_bypass_twiss_ring.png  used on input line 344
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80.80 <./images/4_bypass_real_scheme.png>] [81.81 <./images/4_bypass_twiss_rin
-g.png>] [82.82]
-<images/4_NICA_arc.png, id=1064, 473.77pt x 278.03876pt>
+[87.87 <./images/4_bypass_real_scheme.png>] [88.88 <./images/4_bypass_twiss_rin
+g.png>] [89.89]
+<images/4_NICA_arc.png, id=1110, 473.77pt x 278.03876pt>
 File: images/4_NICA_arc.png Graphic file (type png)
 <use images/4_NICA_arc.png>
 Package pdftex.def Info: images/4_NICA_arc.png  used on input line 408.
@@ -3023,8 +3206,8 @@ Package pdftex.def Info: images/4_NICA_arc.png  used on input line 408.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[83.83]
-<images/4_spin_decoherence.png, id=1073, 503.8825pt x 449.68pt>
+[90.90]
+<images/4_spin_decoherence.png, id=1119, 503.8825pt x 449.68pt>
 File: images/4_spin_decoherence.png Graphic file (type png)
 <use images/4_spin_decoherence.png>
 Package pdftex.def Info: images/4_spin_decoherence.png  used on input line 418.
@@ -3034,8 +3217,8 @@ Package pdftex.def Info: images/4_spin_decoherence.png  used on input line 418.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[84.84 <./images/4_NICA_arc.png>] [85.85 <./images/4_spin_decoherence.png>]
-<images/4_spin_coherence.png, id=1090, 498.86375pt x 447.6725pt>
+[91.91 <./images/4_NICA_arc.png>] [92.92 <./images/4_spin_decoherence.png>]
+<images/4_spin_coherence.png, id=1136, 498.86375pt x 447.6725pt>
 File: images/4_spin_coherence.png Graphic file (type png)
 <use images/4_spin_coherence.png>
 Package pdftex.def Info: images/4_spin_coherence.png  used on input line 430.
@@ -3066,36 +3249,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 435.
 
-[86.86 <./images/4_spin_coherence.png>]
-<images/4_spin_dependance_x.png, id=1099, 283.0575pt x 252.945pt>
+[93.93 <./images/4_spin_coherence.png>]
+<images/4_spin_dependance_x.png, id=1145, 283.0575pt x 252.945pt>
 File: images/4_spin_dependance_x.png Graphic file (type png)
 <use images/4_spin_dependance_x.png>
 Package pdftex.def Info: images/4_spin_dependance_x.png  used on input line 440
 .
 (pdftex.def)             Requested size: 159.33908pt x 142.38928pt.
-<images/4_spin_dependance_y.png, id=1101, 276.03125pt x 249.93375pt>
+<images/4_spin_dependance_y.png, id=1147, 276.03125pt x 249.93375pt>
 File: images/4_spin_dependance_y.png Graphic file (type png)
 <use images/4_spin_dependance_y.png>
 Package pdftex.def Info: images/4_spin_dependance_y.png  used on input line 441
 .
 (pdftex.def)             Requested size: 159.33908pt x 144.27902pt.
-<images/4_spin_dependance_d.png, id=1103, 281.05pt x 251.94125pt>
+<images/4_spin_dependance_d.png, id=1149, 281.05pt x 251.94125pt>
 File: images/4_spin_dependance_d.png Graphic file (type png)
 <use images/4_spin_dependance_d.png>
 Package pdftex.def Info: images/4_spin_dependance_d.png  used on input line 442
 .
 (pdftex.def)             Requested size: 159.33908pt x 142.8353pt.
- [87.87 <./images/4_spin_dependance_x.png> <./images/4_spin_dependance_y.png> <
+ [94.94 <./images/4_spin_dependance_x.png> <./images/4_spin_dependance_y.png> <
 ./images/4_spin_dependance_d.png>])
-[88.88]
+[95.95]
 \openout2 = `Dissertation/conclusion.aux'.
 
- (./Dissertation/conclusion.tex (./common/concl.tex)) [89.89
+ (./Dissertation/conclusion.tex (./common/concl.tex [96.96
 
 
 
 
-] [90.90]
+])) [97.97]
 \openout2 = `Dissertation/acronyms.aux'.
 
 
@@ -3103,7 +3286,7 @@ Package pdftex.def Info: images/4_spin_dependance_d.png  used on input line 442
 \openout2 = `Dissertation/dictionary.aux'.
 
 
-(./Dissertation/dictionary.tex) [91.91
+(./Dissertation/dictionary.tex) [98.98
 
 
 
@@ -3115,56 +3298,68 @@ Package pdftex.def Info: images/4_spin_dependance_d.png  used on input line 442
 \openout2 = `Dissertation/references.aux'.
 
  (./Dissertation/references.tex
-(./dissertation.bbl))
-\openout2 = `Dissertation/lists.aux'.
+(./dissertation.bbl
+bibitemlist
 
- (./Dissertation/lists.tex
-No file dissertation.lof.
-[92.92
+Underfull \hbox (badness 6078) in paragraph at lines 83--89
+[]\T2A/cmr/m/n/14.4 Transition En^^?er^^?gy Cross^^?ing of Po^^?lar^^?ized Pro^
+^?ton Beam at NICA /
+ []
 
-
-
+[99.99
 
 
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 150--157
+[]\T2A/cmr/m/n/14.4 Spin Co^^?her^^?ence and Be^^?ta^^?tron Chro^^?matic^^?i^^?
+ty of Deuteron Beam in
+ []
+
+[100.100])) [101.101]
+\openout2 = `Dissertation/lists.aux'.
+
+ (./Dissertation/lists.tex
+No file dissertation.lof.
+[102.102
+
+
+
+
+]
 No file dissertation.lot.
-[93.93
+[103.103
 
 ])
 
-Package nag Warning: Unmatched ``\center'' command on line 310.
+Package nag Warning: Unmatched ``\center'' command on line 306.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 297.
+Package nag Warning: Unmatched ``\center'' command on line 293.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 263.
+Package nag Warning: Unmatched ``\center'' command on line 259.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 254.
+Package nag Warning: Unmatched ``\center'' command on line 250.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 223.
+Package nag Warning: Unmatched ``\center'' command on line 219.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 214.
+Package nag Warning: Unmatched ``\center'' command on line 210.
 
 
-Package nag Warning: Unmatched ``\center'' command on line 202.
-
-
-Package caption Warning: Unused \captionsetup[table] on input line 25.
-See the caption package documentation for explanation.
+Package nag Warning: Unmatched ``\center'' command on line 198.
 
 
 Package caption Warning: Unused \captionsetup[subfloat] on input line 62.
 See the caption package documentation for explanation.
 
 
-Package nag Warning: 7 complaints in total.
+Package nag Warning: 10 complaints in total.
 
 
 Package totalcount Warning: Total counter(s) have changed.
@@ -3401,6 +3596,52 @@ images/2_twiss_odfdo_cell.pdf
 images/2_twiss_fodo_regular.pdf
 images/2_twiss_fdo_regular.pdf
 images/2_twiss_odfdo_regular.pdf
+images/3_adiabatic_time.png
+images/3_nonlin_time.png
+images/3_eta_beam_lenght.png
+images/3_eta_energy_spread.png
+images/3_eta_emit.png
+images/3_wo_jump_beam_lenght.png
+images/3_wo_jump_energy_spread.png
+images/3_wo_jump_emit.png
+images/3_twiss_U70_regular.png
+images/3_twiss_U70_modulated.png
+images/3_gamma_transition_jump_U70.png
+images/3_eta0_jump_U70.png
+images/3_jump_U70_oscilogram.png
+images/3_jump_U70_beam_profile.png
+images/3_jump_U70_beam_lenght.png
+images/3_jump_beam_lenght.png
+images/3_jump_energy_spread.png
+images/3_jump_emit.png
+images/3_jump_imp_beam_lenght.png
+images/3_jump_imp_energy_spread.png
+images/3_jump_imp_emit.png
+images/3_gamma_tr_vs_dQF.png
+images/3_tunes_vs_dQF.png
+images/3_2nd_MCF_vs_g_tr.png
+images/3_3nd_MCF_vs_g_tr.png
+images/3_g_tr_harmonic.png
+images/3_eta_tr_harmonic.png
+images/3_Jump_NICA.png
+images/3_Jump_NICA_2.png
+images/3_g_tr_BB.png
+images/3_eta_tr_BB.png
+images/3_BB.png
+images/3_BB_V.png
+images/3_BB_fourier_coef.png
+images/3_Imp_vs_freq.png
+images/3_induced_voltage.png
+images/3_BB_PS_near_tr.png
+images/3_BB_PS_near_tr_2.png
+images/3_BB_PS_jump.png
+images/3_BB_PS_jump_2.png
+images/3_tunes_vs_g_tr.png
+images/3_microwave_inst_vs_lenght.png
+Dissertation/part3.tex
+images/2_twiss_fodo_cell.pdf
+images/2_twiss_fdo_cell.pdf
+images/2_twiss_odfdo_cell.pdf
 images/2_twiss_fodo_resonant.pdf
 images/2_twiss_fdo_resonant.pdf
 images/2_twiss_odfdo_resonant.pdf
@@ -3439,49 +3680,6 @@ images/2_AS_x_dpp0.tex
        5.png
 images/2_AS_y_dpp0.tex
        5.png
-Dissertation/part3.tex
-images/3_adiabatic_time.png
-images/3_nonlin_time.png
-images/3_eta_beam_lenght.png
-images/3_eta_energy_spread.png
-images/3_eta_emit.png
-images/3_wo_jump_beam_lenght.png
-images/3_wo_jump_energy_spread.png
-images/3_wo_jump_emit.png
-images/3_twiss_U70_regular.png
-images/3_twiss_U70_modulated.png
-images/3_gamma_transition_jump_U70.png
-images/3_eta0_jump_U70.png
-images/3_jump_U70_oscilogram.png
-images/3_jump_U70_beam_profile.png
-images/3_jump_U70_beam_lenght.png
-images/3_jump_beam_lenght.png
-images/3_jump_energy_spread.png
-images/3_jump_emit.png
-images/3_jump_imp_beam_lenght.png
-images/3_jump_imp_energy_spread.png
-images/3_jump_imp_emit.png
-images/3_tunes_vs_g_tr.png
-images/3_g_tr_harmonic.png
-images/3_eta_tr_harmonic.png
-images/3_g_tr_BB.png
-images/3_eta_tr_BB.png
-images/3_microwave_inst_vs_lenght.png
-images/3_Jump_NICA.png
-images/3_Jump_NICA_2.png
-images/3_gamma_tr_vs_dQF.png
-images/3_tunes_vs_dQF.png
-images/3_2nd_MCF_vs_g_tr.png
-images/3_3nd_MCF_vs_g_tr.png
-images/3_BB.png
-images/3_BB_V.png
-images/3_BB_fourier_coef.png
-images/3_Imp_vs_freq.png
-images/3_induced_voltage.png
-images/3_BB_PS_near_tr.png
-images/3_BB_PS_near_tr_2.png
-images/3_BB_PS_jump.png
-images/3_BB_PS_jump_2.png
 Dissertation/part4.tex
 images/4_old_nuclotron.png
 images/4_orbital_B.png
@@ -3529,16 +3727,16 @@ Package rerunfilecheck Warning: File `dissertation.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `dissertation.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  E09C2260A835D38C276ECB686AD6709C;35017.
+(rerunfilecheck)             After:  FF445E958E7C4680130EACC68507E145;34692.
  ) 
 Here is how much of TeX's memory you used:
- 43964 strings out of 474116
- 853143 string characters out of 5743682
- 1945187 words of memory out of 5000000
- 65070 multiletter control sequences out of 15000+600000
- 583132 words of font info for 113 fonts, out of 8000000 for 9000
+ 44042 strings out of 474116
+ 854731 string characters out of 5743682
+ 1954187 words of memory out of 5000000
+ 65102 multiletter control sequences out of 15000+600000
+ 584006 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,18n,110p,2476b,1102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,18n,110p,2476b,1122s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -3558,11 +3756,12 @@ l/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/
 texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texl
 ive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/cm-super/sfsl1440.pfb>
-Output written on dissertation.pdf (93 pages, 6660913 bytes).
+e/2024/texmf-dist/fonts/type1/public/cm-super/sfsl1440.pfb></usr/local/texlive/
+2024/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on dissertation.pdf (103 pages, 6718757 bytes).
 PDF statistics:
- 1300 PDF objects out of 1440 (max. 8388607)
- 851 compressed objects within 9 object streams
- 340 named destinations out of 1000 (max. 500000)
- 1156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1417 PDF objects out of 1440 (max. 8388607)
+ 953 compressed objects within 10 object streams
+ 384 named destinations out of 1000 (max. 500000)
+ 1174 words of extra memory for PDF output out of 10000 (max. 10000000)
 
