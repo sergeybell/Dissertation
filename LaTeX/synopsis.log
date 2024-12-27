@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  25 NOV 2024 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  27 DEC 2024 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1880,84 +1880,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Excluding 'comment' comment.
+Underfull \hbox (badness 10000) in paragraph at lines 78--92
 []$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ны^^?ми ме^^?то^^?да^^?ми
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 78--80
+Underfull \hbox (badness 1852) in paragraph at lines 78--92
 \T2A/cmr/m/n/10 ис^^?сле^^?до^^?ва^^?ния яв^^?ля^^?ют^^?ся ма^^?те^^?ма^^?ти^^?
 че^^?ское и ком^^?пью^^?тер^^?ное мо^^?де^^?ли^^?ро^^?ва^^?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 78--92
 
  []
 
 
-Underfull \hbox (badness 7504) in paragraph at lines 89--90
-[]\T2A/cmr/m/n/10 Принципы про^^?ек^^?ти^^?ро^^?ва^^?ния оп^^?ти^^?маль^^?ных м
-аг^^?ни^^?то^^?оп^^?ти^^?че^^?ских
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
 []$[]$ \T2A/cmr/m/n/10 по^^?лу^^?чен^^?ных ре^^?зуль^^?та^^?тов под^^?твер^^?жд
 а^^?ет^^?ся со^^?
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 95--97
+Underfull \hbox (badness 5260) in paragraph at lines 105--107
 \T2A/cmr/m/n/10 гла^^?со^^?ва^^?ни^^?ем ана^^?ли^^?ти^^?че^^?ских вы^^?чис^^?ле
 ^^?ний с ре^^?зуль^^?та^^?та^^?ми чис^^?лен^^?ных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
 
-[8.8]
-Underfull \hbox (badness 3219) in paragraph at lines 97--100
+
+Underfull \hbox (badness 3219) in paragraph at lines 107--110
 []$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ные ре^^?зуль^^?та^^?ты ра^^?бо^^?ты до^^?кла
 ^^?ды^^?ва^^?
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+[8.8]
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 
  []
 
 ) [9.9]
-<images/1_SC_common.png, id=198, 483.8075pt x 314.17375pt>
+<images/1_SC_common.png, id=193, 483.8075pt x 314.17375pt>
 File: images/1_SC_common.png Graphic file (type png)
 <use images/1_SC_common.png>
 Package pdftex.def Info: images/1_SC_common.png  used on input line 52.
 (pdftex.def)             Requested size: 159.65697pt x 103.67764pt.
-<images/1_IBS.png, id=199, 323.7696pt x 201.3924pt>
+<images/1_IBS.png, id=194, 323.7696pt x 201.3924pt>
 File: images/1_IBS.png Graphic file (type png)
 <use images/1_IBS.png>
 Package pdftex.def Info: images/1_IBS.png  used on input line 55.
 (pdftex.def)             Requested size: 161.8844pt x 100.69594pt.
  [10.10]
-<images/3_g_tr_BB.png, id=210, 214.401pt x 198.5016pt>
+<images/3_g_tr_BB.png, id=205, 214.401pt x 198.5016pt>
 File: images/3_g_tr_BB.png Graphic file (type png)
 <use images/3_g_tr_BB.png>
 Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 82.
 (pdftex.def)             Requested size: 160.80034pt x 148.87582pt.
-<images/3_eta_tr_BB.png, id=211, 230.7822pt x 182.6022pt>
+<images/3_eta_tr_BB.png, id=206, 230.7822pt x 182.6022pt>
 File: images/3_eta_tr_BB.png Graphic file (type png)
 <use images/3_eta_tr_BB.png>
 Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 85.
@@ -1967,29 +1961,32 @@ Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 85.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11.11 <./images/1_SC_common.png> <./images/1_IBS.png>]
-<images/2_twiss_3FODO_regular.png, id=219, 531.9875pt x 355.3275pt>
+<images/2_twiss_3FODO_regular.png, id=214, 531.9875pt x 355.3275pt>
 File: images/2_twiss_3FODO_regular.png Graphic file (type png)
 <use images/2_twiss_3FODO_regular.png>
 Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
 06.
 (pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
-<images/2_Twiss_Superperiod.png, id=220, 531.9875pt x 355.3275pt>
+<images/2_Twiss_Superperiod.png, id=215, 531.9875pt x 355.3275pt>
 File: images/2_Twiss_Superperiod.png Graphic file (type png)
 <use images/2_Twiss_Superperiod.png>
 Package pdftex.def Info: images/2_Twiss_Superperiod.png  used on input line 109
 .
 (pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
  [12.12 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
-<images/4_arc_B+E.png, id=229, 469.2732pt x 316.0608pt>
+<images/4_arc_B+E.png, id=224, 469.2732pt x 316.0608pt>
 File: images/4_arc_B+E.png Graphic file (type png)
 <use images/4_arc_B+E.png>
 Package pdftex.def Info: images/4_arc_B+E.png  used on input line 127.
 (pdftex.def)             Requested size: 164.24808pt x 110.62292pt.
-<images/4_arc_B+E_WF.png, id=230, 411.5375pt x 210.7875pt>
+<images/4_arc_B+E_WF.png, id=225, 411.5375pt x 210.7875pt>
 File: images/4_arc_B+E_WF.png Graphic file (type png)
 <use images/4_arc_B+E_WF.png>
 Package pdftex.def Info: images/4_arc_B+E_WF.png  used on input line 130.
 (pdftex.def)             Requested size: 144.04028pt x 73.77672pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [13.13 <./images/2_twiss_3FODO_regular.png> <./images/2_Twiss_Superperiod.png>
  <./images/4_arc_B+E.png> <./images/4_arc_B+E_WF.png>] (./common/concl.tex
 Underfull \vbox (badness 1210) has occurred while \output is active []
@@ -2249,10 +2246,10 @@ Package rerunfilecheck Info: File `synopsis.out' has not changed.
 (rerunfilecheck)             Checksum: FB1872FB025E030FD35C1B865F99CA1E;3051.
  ) 
 Here is how much of TeX's memory you used:
- 38846 strings out of 474116
- 746772 string characters out of 5743682
+ 38843 strings out of 474116
+ 746795 string characters out of 5743682
  1941187 words of memory out of 5000000
- 60370 multiletter control sequences out of 15000+600000
+ 60372 multiletter control sequences out of 15000+600000
  575628 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,14n,98p,2445b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2276,10 +2273,10 @@ f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-
 dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-di
 st/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2024/texmf-dist
 /fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on synopsis.pdf (18 pages, 675763 bytes).
+Output written on synopsis.pdf (18 pages, 675656 bytes).
 PDF statistics:
- 381 PDF objects out of 1000 (max. 8388607)
- 308 compressed objects within 4 object streams
- 90 named destinations out of 1000 (max. 500000)
+ 376 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
  224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
