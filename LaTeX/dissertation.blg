@@ -1,0 +1,54 @@
+This is 8-bit Big BibTeX version 0.99d-x4.02 (TeX Live 2024)
+Implementation:  C for Unix
+Release version: 4.02 (16 dec 2023)
+
+The 8-bit codepage and sorting file: utf8cyrillic.csf
+The top-level auxiliary file: dissertation.aux
+The style file: BibTeX-Styles/utf8gost71u.bst
+A level-1 auxilliary file: Dissertation/title.aux
+A level-1 auxilliary file: Dissertation/contents.aux
+A level-1 auxilliary file: Dissertation/introduction.aux
+A level-1 auxilliary file: Dissertation/part1.aux
+A level-1 auxilliary file: Dissertation/part2.aux
+A level-1 auxilliary file: Dissertation/part3.aux
+A level-1 auxilliary file: Dissertation/part4.aux
+A level-1 auxilliary file: Dissertation/conclusion.aux
+A level-1 auxilliary file: Dissertation/acronyms.aux
+A level-1 auxilliary file: Dissertation/dictionary.aux
+A level-1 auxilliary file: Dissertation/references.aux
+A level-1 auxilliary file: Dissertation/lists.aux
+Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
+Reallocated global_strs (elt_size=200001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=8) to 10 items from 0.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Database file #1: biblio/external.bib
+Database file #2: biblio/author.bib
+Warning--I didn't find a database entry for "u-70"
+Warning--I didn't find a database entry for "u-70_jump"
+Warning--I didn't find a database entry for "?"
+Warning--I didn't find a database entry for "laclare"
+Warning--I didn't find a database entry for "sc"
+Warning--I didn't find a database entry for "bb"
+Warning--I didn't find a database entry for "malyshev"
+Warning--I didn't find a database entry for "bbcern"
+Warning--I didn't find a database entry for "blond1"
+ptr=1, stack=
+{Revision of Intrabeam Scattering with Non-Ultrarelativistic Corrections and Vertical Dispersion for MAD-X}
+---the literal stack isn't empty for entry antoniou:ibs
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
+Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
+Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
+Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
+Warning--empty journal in AGSproposal
+
+Here's how much of BibTeX's memory you used:
+ Cites:                49 out of 750
+ Fields:             1682 out of 5000
+ Hash table:         9655 out of 10000
+ Strings:            1093 out of 10000
+ Free string pool:  19883 out of 65000
+ Wizard functions:   3126 out of 6000
+(There were 4 error messages)

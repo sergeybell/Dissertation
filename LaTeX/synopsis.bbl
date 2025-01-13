@@ -14,25 +14,6 @@
   Yu.V.~Senichev~// \BibEmph{Chinese Physics C}. ---
 \newblock 2025.
 
-\bibitem{Kolokolchikov:2021trans}
-\selectlanguageifdefined{english}
-\BibEmph{Kolokolchikov~S.~D., Senichev~Y.~V.} Magneto-Optical Structure of the
-  NICA Collider with High Transition Energy~// \BibEmph{Physics of Atomic
-  Nuclei}. ---
-\newblock 2021. ---
-\newblock Vol.~84, no.~10. ---
-\newblock Pp.~1734--1742. ---
-\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778821100185}.
-
-\bibitem{Kolokolchikov:2023_pecular}
-\selectlanguageifdefined{english}
-\BibEmph{Kolokolchikov~S., Senichev~Yu.} Peculiarities of Crossing and Raising
-  the Synchrotron Transition Energy~// \BibEmph{Physics of Atomic Nuclei}. ---
-\newblock 2023. ---
-\newblock Vol.~86, no.~10. ---
-\newblock Pp.~2260--2264. ---
-\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110236}.
-
 \bibitem{Syresin:2021_polar}
 \selectlanguageifdefined{english}
 Formation of Polarized Proton Beams in the NICA Collider-Accelerator Complex~/
@@ -87,6 +68,25 @@ Transition Energy Crossing of Polarized Proton Beam at NICA~/ S.~Kolokolchikov,
 \newblock Pp.~212--215. ---
 \newblock URL: \BibUrl{https://doi.org/10.1134/S1063778824700054}.
 
+\bibitem{Kolokolchikov:2021trans}
+\selectlanguageifdefined{english}
+\BibEmph{Kolokolchikov~S.~D., Senichev~Y.~V.} Magneto-Optical Structure of the
+  NICA Collider with High Transition Energy~// \BibEmph{Physics of Atomic
+  Nuclei}. ---
+\newblock 2021. ---
+\newblock Vol.~84, no.~10. ---
+\newblock Pp.~1734--1742. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778821100185}.
+
+\bibitem{Kolokolchikov:2023_pecular}
+\selectlanguageifdefined{english}
+\BibEmph{Kolokolchikov~S., Senichev~Yu.} Peculiarities of Crossing and Raising
+  the Synchrotron Transition Energy~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~10. ---
+\newblock Pp.~2260--2264. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110236}.
+
 \bibitem{Senichev:2023_QFS}
 \selectlanguageifdefined{english}
 Quasi-frozen spin concept of magneto-optical structure of NICA adapted to study
@@ -97,6 +97,23 @@ Quasi-frozen spin concept of magneto-optical structure of NICA adapted to study
 \newblock Vol. 2420, no.~1. ---
 \newblock P.~012052. ---
 \newblock URL: \BibUrl{https://dx.doi.org/10.1088/1742-6596/2420/1/012052}.
+
+\bibitem{Senichev:2023_nuclotron}
+\selectlanguageifdefined{english}
+Consideration of an Adapted Nuclotron Structure for Searching for the Electric
+  Dipole Moment of Light Nuclei~/ Yu.~V.~Senichev, A.~E.~Aksentyev,
+  S.~D.~Kolokolchikov et~al.~// \BibEmph{Physics of Atomic Nuclei}. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~11. ---
+\newblock Pp.~2434--2438. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110418}.
+
+\bibitem{Kolokolchikov:2025_nuclotron}
+\selectlanguageifdefined{english}
+(to be written) Modernization of Nuclotron as booster for NICA and EDM
+  experiment~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
+  Yu.V.~Senichev~// \BibEmph{JETP Letters}. ---
+\newblock 2025.
 
 \bibitem{Kolokolchikov:2023_bypass}
 \selectlanguageifdefined{english}
@@ -127,23 +144,6 @@ NICA Facilities for the Search for EDM Light Nuclei~/ Yu.~Senichev,
 \newblock Vol.~87, no.~4. ---
 \newblock Pp.~436--441. ---
 \newblock URL: \BibUrl{https://doi.org/10.1134/S1063778824700534}.
-
-\bibitem{Senichev:2023_nuclotron}
-\selectlanguageifdefined{english}
-Consideration of an Adapted Nuclotron Structure for Searching for the Electric
-  Dipole Moment of Light Nuclei~/ Yu.~V.~Senichev, A.~E.~Aksentyev,
-  S.~D.~Kolokolchikov et~al.~// \BibEmph{Physics of Atomic Nuclei}. ---
-\newblock 2023. ---
-\newblock Vol.~86, no.~11. ---
-\newblock Pp.~2434--2438. ---
-\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110418}.
-
-\bibitem{Kolokolchikov:2025_nuclotron}
-\selectlanguageifdefined{english}
-(to be written) Modernization of Nuclotron as booster for NICA and EDM
-  experiment~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
-  Yu.V.~Senichev~// \BibEmph{JETP Letters}. ---
-\newblock 2025.
 
 \bibitem{Kolokolchikov:2023_sc}
 \selectlanguageifdefined{english}

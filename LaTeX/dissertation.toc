@@ -2,64 +2,62 @@
 \babel@toc {russian}{}\relax 
 \tocheader 
 \contentsline {chapter}{Введение}{5}{chapter*.2}%
-\contentsline {chapter}{\chapternumberline {1}Особенности двойственной магнитооптической структуры для ускорения тяжелых ионов и легких частиц частиц}{15}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Дуальность магнитооптической структуры для тяжелых ионов и легких ядер}{15}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Оптимизация времени жизни пучка}{16}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Стохастическое охлаждение}{16}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Внутрипучковое рассеяние в регулярной, резонансной и комбинированной структурах}{21}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Выбор критической энергии в магнитооптической структуре с учетом ускорения тяжелых ионов и легких частиц.}{23}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Критическая энергия}{23}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Адаптация структуры для эксперимента с легкими поляризованными частицами}{25}{subsection.1.3.2}%
-\contentsline {chapter}{\chapternumberline {2}Прохождение критической энергии в регулярной магнитооптической структуре синхротрона}{27}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Построение регулярной структуры на основе ячеек ФОДО, ФДО, ОДФДО}{28}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Подавление дисперсии в регулярных арках с missing magnet и/или квадруполями с варьируемыми градиентами}{29}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Прохождение критической энергии}{29}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Численное моделирование динамики продольного движения}{29}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Стабильность продольного фазового движения вблизи критической энергии}{30}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Влияние индуктивного импеданса}{32}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Процедура скачка критической энергии}{33}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Особенности процедуры скачка критической энергии в синхротроне У-70}{35}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Особенности процедуры скачка критической энергии в синхротроне NICA для протонного пучка}{41}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Обеспечение стабильности пучка с точки зрения динамической апертуры при процедуре скачка критической энергии}{43}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Оценка возможности использования гармонического ВЧ}{45}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Применение барьерного ВЧ}{46}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Продольная микроволновая неустойчивость}{52}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Сохранение поляризации при прохождении критической энергии}{55}{subsection.2.4.5}%
-\contentsline {chapter}{\chapternumberline {3}Регулирование критической энергии методом резонансной вариации дисперсионной функции}{58}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Введение суперпериодической модуляция}{59}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Построение резонансной структуры на основе ячеек ФОДО, ФДО, ОДФДО}{61}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Регулярная ФОДО структура с суперпериодической модуляцией градиентов линз}{63}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Подавление дисперсии на краях поворотных арок}{65}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Полностью регулярная магнитооптическая структура}{66}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Подавление дисперсии при помощи крайних суперпериодов}{66}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Подавление дисперсии всей аркой, при помощи выбора градиентов квадруполей двух семейств.}{68}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Исследование динамической апертуры в синхротроне с учетом требуемой модуляции дисперсионной функции для повышения критической энергии}{71}{section.3.5}%
-\contentsline {chapter}{\chapternumberline {4}Изучение особенностей магнитооптической структуры синхротронов для ускорения поляризованных пучков с учётом возможности изучения ЭДМ}{75}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Орбитальная и спиновая динамика в электромагнитных полях}{76}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Общий концепт квазизамороженной структуры}{78}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Длина компенсирующего элемента с электрической компонентой}{81}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Влияние сорта частиц на особенности спиновой динамики}{81}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Определение оптимальной энергии эксперимента}{82}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Использование Nuclotron в качестве бустера легких поляризованных частиц в коллайдер NICA}{82}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Требвания к магнитооптической структуре синхротронов NICA-Nuclotron в задаче исследования электрического дипольного момента легких ядер}{84}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Магнитооптика Nuclotron}{85}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}8-периодическая структура}{85}{subsection.4.5.1}%
-\contentsline {subsubsection}{Немодернизированная 8-периодическая структура}{85}{section*.51}%
-\contentsline {subsubsection}{Модернизированная 8-периодическая структура}{86}{section*.52}%
-\contentsline {subsection}{\numberline {4.5.2}Модернизированная 16-периодическая структура}{86}{subsection.4.5.2}%
-\contentsline {section}{\numberline {4.6}Адаптация существующей структуры синхротрона NICA для реализации режима «квази-замороженного спина»}{87}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Предпосылки модернизации главного кольца NICA}{87}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Метод введения ByPass c расположенными на них Wien filters}{90}{subsection.4.6.2}%
-\contentsline {subsubsection}{Первичная схема с 3 квадруполями}{91}{section*.54}%
-\contentsline {subsubsection}{Схема ByPass с 5 квадруполями}{91}{section*.57}%
-\contentsline {subsubsection}{Окончательный вариант}{92}{section*.60}%
-\contentsline {section}{\numberline {4.7}Спин-орбитальная динамика пучка в Wien filters, спин-орбитальный трекинг в магнитном кольце со скрещенными E+B элементами}{95}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Декогеренция спина}{95}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Секступольная коррекция}{96}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Коррекция $\upalpha _{1}, \upeta _{1}$}{99}{subsection.4.7.3}%
-\contentsline {subsection}{\numberline {4.7.4}Вывод}{100}{subsection.4.7.4}%
-\contentsline {chapter}{Заключение}{103}{chapter*.68}%
-\contentsline {chapter}{Словарь терминов}{105}{chapter*.69}%
-\contentsline {chapter}{Список литературы}{106}{chapter*.70}%
-\contentsline {chapter}{Список рисунков}{110}{section*.71}%
-\contentsline {chapter}{Список таблиц}{114}{section*.72}%
+\contentsline {chapter}{\chapternumberline {1}Особенности двойственной магнитооптической структуры для ускорения тяжелых ионов и легких частиц частиц}{16}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Дуальность магнитооптической структуры для тяжелых ионов и легких ядер}{16}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Оптимизация времени жизни пучка}{17}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Стохастическое охлаждение}{17}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Внутрипучковое рассеяние в регулярной, резонансной и комбинированной структурах}{22}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Выбор критической энергии в магнитооптической структуре с учетом ускорения тяжелых ионов и легких частиц.}{24}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Критическая энергия}{24}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Адаптация структуры для эксперимента с легкими поляризованными частицами}{26}{subsection.1.3.2}%
+\contentsline {chapter}{\chapternumberline {2}Прохождение критической энергии в регулярной магнитооптической структуре синхротрона}{28}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Построение регулярной структуры на основе ячеек ФОДО, ФДО, ОДФДО}{29}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Подавление дисперсии в регулярных арках с missing magnet и/или квадруполями с варьируемыми градиентами}{30}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Прохождение критической энергии}{30}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Численное моделирование динамики продольного движения}{30}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Стабильность продольного фазового движения вблизи критической энергии}{31}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Влияние индуктивного импеданса}{33}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Процедура скачка критической энергии}{34}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Особенности процедуры скачка критической энергии в синхротроне У-70}{36}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Особенности процедуры скачка критической энергии в синхротроне NICA для протонного пучка}{42}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Обеспечение стабильности пучка с точки зрения динамической апертуры при процедуре скачка критической энергии}{44}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Оценка возможности использования гармонического ВЧ}{46}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Применение барьерного ВЧ}{47}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Продольная микроволновая неустойчивость}{53}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Сохранение поляризации при прохождении критической энергии}{56}{subsection.2.4.5}%
+\contentsline {chapter}{\chapternumberline {3}Регулирование критической энергии методом резонансной вариации дисперсионной функции}{59}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Введение суперпериодической модуляция}{60}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Построение резонансной структуры на основе ячеек ФОДО, ФДО, ОДФДО}{62}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Регулярная ФОДО структура с суперпериодической модуляцией градиентов линз}{64}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Подавление дисперсии на краях поворотных арок}{66}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Полностью регулярная магнитооптическая структура}{67}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Подавление дисперсии при помощи крайних суперпериодов}{67}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Подавление дисперсии всей аркой, при помощи выбора градиентов квадруполей двух семейств.}{69}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Исследование динамической апертуры в синхротроне с учетом требуемой модуляции дисперсионной функции для повышения критической энергии}{72}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {4}Изучение особенностей магнитооптической структуры синхротронов для ускорения поляризованных пучков с учётом возможности изучения ЭДМ}{76}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Орбитальная и спиновая динамика в электромагнитных полях}{77}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Общий концепт квазизамороженной структуры}{79}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Длина компенсирующего элемента с электрической компонентой}{82}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Влияние сорта частиц на особенности спиновой динамики}{83}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Определение оптимальной энергии эксперимента}{83}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Использование Nuclotron в качестве бустера легких поляризованных частиц в коллайдер NICA}{84}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Требвания к магнитооптической структуре синхротронов NICA-Nuclotron в задаче исследования электрического дипольного момента легких ядер}{86}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Магнитооптика Nuclotron}{87}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}8-периодическая структура}{87}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Модернизированная 16-периодическая структура}{88}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Адаптация существующей структуры синхротрона NICA для реализации режима «квази-замороженного спина»}{89}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Предпосылки модернизации главного кольца NICA}{89}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Метод введения ByPass c расположенными на них Wien filters}{92}{subsection.4.6.2}%
+\contentsline {subsubsection}{Первичная схема с 3 квадруполями}{93}{section*.53}%
+\contentsline {subsubsection}{Схема ByPass с 5 квадруполями}{93}{section*.56}%
+\contentsline {subsubsection}{Окончательный вариант}{94}{section*.59}%
+\contentsline {section}{\numberline {4.7}Спин-орбитальная динамика пучка в Wien filters, спин-орбитальный трекинг в магнитном кольце со скрещенными E+B элементами}{97}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Декогеренция спина}{97}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Секступольная коррекция}{98}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Коррекция $\upalpha _{1}, \upeta _{1}$}{101}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Вывод}{102}{subsection.4.7.4}%
+\contentsline {chapter}{Заключение}{105}{chapter*.67}%
+\contentsline {chapter}{Словарь терминов}{107}{chapter*.68}%
+\contentsline {chapter}{Список литературы}{108}{chapter*.69}%
+\contentsline {chapter}{Список рисунков}{114}{section*.70}%
+\contentsline {chapter}{Список таблиц}{119}{section*.71}%

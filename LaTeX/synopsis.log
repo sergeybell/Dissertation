@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  27 DEC 2024 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.27)  10 JAN 2025 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1838,15 +1838,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--44
  []
 
 [2.2 <./images/secretary-signature.png>] (./Synopsis/content.tex
-(./common/characteristic.tex [3.3
+(./common/characteristic.tex
+
+LaTeX Warning: Citation `lhc:heavy_ions' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Citation `rhic:design' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Citation `MPD' on page 3 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Ladygin:SPD' on page 3 undefined on input line 5.
+
+
+Underfull \vbox (badness 7308) has occurred while \output is active []
+
+ [3.3
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4.4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5.5]
+[4.4] [5.5]
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
@@ -1857,177 +1868,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--34
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-[6.6]
-Overfull \hbox (3.34505pt too wide) in paragraph at lines 56--57
-[]\T2A/cmr/m/n/10 Применен ме^^?тод про^^?ек^^?ти^^?ро^^?ва^^?ния "ре^^?зо^^?на
-нс^^?ной"магнитооптической
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \vbox (badness 4621) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7.7]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+ [6.6]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[7.7]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 Excluding 'comment' comment.
-Underfull \hbox (badness 10000) in paragraph at lines 78--92
+Underfull \hbox (badness 10000) in paragraph at lines 75--89
 []$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ны^^?ми ме^^?то^^?да^^?ми
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 78--92
+Underfull \hbox (badness 1852) in paragraph at lines 75--89
 \T2A/cmr/m/n/10 ис^^?сле^^?до^^?ва^^?ния яв^^?ля^^?ют^^?ся ма^^?те^^?ма^^?ти^^?
 че^^?ское и ком^^?пью^^?тер^^?ное мо^^?де^^?ли^^?ро^^?ва^^?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--92
+Underfull \hbox (badness 10000) in paragraph at lines 75--89
+
+ []
+
+Excluding 'comment' comment.
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+ [8.8]
+Underfull \hbox (badness 1502) in paragraph at lines 109--110
+\T2A/cmr/m/n/10 до^^?ва^^?ния элек^^?три^^?че^^?ско^^?го ди^^?поль^^?но^^?го мо
+^^?мен^^?та в струк^^?ту^^?рах с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
 []$[]$ \T2A/cmr/m/n/10 по^^?лу^^?чен^^?ных ре^^?зуль^^?та^^?тов под^^?твер^^?жд
 а^^?ет^^?ся со^^?
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 105--107
+Underfull \hbox (badness 5260) in paragraph at lines 114--116
 \T2A/cmr/m/n/10 гла^^?со^^?ва^^?ни^^?ем ана^^?ли^^?ти^^?че^^?ских вы^^?чис^^?ле
 ^^?ний с ре^^?зуль^^?та^^?та^^?ми чис^^?лен^^?ных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 107--110
-[]$[]$ \T2A/cmr/m/n/10 Ос^^?нов^^?ные ре^^?зуль^^?та^^?ты ра^^?бо^^?ты до^^?кла
-^^?ды^^?ва^^?
- []
-
-[8.8]
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
  []
 
-) [9.9]
-<images/1_SC_common.png, id=193, 483.8075pt x 314.17375pt>
+[9.9])
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [10.10]
+<images/1_SC_common.png, id=203, 483.8075pt x 314.17375pt>
 File: images/1_SC_common.png Graphic file (type png)
 <use images/1_SC_common.png>
 Package pdftex.def Info: images/1_SC_common.png  used on input line 52.
 (pdftex.def)             Requested size: 159.65697pt x 103.67764pt.
-<images/1_IBS.png, id=194, 323.7696pt x 201.3924pt>
+<images/1_IBS.png, id=204, 323.7696pt x 201.3924pt>
 File: images/1_IBS.png Graphic file (type png)
 <use images/1_IBS.png>
 Package pdftex.def Info: images/1_IBS.png  used on input line 55.
 (pdftex.def)             Requested size: 161.8844pt x 100.69594pt.
- [10.10]
-<images/3_g_tr_BB.png, id=205, 214.401pt x 198.5016pt>
+
+[11.11 <./images/1_SC_common.png> <./images/1_IBS.png>]
+<images/3_g_tr_BB.png, id=212, 214.401pt x 198.5016pt>
 File: images/3_g_tr_BB.png Graphic file (type png)
 <use images/3_g_tr_BB.png>
 Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 82.
 (pdftex.def)             Requested size: 160.80034pt x 148.87582pt.
-<images/3_eta_tr_BB.png, id=206, 230.7822pt x 182.6022pt>
+<images/3_eta_tr_BB.png, id=213, 230.7822pt x 182.6022pt>
 File: images/3_eta_tr_BB.png Graphic file (type png)
 <use images/3_eta_tr_BB.png>
 Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 85.
 (pdftex.def)             Requested size: 173.08621pt x 136.95131pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11.11 <./images/1_SC_common.png> <./images/1_IBS.png>]
-<images/2_twiss_3FODO_regular.png, id=214, 531.9875pt x 355.3275pt>
+ [12.12 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
+<images/2_twiss_3FODO_regular.png, id=221, 531.9875pt x 355.3275pt>
 File: images/2_twiss_3FODO_regular.png Graphic file (type png)
 <use images/2_twiss_3FODO_regular.png>
 Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
 06.
 (pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
-<images/2_Twiss_Superperiod.png, id=215, 531.9875pt x 355.3275pt>
+<images/2_Twiss_Superperiod.png, id=222, 531.9875pt x 355.3275pt>
 File: images/2_Twiss_Superperiod.png Graphic file (type png)
 <use images/2_Twiss_Superperiod.png>
 Package pdftex.def Info: images/2_Twiss_Superperiod.png  used on input line 109
 .
 (pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
- [12.12 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
-<images/4_arc_B+E.png, id=224, 469.2732pt x 316.0608pt>
+ [13.13 <./images/2_twiss_3FODO_regular.png> <./images/2_Twiss_Superperiod.png>
+]
+<images/4_arc_B+E.png, id=232, 469.2732pt x 316.0608pt>
 File: images/4_arc_B+E.png Graphic file (type png)
 <use images/4_arc_B+E.png>
-Package pdftex.def Info: images/4_arc_B+E.png  used on input line 127.
+Package pdftex.def Info: images/4_arc_B+E.png  used on input line 128.
 (pdftex.def)             Requested size: 164.24808pt x 110.62292pt.
-<images/4_arc_B+E_WF.png, id=225, 411.5375pt x 210.7875pt>
+<images/4_arc_B+E_WF.png, id=233, 411.5375pt x 210.7875pt>
 File: images/4_arc_B+E_WF.png Graphic file (type png)
 <use images/4_arc_B+E_WF.png>
-Package pdftex.def Info: images/4_arc_B+E_WF.png  used on input line 130.
+Package pdftex.def Info: images/4_arc_B+E_WF.png  used on input line 131.
 (pdftex.def)             Requested size: 144.04028pt x 73.77672pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13.13 <./images/2_twiss_3FODO_regular.png> <./images/2_Twiss_Superperiod.png>
- <./images/4_arc_B+E.png> <./images/4_arc_B+E_WF.png>] (./common/concl.tex
-Underfull \vbox (badness 1210) has occurred while \output is active []
-
- [14.14]
-Underfull \hbox (badness 1917) in paragraph at lines 9--10
-[]\T2A/cmr/m/n/10 Для ис^^?сле^^?до^^?ва^^?ния спи^^?но^^?вой ди^^?на^^?ми^^?ки
- и ре^^?а^^?ли^^?за^^?ции "квази-^^?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+ [14.14 <./images/4_arc_B+E.png> <./images/4_arc_B+E_WF.png>] (./common/concl.t
+ex [15.15]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 []\T2A/cmr/m/n/10 Рассмотрена мо^^?дер^^?ни^^?зи^^?ро^^?ван^^?ная струк^^?ту^^?
 ра син^^?хро^^?тро^^?на
  []
 
 
-Underfull \hbox (badness 4144) in paragraph at lines 10--11
+Underfull \hbox (badness 4144) in paragraph at lines 16--17
 \T2A/cmr/m/n/10 Nuclotron с со^^?хра^^?не^^?ни^^?ем функ^^?ции бу^^?сте^^?ра по
 ^^?ля^^?ри^^?зо^^?ван^^?но^^?го
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15.15])
-(./synopsis.bbl
+) (./synopsis.bbl
 bibitemlist
-
-Underfull \hbox (badness 1533) in paragraph at lines 83--89
+[16.16]
+Underfull \hbox (badness 1533) in paragraph at lines 64--70
 []\T2A/cmr/m/n/10 Transition En^^?er^^?gy Cross^^?ing of Po^^?lar^^?ized Pro^^?
 ton Beam at NICA /
  []
 
-[16.16]
+[17.17]
 Underfull \hbox (badness 2351) in paragraph at lines 150--157
 []\T2A/cmr/m/n/10 Spin Co^^?her^^?ence and Be^^?ta^^?tron Chro^^?matic^^?i^^?ty
  of Deuteron Beam in
  []
 
-)) [17.17] [18.18]
+)) [18.18] [19.19] [20.20
+
+]
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -2240,16 +2235,19 @@ synopsis.bbl
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `synopsis.out' has not changed.
 (rerunfilecheck)             Checksum: FB1872FB025E030FD35C1B865F99CA1E;3051.
  ) 
 Here is how much of TeX's memory you used:
- 38843 strings out of 474116
- 746795 string characters out of 5743682
- 1941187 words of memory out of 5000000
- 60372 multiletter control sequences out of 15000+600000
+ 38849 strings out of 474116
+ 746856 string characters out of 5743682
+ 1940187 words of memory out of 5000000
+ 60376 multiletter control sequences out of 15000+600000
  575628 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,14n,98p,2445b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2273,10 +2271,10 @@ f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-
 dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-di
 st/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2024/texmf-dist
 /fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on synopsis.pdf (18 pages, 675656 bytes).
+Output written on synopsis.pdf (20 pages, 683896 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 310 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
  224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
