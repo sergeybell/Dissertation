@@ -1,0 +1,6 @@
+PWD /Users/Bell/GIT_REPOS/Dissertation/LaTeX/Dissertation
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT part2.tex
+OUTPUT part2.log

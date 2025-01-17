@@ -319,10 +319,54 @@ MADX. ---
   PIP-II. ---
 \newblock URL: \BibUrl{FERMILAB-CONF-17-143-AD}.
 
+\bibitem{pashkov:transition}
+\selectlanguageifdefined{english}
+\BibEmph{Pashkov~P.~T.} {Measuring inductive component of longitudinal coupling
+  impedance in IHEP PS using gamma-transition jump}~// {19th Russian
+  Accelerator Conferences}. ---
+\newblock 2004. --- 10.
+
+\bibitem{hans:bb}
+\selectlanguageifdefined{english}
+\BibEmph{Stockhorst~H}. Beam Cooling at COSY and HESR: Ph.D. thesis. ---
+\newblock 2016.
+
+\bibitem{autin:dispersion}
+\selectlanguageifdefined{english}
+\BibEmph{Autin~B.} {DISPERSION SUPPRESSION WITH MISSING MAGNETS IN A FODO
+  STRUCTURE - APPLICATION TO THE CERN ANTI-PROTON ACCUMULATOR.}~//
+  \BibEmph{IEEE Trans. Nucl. Sci.} ---
+\newblock 1979. ---
+\newblock Vol.~26. ---
+\newblock Pp.~3493--3495.
+
 \bibitem{blond}
 \selectlanguageifdefined{english}
 BLonD. ---
 \newblock URL: \BibUrl{https://blond.web.cern.ch/}.
+
+\bibitem{laclare:inst}
+\selectlanguageifdefined{english}
+\BibEmph{Laclare~J.~L.} {Coasting beam longitudinal coherent instabilities}~//
+  {CERN Accelerator School: Course on General Accelerator Physics}. ---
+\newblock 1992. ---
+\newblock Pp.~349--384.
+
+\bibitem{weilee:sc}
+\selectlanguageifdefined{english}
+\BibEmph{J.~Wei~S. Y.~Lee}. Space Charge Effect at Transition Energy and the
+  Transfer of R.F. System at Top Energy. ---
+\newblock 2021. ---
+\newblock URL: \BibUrl{BNL-41667}.
+
+\bibitem{cherniy:ihep}
+\selectlanguageifdefined{english}
+\BibEmph{Черный~С. А.} Ускорительный комплекс
+  ИФВЭ~// \BibEmph{Физика элементарных частиц и
+  атомного ядра}. ---
+\newblock 1991. ---
+\newblock Vol.~22, no.~5. ---
+\newblock P.~1067.
 
 \bibitem{optim}
 \selectlanguageifdefined{english}
@@ -339,6 +383,21 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \newblock Pp.~373--375. ---
 \newblock https://doi.org/10.18429/JACoW-RuPAC2021-WEPSC15. URL:
   \BibUrl{https://jacow.org/rupac2021/papers/wepsc15.pdf}.
+
+\bibitem{cern:bb}
+\selectlanguageifdefined{english}
+\BibEmph{Vadai~Mihaly}. Beam Loss Reduction by Barrier Buckets in the CERN
+  Accelerator Complex. ---
+\newblock CERN, Geneva, 2021.
+
+\bibitem{meshkov:luminocity}
+\selectlanguageifdefined{english}
+\BibEmph{Meshkov~I.~N.} Luminosity of an Ion Collider~// \BibEmph{Physics of
+  Particles and Nuclei}. ---
+\newblock 2019. ---
+\newblock Vol.~50, no.~6. ---
+\newblock Pp.~663--682. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063779619060042}.
 
 \bibitem{sakharov}
 \selectlanguageifdefined{english}
@@ -419,5 +478,18 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \newblock 1985. ---
 \newblock Vol. 241. ---
 \newblock Pp.~435--440.
+
+\bibitem{kovalenko:nuclotron}
+\selectlanguageifdefined{english}
+\BibEmph{Kovalenko~Alexander et~al.} {Nuclotron at JINR: Operation Experience
+  and Recent Development}~// {13th International Conference on Heavy Ion
+  Accelerator Technology}. ---
+\newblock 2016. ---
+\newblock P.~MOPA19.
+
+\bibitem{cosy}
+\selectlanguageifdefined{english}
+COSY Infinity. ---
+\newblock URL: \BibUrl{https://www.cosyinfinity.org}.
 
 \end{thebibliography}
