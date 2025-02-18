@@ -287,7 +287,7 @@ MADX. ---
 
 \bibitem{kostromin:stochastic}
 \selectlanguageifdefined{english}
-\BibEmph{Костромин С.А.~Мешков~И.Н.~Сидорин А.О.
+\BibEmph{Костромин~С.А.~Мешков~И.Н.~Сидорин А.О.
   Смирнов А.В. Трубников Г.В. Шурхно~Н.А.}
   Применение методов охлаждения пучков в
   проекте NICA~// \BibEmph{Письма в ЭЧАЯ}. ---
@@ -361,7 +361,7 @@ BLonD. ---
 
 \bibitem{cherniy:ihep}
 \selectlanguageifdefined{english}
-\BibEmph{Черный~С. А.} Ускорительный комплекс
+\BibEmph{А.~Черный~С.} Ускорительный комплекс
   ИФВЭ~// \BibEmph{Физика элементарных частиц и
   атомного ядра}. ---
 \newblock 1991. ---
