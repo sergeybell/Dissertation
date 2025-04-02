@@ -407,6 +407,77 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \newblock Vol.~5. ---
 \newblock Pp.~32--35.
 
+\bibitem{CP}
+\selectlanguageifdefined{english}
+Evidence for the $2\ensuremath{\pi}$ Decay of the $K_{2}^{0}$ Meson~/
+  J.~H.~Christenson, J.~W.~Cronin, V.~L.~Fitch, R.~Turlay. ---
+\newblock Vol.~13. ---
+\newblock Pp.~138--140. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.13.138}.
+
+\bibitem{P-violation}
+\selectlanguageifdefined{english}
+\BibEmph{Lee~T.~D.} A Theory of Spontaneous $T$ Violation. ---
+\newblock Vol.~8. ---
+\newblock Pp.~1226--1239. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevD.8.1226}.
+
+\bibitem{CKM}
+\selectlanguageifdefined{english}
+\BibEmph{Höcker~Andreas, Ligeti~Zoltan}. CP Violation and the CKM Matrix. ---
+\newblock Vol.~56, no. Volume 56, 2006. ---
+\newblock Pp.~501--567. ---
+\newblock URL:
+  \BibUrl{https://www.annualreviews.org/content/journals/10.1146/annurev.nucl.56.080805.140456}.
+
+\bibitem{CPstrong}
+\selectlanguageifdefined{english}
+\BibEmph{Baluni~Varouzhan}. $\mathrm{CP}$-nonconserving effects in quantum
+  chromodynamics. ---
+\newblock Vol.~19. ---
+\newblock Pp.~2227--2230. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevD.19.2227}.
+
+\bibitem{EMD_overview}
+\selectlanguageifdefined{english}
+\BibEmph{Pretz~J\"org}. {Electric Dipole Moment (EDM) searches for leptons and
+  hadrons}. ---
+\newblock Vol. HQL2023. ---
+\newblock P.~010.
+
+\bibitem{EDM}
+\selectlanguageifdefined{english}
+\BibEmph{Purcell~E.~M., Ramsey~N.~F.} On the Possibility of Electric Dipole
+  Moments for Elementary Particles and Nuclei. ---
+\newblock Vol.~78. ---
+\newblock Pp.~807--807. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRev.78.807}.
+
+\bibitem{NeutronEDM}
+\selectlanguageifdefined{english}
+\BibEmph{Smith~J.~H., Purcell~E.~M., Ramsey~N.~F.} Experimental Limit to the
+  Electric Dipole Moment of the Neutron. ---
+\newblock Vol. 108. ---
+\newblock Pp.~120--122. ---
+\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRev.108.120}.
+
+\bibitem{neutron_EDM_current}
+\selectlanguageifdefined{english}
+Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
+  S.~Afach, N.~J.~Ayres et~al. ---
+\newblock Vol. 124. ---
+\newblock P.~081803. ---
+\newblock URL:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.124.081803}.
+
+\bibitem{Ehrenfest}
+\selectlanguageifdefined{english}
+\BibEmph{Ehrenfest~P.} Bemerkung über die angenäherte Gültigkeit der
+  klassischen Mechanik innerhalb der Quantenmechanik. ---
+\newblock Vol.~45, no.~7. ---
+\newblock Pp.~455--457. ---
+\newblock URL: \BibUrl{https://doi.org/10.1007/BF01329203}.
+
 \bibitem{TBMT}
 \selectlanguageifdefined{english}
 \BibEmph{Bargmann~V., Michel~Louis, Telegdi~V.~L.} Precession of the
@@ -425,6 +496,23 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \newblock 2013. ---
 \newblock Vol.~28. ---
 \newblock P.~1350147.
+
+\bibitem{ST_Filatov}
+\selectlanguageifdefined{english}
+Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
+  Yu.~N.~Filatov, A.~M.~Kondratenko, M.~A.~Kondratenko et~al. ---
+\newblock Vol. 124. ---
+\newblock P.~194801. ---
+\newblock URL:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.124.194801}.
+
+\bibitem{Axion_Nikolaev}
+\selectlanguageifdefined{english}
+\BibEmph{Nikolaev~N.~N.} Spin of Protons in NICA and PTR Storage Rings as an
+  Axion Antenna. ---
+\newblock Vol. 115, no.~11. ---
+\newblock Pp.~639--643. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S0021364022600653}.
 
 \bibitem{nuclotron24}
 \selectlanguageifdefined{english}

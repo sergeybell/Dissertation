@@ -41,25 +41,26 @@
 \contentsline {figure}{\numberline {3.8}{\ignorespaces Динамическая аппретура для случая плавления дисперсии крайними квадруполями. Слева – x-плоскость; справа – y-плоскость.}}{72}{figure.caption.46}%
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Динамическая апертура в случае подавление дисперсии двумя семействами квадруполей. Слева – x-плоскость; справа – y-плоскость.}}{73}{figure.caption.47}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Вращение положительно заряженной частицы а) в магнитном поле; б) электростатическом поле.}}{77}{figure.caption.49}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Отклонение спин-вектора в арке относительно импульса в случае дейтрона}}{79}{figure.caption.50}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Зависимость длины компенсирующего элемента в зависимости от энергии сгустка на нуклон}}{83}{figure.caption.51}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Твисс-функции текущей регулярной структуры Nuclotron.}}{86}{figure.caption.52}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Принципиальная схема расстановки структуры Nuclotron с текущей расстановкой элементов и с введением электростатических дефлекторов.}}{86}{figure.caption.53}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Принципиальная схема расстановки восьмипериодической структуры Nuclotron с текущей расстановкой при введении электростатических дефлекторов.}}{88}{figure.caption.54}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Твисс-функции регулярной поворотной арки восьмипериодической модернизированной структуры Nuclotron.}}{88}{figure.caption.55}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Твисс-функции регулярной поворотной арки восьмипериодической модернизированной структуры Nuclotron с дефлекторами.}}{89}{figure.caption.56}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Принципиальная схема расстановки восьмипериодической структуры Nuclotron с текущей расстановкой при введении электростатических дефлекторов.}}{89}{figure.caption.57}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Твисс-функции 16-периодической модернизированной структуры Nuclotron без фильтров Вина.}}{90}{figure.caption.58}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Твисс-функции 16-периодической модернизированной структуры Nuclotron c фильтрами Вина.}}{90}{figure.caption.59}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Принципиальная схема обходных каналов ByPass в существующем комплексе NICA.}}{93}{figure.caption.60}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Принципиальная схема ByPass с 3 квадруполями.}}{94}{figure.caption.62}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Twiss-параметры для ByPass с 3 квадруполями. Черными линиями показано расположение дефлекторов.}}{94}{figure.caption.63}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Принципиальная схема ByPass с 5 квадруполями.}}{95}{figure.caption.65}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Twiss-параметры для ByPass с 5 квадруполями. Черными линиями показано расположение дефлекторов.}}{95}{figure.caption.66}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Принципиальная схема адаптированной структуры кольца NICA c ByPass.}}{96}{figure.caption.68}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Twiss-функции для половины адаптированной структуры кольца NICA c ByPass. Фильтры Вина, расположенные на прямом участке.}}{97}{figure.caption.69}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Twiss-параметры ByPass NICA для дейтронного режима в OptiM. Также показано расположение секступольных семейств.}}{99}{figure.caption.70}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 2 семейств секступолей для получения нулевой бетатронной хроматичности.}}{100}{figure.caption.71}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 3 семейств секступолей для получения спиновой когерентности.}}{102}{figure.caption.72}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Зависимость частоты прецессии спина от координат x, y, d для различных случаев оптимизации. NC – натуральная хроматичность (красная линия); BC – нулевая (бетатронная) хроматичность (синяя пунктирная линия); SC – спиновая когерентность (зеленая линия); $BC_{\upalpha }$ – нулевая хроматичность и $\upalpha _1=0$ (фиолетовая линия); $BC_{eta}$ – нулевая хроматичность и ноль $\upeta _1=0$ (светло-голубая линия).}}{103}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Схематическое изображение нарушение P- и Т-симметрии ненулевым электрическим дипольным моментом.}}{76}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Вращение положительно заряженной частицы а) в магнитном поле; б) электростатическом поле.}}{79}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Отклонение спин-вектора в арке относительно импульса в случае дейтрона}}{81}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Зависимость длины компенсирующего элемента в зависимости от энергии сгустка на нуклон}}{85}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Твисс-функции текущей регулярной структуры Nuclotron.}}{88}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Принципиальная схема расстановки структуры Nuclotron с текущей расстановкой элементов и с введением электростатических дефлекторов.}}{89}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Принципиальная схема расстановки восьмипериодической структуры Nuclotron с текущей расстановкой при введении электростатических дефлекторов.}}{90}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Твисс-функции регулярной поворотной арки восьмипериодической модернизированной структуры Nuclotron.}}{91}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Твисс-функции регулярной поворотной арки восьмипериодической модернизированной структуры Nuclotron с дефлекторами.}}{91}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Принципиальная схема расстановки восьмипериодической структуры Nuclotron с текущей расстановкой при введении электростатических дефлекторов.}}{92}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Твисс-функции 16-периодической модернизированной структуры Nuclotron без фильтров Вина.}}{92}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Твисс-функции 16-периодической модернизированной структуры Nuclotron c фильтрами Вина.}}{93}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Принципиальная схема обходных каналов ByPass в существующем комплексе NICA.}}{95}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Принципиальная схема ByPass с 3 квадруполями.}}{96}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Twiss-параметры для ByPass с 3 квадруполями. Черными линиями показано расположение дефлекторов.}}{97}{figure.caption.64}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Принципиальная схема ByPass с 5 квадруполями.}}{97}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Twiss-параметры для ByPass с 5 квадруполями. Черными линиями показано расположение дефлекторов.}}{98}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Принципиальная схема адаптированной структуры кольца NICA c ByPass.}}{99}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Twiss-функции для половины адаптированной структуры кольца NICA c ByPass. Фильтры Вина, расположенные на прямом участке.}}{99}{figure.caption.70}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Twiss-параметры ByPass NICA для дейтронного режима в OptiM. Также показано расположение секступольных семейств.}}{102}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 2 семейств секступолей для получения нулевой бетатронной хроматичности.}}{103}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Спиновый трексинг частиц с различным начальным отклонением в координатах x, y, d с использованием 3 семейств секступолей для получения спиновой когерентности.}}{104}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Зависимость частоты прецессии спина от координат x, y, d для различных случаев оптимизации. NC – натуральная хроматичность (красная линия); BC – нулевая (бетатронная) хроматичность (синяя пунктирная линия); SC – спиновая когерентность (зеленая линия); $BC_{\upalpha }$ – нулевая хроматичность и $\upalpha _1=0$ (фиолетовая линия); $BC_{eta}$ – нулевая хроматичность и ноль $\upeta _1=0$ (светло-голубая линия).}}{105}{figure.caption.74}%
