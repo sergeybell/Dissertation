@@ -1,5 +1,4 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {russian}{}
+\babel@toc {russian}{}\relax 
 \beamer@sectionintoc {1}{Списки}{4}{0}{1}
 \beamer@subsectionintoc {1}{1}{Нумерованные}{5}{0}{1}
 \beamer@subsectionintoc {1}{2}{Не нумерованные}{6}{0}{1}

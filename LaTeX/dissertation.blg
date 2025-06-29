@@ -19,24 +19,42 @@ Database file #1: biblio/external.bib
 Warning--entry type for "zinkevich" isn't style-file defined
 --line 2063 of file biblio/external.bib
 Database file #2: biblio/author.bib
-Warning--empty journal in j-park
-Warning--empty year in cern:q-jump
-ptr=1, stack=
-{Compensation of space-charge effects at transition by an asymmetric Q-jump: a theoretical study}
----the literal stack isn't empty for entry cern:q-jump
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty year in cern:new-jump
-Warning--empty journal in pi_trans
-Warning--empty journal in wo_trans
-Warning--empty year in kaon_tr
-Warning--empty journal in neutrino_tr
-Warning--empty journal in JHP_tr
-Warning--empty year in J-PARK_tr
-Warning--empty journal in spin_res
-Warning--empty journal in ST_Filatov
+Warning--empty journal in phase_transition_universe
+Warning--empty journal in neutron_stars
+Warning--empty journal in quark_gluon
+Warning--empty year in RHIC_luminosity_heavy
+Warning--empty journal in 2016_IBS
+Warning--empty journal in spin_crisis_1989
+Warning--empty journal in quarks_overview_2022
+Warning--empty journal in COSY_ANKE
+Warning--empty year in SATURNE
+Warning--empty journal in RHIC_2014
+Warning--empty journal in RHIC_luminosity
+Warning--empty journal in CP
+Warning--empty journal in P-violation
+Warning--empty journal in CKM
+Warning--empty journal in CPstrong
+Warning--empty journal in EMD_overview
+Warning--empty journal in EDM
+Warning--empty journal in NeutronEDM
+Warning--empty journal in neutron_EDM_current
 Warning--empty year in QFS
 Warning--empty journal in Axion_Nikolaev
+Warning--empty journal in j-park
+Too many commas in name 1 of "В.А. Матвеев, В.Д. Кекелидзе, Р. Ледницки, Б.Н. Гикал" for entry Tech_NICA
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+Warning--empty year in Tech_NICA
+ptr=1, stack=
+ТЕХНИЧЕСКИЙ ПРОЕКТ ОБЪЕКТА «КОМПЛЕКС NICA»
+---the literal stack isn't empty for entry Tech_NICA
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
 Warning--empty journal in bmad
+Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
 ptr=1, stack=
 {Revision of Intrabeam Scattering with Non-Ultrarelativistic Corrections and Vertical Dispersion for MAD-X}
 ---the literal stack isn't empty for entry antoniou:ibs
@@ -48,61 +66,64 @@ while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
 while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
 Warning--empty journal in MetralMohl
+Warning--empty year in cern:q-jump
+ptr=1, stack=
+{Compensation of space-charge effects at transition by an asymmetric Q-jump: a theoretical study}
+---the literal stack isn't empty for entry cern:q-jump
+while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+Warning--empty year in cern:new-jump
 Warning--empty school in hans:bb
 Warning--empty journal in weilee:sc
-Warning--empty journal in CP
-Warning--empty journal in P-violation
-Warning--empty journal in CKM
-Warning--empty journal in CPstrong
-Warning--empty journal in EMD_overview
-Warning--empty journal in EDM
-Warning--empty journal in NeutronEDM
-Warning--empty journal in neutron_EDM_current
+Warning--empty year in kaon_tr
+Warning--empty journal in neutrino_tr
+Warning--empty journal in JHP_tr
+Warning--empty year in J-PARK_tr
 Warning--empty journal in Ehrenfest
 Warning--empty journal in g-2
+Warning--empty journal in ST_Filatov
 Warning--empty journal in FDM
 Warning--empty journal in AGSproposal
 Warning--empty journal in Wien
 Warning--empty journal in 1000
-You've used 91 entries,
+You've used 99 entries,
             3126 wiz_defined-function locations,
-            1361 strings with 31062 characters,
-and the built_in function-call counts, 34312 in all, are:
-= -- 4288
-> -- 896
-< -- 175
-+ -- 293
-- -- 202
-* -- 1923
-:= -- 3555
-add.period$ -- 385
-call.type$ -- 91
+            1418 strings with 40827 characters,
+and the built_in function-call counts, 36718 in all, are:
+= -- 4580
+> -- 972
+< -- 191
++ -- 318
+- -- 219
+* -- 2022
+:= -- 3811
+add.period$ -- 411
+call.type$ -- 99
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 122
-duplicate$ -- 1772
-empty$ -- 3144
-format.name$ -- 202
-if$ -- 8983
+cite$ -- 139
+duplicate$ -- 1926
+empty$ -- 3362
+format.name$ -- 219
+if$ -- 9641
 int.to.chr$ -- 0
-int.to.str$ -- 91
+int.to.str$ -- 99
 missing$ -- 0
-newline$ -- 609
-num.names$ -- 249
-pop$ -- 533
+newline$ -- 653
+num.names$ -- 273
+pop$ -- 596
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1489
+skip$ -- 1609
 stack$ -- 0
-substring$ -- 1815
-swap$ -- 1408
-text.length$ -- 93
+substring$ -- 1822
+swap$ -- 1517
+text.length$ -- 101
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 31
-while$ -- 242
-width$ -- 93
-write$ -- 1627
-(There were 5 error messages)
+warning$ -- 40
+while$ -- 255
+width$ -- 101
+write$ -- 1741
+(There were 10 error messages)
