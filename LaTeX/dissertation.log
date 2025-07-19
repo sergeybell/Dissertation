@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  30 JUN 2025 00:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  15 JUL 2025 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4015,7 +4015,7 @@ Package rerunfilecheck Info: File `dissertation.out' has not changed.
 Here is how much of TeX's memory you used:
  45036 strings out of 473200
  863103 string characters out of 5720278
- 1361993 words of memory out of 5000000
+ 1361996 words of memory out of 5000000
  66857 multiletter control sequences out of 15000+600000
  580962 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
