@@ -254,35 +254,6 @@ The MPD detector at the NICA heavy-ion collider at JINR~/ Kh.U.~Abraamyan,
 \newblock URL:
   \BibUrl{https://nica.jinr.ru/documents/TDR_spec_Fin0_for_site_short.pdf}.
 
-\bibitem{madx}
-\selectlanguageifdefined{english}
-MADX. ---
-\newblock URL: \BibUrl{https://madx.web.cern.ch/}.
-
-\bibitem{optim}
-\selectlanguageifdefined{english}
-http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
-\newblock URL: \BibUrl{https://blond.web.cern.ch/}.
-
-\bibitem{bmad}
-\selectlanguageifdefined{english}
-\BibEmph{Sagan~D.} {Bmad: A relativistic charged particle simulation library}.
-  ---
-\newblock Vol. A558, no.~1. ---
-\newblock Pp.~356--359. ---
-\newblock Proceedings of the 8th International Computational Accelerator
-  Physics Conference.
-
-\bibitem{blond}
-\selectlanguageifdefined{english}
-BLonD. ---
-\newblock URL: \BibUrl{https://blond.web.cern.ch/}.
-
-\bibitem{cosy}
-\selectlanguageifdefined{english}
-COSY Infinity. ---
-\newblock URL: \BibUrl{https://www.cosyinfinity.org}.
-
 \bibitem{Kolokolchikov:2025_dual}
 \selectlanguageifdefined{english}
 (to be written) Dual-structure features for heavy ion and light particles at
@@ -525,6 +496,11 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
 \newblock Pp.~1141--1156. ---
 \newblock URL: \BibUrl{https://doi.org/10.1134/S1063776107120060}.
 
+\bibitem{madx}
+\selectlanguageifdefined{english}
+MADX. ---
+\newblock URL: \BibUrl{https://madx.web.cern.ch/}.
+
 \bibitem{antoniou:ibs}
 \selectlanguageifdefined{english}
 \BibEmph{Antoniou~F, Zimmermann~F}. Tech. Rep.:  ---
@@ -579,6 +555,11 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
 \newblock Vol.~26. ---
 \newblock Pp.~3493--3495.
 
+\bibitem{blond}
+\selectlanguageifdefined{english}
+BLonD. ---
+\newblock URL: \BibUrl{https://blond.web.cern.ch/}.
+
 \bibitem{laclare:inst}
 \selectlanguageifdefined{english}
 \BibEmph{Laclare~J.~L.} {Coasting beam longitudinal coherent instabilities}~//
@@ -608,6 +589,11 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
 \newblock 1991. ---
 \newblock Vol.~22, no.~5. ---
 \newblock P.~1067.
+
+\bibitem{optim}
+\selectlanguageifdefined{english}
+http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
+\newblock URL: \BibUrl{https://blond.web.cern.ch/}.
 
 \bibitem{malyshev:bb}
 \selectlanguageifdefined{english}
@@ -772,6 +758,11 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
   Accelerator Technology}. ---
 \newblock 2016. ---
 \newblock P.~MOPA19.
+
+\bibitem{cosy}
+\selectlanguageifdefined{english}
+COSY Infinity. ---
+\newblock URL: \BibUrl{https://www.cosyinfinity.org}.
 
 \bibitem{Senichev:2013_decoherence}
 \selectlanguageifdefined{english}

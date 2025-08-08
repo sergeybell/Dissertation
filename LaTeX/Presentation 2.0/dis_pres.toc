@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {2}{Введение}{2}{0}{1}
+\beamer@sectionintoc {3}{Дуальная структура}{12}{0}{2}
+\beamer@sectionintoc {4}{Прохождение критической энергии}{19}{0}{3}
+\beamer@sectionintoc {5}{Исследование ЭДМ}{25}{0}{4}
+\beamer@sectionintoc {6}{Результаты}{33}{0}{5}
+\beamer@sectionintoc {7}{Заключение}{39}{0}{6}

@@ -1,0 +1,233 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = xelatex
+
+\documentclass[
+    11pt, % Set the default font size, options include: 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt
+    aspectratio=169, % Set the aspect ratio to a 16:9 ratio which matches the aspect ratio of 1080p and 4K screens and projectors
+]{beamer}
+\usepackage[american, russian]{babel}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\setsansfont{Calibri}
+\def\contentsname{Оглавление}%
+
+
+% This template is inspired by the VT Presentation Template, as well as the THU Beamer Theme. Many thanks!
+
+\graphicspath{{images/}{./}} % Specifies where to look for included images (trailing slash required)
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule for better rules in tables
+%\usepackage{calligra} % Font for wordart
+% \usepackage{appendixnumberbeamer} % If you want a separate slide counter for your appendix
+\usepackage{fnpct} % Eliminate the unwanted space before the footnote mark
+\usepackage{listings} % For code display
+\usepackage{physics}
+
+%---------------------------------------------------------
+%	FOOTNOTES & CITATIONS BASIC SETUP
+%---------------------------------------------------------
+% Check FOOTNOTES & CITATIONS ADVANCED SETUP for solutions for intra- and inter-frame citations
+% The workarounds in ADVANCED SETUP require the style to be "numeric"
+% If you're good without ADVANCED SETUP, comment out the ADVANCED SETUP section, and pick whatever style you like
+% \usepackage[style=authoryear, backend=bibtex]{biblatex}
+\usepackage[style=numeric, sorting=none, backend=biber]{biblatex}
+\addbibresource{bib.bib}
+\setbeamerfont{footnote}{size=\tiny}
+% The lines below set the citation style to "number, title, year". The ADVANCED SETUP will overwrite this style
+\usepackage{xpatch}
+\xapptobibmacro{cite}{\setunit{\nametitledelim} \printfield{title} \setunit{\nametitledelim} \printfield{year}}
+
+%---------------------------------------------------------
+%	FOOTNOTES & CITATIONS ADVANCED SETUP
+%---------------------------------------------------------
+% Manage faulty intra- and inter-frame footnotes and citations. References:
+%     https://tex.stackexchange.com/a/520777
+%     https://topanswers.xyz/tex?q=453
+
+% You might want to use \firstcite and \secondcite instead of \footnote in your document
+% Mark the first citation with \firstcite and the rest with \secondcite
+
+% \renewcommand{\thefootnote}{\arabic{footnote}} % Switch to footnote with numbers
+% \renewcommand{\thefootnote}{\alph{footnote}} % Switch to footnote with letters
+
+\DeclareCiteCommand{\firstcite}
+{\usebibmacro{prenote}}
+{%
+    \footnotemark[\thefield{labelnumber}]% mark corresponding to the number entry
+    \footnotetext[\thefield{labelnumber}]{% footnote text corresponding to the number entry
+        \printnames{labelname}% name
+        \setunit{\printdelim{nametitledelim}}% separator
+        % \setunit{\addperiod\space}% another way to add separator
+        \printfield[citetitle]{labeltitle}% title
+        \setunit{\printdelim{nametitledelim}}% separator
+        \printfield{year}% year
+        \newunit{\adddot}% ending dot
+    }%
+}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\secondcite}
+{\usebibmacro{prenote}}
+{%
+    \footnotemark[\thefield{labelnumber}]% mark corresponding to the number entry
+}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+%---------------------------------------------------------
+%	SELECT THEME & COLORS
+%---------------------------------------------------------
+\usetheme{Madrid} % You can use other themes too, but this changes many things. I've found Madrid to be the best for this color scheme
+
+% fg = foreground color
+% bg = background color
+
+% Many colors are linked to multiple attributes, change with caution!
+\definecolor{smuBlue}{RGB}{0,86,145}
+%\definecolor{smuGold}{RGB}{138, 112, 76}
+\definecolor{scisGold}{RGB}{255, 140, 0}
+
+\setbeamercolor*{structure}{bg=smuBlue, fg=smuBlue}
+% Title block and bottom right box color
+\setbeamercolor*{palette primary}{use=structure, fg=white,bg=smuBlue} % Bottom left box and bar between title & top bubbles
+\setbeamercolor*{palette secondary}{use=structure, fg=smuBlue, bg=white}
+% Probably not used
+\setbeamercolor*{palette tertiary}{use=structure, fg=white, bg=smuBlue} 
+
+% Title of each slide
+\setbeamercolor{frametitle}{bg=smuBlue, fg=white}
+\setbeamercolor*{titlelike}{parent=palette primary}
+
+%%% Headline and Central Footer %%%
+% You can change the theme back and forth for each frame
+% Theme I - white head, white foot
+    % \setbeamercolor{section in head/foot}{fg=scisGold, bg=white}
+    % \setbeamercolor{headline}{fg=scisGold, bg=white}
+% Theme II - gold head, gold foot (as shown in the title frame)
+    \setbeamercolor{section in head/foot}{fg=black, bg=scisGold}
+    \setbeamercolor{headline}{fg=white, bg=scisGold}
+% Theme III - white head, gold foot (as shown in the rest of the frames)
+    % \setbeamercolor{section in head/foot}{fg=scisGold, bg=white}
+    % \setbeamercolor{title in head/foot}{fg=white, bg=scisGold}
+    % \setbeamercolor{headline}{fg=scisGold, bg=white}
+
+%%% Specific Colors %%%
+\setbeamercolor{item projected}{bg=scisGold}
+\setbeamertemplate{enumerate items}{bg=scisGold}
+
+\setbeamercolor{itemize item}{fg=scisGold}
+\setbeamercolor{itemize subitem}{fg=scisGold}
+
+\setbeamercolor{button}{bg=scisGold}
+
+%%% Edits ONLY the TOC slide %%%
+\setbeamercolor{section in toc}{fg=black}
+\setbeamercolor{subsection in toc}{fg=black}
+
+%%% Block Colors %%%
+% Standard block
+    \setbeamercolor{block title}{bg=scisGold, fg=white}
+    \setbeamercolor{block body}{bg=scisGold!20}
+% Alerted block
+    \setbeamercolor{block title alerted}{bg=orange, fg=white}
+    \setbeamercolor{block body alerted}{bg=orange!10}
+% Example block
+    \setbeamercolor{block title example}{bg=smuBlue, fg=white}
+    \setbeamercolor{block body example}{bg=smuBlue!10}
+
+%---------------------------------------------------------
+%	SELECT THE FONT THEME & FONTS
+%---------------------------------------------------------
+\usefonttheme{default} % Typeset using the default sans serif font
+%\usepackage{palatino} % Use the Palatino font for serif text
+%\usepackage[default]{opensans} % Use the Open Sans font for sans serif text
+\useinnertheme{circles}
+
+%---------------------------------------------------------
+%	SELECT THE OUTER THEME
+%---------------------------------------------------------
+% Outer themes change the overall layout of slides, such as header and footer lines, sidebars and slide titles. Uncomment each theme in turns to see what changes it makes to your presentation.
+
+%\useoutertheme{default}
+\useoutertheme{miniframes}
+%\usepackage{ulem}
+%\useoutertheme{infolines}
+ %\useoutertheme{smoothbars}
+ %\useoutertheme{sidebar}
+ %\useoutertheme{split}
+ %\useoutertheme{shadow}
+ %\useoutertheme{tree}
+ %\useoutertheme{smoothtree}
+ \usepackage{adjustbox}
+ \usepackage{multicol}
+
+%---------------------------------------------------------
+%	PRESENTATION INFORMATION
+%---------------------------------------------------------
+\title{Исследование динамики поляризованного пучка в
+	ускорительном комплексе NICA-Nuclotron в приложении
+	к изучению электрического дипольного момента легких
+	ядер}
+\subtitle{Специальность 1.3.2 «Приборы и методы экспериментальной физики»}
+\author{Соискатель к.ф.-м.н.: Колокольчиков C. Д.}
+
+\institute[]{
+{\normalsize Научный руководитель: профессор, д.ф.-м.н. Сеничев Ю.В.}\newline \newline
+Институт Ядерных Исследований РАН, Москва, Россия}
+\date[29 июля 2025]
+% \date[\today]
+
+% School logo
+% You can enable and disable logo display for each frame
+\logo{\includegraphics[width=1cm]{logo.eps}}
+
+%---------------------------------------------------------
+%	CODE DISPLAY
+%---------------------------------------------------------
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\bfseries\color{blue},
+    emphstyle=\ttfamily\color{red},   
+    stringstyle=\color{green},
+    numbers=left,
+    numberstyle=\small\color{gray},
+    rulesepcolor=\color{red!20!green!20!blue!20},
+    frame=shadowbox,
+    xleftmargin=1cm,
+    xrightmargin=1cm,
+}
+
+%---------------------------------------------------------
+%	EXTRA SETTINGS
+%---------------------------------------------------------
+
+% Clear warnings related to \translate
+%     https://github.com/josephwright/beamer/issues/449
+\pdfstringdefDisableCommands{
+    \def\translate#1{#1}
+}
+
+% Adjust header height
+\setbeamertemplate{headline}{
+    \nointerlineskip
+    \begin{beamercolorbox}[wd=\paperwidth,ht=7.0ex]{headline}
+        \insertnavigation{\paperwidth}\vspace*{2.0ex}
+    \end{beamercolorbox}
+}
+
+% Disable navigation symbols
+\setbeamertemplate{navigation symbols}{}
+
+%---------------------------------------------------------
+%   DOCUMENT BEGINS
+%---------------------------------------------------------
+\begin{document}
+
+\input{01-title.tex}
+%\input{02-contents.tex}
+\input{03-what.tex}
+\input{04-why.tex}
+\input{05-how.tex}
+\input{06-thank.tex}
+
+\end{document}

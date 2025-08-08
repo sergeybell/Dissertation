@@ -17,7 +17,7 @@ A level-1 auxiliary file: Dissertation/lists.aux
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: biblio/external.bib
 Warning--entry type for "zinkevich" isn't style-file defined
---line 2063 of file biblio/external.bib
+--line 1032 of file biblio/external.bib
 Database file #2: biblio/author.bib
 Warning--empty journal in phase_transition_universe
 Warning--empty journal in neutron_stars
@@ -42,35 +42,34 @@ Warning--empty year in QFS
 Warning--empty journal in Axion_Nikolaev
 Warning--empty journal in j-park
 Too many commas in name 1 of "В.А. Матвеев, В.Д. Кекелидзе, Р. Ледницки, Б.Н. Гикал" for entry Tech_NICA
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Warning--empty year in Tech_NICA
 ptr=1, stack=
 ТЕХНИЧЕСКИЙ ПРОЕКТ ОБЪЕКТА «КОМПЛЕКС NICA»
 ---the literal stack isn't empty for entry Tech_NICA
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty journal in bmad
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Колокольчиков С.Д., Аксентьев А.Е., Мельников А.А., Сеничев Ю.В., Ладыгин В.Л., Сыресин Е.М." for entry Kolokolchikov:2023_bypass
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 ptr=1, stack=
 {Revision of Intrabeam Scattering with Non-Ultrarelativistic Corrections and Vertical Dispersion for MAD-X}
 ---the literal stack isn't empty for entry antoniou:ibs
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Warning--empty journal in MetralMohl
 Warning--empty year in cern:q-jump
 ptr=1, stack=
 {Compensation of space-charge effects at transition by an asymmetric Q-jump: a theoretical study}
 ---the literal stack isn't empty for entry cern:q-jump
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
+while executing---line 1598 of file BibTeX-Styles/utf8gost71u.bst
 Warning--empty year in cern:new-jump
 Warning--empty school in hans:bb
 Warning--empty journal in weilee:sc
@@ -85,45 +84,45 @@ Warning--empty journal in FDM
 Warning--empty journal in AGSproposal
 Warning--empty journal in Wien
 Warning--empty journal in 1000
-You've used 99 entries,
+You've used 98 entries,
             3126 wiz_defined-function locations,
-            1418 strings with 40827 characters,
-and the built_in function-call counts, 36718 in all, are:
-= -- 4580
-> -- 972
-< -- 191
-+ -- 318
-- -- 219
-* -- 2022
-:= -- 3811
-add.period$ -- 411
-call.type$ -- 99
+            1410 strings with 40488 characters,
+and the built_in function-call counts, 36318 in all, are:
+= -- 4530
+> -- 967
+< -- 188
++ -- 316
+- -- 218
+* -- 1999
+:= -- 3771
+add.period$ -- 406
+call.type$ -- 98
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 139
-duplicate$ -- 1926
-empty$ -- 3362
-format.name$ -- 219
-if$ -- 9641
+cite$ -- 137
+duplicate$ -- 1904
+empty$ -- 3325
+format.name$ -- 218
+if$ -- 9536
 int.to.chr$ -- 0
-int.to.str$ -- 99
+int.to.str$ -- 98
 missing$ -- 0
-newline$ -- 653
-num.names$ -- 273
-pop$ -- 596
+newline$ -- 646
+num.names$ -- 270
+pop$ -- 591
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1609
+skip$ -- 1594
 stack$ -- 0
-substring$ -- 1822
-swap$ -- 1517
-text.length$ -- 101
+substring$ -- 1794
+swap$ -- 1499
+text.length$ -- 99
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 40
-while$ -- 255
-width$ -- 101
-write$ -- 1741
+warning$ -- 39
+while$ -- 252
+width$ -- 100
+write$ -- 1722
 (There were 10 error messages)
