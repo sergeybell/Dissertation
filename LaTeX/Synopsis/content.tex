@@ -125,7 +125,7 @@
     \centerfloat{
         \hfill
         \subcaptionbox{С использованием электростатических дефлекторов.}{%
-        	    \includegraphics[scale=0.35]{4_arc_B+E.png}}
+        	    \includegraphics[scale=0.35]{4_deflector_deutron.png}}
         \hfill
         \subcaptionbox{С использованием фильтров Вина.}{%
             \includegraphics[scale=0.35]{4_arc_B+E_WF.png}}
@@ -140,7 +140,7 @@
 
 \par Текущая структура синхротрона Nuclotron не предполагает программу исследований ЭДМ. Для расширения возможностей Nuclotron в качестве самостоятельной машины рассматривается возможность модернизации. Наибольший интерес может представлять структура, способная одновременно быть использована для изучения ЭДМ как дейтронов, так и протонов. С точки зрения орбитальной динамики протон и дейтрон практически идентичны, масса дейтрона, вдвое больше, чем у протона. Спиновая же динамика отличается достаточно существенно для разного сорта частиц. 
 
-\noindent Рассмотрена «квази-замороженная» структура с электростатическими дефлекторами и фильтрами Вина. Показано, что для компенсации отклонения спина в магнитной арке, должны быть использованы элементы, отклоняющие на одинаковый угол, то есть с одинаковой кривизной как электрического, так и магнитного полей. При этом тип отклоняющего элемента не имеет значения, это может быть как фильтр Вина, так и электростатический дефлектор. Таким образом, при неизменной магнитной арке, длина фильтра Вина окажется меньше на суммарную длину киккеров, так как в нём совмещены функции электростатического дефлектора и киккера в один элемент. Отдельно для протонов показано, длина компенсирующих элементов больше длины магнитной арки. И для исследования протонов может быть использована та же структура, но с повёрнутыми на 180 градусов фильтрами Вина при меньшей энергии. \cite{Kolokolchikov:2021trans}
+\noindent Рассмотрена «квази-замороженная» структура с электростатическими дефлекторами и фильтрами Вина. Показано, что для компенсации отклонения спина в магнитной арке, должны быть использованы элементы, отклоняющие на одинаковый угол, то есть с одинаковой кривизной как электрического, так и магнитного полей. При этом тип отклоняющего элемента не имеет значения, это может быть как фильтр Вина, так и электростатический дефлектор. Таким образом, при неизменной магнитной арке, длина фильтра Вина окажется меньше на суммарную длину киккеров, так как в нём совмещены функции электростатического дефлектора и киккера в один элемент. Отдельно для протонов показано, длина компенсирующих элементов больше длины магнитной арки. И для исследования протонов может быть использована та же структура, но с повёрнутыми на 180 градусов фильтрами Вина при меньшей энергии \cite{Kolokolchikov:2021trans}.
 
 \FloatBarrier
 \pdfbookmark{Заключение}{conclusion}                                  % Закладка pdf
@@ -153,73 +153,73 @@
 \ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=false}}{} % не рекомендуется применять пакет микротипографики к автоматически генерируемому списку литературы
 \urlstyle{rm}                               % ссылки URL обычным шрифтом
 \ifnumequal{\value{bibliosel}}{0}{% Встроенная реализация с загрузкой файла через движок bibtex8
-    \renewcommand{\bibname}{\large \bibtitleauthor}
-    \nocite{*}
-    \insertbiblioauthor           % Подключаем Bib-базы
-    %\insertbiblioexternal   % !!! bibtex не умеет работать с несколькими библиографиями !!!
+	\renewcommand{\bibname}{\large \bibtitleauthor}
+	\nocite{*}
+	\insertbiblioauthor           % Подключаем Bib-базы
+	%\insertbiblioexternal   % !!! bibtex не умеет работать с несколькими библиографиями !!!
 }{% Реализация пакетом biblatex через движок biber
-    % Цитирования.
-    %  * Порядок перечисления определяет порядок в библиографии (только внутри подраздела, если `\insertbiblioauthorgrouped`).
-    %  * Если не соблюдать порядок "как для \printbibliography", нумерация в `\insertbiblioauthor` будет кривой.
-    %  * Если цитировать каждый источник отдельной командой --- найти некоторые ошибки будет проще.
-    %
-    %% authorvak
-    \nocite{vakbib1}%
-    \nocite{vakbib2}%
-    %
-    %% authorwos
-    \nocite{wosbib1}%
-    %
-    %% authorscopus
-    \nocite{scbib1}%
-    %
-    %% authorpathent
-    \nocite{patbib1}%
-    %
-    %% authorprogram
-    \nocite{progbib1}%
-    %
-    %% authorconf
-    \nocite{confbib1}%
-    \nocite{confbib2}%
-    %
-    %% authorother
-    \nocite{bib1}%
-    \nocite{bib2}%
-
-    \ifnumgreater{\value{usefootcite}}{0}{
-        \begin{refcontext}[labelprefix={}]
-            \ifnum \value{bibgrouped}>0
-                \insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
-            \else
-                \insertbiblioauthor      % Вывод всех работ автора
-            \fi
-        \end{refcontext}
-    }{
-        \ifnum \totvalue{citeexternal}>0
-            \begin{refcontext}[labelprefix=A]
-                \ifnum \value{bibgrouped}>0
-                    \insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
-                \else
-                    \insertbiblioauthor      % Вывод всех работ автора
-                \fi
-            \end{refcontext}
-        \else
-            \ifnum \value{bibgrouped}>0
-                \insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
-            \else
-                \insertbiblioauthor      % Вывод всех работ автора
-            \fi
-        \fi
-        %  \insertbiblioauthorimportant  % Вывод наиболее значимых работ автора (определяется в файле characteristic во второй section)
-        \begin{refcontext}[labelprefix={}]
-            \insertbiblioexternal            % Вывод списка литературы, на которую ссылались в тексте автореферата
-        \end{refcontext}
-        % Невидимый библиографический список для подсчёта количества внешних публикаций
-        % Используется, чтобы убрать приставку "А" у работ автора, если в автореферате нет
-        % цитирований внешних источников.
-        \printbibliography[heading=nobibheading, section=0, env=countexternal, keyword=biblioexternal, resetnumbers=true]%
-    }
+	% Цитирования.
+	%  * Порядок перечисления определяет порядок в библиографии (только внутри подраздела, если `\insertbiblioauthorgrouped`).
+	%  * Если не соблюдать порядок "как для \printbibliography", нумерация в `\insertbiblioauthor` будет кривой.
+	%  * Если цитировать каждый источник отдельной командой --- найти некоторые ошибки будет проще.
+	%
+	%% authorvak
+	\nocite{vakbib1}%
+	\nocite{vakbib2}%
+	%
+	%% authorwos
+	\nocite{wosbib1}%
+	%
+	%% authorscopus
+	\nocite{scbib1}%
+	%
+	%% authorpathent
+	\nocite{patbib1}%
+	%
+	%% authorprogram
+	\nocite{progbib1}%
+	%
+	%% authorconf
+	\nocite{confbib1}%
+	\nocite{confbib2}%
+	%
+	%% authorother
+	\nocite{bib1}%
+	\nocite{bib2}%
+	
+	\ifnumgreater{\value{usefootcite}}{0}{
+		\begin{refcontext}[labelprefix={}]
+			\ifnum \value{bibgrouped}>0
+			\insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
+			\else
+			\insertbiblioauthor      % Вывод всех работ автора
+			\fi
+		\end{refcontext}
+	}{
+		\ifnum \totvalue{citeexternal}>0
+		\begin{refcontext}[labelprefix=A]
+			\ifnum \value{bibgrouped}>0
+			\insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
+			\else
+			\insertbiblioauthor      % Вывод всех работ автора
+			\fi
+		\end{refcontext}
+		\else
+		\ifnum \value{bibgrouped}>0
+		\insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
+		\else
+		\insertbiblioauthor      % Вывод всех работ автора
+		\fi
+		\fi
+		%  \insertbiblioauthorimportant  % Вывод наиболее значимых работ автора (определяется в файле characteristic во второй section)
+		\begin{refcontext}[labelprefix={}]
+			\insertbiblioexternal            % Вывод списка литературы, на которую ссылались в тексте автореферата
+		\end{refcontext}
+		% Невидимый библиографический список для подсчёта количества внешних публикаций
+		% Используется, чтобы убрать приставку "А" у работ автора, если в автореферате нет
+		% цитирований внешних источников.
+		\printbibliography[heading=nobibheading, section=0, env=countexternal, keyword=biblioexternal, resetnumbers=true]%
+	}
 }
 \ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=true}}{}
 \urlstyle{tt}                               % возвращаем установки шрифта ссылок URL

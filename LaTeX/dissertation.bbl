@@ -13,34 +13,39 @@
   Transition in the Early Universe: Isothermal Baryon Number Fluctuations and
   Primordial Nucleosynthesis}. ---
 \newblock Vol.~37. ---
-\newblock P.~1380.
+\newblock P.~1380. ---
+\newblock URL: \BibUrl{https://doi.org/10.1103/PhysRevD.37.1380}.
 
 \bibitem{neutron_stars}
 \selectlanguageifdefined{english}
 {From hadrons to quarks in neutron stars: a review}~/ Gordon~Baym,
   Tetsuo~Hatsuda, Toru~Kojo et~al. ---
 \newblock Vol.~81, no.~5. ---
-\newblock P.~056902.
+\newblock P.~056902. ---
+\newblock URL: \BibUrl{https://doi.org/10.1088/1361-6633/aaae14}.
 
 \bibitem{quark_gluon}
 \selectlanguageifdefined{english}
 \BibEmph{Apolin\'ario~Liliana, Lee~Yen-Jie, Winn~Michael}. {Heavy quarks and
   jets as probes of the QGP}. ---
 \newblock Vol. 127. ---
-\newblock P.~103990.
+\newblock P.~103990. ---
+\newblock URL: \BibUrl{https://doi.org/10.1016/j.ppnp.2022.103990}.
 
 \bibitem{RHIC_luminosity_heavy}
 \selectlanguageifdefined{english}
 \BibEmph{Robert-Demolaize~Guillaume}. {The Luminosity Upgrade at RHIC}~// {6th
   International Particle Accelerator Conference}. ---
-\newblock P.~FRXC1.
+\newblock P.~FRXC1. ---
+\newblock URL: \BibUrl{https://doi.org/10.18429/JACoW-IPAC2015-FRXC1}.
 
 \bibitem{2016_IBS}
 \selectlanguageifdefined{english}
 \BibEmph{Martini~Michel, Antoniou~Fanouria, Papaphilippou~Yannis}. {Intrabeam
   Scattering}. ---
 \newblock Vol.~69. ---
-\newblock Pp.~38--59.
+\newblock Pp.~38--59. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/1507570}.
 
 \bibitem{spin_crisis_1989}
 \selectlanguageifdefined{english}
@@ -49,8 +54,7 @@ An investigation of the spin structure of the proton in deep inelastic
   G.~Baum et~al. ---
 \newblock Vol. 328, no.~1. ---
 \newblock Pp.~1--35. ---
-\newblock URL:
-  \BibUrl{https://www.sciencedirect.com/science/article/pii/0550321389900898}.
+\newblock URL: \BibUrl{https://doi.org/10.1016/0550-3213(89)90089-8}.
 
 \bibitem{quarks_overview_2022}
 \selectlanguageifdefined{english}
@@ -65,12 +69,15 @@ An investigation of the spin structure of the proton in deep inelastic
 \BibEmph{Chiladze~D. et~al.} {Determination of deuteron beam polarizations at
   COSY}. ---
 \newblock Vol.~9. ---
-\newblock P.~050101.
+\newblock P.~050101. ---
+\newblock URL: \BibUrl{https://doi.org/10.1103/PhysRevSTAB.9.050101}.
 
 \bibitem{SATURNE}
 \selectlanguageifdefined{english}
-\BibEmph{Kunne~R.~A.} {Spin physics at saturne 2.}~// {Adriatico Research
-  Conference on Polarization Dynamics in Nuclear and Particle Physics}.
+\BibEmph{Kunne~R.~A.} {Spin physics at saturne 2}~// {Adriatico Research
+  Conference on Polarization Dynamics in Nuclear and Particle Physics}. ---
+\newblock URL:
+  \BibUrl{https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DE93633260.xhtml}.
 
 \bibitem{RHIC_2014}
 \selectlanguageifdefined{english}
@@ -81,25 +88,28 @@ Inclusive double-helicity asymmetries in neutral-pion and eta-meson production
   C.~Aidala, N.~N.~Ajitanand et~al. ---
 \newblock Vol.~90. ---
 \newblock P.~012007. ---
-\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevD.90.012007}.
+\newblock URL: \BibUrl{https://doi.org/10.1103/PhysRevD.90.012007}.
 
 \bibitem{RHIC_luminosity}
 \selectlanguageifdefined{english}
 {Prospects for spin physics at RHIC}~/ Gerry~Bunce, Naohito~Saito,
   Jacques~Soffer, Werner~Vogelsang. ---
 \newblock Vol.~50. ---
-\newblock Pp.~525--575.
+\newblock Pp.~525--575. ---
+\newblock URL: \BibUrl{https://doi.org/10.1146/annurev.nucl.50.1.525}.
 
 \bibitem{ng}
 \selectlanguageifdefined{english}
 \BibEmph{Ng~K.~Y.} {Physics of Intensity Dependent Beam Instabilities}~// {U.S.
   Particle Accelerator School (USPAS 2002)}. ---
-\newblock 2002. --- 4.
+\newblock 2002. --- 4. ---
+\newblock URL: \BibUrl{https://doi.org/10.1142/5835}.
 
 \bibitem{lee}
 \selectlanguageifdefined{english}
 \BibEmph{Lee~Shyh-yuan}. {Accelerator Physics (Fourth Edition)}. ---
-\newblock World Scientific Publishing Company, 2018.
+\newblock World Scientific Publishing Company, 2018. ---
+\newblock URL: \BibUrl{https://doi.org/10.1142/11111}.
 
 \bibitem{sakharov}
 \selectlanguageifdefined{english}
@@ -107,7 +117,8 @@ Inclusive double-helicity asymmetries in neutral-pion and eta-meson production
   asymmetry of the universe}~// \BibEmph{Pisma Zh. Eksp. Teor. Fiz.} ---
 \newblock 1967. ---
 \newblock Vol.~5. ---
-\newblock Pp.~32--35.
+\newblock Pp.~32--35. ---
+\newblock URL: \BibUrl{https://doi.org/10.1070/PU1991v034n05ABEH002497}.
 
 \bibitem{CP}
 \selectlanguageifdefined{english}
@@ -129,8 +140,7 @@ Evidence for the $2\ensuremath{\pi}$ Decay of the $K_{2}^{0}$ Meson~/
 \BibEmph{Höcker~Andreas, Ligeti~Zoltan}. CP Violation and the CKM Matrix. ---
 \newblock Vol.~56, no. Volume 56, 2006. ---
 \newblock Pp.~501--567. ---
-\newblock URL:
-  \BibUrl{https://www.annualreviews.org/content/journals/10.1146/annurev.nucl.56.080805.140456}.
+\newblock URL: \BibUrl{https://doi.org/10.1146/annurev.nucl.56.080805.140456}.
 
 \bibitem{CPstrong}
 \selectlanguageifdefined{english}
@@ -145,7 +155,8 @@ Evidence for the $2\ensuremath{\pi}$ Decay of the $K_{2}^{0}$ Meson~/
 \BibEmph{Pretz~J\"org}. {Electric Dipole Moment (EDM) searches for leptons and
   hadrons}. ---
 \newblock Vol. HQL2023. ---
-\newblock P.~010.
+\newblock P.~010. ---
+\newblock URL: \BibUrl{https://doi.org/10.22323/1.462.0010}.
 
 \bibitem{EDM}
 \selectlanguageifdefined{english}
@@ -179,14 +190,17 @@ Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
   Lett.} ---
 \newblock 2004. ---
 \newblock Vol.~93. ---
-\newblock P.~052001.
+\newblock P.~052001. ---
+\newblock URL: \BibUrl{https://doi.org/10.1103/PhysRevLett.93.052001}.
 
 \bibitem{QFS}
 \selectlanguageifdefined{english}
 {Quasi-frozen Spin Method for EDM Deuteron Search}~/ Yurij~Senichev,
   Serge~Andrianov, Martin~Berz et~al.~// {6th International Particle
   Accelerator Conference}. ---
-\newblock P.~MOPWA044.
+\newblock P.~MOPWA044. ---
+\newblock URL:
+  \BibUrl{https://accelconf.web.cern.ch/IPAC2015/doi/JACoW-IPAC2015-MOPWA044.html}.
 
 \bibitem{Axion_Nikolaev}
 \selectlanguageifdefined{english}
@@ -202,7 +216,8 @@ Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
   at the CERN Large Hadron Collider}~// \BibEmph{J. Phys. G}. ---
 \newblock 2020. ---
 \newblock Vol.~47, no.~6. ---
-\newblock P.~060501.
+\newblock P.~060501. ---
+\newblock URL: \BibUrl{https://doi.org/10.1088/1361-6471/ab7ff7}.
 
 \bibitem{rhic:design}
 \selectlanguageifdefined{english}
@@ -210,14 +225,16 @@ Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
   Meth. A}. ---
 \newblock 2003. ---
 \newblock Vol. 499. ---
-\newblock Pp.~245--263.
+\newblock Pp.~245--263. ---
+\newblock URL: \BibUrl{https://doi.org/10.1016/S0168-9002(02)01938-1}.
 
 \bibitem{j-park}
 \selectlanguageifdefined{english}
 {Reliability of J-PARC accelerator system over the past decade}~/ K.~Yamamoto,
   K.~Hasegawa, M.~Kinsho et~al. ---
 \newblock Vol.~33. ---
-\newblock P.~011016.
+\newblock P.~011016. ---
+\newblock URL: \BibUrl{https://doi.org/10.7566/JPSCP.33.011016}.
 
 \bibitem{nuclotron24}
 \selectlanguageifdefined{english}
@@ -225,7 +242,8 @@ Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
   Nucl. Lett.} ---
 \newblock 2024. ---
 \newblock Vol.~21, no.~3. ---
-\newblock Pp.~212--217.
+\newblock Pp.~212--217. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S154747712470002X}.
 
 \bibitem{Ladygin:SPD}
 \selectlanguageifdefined{english}
@@ -233,7 +251,8 @@ Measurement of the Permanent Electric Dipole Moment of the Neutron~/ C.~Abel,
   Proc.} ---
 \newblock 2022. ---
 \newblock Vol.~37. ---
-\newblock P.~011012.
+\newblock P.~011012. ---
+\newblock URL: \BibUrl{doi.org/10.7566/JPSCP.37.011012}.
 
 \bibitem{MPD}
 \selectlanguageifdefined{english}
@@ -244,8 +263,7 @@ The MPD detector at the NICA heavy-ion collider at JINR~/ Kh.U.~Abraamyan,
 \newblock 2011. ---
 \newblock Vol. 628, no.~1. ---
 \newblock Pp.~99--102. ---
-\newblock VCI 2010. URL:
-  \BibUrl{https://www.sciencedirect.com/science/article/pii/S016890021001483X}.
+\newblock VCI 2010. URL: \BibUrl{https://doi.org/10.1016/j.nima.2010.06.293}.
 
 \bibitem{Tech_NICA}
 \selectlanguageifdefined{english}
@@ -256,10 +274,13 @@ The MPD detector at the NICA heavy-ion collider at JINR~/ Kh.U.~Abraamyan,
 
 \bibitem{Kolokolchikov:2025_dual}
 \selectlanguageifdefined{english}
-(to be written) Dual-structure features for heavy ion and light particles at
-  NICA collider~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
-  Yu.V.~Senichev~// \BibEmph{Chinese Physics C}. ---
-\newblock 2025.
+Features of dual-purpose structure for heavy ion and light particles~/
+  S.~D.~Kolokolchikov, Yu.~V.~Senichev, A.~E.~Aksentyev, A.~A.~Melnikov~//
+  \BibEmph{Nuclear Science and Techniques}. ---
+\newblock 2025. ---
+\newblock Vol.~36, no.~11. ---
+\newblock P.~210. ---
+\newblock URL: \BibUrl{https://doi.org/10.1007/s41365-025-01791-4}.
 
 \bibitem{Syresin:2021_polar}
 \selectlanguageifdefined{english}
@@ -290,7 +311,8 @@ Formation of Polarized Proton Beams in the NICA Collider-Accelerator Complex~/
   \BibEmph{Ядерная физика и инжиниринг}. ---
 \newblock 2023. ---
 \newblock Vol.~14, no.~6. ---
-\newblock Pp.~587--592.
+\newblock Pp.~587--592. ---
+\newblock URL: \BibUrl{https://doi.org/10.56304/S2079562923010153}.
 
 \bibitem{Kolokolchikov:2025_U70}
 \selectlanguageifdefined{english}
@@ -365,23 +387,20 @@ Consideration of an Adapted Nuclotron Structure for Searching for the Electric
 
 \bibitem{Kolokolchikov:2025_nuclotron}
 \selectlanguageifdefined{english}
-(to be written) Modernization of Nuclotron as booster for NICA and EDM
-  experiment~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov,
-  Yu.V.~Senichev~// \BibEmph{JETP Letters}. ---
+Quasi-frozen spin for both deuteron and proton beam at periodic EDM storage
+  ring lattice~/ S.D.~Kolokolchikov, A.E.~Aksentyev, A.A.~Melnikov et~al.~//
+  \BibEmph{Nuclear Science and Techniques}. ---
 \newblock 2025.
 
 \bibitem{Kolokolchikov:2023_bypass}
 \selectlanguageifdefined{english}
-\BibEmph{Колокольчиков~С.Д.~Аксентьев~А.Е.~Мельников
-  А.А. Сеничев Ю.В. Ладыгин В.Л. Сыресин~Е.М.}
-  Проектирование Каналов Bypass в
-  Ускорительном Комплексе NICA для
-  Экспериментов с Поляризованными Пучками
-  по Поиску ЭДМ~// \BibEmph{Ядерная физика и
-  инжиниринг}. ---
-\newblock 2024. ---
-\newblock Vol.~15, no.~5. ---
-\newblock Pp.~457--463.
+Designing Bypass Channels in NICA Accelerator Complex for Polarized Beam
+  Experiments for EDM Search~/ S.~Kolokolchikov, A.~Aksentyev, A.~Melnikov
+  et~al. ---
+\newblock 2023. ---
+\newblock Vol.~86, no.~11. ---
+\newblock Pp.~2423--2428. ---
+\newblock URL: \BibUrl{https://doi.org/10.1134/S1063778823110248}.
 
 \bibitem{Kolokolchikov:2023_bypass_IPAC}
 \selectlanguageifdefined{english}
@@ -429,7 +448,8 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
   program}~// \BibEmph{Cybern. Phys.} ---
 \newblock 2014. ---
 \newblock Vol.~3, no.~3. ---
-\newblock Pp.~137--146.
+\newblock Pp.~137--146. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/1826533}.
 
 \bibitem{mohl:stochastic}
 \selectlanguageifdefined{english}
@@ -437,7 +457,8 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
   L.~Thorndahl, Simon~Van Der~Meer~// \BibEmph{Phys. Rept.} ---
 \newblock 1980. ---
 \newblock Vol.~58. ---
-\newblock Pp.~73--119.
+\newblock Pp.~73--119. ---
+\newblock URL: \BibUrl{https://doi.org/10.1016/0370-1573(80)90140-4}.
 
 \bibitem{mohl:stochastic2}
 \selectlanguageifdefined{english}
@@ -445,14 +466,16 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
   Instrum. Meth. A}. ---
 \newblock 1997. ---
 \newblock Vol. 391. ---
-\newblock Pp.~164--171.
+\newblock Pp.~164--171. ---
+\newblock URL: \BibUrl{https://doi.org/10.1016/S0168-9002(97)00360-4}.
 
 \bibitem{caspers:stochastic}
 \selectlanguageifdefined{english}
 \BibEmph{Caspers~F., M\"ohl~D.} {Stochastic Cooling In Hadron Colliders}~//
   {17th International Conference on High-Energy Accelerators}. ---
 \newblock 1998. ---
-\newblock Pp.~398--401.
+\newblock Pp.~398--401. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/920888}.
 
 \bibitem{church:stochastic}
 \selectlanguageifdefined{english}
@@ -465,8 +488,7 @@ Spin coherence and betatron chromaticity of deuteron beam in NICA storage
 \newblock Proceedings of the Eleventh International Advanced ICFA Beam Dynamic
   Workshop on Beam Cooling and Instability Damping Dedicated to the 30th
   Anniversary of Electron Cooling on board a ship from Moscow to Nizhny
-  Novgorod. URL:
-  \BibUrl{https://www.sciencedirect.com/science/article/pii/S0168900297003586}.
+  Novgorod. URL: \BibUrl{https://doi.org/10.1016/S0168-9002(97)00358-6}.
 
 \bibitem{senichev:resonant}
 \selectlanguageifdefined{english}
@@ -521,7 +543,8 @@ MADX. ---
 \selectlanguageifdefined{english}
 \BibEmph{Métral~E., Möhl~D.} Transition crossing. ---
 \newblock Vol.~1, no. CERN-2011-004. ---
-\newblock P.~59.
+\newblock P.~59. ---
+\newblock URL: \BibUrl{http://dx.doi.org/10.5170/CERN-2011-004}.
 
 \bibitem{risselada:jump}
 \selectlanguageifdefined{english}
@@ -539,7 +562,8 @@ MADX. ---
 \selectlanguageifdefined{english}
 \BibEmph{Hardt~W.} {Gamma-Transition-Jump Scheme of the CPS}~// {9th
   International Conference on High-Energy Accelerators}. ---
-\newblock Pp.~434--438.
+\newblock Pp.~434--438. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/920423}.
 
 \bibitem{hans:bb}
 \selectlanguageifdefined{english}
@@ -553,7 +577,8 @@ MADX. ---
   \BibEmph{IEEE Trans. Nucl. Sci.} ---
 \newblock 1979. ---
 \newblock Vol.~26. ---
-\newblock Pp.~3493--3495.
+\newblock Pp.~3493--3495. ---
+\newblock URL: \BibUrl{https://doi.org/10.1109/TNS.1979.4330077}.
 
 \bibitem{blond}
 \selectlanguageifdefined{english}
@@ -579,7 +604,7 @@ BLonD. ---
 \BibEmph{J.~Wei~S. Y.~Lee}. Space Charge Effect at Transition Energy and the
   Transfer of R.F. System at Top Energy. ---
 \newblock 2021. ---
-\newblock URL: \BibUrl{BNL-41667}.
+\newblock URL: \BibUrl{https://inis.iaea.org/records/ada0q-b1020}.
 
 \bibitem{cherniy:ihep}
 \selectlanguageifdefined{english}
@@ -610,7 +635,8 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \selectlanguageifdefined{english}
 \BibEmph{Vadai~Mihaly}. Beam Loss Reduction by Barrier Buckets in the CERN
   Accelerator Complex. ---
-\newblock CERN, Geneva, 2021.
+\newblock CERN, Geneva, 2021. ---
+\newblock URL: \BibUrl{https://repository.cern/records/n5ff3-0p591}.
 
 \bibitem{meshkov:luminocity}
 \selectlanguageifdefined{english}
@@ -630,26 +656,30 @@ http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm. ---
 \bibitem{kaon_tr}
 \selectlanguageifdefined{english}
 The New Lattices for the Boosterof Moscow KAON factory. ---
-\newblock Vol.~2.
+\newblock Vol.~2. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/330400}.
 
 \bibitem{neutrino_tr}
 \selectlanguageifdefined{english}
 \BibEmph{Schonauer~H. et~al.} {A slow-cycling proton driver for a neutrino
   factory}. ---
 \newblock Vol. 0006262. ---
-\newblock Pp.~966--968.
+\newblock Pp.~966--968. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/530067}.
 
 \bibitem{JHP_tr}
 \selectlanguageifdefined{english}
 {Beam dynamics newsletter, no 11}. ---
-\newblock Pp.~11--13.
+\newblock Pp.~11--13. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/423747}.
 
 \bibitem{J-PARK_tr}
 \selectlanguageifdefined{english}
 \BibEmph{Koseki~T.} {Status of J-PARC main ring synchrotron}~// {Particle
   Accelerator Conference (PAC 07)}. ---
 \newblock IEEE Nucl.Sci.Symp.Conf.Rec. ---
-\newblock Pp.~736--738.
+\newblock Pp.~736--738. ---
+\newblock URL: \BibUrl{https://doi.org/10.1109/PAC.2007.4440758}.
 
 \bibitem{Ehrenfest}
 \selectlanguageifdefined{english}
@@ -667,7 +697,7 @@ The New Lattices for the Boosterof Moscow KAON factory. ---
 \newblock 1959. --- May. ---
 \newblock Vol.~2. ---
 \newblock Pp.~435--436. ---
-\newblock URL: \BibUrl{https://link.aps.org/doi/10.1103/PhysRevLett.2.435}.
+\newblock URL: \BibUrl{https://doi.org/10.1103/PhysRevLett.2.435}.
 
 \bibitem{silenko:edm}
 \selectlanguageifdefined{english}
@@ -676,20 +706,23 @@ The New Lattices for the Boosterof Moscow KAON factory. ---
   Moment}~// \BibEmph{Int. J. Mod. Phys. A}. ---
 \newblock 2013. ---
 \newblock Vol.~28. ---
-\newblock P.~1350147.
+\newblock P.~1350147. ---
+\newblock URL: \BibUrl{https://doi.org/10.1142/S0217751X13501479}.
 
 \bibitem{EDM_Yellow}
 \selectlanguageifdefined{english}
 \BibEmph{Abusaif~F. et~al.} {Storage ring to search for electricdipole moments
   of charged particles: Feasibility study}. ---
-\newblock CERN.
+\newblock CERN. ---
+\newblock URL: \BibUrl{https://doi.org/10.23731/CYRM-2021-003}.
 
 \bibitem{g-2}
 \selectlanguageifdefined{english}
 \BibEmph{Chislett~Rebecca}. {The muon EDM in the g-2 experiment at Fermilab}.
   ---
 \newblock Vol. 118. ---
-\newblock P.~01005.
+\newblock P.~01005. ---
+\newblock URL: \BibUrl{https://doi.org/10.1051/epjconf/201611801005}.
 
 \bibitem{ST_Filatov}
 \selectlanguageifdefined{english}
@@ -704,8 +737,7 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
 \selectlanguageifdefined{english}
 {Frequency domain method of the search for the deuteron electric dipole moment
   in a storage ring with imperfections}~/ Yury~Senichev, Alexander~Aksentev,
-  Andrey~Ivanov, Eremey~Valetov. ---
-\newblock 2017. --- 11.
+  Andrey~Ivanov, Eremey~Valetov.
 
 \bibitem{baldin:nuclotron}
 \selectlanguageifdefined{english}
@@ -719,21 +751,24 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
 {The technology behind the production of different NICA Collider magnets}~/
   Sergey~Korovkin, Yuri~Bespalov, Vladimir~Borisov et~al.~// {27th Russian
   Particle Accelerator Conference}. ---
-\newblock 2021. --- 10.
+\newblock 2021. --- 10. ---
+\newblock URL: \BibUrl{https://doi.org/10.18429/JACoW-RuPAC2021-MOPSA14}.
 
 \bibitem{AGSproposal}
 \selectlanguageifdefined{english}
 \BibEmph{Anastassopoulos~D. et~al.} {AGS proposal: Search for a permanent
   electric dipolemoment of the deuteron nucleus at the $10^{-29}$ $e$ cm
   level}. ---
-\newblock 2008.
+\newblock 2008. ---
+\newblock URL: \BibUrl{https://inspirehep.net/literature/1865067}.
 
 \bibitem{Wien}
 \selectlanguageifdefined{english}
 \BibEmph{Aggarwal~A., Magiera~A.} {Controlling Systematic Uncertainties in
   Search for an EDM in the Storage Ring}. ---
 \newblock Vol.~51. ---
-\newblock P.~373.
+\newblock P.~373. ---
+\newblock URL: \BibUrl{https://doi.org/10.5506/APhysPolB.51.373}.
 
 \bibitem{JEDI:polarimeter}
 \selectlanguageifdefined{english}
@@ -741,7 +776,8 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
   electric dipole moments of charged particles}~// \BibEmph{JINST}. ---
 \newblock 2020. ---
 \newblock Vol.~15, no.~12. ---
-\newblock P.~P12005.
+\newblock P.~P12005. ---
+\newblock URL: \BibUrl{https://doi.org/10.1088/1748-0221/15/12/P12005}.
 
 \bibitem{skhomenko:polarimeter}
 \selectlanguageifdefined{english}
@@ -749,7 +785,8 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
   internal target}~// \BibEmph{EPJ Web Conf.} ---
 \newblock 2019. ---
 \newblock Vol. 204. ---
-\newblock P.~10002.
+\newblock P.~10002. ---
+\newblock URL: \BibUrl{https://doi.org10.1051/epjconf/201920410002}.
 
 \bibitem{kovalenko:nuclotron}
 \selectlanguageifdefined{english}
@@ -757,7 +794,9 @@ Transparent Spin Method for Spin Control of Hadron Beams in Colliders~/
   and Recent Development}~// {13th International Conference on Heavy Ion
   Accelerator Technology}. ---
 \newblock 2016. ---
-\newblock P.~MOPA19.
+\newblock P.~MOPA19. ---
+\newblock URL:
+  \BibUrl{https://accelconf.web.cern.ch/DOI/HIAT2015/JACoW-HIAT2015-MOPA19.html}.
 
 \bibitem{cosy}
 \selectlanguageifdefined{english}
@@ -769,15 +808,12 @@ COSY Infinity. ---
 {Spin Tune Decoherence Effects in Electro- and Magnetostatic Structures}~/
   Yurij~Senichev, Rudolf~Maier, Denis~Zyuzin, Natalia~Kulabukhova~// {4th
   International Particle Accelerator Conference}. ---
-\newblock 2013. ---
 \newblock Pp.~2579--2581.
 
 \bibitem{orbit_length}
 \selectlanguageifdefined{english}
 \BibEmph{Senichev~Y., Aksentyev~A., Melnikov~A.} Spin Chromaticity of Beam:
-  Orbit Lengthening and Betatron Chromaticity~// \BibEmph{Physics of Atomic
-  Nuclei}. ---
-\newblock 2021. ---
+  Orbit Lengthening and Betatron Chromaticity. ---
 \newblock Vol.~84, no.~12. ---
 \newblock Pp.~2014--2017. ---
 \newblock URL: \BibUrl{https://doi.org/10.1134/S1063778821100367}.

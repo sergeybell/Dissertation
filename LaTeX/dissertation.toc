@@ -58,5 +58,5 @@
 \contentsline {chapter}{Заключение}{113}{chapter*.80}%
 \contentsline {chapter}{Словарь терминов}{115}{chapter*.81}%
 \contentsline {chapter}{Список литературы}{116}{chapter*.82}%
-\contentsline {chapter}{Список рисунков}{126}{section*.83}%
-\contentsline {chapter}{Список таблиц}{131}{section*.84}%
+\contentsline {chapter}{Список рисунков}{127}{section*.83}%
+\contentsline {chapter}{Список таблиц}{132}{section*.84}%
