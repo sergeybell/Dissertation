@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>synopsis.bcf</file>
@@ -53,6 +53,7 @@
       <file>blx-dm.def</file>
       <file>biblatex-gost.dbx</file>
       <file>gost-numeric.dbx</file>
+      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>biblatex-gost.def</file>
@@ -61,13 +62,15 @@
       <file>numeric-comp.cbx</file>
       <file>gost-numeric.cbx</file>
       <file>biblatex.cfg</file>
-      <file>russian.lbx</file>
-      <file>russian-gost.lbx</file>
       <file>english.lbx</file>
       <file>english-gost.lbx</file>
+      <file>american.lbx</file>
+      <file>american-gost.lbx</file>
+      <file>russian.lbx</file>
+      <file>russian-gost.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -88,7 +91,7 @@
     <requires type="editable">
       <file>biblio/external.bib</file>
       <file>biblio/author.bib</file>
-      <file>bl-registered.bib</file>
+      <file>biblio/registered.bib</file>
     </requires>
   </external>
 </requests>

@@ -1,125 +1,31 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: dissertation.aux
-The style file: BibTeX-Styles/utf8gost71u.bst
-A level-1 auxiliary file: Dissertation/title.aux
-A level-1 auxiliary file: Dissertation/contents.aux
-A level-1 auxiliary file: Dissertation/introduction.aux
-A level-1 auxiliary file: Dissertation/part1.aux
-A level-1 auxiliary file: Dissertation/part2.aux
-A level-1 auxiliary file: Dissertation/part3.aux
-A level-1 auxiliary file: Dissertation/part4.aux
-A level-1 auxiliary file: Dissertation/conclusion.aux
-A level-1 auxiliary file: Dissertation/acronyms.aux
-A level-1 auxiliary file: Dissertation/dictionary.aux
-A level-1 auxiliary file: Dissertation/references.aux
-A level-1 auxiliary file: Dissertation/lists.aux
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: biblio/external.bib
-Warning--entry type for "zinkevich" isn't style-file defined
---line 2219 of file biblio/external.bib
-Database file #2: biblio/author.bib
-Warning--empty journal in phase_transition_universe
-Warning--empty journal in neutron_stars
-Warning--empty journal in quark_gluon
-Warning--empty year in RHIC_luminosity_heavy
-Warning--empty journal in 2016_IBS
-Warning--empty journal in spin_crisis_1989
-Warning--empty journal in quarks_overview_2022
-Warning--empty journal in COSY_ANKE
-Warning--empty year in SATURNE
-Warning--empty journal in RHIC_2014
-Warning--empty journal in RHIC_luminosity
-Warning--empty journal in CP
-Warning--empty journal in P-violation
-Warning--empty journal in CKM
-Warning--empty journal in CPstrong
-Warning--empty journal in EMD_overview
-Warning--empty journal in EDM
-Warning--empty journal in NeutronEDM
-Warning--empty journal in neutron_EDM_current
-Warning--empty year in QFS
-Warning--empty journal in Axion_Nikolaev
-Warning--empty journal in j-park
-Too many commas in name 1 of "В.А. Матвеев, В.Д. Кекелидзе, Р. Ледницки, Б.Н. Гикал" for entry Tech_NICA
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty year in Tech_NICA
-ptr=1, stack=
-ТЕХНИЧЕСКИЙ ПРОЕКТ ОБЪЕКТА «КОМПЛЕКС NICA»
----the literal stack isn't empty for entry Tech_NICA
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty journal in Kolokolchikov:2023_bypass
-ptr=1, stack=
-{Revision of Intrabeam Scattering with Non-Ultrarelativistic Corrections and Vertical Dispersion for MAD-X}
----the literal stack isn't empty for entry antoniou:ibs
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Too many commas in name 1 of "Костромин С.А., Мешков И.Н., Сидорин А.О., Смирнов А.В., Трубников Г.В., Шурхно Н.А." for entry kostromin:stochastic
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty journal in MetralMohl
-Warning--empty year in cern:q-jump
-ptr=1, stack=
-{Compensation of space-charge effects at transition by an asymmetric Q-jump: a theoretical study}
----the literal stack isn't empty for entry cern:q-jump
-while executing---line 3195 of file BibTeX-Styles/utf8gost71u.bst
-Warning--empty year in cern:new-jump
-Warning--empty school in hans:bb
-Warning--empty journal in weilee:sc
-Warning--empty year in kaon_tr
-Warning--empty journal in neutrino_tr
-Warning--empty journal in JHP_tr
-Warning--empty year in J-PARK_tr
-Warning--empty journal in Ehrenfest
-Warning--empty journal in g-2
-Warning--empty journal in ST_Filatov
-Warning--empty journal in FDM
-Warning--empty journal in AGSproposal
-Warning--empty journal in Wien
-Warning--empty year in Senichev:2013_decoherence
-Warning--empty journal in orbit_length
-Warning--empty journal in 1000
-You've used 98 entries,
-            3126 wiz_defined-function locations,
-            1457 strings with 42151 characters,
-and the built_in function-call counts, 37172 in all, are:
-= -- 4631
-> -- 979
-< -- 190
-+ -- 319
-- -- 221
-* -- 2180
-:= -- 3833
-add.period$ -- 447
-call.type$ -- 98
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 140
-duplicate$ -- 1913
-empty$ -- 3372
-format.name$ -- 221
-if$ -- 9703
-int.to.chr$ -- 0
-int.to.str$ -- 98
-missing$ -- 0
-newline$ -- 688
-num.names$ -- 270
-pop$ -- 550
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 1614
-stack$ -- 0
-substring$ -- 1812
-swap$ -- 1548
-text.length$ -- 101
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 42
-while$ -- 254
-width$ -- 100
-write$ -- 1847
-(There were 7 error messages)
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'dissertation.blg'
+[71] biber-MSWIN64:340> INFO - === 
+[97] Biber.pm:420> INFO - Reading 'dissertation.bcf'
+[206] Biber.pm:994> INFO - Found 54 citekeys in bib section 0
+[206] Biber.pm:991> INFO - Using all citekeys in bib section 1
+[206] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[206] Biber.pm:994> INFO - Found 0 citekeys in bib section 2
+[208] Biber.pm:994> INFO - Found 45 citekeys in bib section 0
+[226] Biber.pm:4463> INFO - Processing section 0
+[234] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/external.bib' for section 0
+[275] bibtex.pm:1713> INFO - LaTeX decoding ...
+[376] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/external.bib'
+[1072] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/author.bib' for section 0
+[1111] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1138] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/author.bib'
+[1305] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1305] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1305] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[1305] Biber.pm:4289> INFO - No sort tailoring available for locale 'ru-RU'
+[1375] Biber.pm:4463> INFO - Processing section 1
+[1375] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/author.bib' for section 1
+[1463] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/registered.bib' for section 1
+[1496] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1502] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/registered.bib'
+[1518] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1518] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1518] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[1518] Biber.pm:4289> INFO - No sort tailoring available for locale 'ru-RU'
+[1528] bbl.pm:676> INFO - Writing 'dissertation.bbl' with encoding 'UTF-8'
+[2118] bbl.pm:779> INFO - Output to dissertation.bbl

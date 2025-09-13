@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  25 AUG 2025 18:37
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  8 SEP 2025 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (c:/texlive/2024/texmf-dist/tex/latex/nag/nag.sty
 Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
-\c@nag@c=\count196
-\c@nag@sins=\count197
+\c@nag@c=\count192
+\c@nag@sins=\count193
 Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
 
 (c:/texlive/2024/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
@@ -27,10 +27,12 @@ ument class
 (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
 
-(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count194
 \l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
@@ -39,13 +41,13 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
+\etb@tempcnta=\count197
 ))
 \onelineskip=\skip49
 \lxvchars=\skip50
 \xlvchars=\skip51
-\@memcnta=\count266
-\c@@memmarkcntra=\count267
+\@memcnta=\count198
+\c@@memmarkcntra=\count199
 
 (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
@@ -66,20 +68,20 @@ File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count268
+\c@storedpagenumber=\count266
 \memPD=\dimen141
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count269
-\c@part=\count270
-\c@chapter=\count271
-\c@section=\count272
-\c@subsection=\count273
-\c@subsubsection=\count274
-\c@paragraph=\count275
-\c@subparagraph=\count276
+\c@book=\count267
+\c@part=\count268
+\c@chapter=\count269
+\c@section=\count270
+\c@subsection=\count271
+\c@subsubsection=\count272
+\c@paragraph=\count273
+\c@subparagraph=\count274
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -101,8 +103,8 @@ File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count277
-\c@@ppsaveapp=\count278
+\c@@ppsavesec=\count275
+\c@@ppsaveapp=\count276
 \ragrparindent=\dimen142
 \everylistparindent=\dimen143
 \parsepi=\skip89
@@ -124,10 +126,10 @@ File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count279
-\c@poemline=\count280
-\c@modulo@vs=\count281
-\c@memfvsline=\count282
+\c@vslineno=\count277
+\c@poemline=\count278
+\c@modulo@vs=\count279
+\c@memfvsline=\count280
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
@@ -135,11 +137,11 @@ File: mem14.clo 2022/07/29 v0.5 memoir class 14pt size option
 \vgap=\skip110
 \vindent=\skip111
 \vleftmargin=\dimen145
-\c@verse=\count283
-\c@chrsinstr=\count284
+\c@verse=\count281
+\c@chrsinstr=\count282
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count285
+\c@poem=\count283
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
@@ -167,7 +169,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@old@col=\dimen150
 \TX@target=\dimen151
 \TX@delta=\dimen152
-\TX@cols=\count286
+\TX@cols=\count284
 \TX@ftn=\toks19
 )
 (c:/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -182,23 +184,23 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen160
 \cmidrulekern=\dimen161
 \defaultaddspace=\dimen162
-\@cmidla=\count287
-\@cmidlb=\count288
+\@cmidla=\count285
+\@cmidlb=\count286
 \@aboverulesep=\dimen163
 \@belowrulesep=\dimen164
-\@thisruleclass=\count289
-\@lastruleclass=\count290
+\@thisruleclass=\count287
+\@lastruleclass=\count288
 \@thisrulewidth=\dimen165
 )
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count291
-\@linestogo=\count292
-\@cellstogo=\count293
-\@cellsincolumn=\count294
+\abovecolumnspenalty=\count289
+\@linestogo=\count290
+\@cellstogo=\count291
+\@cellsincolumn=\count292
 \crtok=\toks20
 \@mincolumnwidth=\dimen166
-\c@newflo@tctr=\count295
+\c@newflo@tctr=\count293
 \mem@margin@floatbox=\box55
 \@contcwidth=\skip121
 \@contindw=\skip122
@@ -210,7 +212,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
 \subfloatcapmargin=\dimen167
-\c@@contsubnum=\count296
+\c@@contsubnum=\count294
 \m@mscap@capbox=\box56
 \m@mscap@fbox=\box57
 \sidecapsep=\dimen168
@@ -252,7 +254,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
-\c@section@level=\count297
+\c@section@level=\count295
 )
 \tocentryskip=\skip134
 \tocbaseline=\skip135
@@ -282,7 +284,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
 \prechapterprecisshift=\dimen177
-\c@maxsecnumdepth=\count298
+\c@maxsecnumdepth=\count296
 \bibindent=\dimen178
 \bibitemsep=\skip159
 \indexcolsep=\skip160
@@ -305,7 +307,7 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \footinsdim=\skip170
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count299
+\m@m@k=\count297
 \m@m@h=\dimen181
 \m@mipn@skip=\skip171
 \sidefootins=\insert248
@@ -315,12 +317,12 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count300
+\c@sidefootnote=\count298
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count301
-\c@pagenoteshadow=\count302
+\c@pagenote=\count299
+\c@pagenoteshadow=\count300
 \mem@pn@lastkern=\skip181
 
 (c:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
@@ -337,40 +339,40 @@ Package: shortvrb 2024/10/23 v3.0q Standard LaTeX documentation package V3 (FMi
 )
 )
 \bvboxsep=\skip183
-\c@memfbvline=\count303
-\c@bvlinectr=\count304
+\c@memfbvline=\count301
+\c@bvlinectr=\count302
 \bvnumlength=\skip184
 \fb@frw=\dimen182
 \fb@frh=\dimen183
 \FrameRule=\dimen184
 \FrameSep=\dimen185
-\c@cp@cntr=\count305
-\c@ism@mctr=\count306
-\c@xsm@mctr=\count307
-\c@csm@mctr=\count308
-\c@ksm@mctr=\count309
-\c@xksm@mctr=\count310
-\c@cksm@mctr=\count311
-\c@msm@mctr=\count312
-\c@xmsm@mctr=\count313
-\c@cmsm@mctr=\count314
-\c@bsm@mctr=\count315
-\c@workm@mctr=\count316
-\c@sheetsequence=\count317
-\c@lastsheet=\count318
-\c@lastpage=\count319
+\c@cp@cntr=\count303
+\c@ism@mctr=\count304
+\c@xsm@mctr=\count305
+\c@csm@mctr=\count306
+\c@ksm@mctr=\count307
+\c@xksm@mctr=\count308
+\c@cksm@mctr=\count309
+\c@msm@mctr=\count310
+\c@xmsm@mctr=\count311
+\c@cmsm@mctr=\count312
+\c@bsm@mctr=\count313
+\c@workm@mctr=\count314
+\c@sheetsequence=\count315
+\c@lastsheet=\count316
+\c@lastpage=\count317
 
 (c:/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
-\c@figure=\count320
-\c@lofdepth=\count321
+\c@figure=\count318
+\c@lofdepth=\count319
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count322
-\c@lotdepth=\count323
+\c@table=\count320
+\c@lotdepth=\count321
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -405,13 +407,13 @@ Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
 (./common/setup.tex
-\c@draft=\count324
-\c@showmarkup=\count325
-\c@usealtfont=\count326
-\c@fontfamily=\count327
-\c@bibliosel=\count328
-\c@mediadisplay=\count329
-\c@imgprecompile=\count330
+\c@draft=\count322
+\c@showmarkup=\count323
+\c@usealtfont=\count324
+\c@fontfamily=\count325
+\c@bibliosel=\count326
+\c@mediadisplay=\count327
+\c@imgprecompile=\count328
 ) (./common/packages.tex
 (c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
@@ -436,12 +438,13 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
+Package graphics Info: Driver file: xetex.def on input line 106.
 
-(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 )))
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -449,9 +452,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count331
-\Gm@cntv=\count332
-\c@Gm@tempcnt=\count333
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
 \Gm@bindingoffset=\dimen186
 \Gm@wd@mp=\dimen187
 \Gm@odd@mp=\dimen188
@@ -494,14 +497,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count334
+\inf@bad=\count332
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count335
-\leftroot@=\count336
+\uproot@=\count333
+\leftroot@=\count334
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count337
-\DOTSCASE@=\count338
+\classnum@=\count335
+\DOTSCASE@=\count336
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -514,20 +517,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen196
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count339
+\macc@depth=\count337
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count340
+\c@MaxMatrixCols=\count338
 \dotsspace@=\muskip17
-\c@parentequation=\count341
-\dspbrk@lvl=\count342
+\c@parentequation=\count339
+\dspbrk@lvl=\count340
 \tag@help=\toks33
-\row@=\count343
-\column@=\count344
-\maxfields@=\count345
+\row@=\count341
+\column@=\count342
+\maxfields@=\count343
 \andhelp@=\toks34
 \eqnshift@=\dimen197
 \alignsep@=\dimen198
@@ -565,21 +568,21 @@ Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 
 (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count346
-\calc@Bcount=\count347
+\calc@Acount=\count344
+\calc@Bcount=\count345
 \calc@Adimen=\dimen262
 \calc@Bdimen=\dimen263
 \calc@Askip=\skip197
 \calc@Bskip=\skip198
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count348
+\calc@Ccount=\count346
 \calc@Cskip=\skip199
 )
 (c:/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count349
+\g_MT_multlinerow_int=\count347
 \l_MT_multwidth_dim=\dimen264
 \origjot=\skip256
 \l_MT_shortvdotswithinadjustabove_dim=\dimen265
@@ -633,27 +636,27 @@ Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box63
 \l__siunitx_tmp_dim=\dimen279
-\l__siunitx_tmp_int=\count350
-\l__siunitx_number_mantissa_length_int=\count351
-\l__siunitx_number_uncert_length_int=\count352
-\l__siunitx_round_int=\count353
-\l__siunitx_process_decimal_int=\count354
-\l__siunitx_process_uncertainty_int=\count355
-\l__siunitx_process_fixed_int=\count356
-\l__siunitx_process_integer_min_int=\count357
-\l__siunitx_process_precision_int=\count358
-\l__siunitx_group_min_int=\count359
+\l__siunitx_tmp_int=\count348
+\l__siunitx_number_mantissa_length_int=\count349
+\l__siunitx_number_uncert_length_int=\count350
+\l__siunitx_round_int=\count351
+\l__siunitx_process_decimal_int=\count352
+\l__siunitx_process_uncertainty_int=\count353
+\l__siunitx_process_fixed_int=\count354
+\l__siunitx_process_integer_min_int=\count355
+\l__siunitx_process_precision_int=\count356
+\l__siunitx_group_min_int=\count357
 \l__siunitx_angle_marker_box=\box64
 \l__siunitx_angle_unit_box=\box65
 \l__siunitx_angle_marker_dim=\dimen280
 \l__siunitx_angle_unit_dim=\dimen281
-\l__siunitx_unit_int=\count360
-\l__siunitx_unit_denominator_int=\count361
-\l__siunitx_unit_numerator_int=\count362
-\l__siunitx_unit_prefix_int=\count363
-\l__siunitx_unit_prefix_base_int=\count364
-\l__siunitx_unit_prefix_gram_int=\count365
-\l__siunitx_number_product_int=\count366
+\l__siunitx_unit_int=\count358
+\l__siunitx_unit_denominator_int=\count359
+\l__siunitx_unit_numerator_int=\count360
+\l__siunitx_unit_prefix_int=\count361
+\l__siunitx_unit_prefix_base_int=\count362
+\l__siunitx_unit_prefix_gram_int=\count363
+\l__siunitx_number_product_int=\count364
 \c__siunitx_one_fill_skip=\skip257
 \l__siunitx_table_unit_align_skip=\skip258
 \l__siunitx_table_exponent_dim=\dimen282
@@ -680,268 +683,40 @@ File: siunitx.cfg
 subequations patched
 \curtextsize=\skip261
 \bigtextsize=\skip262
-(c:/texlive/2024/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(c:/texlive/2024/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex)
-(c:/texlive/2024/texmf-dist/tex/latex/cmap/cmap.sty
-Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/01/31 v2.4 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count365
+\l__fontspec_language_int=\count366
+\l__fontspec_strnum_int=\count367
+\l__fontspec_tmp_int=\count368
+\l__fontspec_tmpa_int=\count369
+\l__fontspec_tmpb_int=\count370
+\l__fontspec_tmpc_int=\count371
+\l__fontspec_em_int=\count372
+\l__fontspec_emdef_int=\count373
+\l__fontspec_strong_int=\count374
+\l__fontspec_strongdef_int=\count375
+\l__fontspec_tmpa_dim=\dimen291
+\l__fontspec_tmpb_dim=\dimen292
+\l__fontspec_tmpc_dim=\dimen293
+
 (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+\l_xpg_alias_keyvals_int=\count376
 
-(c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
-Now handling font encoding T2A ...
-... processing UTF-8 mapping file for font encoding T2A
-
-(c:/texlive/2024/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+0400 (decimal 1024)
-   defining Unicode char U+0401 (decimal 1025)
-   defining Unicode char U+0402 (decimal 1026)
-   defining Unicode char U+0403 (decimal 1027)
-   defining Unicode char U+0404 (decimal 1028)
-   defining Unicode char U+0405 (decimal 1029)
-   defining Unicode char U+0406 (decimal 1030)
-   defining Unicode char U+0407 (decimal 1031)
-   defining Unicode char U+0408 (decimal 1032)
-   defining Unicode char U+0409 (decimal 1033)
-   defining Unicode char U+040A (decimal 1034)
-   defining Unicode char U+040B (decimal 1035)
-   defining Unicode char U+040C (decimal 1036)
-   defining Unicode char U+040D (decimal 1037)
-   defining Unicode char U+040E (decimal 1038)
-   defining Unicode char U+040F (decimal 1039)
-   defining Unicode char U+0410 (decimal 1040)
-   defining Unicode char U+0411 (decimal 1041)
-   defining Unicode char U+0412 (decimal 1042)
-   defining Unicode char U+0413 (decimal 1043)
-   defining Unicode char U+0414 (decimal 1044)
-   defining Unicode char U+0415 (decimal 1045)
-   defining Unicode char U+0416 (decimal 1046)
-   defining Unicode char U+0417 (decimal 1047)
-   defining Unicode char U+0418 (decimal 1048)
-   defining Unicode char U+0419 (decimal 1049)
-   defining Unicode char U+041A (decimal 1050)
-   defining Unicode char U+041B (decimal 1051)
-   defining Unicode char U+041C (decimal 1052)
-   defining Unicode char U+041D (decimal 1053)
-   defining Unicode char U+041E (decimal 1054)
-   defining Unicode char U+041F (decimal 1055)
-   defining Unicode char U+0420 (decimal 1056)
-   defining Unicode char U+0421 (decimal 1057)
-   defining Unicode char U+0422 (decimal 1058)
-   defining Unicode char U+0423 (decimal 1059)
-   defining Unicode char U+0424 (decimal 1060)
-   defining Unicode char U+0425 (decimal 1061)
-   defining Unicode char U+0426 (decimal 1062)
-   defining Unicode char U+0427 (decimal 1063)
-   defining Unicode char U+0428 (decimal 1064)
-   defining Unicode char U+0429 (decimal 1065)
-   defining Unicode char U+042A (decimal 1066)
-   defining Unicode char U+042B (decimal 1067)
-   defining Unicode char U+042C (decimal 1068)
-   defining Unicode char U+042D (decimal 1069)
-   defining Unicode char U+042E (decimal 1070)
-   defining Unicode char U+042F (decimal 1071)
-   defining Unicode char U+0430 (decimal 1072)
-   defining Unicode char U+0431 (decimal 1073)
-   defining Unicode char U+0432 (decimal 1074)
-   defining Unicode char U+0433 (decimal 1075)
-   defining Unicode char U+0434 (decimal 1076)
-   defining Unicode char U+0435 (decimal 1077)
-   defining Unicode char U+0436 (decimal 1078)
-   defining Unicode char U+0437 (decimal 1079)
-   defining Unicode char U+0438 (decimal 1080)
-   defining Unicode char U+0439 (decimal 1081)
-   defining Unicode char U+043A (decimal 1082)
-   defining Unicode char U+043B (decimal 1083)
-   defining Unicode char U+043C (decimal 1084)
-   defining Unicode char U+043D (decimal 1085)
-   defining Unicode char U+043E (decimal 1086)
-   defining Unicode char U+043F (decimal 1087)
-   defining Unicode char U+0440 (decimal 1088)
-   defining Unicode char U+0441 (decimal 1089)
-   defining Unicode char U+0442 (decimal 1090)
-   defining Unicode char U+0443 (decimal 1091)
-   defining Unicode char U+0444 (decimal 1092)
-   defining Unicode char U+0445 (decimal 1093)
-   defining Unicode char U+0446 (decimal 1094)
-   defining Unicode char U+0447 (decimal 1095)
-   defining Unicode char U+0448 (decimal 1096)
-   defining Unicode char U+0449 (decimal 1097)
-   defining Unicode char U+044A (decimal 1098)
-   defining Unicode char U+044B (decimal 1099)
-   defining Unicode char U+044C (decimal 1100)
-   defining Unicode char U+044D (decimal 1101)
-   defining Unicode char U+044E (decimal 1102)
-   defining Unicode char U+044F (decimal 1103)
-   defining Unicode char U+0450 (decimal 1104)
-   defining Unicode char U+0451 (decimal 1105)
-   defining Unicode char U+0452 (decimal 1106)
-   defining Unicode char U+0453 (decimal 1107)
-   defining Unicode char U+0454 (decimal 1108)
-   defining Unicode char U+0455 (decimal 1109)
-   defining Unicode char U+0456 (decimal 1110)
-   defining Unicode char U+0457 (decimal 1111)
-   defining Unicode char U+0458 (decimal 1112)
-   defining Unicode char U+0459 (decimal 1113)
-   defining Unicode char U+045A (decimal 1114)
-   defining Unicode char U+045B (decimal 1115)
-   defining Unicode char U+045C (decimal 1116)
-   defining Unicode char U+045D (decimal 1117)
-   defining Unicode char U+045E (decimal 1118)
-   defining Unicode char U+045F (decimal 1119)
-   defining Unicode char U+0490 (decimal 1168)
-   defining Unicode char U+0491 (decimal 1169)
-   defining Unicode char U+0492 (decimal 1170)
-   defining Unicode char U+0493 (decimal 1171)
-   defining Unicode char U+0496 (decimal 1174)
-   defining Unicode char U+0497 (decimal 1175)
-   defining Unicode char U+0498 (decimal 1176)
-   defining Unicode char U+0499 (decimal 1177)
-   defining Unicode char U+049A (decimal 1178)
-   defining Unicode char U+049B (decimal 1179)
-   defining Unicode char U+049C (decimal 1180)
-   defining Unicode char U+049D (decimal 1181)
-   defining Unicode char U+04A0 (decimal 1184)
-   defining Unicode char U+04A1 (decimal 1185)
-   defining Unicode char U+04A2 (decimal 1186)
-   defining Unicode char U+04A3 (decimal 1187)
-   defining Unicode char U+04A4 (decimal 1188)
-   defining Unicode char U+04A5 (decimal 1189)
-   defining Unicode char U+04AA (decimal 1194)
-   defining Unicode char U+04AB (decimal 1195)
-   defining Unicode char U+04AE (decimal 1198)
-   defining Unicode char U+04AF (decimal 1199)
-   defining Unicode char U+04B0 (decimal 1200)
-   defining Unicode char U+04B1 (decimal 1201)
-   defining Unicode char U+04B2 (decimal 1202)
-   defining Unicode char U+04B3 (decimal 1203)
-   defining Unicode char U+04B6 (decimal 1206)
-   defining Unicode char U+04B7 (decimal 1207)
-   defining Unicode char U+04B8 (decimal 1208)
-   defining Unicode char U+04B9 (decimal 1209)
-   defining Unicode char U+04BA (decimal 1210)
-   defining Unicode char U+04BB (decimal 1211)
-   defining Unicode char U+04C0 (decimal 1216)
-   defining Unicode char U+04C1 (decimal 1217)
-   defining Unicode char U+04C2 (decimal 1218)
-   defining Unicode char U+04D0 (decimal 1232)
-   defining Unicode char U+04D1 (decimal 1233)
-   defining Unicode char U+04D2 (decimal 1234)
-   defining Unicode char U+04D3 (decimal 1235)
-   defining Unicode char U+04D4 (decimal 1236)
-   defining Unicode char U+04D5 (decimal 1237)
-   defining Unicode char U+04D6 (decimal 1238)
-   defining Unicode char U+04D7 (decimal 1239)
-   defining Unicode char U+04D8 (decimal 1240)
-   defining Unicode char U+04D9 (decimal 1241)
-   defining Unicode char U+04DA (decimal 1242)
-   defining Unicode char U+04DB (decimal 1243)
-   defining Unicode char U+04DC (decimal 1244)
-   defining Unicode char U+04DD (decimal 1245)
-   defining Unicode char U+04DE (decimal 1246)
-   defining Unicode char U+04DF (decimal 1247)
-   defining Unicode char U+04E2 (decimal 1250)
-   defining Unicode char U+04E3 (decimal 1251)
-   defining Unicode char U+04E4 (decimal 1252)
-   defining Unicode char U+04E5 (decimal 1253)
-   defining Unicode char U+04E6 (decimal 1254)
-   defining Unicode char U+04E7 (decimal 1255)
-   defining Unicode char U+04E8 (decimal 1256)
-   defining Unicode char U+04E9 (decimal 1257)
-   defining Unicode char U+04EC (decimal 1260)
-   defining Unicode char U+04ED (decimal 1261)
-   defining Unicode char U+04EE (decimal 1262)
-   defining Unicode char U+04EF (decimal 1263)
-   defining Unicode char U+04F0 (decimal 1264)
-   defining Unicode char U+04F1 (decimal 1265)
-   defining Unicode char U+04F2 (decimal 1266)
-   defining Unicode char U+04F3 (decimal 1267)
-   defining Unicode char U+04F4 (decimal 1268)
-   defining Unicode char U+04F5 (decimal 1269)
-   defining Unicode char U+04F8 (decimal 1272)
-   defining Unicode char U+04F9 (decimal 1273)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+3008 (decimal 12296)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+3009 (decimal 12297)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
 ))
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-16.
-
-(c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>)
-(c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks38
-\inpenc@posthook=\toks39
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
-\babel@savecnt=\count367
-\U@D=\dimen291
-\l@unhyphenated=\language90
-
-(c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count368
-
-(c:/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 108.
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel-russian/russianb.ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
-Language: russian 2020/09/09 1.3k Russian support for the Babel system
-Package babel Info: Making " an active character on input line 124.
-Package babel Info: Default for \cyrdash is provided on input line 163.
-))
-(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-Package babel Info: Importing font and identification data for russian
-(babel)             from babel-ru.ini. Reported on input line 11.
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
 (c:/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
@@ -955,10 +730,9 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Warning: Package option `hyperref' is obsolete and ignored on in
 put line 265.
 
-Package xcolor Info: Driver file: pdftex.def on input line 274.
+Package xcolor Info: Driver file: xetex.def on input line 274.
 (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
@@ -972,9 +746,9 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
-\everycr=\toks40
+\everycr=\toks38
 \minrowclearance=\skip263
-\rownum=\count369
+\rownum=\count377
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
@@ -982,18 +756,18 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTright=\skip265
 \LTpre=\skip266
 \LTpost=\skip267
-\LTchunksize=\count370
-\LTcapwidth=\dimen292
+\LTchunksize=\count378
+\LTcapwidth=\dimen294
 \LT@head=\box70
 \LT@firsthead=\box71
 \LT@foot=\box72
 \LT@lastfoot=\box73
 \LT@gbox=\box74
-\LT@cols=\count371
-\LT@rows=\count372
-\c@LT@tables=\count373
-\c@LT@chunks=\count374
-\LT@p@ftn=\toks41
+\LT@cols=\count379
+\LT@rows=\count380
+\c@LT@tables=\count381
+\c@LT@chunks=\count382
+\LT@p@ftn=\toks39
 )
 (c:/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
@@ -1004,15 +778,15 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip271
-\multirow@cntb=\count375
+\multirow@cntb=\count383
 \multirow@dima=\skip272
-\bigstrutjot=\dimen293
+\bigstrutjot=\dimen295
 )
 (c:/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen294
-\c@nlinenum=\count376
-\TeXr@lab=\toks42
+\rotheadsize=\dimen296
+\c@nlinenum=\count384
+\TeXr@lab=\toks40
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
@@ -1020,27 +794,27 @@ Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (c:/texlive/2024/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box75
-\sift@deathcycles=\count377
-\@vwid@loff=\dimen295
-\@vwid@roff=\dimen296
+\sift@deathcycles=\count385
+\@vwid@loff=\dimen297
+\@vwid@roff=\dimen298
 )
-\c@taburow=\count378
-\tabu@nbcols=\count379
-\tabu@cnt=\count380
-\tabu@Xcol=\count381
-\tabu@alloc=\count382
-\tabu@nested=\count383
-\tabu@target=\dimen297
-\tabu@spreadtarget=\dimen298
-\tabu@naturalX=\dimen299
-\tabucolX=\dimen300
-\tabu@Xsum=\dimen301
-\extrarowdepth=\dimen302
-\abovetabulinesep=\dimen303
-\belowtabulinesep=\dimen304
-\tabustrutrule=\dimen305
-\tabu@thebody=\toks43
-\tabu@footnotes=\toks44
+\c@taburow=\count386
+\tabu@nbcols=\count387
+\tabu@cnt=\count388
+\tabu@Xcol=\count389
+\tabu@alloc=\count390
+\tabu@nested=\count391
+\tabu@target=\dimen299
+\tabu@spreadtarget=\dimen300
+\tabu@naturalX=\dimen301
+\tabucolX=\dimen302
+\tabu@Xsum=\dimen303
+\extrarowdepth=\dimen304
+\abovetabulinesep=\dimen305
+\belowtabulinesep=\dimen306
+\tabustrutrule=\dimen307
+\tabu@thebody=\toks41
+\tabu@footnotes=\toks42
 \tabu@box=\box76
 \tabu@arstrutbox=\box77
 \tabu@hleads=\box78
@@ -1049,11 +823,11 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2024/06/04 v0.11 tabulary package (DPC)
-\TY@count=\count384
-\TY@linewidth=\dimen306
-\tymin=\dimen307
-\tymax=\dimen308
-\TY@tablewidth=\dimen309
+\TY@count=\count392
+\TY@linewidth=\dimen308
+\tymin=\dimen309
+\tymax=\dimen310
+\TY@tablewidth=\dimen311
 )
 (c:/texlive/2024/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
@@ -1072,26 +846,26 @@ Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (c:/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks45
-\SOUL@lasttoken=\toks46
-\SOUL@syllable=\toks47
-\SOUL@cmds=\toks48
-\SOUL@buffer=\toks49
-\SOUL@token=\toks50
-\SOUL@syllgoal=\dimen310
-\SOUL@syllwidth=\dimen311
-\SOUL@charkern=\dimen312
-\SOUL@hyphkern=\dimen313
-\SOUL@dimen=\dimen314
-\SOUL@dimeni=\dimen315
-\SOUL@minus=\count385
-\SOUL@comma=\count386
-\SOUL@apo=\count387
-\SOUL@grave=\count388
+\SOUL@word=\toks43
+\SOUL@lasttoken=\toks44
+\SOUL@syllable=\toks45
+\SOUL@cmds=\toks46
+\SOUL@buffer=\toks47
+\SOUL@token=\toks48
+\SOUL@syllgoal=\dimen312
+\SOUL@syllwidth=\dimen313
+\SOUL@charkern=\dimen314
+\SOUL@hyphkern=\dimen315
+\SOUL@dimen=\dimen316
+\SOUL@dimeni=\dimen317
+\SOUL@minus=\count393
+\SOUL@comma=\count394
+\SOUL@apo=\count395
+\SOUL@grave=\count396
 \SOUL@spaceskip=\skip274
-\SOUL@ttwidth=\dimen316
-\SOUL@uldp=\dimen317
-\SOUL@ulht=\dimen318
+\SOUL@ttwidth=\dimen318
+\SOUL@uldp=\dimen319
+\SOUL@ulht=\dimen320
 )
 (c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
@@ -1111,9 +885,9 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks51
-\pgfutil@tempdima=\dimen319
-\pgfutil@tempdimb=\dimen320
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen321
+\pgfutil@tempdimb=\dimen322
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box81
@@ -1130,48 +904,53 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks52
-\pgfkeys@temptoks=\toks53
+\pgfkeys@pathtoks=\toks50
+\pgfkeys@temptoks=\toks51
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
 de.tex
-\pgfkeys@tmptoks=\toks54
+\pgfkeys@tmptoks=\toks52
 ))
-\pgf@x=\dimen321
-\pgf@y=\dimen322
-\pgf@xa=\dimen323
-\pgf@ya=\dimen324
-\pgf@xb=\dimen325
-\pgf@yb=\dimen326
-\pgf@xc=\dimen327
-\pgf@yc=\dimen328
-\pgf@xd=\dimen329
-\pgf@yd=\dimen330
+\pgf@x=\dimen323
+\pgf@y=\dimen324
+\pgf@xa=\dimen325
+\pgf@ya=\dimen326
+\pgf@xb=\dimen327
+\pgf@yb=\dimen328
+\pgf@xc=\dimen329
+\pgf@yc=\dimen330
+\pgf@xd=\dimen331
+\pgf@yd=\dimen332
 \w@pgf@writea=\write5
-\r@pgf@reada=\read4
-\c@pgf@counta=\count389
-\c@pgf@countb=\count390
-\c@pgf@countc=\count391
-\c@pgf@countd=\count392
-\t@pgf@toka=\toks55
-\t@pgf@tokb=\toks56
-\t@pgf@tokc=\toks57
-\pgf@sys@id@count=\count393
+\r@pgf@reada=\read3
+\c@pgf@counta=\count397
+\c@pgf@countb=\count398
+\c@pgf@countc=\count399
+\c@pgf@countd=\count400
+\t@pgf@toka=\toks53
+\t@pgf@tokb=\toks54
+\t@pgf@tokc=\toks55
+\pgf@sys@id@count=\count401
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Driver file for pgf: pgfsys-xetex.def
 
-(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count402
 )))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count394
-\pgfsyssoftpath@bigbuffer@items=\count395
+\pgfsyssoftpath@smallbuffer@items=\count403
+\pgfsyssoftpath@bigbuffer@items=\count404
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1181,12 +960,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen331
-\pgfmath@count=\count396
+\pgfmath@dimen=\dimen333
+\pgfmath@count=\count405
 \pgfmath@box=\box82
-\pgfmath@toks=\toks58
-\pgfmath@stack@operand=\toks59
-\pgfmath@stack@operation=\toks60
+\pgfmath@toks=\toks56
+\pgfmath@stack@operand=\toks57
+\pgfmath@stack@operation=\toks58
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
@@ -1207,56 +986,56 @@ x)
 etics.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count397
+\c@pgfmathroundto@lastzeros=\count406
 ))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen332
-\pgf@picmaxx=\dimen333
-\pgf@picminy=\dimen334
-\pgf@picmaxy=\dimen335
-\pgf@pathminx=\dimen336
-\pgf@pathmaxx=\dimen337
-\pgf@pathminy=\dimen338
-\pgf@pathmaxy=\dimen339
-\pgf@xx=\dimen340
-\pgf@xy=\dimen341
-\pgf@yx=\dimen342
-\pgf@yy=\dimen343
-\pgf@zx=\dimen344
-\pgf@zy=\dimen345
+\pgf@picminx=\dimen334
+\pgf@picmaxx=\dimen335
+\pgf@picminy=\dimen336
+\pgf@picmaxy=\dimen337
+\pgf@pathminx=\dimen338
+\pgf@pathmaxx=\dimen339
+\pgf@pathminy=\dimen340
+\pgf@pathmaxy=\dimen341
+\pgf@xx=\dimen342
+\pgf@xy=\dimen343
+\pgf@yx=\dimen344
+\pgf@yy=\dimen345
+\pgf@zx=\dimen346
+\pgf@zy=\dimen347
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
 e.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen346
-\pgf@path@lasty=\dimen347
+\pgf@path@lastx=\dimen348
+\pgf@path@lasty=\dimen349
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
 x
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen348
-\pgf@shorten@start@additional=\dimen349
+\pgf@shorten@end@additional=\dimen350
+\pgf@shorten@start@additional=\dimen351
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box83
 \pgf@hbox=\box84
 \pgf@layerbox@main=\box85
-\pgf@picture@serial@count=\count398
+\pgf@picture@serial@count=\count407
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
 .tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen350
+\pgflinewidth=\dimen352
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
 ode.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen351
-\pgf@pt@y=\dimen352
-\pgf@pt@temp=\dimen353
+\pgf@pt@x=\dimen353
+\pgf@pt@y=\dimen354
+\pgf@pt@temp=\dimen355
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1270,13 +1049,13 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen354
+\pgfarrowsep=\dimen356
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen355
-\pgf@sys@shading@range@num=\count399
-\pgf@shadingcount=\count400
+\pgf@max=\dimen357
+\pgf@sys@shading@range@num=\count408
+\pgf@shadingcount=\count409
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1306,8 +1085,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
 y
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen356
-\pgf@nodesepend=\dimen357
+\pgf@nodesepstart=\dimen358
+\pgf@nodesepend=\dimen359
 )
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
 y
@@ -1319,10 +1098,10 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen358
-\pgffor@skip=\dimen359
-\pgffor@stack=\toks61
-\pgffor@toks=\toks62
+\pgffor@iter=\dimen360
+\pgffor@skip=\dimen361
+\pgffor@stack=\toks59
+\pgffor@toks=\toks60
 ))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -1330,33 +1109,33 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
 de.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count401
-\pgfplotmarksize=\dimen360
+\pgf@plot@mark@count=\count410
+\pgfplotmarksize=\dimen362
 )
-\tikz@lastx=\dimen361
-\tikz@lasty=\dimen362
-\tikz@lastxsaved=\dimen363
-\tikz@lastysaved=\dimen364
-\tikz@lastmovetox=\dimen365
-\tikz@lastmovetoy=\dimen366
-\tikzleveldistance=\dimen367
-\tikzsiblingdistance=\dimen368
+\tikz@lastx=\dimen363
+\tikz@lasty=\dimen364
+\tikz@lastxsaved=\dimen365
+\tikz@lastysaved=\dimen366
+\tikz@lastmovetox=\dimen367
+\tikz@lastmovetoy=\dimen368
+\tikzleveldistance=\dimen369
+\tikzsiblingdistance=\dimen370
 \tikz@figbox=\box88
 \tikz@figbox@bg=\box89
 \tikz@tempbox=\box90
 \tikz@tempbox@bg=\box91
-\tikztreelevel=\count402
-\tikznumberofchildren=\count403
-\tikznumberofcurrentchild=\count404
-\tikz@fig@count=\count405
+\tikztreelevel=\count411
+\tikznumberofchildren=\count412
+\tikznumberofcurrentchild=\count413
+\tikz@fig@count=\count414
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count406
-\pgfmatrixcurrentcolumn=\count407
-\pgf@matrix@numberofcolumns=\count408
+\pgfmatrixcurrentrow=\count415
+\pgfmatrixcurrentcolumn=\count416
+\pgf@matrix@numberofcolumns=\count417
 )
-\tikz@expandcount=\count409
+\tikz@expandcount=\count418
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
@@ -1392,7 +1171,7 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen369
+\arrowsize=\dimen371
 )) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
@@ -1407,7 +1186,7 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -1416,26 +1195,21 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen370
-\Hy@linkcounter=\count410
-\Hy@pagecounter=\count411
+\@linkdim=\dimen372
+\Hy@linkcounter=\count419
+\Hy@pagecounter=\count420
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count412
+\Hy@SavedSpaceFactor=\count421
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 3143.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -1443,14 +1217,14 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count413
+\c@Hy@tempcnt=\count422
 
 (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip20
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen371
+\XeTeXLinkMargin=\dimen373
 
 (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1459,9 +1233,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count414
-\Field@Width=\dimen372
-\Fld@charsize=\dimen373
+\Fld@menulength=\count423
+\Field@Width=\dimen374
+\Fld@charsize=\dimen375
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -1474,26 +1248,28 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count415
-\c@Item=\count416
-\c@Hfootnote=\count417
+\Hy@abspage=\count424
+\c@Item=\count425
+\c@Hfootnote=\count426
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box92
+\c@Hy@AnnotLevel=\count427
+\HyField@AnnotCount=\count428
+\Fld@listcount=\count429
+\c@bookmark@seq@number=\count430
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
 (c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count418
-\c@bookmark@seq@number=\count419
-
-(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
 (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -1504,8 +1280,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (c:/texlive/2024/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2023/09/10 v1.22 hyperref package fixes for memoir class
-\c@memhycontfloat=\count420
-\c@Hpagenote=\count421
+\c@memhycontfloat=\count431
+\c@Hpagenote=\count432
 
 
 LaTeX Warning: Command `\theHpagenote' already defined -- not changed on input 
@@ -1516,25 +1292,25 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen374
-\captionmargin=\dimen375
-\caption@leftmargin=\dimen376
-\caption@rightmargin=\dimen377
-\caption@width=\dimen378
-\caption@indent=\dimen379
-\caption@parindent=\dimen380
-\caption@hangindent=\dimen381
+\caption@tempdima=\dimen376
+\captionmargin=\dimen377
+\caption@leftmargin=\dimen378
+\caption@rightmargin=\dimen379
+\caption@width=\dimen380
+\caption@indent=\dimen381
+\caption@parindent=\dimen382
+\caption@hangindent=\dimen383
 Package caption Info: memoir document class detected.
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption-memoir.sto
 File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
 e memoir document class (AR)
 ))
-\c@caption@flags=\count422
-\c@continuedfloat=\count423
+\c@caption@flags=\count433
+\c@continuedfloat=\count434
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen382
-\caption@adjustwidth@linewidth=\dimen383
+\caption@adjustwidth@hsize=\dimen384
+\caption@adjustwidth@linewidth=\dimen385
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 Package caption Info: threeparttable package is loaded.
@@ -1542,9 +1318,9 @@ Package caption Info: threeparttable package is loaded.
 (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count424
+\c@subfigure=\count435
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count425
+\c@subtable=\count436
 )
 (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
@@ -1554,32 +1330,32 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen384
-\ESO@tempdimb=\dimen385
+\ESO@tempdima=\dimen386
+\ESO@tempdimb=\dimen387
 )
-\AM@pagewidth=\dimen386
-\AM@pageheight=\dimen387
-\AM@fboxrule=\dimen388
+\AM@pagewidth=\dimen388
+\AM@pageheight=\dimen389
+\AM@fboxrule=\dimen390
 
-(c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+(c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2025/01/30 v0.6e Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count426
-\AM@pagebox=\box92
-\AM@global@opts=\toks63
-\AM@pagecnt=\count427
-\AM@toc@title=\toks64
-\AM@lof@heading=\toks65
-\c@AM@survey=\count428
-\AM@templatesizebox=\box93
+\pdfpages@includegraphics@status=\count437
+\AM@pagebox=\box93
+\AM@global@opts=\toks61
+\AM@pagecnt=\count438
+\AM@toc@title=\toks62
+\AM@lof@heading=\toks63
+\c@AM@survey=\count439
+\AM@templatesizebox=\box94
 )
 (c:/texlive/2024/texmf-dist/tex/latex/oberdiek/aliascnt.sty
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/totalcount/totalcount.sty
 Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
-\c@totalcount@figure=\count429
-\c@totalcount@table=\count430
+\c@totalcount@figure=\count440
+\c@totalcount@table=\count441
 )
 (c:/texlive/2024/texmf-dist/tex/latex/totcount/totcount.sty
 Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
@@ -1614,18 +1390,18 @@ Package: placeins 2005/04/18  v 2.2
 (./Dissertation/dispackages.tex
 (c:/texlive/2024/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
-\AP@output=\toks66
-\AP@partial=\box94
-\AP@footins=\box95
+\AP@output=\toks64
+\AP@partial=\box95
+\AP@footins=\box96
 )
 (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip276
-\enit@outerparindent=\dimen389
-\enit@toks=\toks67
-\enit@inbox=\box96
-\enit@count@id=\count431
-\enitdp@description=\count432
+\enit@outerparindent=\dimen391
+\enit@toks=\toks65
+\enit@inbox=\box97
+\enit@count@id=\count442
+\enitdp@description=\count443
 )
 (c:/texlive/2024/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
@@ -1635,10 +1411,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks68
-\XKV@tempa@toks=\toks69
+\XKV@toks=\toks66
+\XKV@tempa@toks=\toks67
 )
-\XKV@depth=\count433
+\XKV@depth=\count444
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/koma-script/tocbasic.sty
@@ -1663,12 +1439,14 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line
  370.
 )
 \scr@dte@tocline@numberwidth=\skip277
-\scr@dte@tocline@numbox=\box97
+\scr@dte@tocline@numbox=\box98
 )
-Package tocbasic Info: setting babel extension for `nlo' on input line 187.
-Package tocbasic Info: setting babel extension for `nls' on input line 188.
-\nomlabelwidth=\dimen390
-\nom@tempdim=\dimen391
+Package tocbasic Info: omitting babel extension for `nlo'
+(tocbasic)             because of missing \bbl@set@language on input line 187.
+Package tocbasic Info: omitting babel extension for `nls'
+(tocbasic)             because of missing \bbl@set@language on input line 188.
+\nomlabelwidth=\dimen392
+\nom@tempdim=\dimen393
 \nomitemsep=\skip278
 )
 \@nomenclaturefile=\write6
@@ -1681,44 +1459,44 @@ Package nomencl Info: Writing nomenclature file dissertation.nlo on input line
 (c:/texlive/2024/texmf-dist/tex/latex/floatrow/fr-longtable.sty
 Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 
-\flrow@LT@lasthead=\box98
-\flrow@LT@prelastfoot=\box99
-\c@FBLTpage=\count434
+\flrow@LT@lasthead=\box99
+\flrow@LT@prelastfoot=\box100
+\c@FBLTpage=\count445
 )
 (c:/texlive/2024/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
 )
 (c:/texlive/2024/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
-\FV@CodeLineNo=\count435
-\FV@InFile=\read5
-\FV@TabBox=\box100
-\c@FancyVerbLine=\count436
-\FV@StepNumber=\count437
+\FV@CodeLineNo=\count446
+\FV@InFile=\read4
+\FV@TabBox=\box101
+\c@FancyVerbLine=\count447
+\FV@StepNumber=\count448
 \FV@OutFile=\write7
 )
 (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count438
-\lst@gtempboxa=\box101
-\lst@token=\toks70
-\lst@length=\count439
-\lst@currlwidth=\dimen392
-\lst@column=\count440
-\lst@pos=\count441
-\lst@lostspace=\dimen393
-\lst@width=\dimen394
-\lst@newlines=\count442
-\lst@lineno=\count443
-\lst@maxwidth=\dimen395
+\lst@mode=\count449
+\lst@gtempboxa=\box102
+\lst@token=\toks68
+\lst@length=\count450
+\lst@currlwidth=\dimen394
+\lst@column=\count451
+\lst@pos=\count452
+\lst@lostspace=\dimen395
+\lst@width=\dimen396
+\lst@newlines=\count453
+\lst@lineno=\count454
+\lst@maxwidth=\dimen397
 
 (c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count444
-\lst@skipnumbers=\count445
-\lst@framebox=\box102
+\c@lstnumber=\count455
+\lst@skipnumbers=\count456
+\lst@framebox=\box103
 )
 (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2024/09/23 1.10c listings configuration
@@ -1733,18 +1511,208 @@ LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
 (Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
 ))
 (./Dissertation/setup.tex
-\c@intvl=\count446
-\c@otstup=\count447
-\c@contnumeq=\count448
-\c@contnumfig=\count449
-\c@contnumtab=\count450
-\c@pgnum=\count451
-\c@chapstyle=\count452
-\c@headingdelim=\count453
-\c@headingalign=\count454
-\c@headingsize=\count455
+\c@intvl=\count457
+\c@otstup=\count458
+\c@contnumeq=\count459
+\c@contnumfig=\count460
+\c@contnumtab=\count461
+\c@pgnum=\count462
+\c@chapstyle=\count463
+\c@headingdelim=\count464
+\c@headingalign=\count465
+\c@headingsize=\count466
 ) (./common/newnames.tex) (./common/data.tex)
-(./common/fonts.tex) (./common/styles.tex
+(./common/fonts.tex
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-russian.ldf
+File: gloss-russian.ldf polyglossia: module for Russian
+
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/xpg-cyrillicnumbers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 115.
+)
+
+Package polyglossia Info: Default language is russian
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(1)' created for font 'Courier
+(fontspec)             New' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(1)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+)
+(./common/styles.tex
 Package caption Info: Modify subtype `subfigure' on input line 42.
 Package hyperref Info: Option `linktocpage' set `true' on input line 169.
 Package hyperref Info: Option `plainpages' set `false' on input line 169.
@@ -1755,24 +1723,355 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 169.
 ) (./Dissertation/userstyles.tex
 \twless=\skip280
 \lmarg=\skip281
-\c@ListingEnv=\count456
-\c@loldepth=\count457
-\c@rowcnt=\count458
+\c@ListingEnv=\count467
+\c@loldepth=\count468
+\c@rowcnt=\count469
 )
-(./biblio/predefined.tex (c:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
+(./biblio/biblatex.tex
+(c:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count470
+\csq@gtype=\count471
+\csq@glevel=\count472
+\csq@qlevel=\count473
+\csq@maxlvl=\count474
+\csq@tshold=\count475
+\csq@ltx@everypar=\toks69
+
+(c:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
-\c@citenum=\count459
-\c@citenum@totc=\count460
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(c:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(c:/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count476
+
+(c:/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count477
+\c@listtotal=\count478
+\c@listcount=\count479
+\c@liststart=\count480
+\c@liststop=\count481
+\c@citecount=\count482
+\c@citetotal=\count483
+\c@multicitecount=\count484
+\c@multicitetotal=\count485
+\c@instcount=\count486
+\c@maxnames=\count487
+\c@minnames=\count488
+\c@maxitems=\count489
+\c@minitems=\count490
+\c@citecounter=\count491
+\c@maxcitecounter=\count492
+\c@savedcitecounter=\count493
+\c@uniquelist=\count494
+\c@uniquename=\count495
+\c@refsection=\count496
+\c@refsegment=\count497
+\c@maxextratitle=\count498
+\c@maxextratitleyear=\count499
+\c@maxextraname=\count500
+\c@maxextradate=\count501
+\c@maxextraalpha=\count502
+\c@abbrvpenalty=\count503
+\c@highnamepenalty=\count504
+\c@lownamepenalty=\count505
+\c@maxparens=\count506
+\c@parenlevel=\count507
+\blx@tempcnta=\count508
+\blx@tempcntb=\count509
+\blx@tempcntc=\count510
+\c@blx@maxsection=\count511
+\blx@maxsegment@0=\count512
+\blx@notetype=\count513
+\blx@parenlevel@text=\count514
+\blx@parenlevel@foot=\count515
+\blx@sectionciteorder@0=\count516
+\blx@sectionciteorderinternal@0=\count517
+\blx@entrysetcounter=\count518
+\blx@biblioinstance=\count519
+\labelnumberwidth=\skip282
+\labelalphawidth=\skip283
+\biblabelsep=\skip284
+\bibnamesep=\skip285
+\bibinitsep=\skip286
+\bibparsep=\skip287
+\bibhang=\skip288
+\blx@bcfin=\read5
+\blx@bcfout=\write8
+\blx@langwohyphens=\language90
+\c@mincomprange=\count520
+\c@maxcomprange=\count521
+\c@mincompwidth=\count522
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'gost-numeric.dbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
+File: gost-numeric.dbx 2023/04/25 v1.24 biblatex-gost data model
+Package biblatex Info: Trying to load biblatex-gost data model...
+Package biblatex Info: ... file 'biblatex-gost.dbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx
+File: biblatex-gost.dbx 2023/04/25 v1.24 biblatex-gost data model
+))
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count523
+\c@savedafterword=\count524
+\c@annotator=\count525
+\c@savedannotator=\count526
+\c@author=\count527
+\c@savedauthor=\count528
+\c@bookauthor=\count529
+\c@savedbookauthor=\count530
+\c@commentator=\count531
+\c@savedcommentator=\count532
+\c@editor=\count533
+\c@savededitor=\count534
+\c@editora=\count535
+\c@savededitora=\count536
+\c@editorb=\count537
+\c@savededitorb=\count538
+\c@editorc=\count539
+\c@savededitorc=\count540
+\c@foreword=\count541
+\c@savedforeword=\count542
+\c@holder=\count543
+\c@savedholder=\count544
+\c@introduction=\count545
+\c@savedintroduction=\count546
+\c@namea=\count547
+\c@savednamea=\count548
+\c@nameb=\count549
+\c@savednameb=\count550
+\c@namec=\count551
+\c@savednamec=\count552
+\c@translator=\count553
+\c@savedtranslator=\count554
+\c@shortauthor=\count555
+\c@savedshortauthor=\count556
+\c@shorteditor=\count557
+\c@savedshorteditor=\count558
+\c@booktranslator=\count559
+\c@savedbooktranslator=\count560
+\c@bookcommentator=\count561
+\c@savedbookcommentator=\count562
+\c@bookannotator=\count563
+\c@savedbookannotator=\count564
+\c@bookintroduction=\count565
+\c@savedbookintroduction=\count566
+\c@bookforeword=\count567
+\c@savedbookforeword=\count568
+\c@bookafterword=\count569
+\c@savedbookafterword=\count570
+\c@labelname=\count571
+\c@savedlabelname=\count572
+\c@institution=\count573
+\c@savedinstitution=\count574
+\c@lista=\count575
+\c@savedlista=\count576
+\c@listb=\count577
+\c@savedlistb=\count578
+\c@listc=\count579
+\c@savedlistc=\count580
+\c@listd=\count581
+\c@savedlistd=\count582
+\c@liste=\count583
+\c@savedliste=\count584
+\c@listf=\count585
+\c@savedlistf=\count586
+\c@location=\count587
+\c@savedlocation=\count588
+\c@organization=\count589
+\c@savedorganization=\count590
+\c@origlocation=\count591
+\c@savedoriglocation=\count592
+\c@origpublisher=\count593
+\c@savedorigpublisher=\count594
+\c@publisher=\count595
+\c@savedpublisher=\count596
+\c@language=\count597
+\c@savedlanguage=\count598
+\c@origlanguage=\count599
+\c@savedoriglanguage=\count600
+\c@bookoriglanguage=\count601
+\c@savedbookoriglanguage=\count602
+\c@specdata=\count603
+\c@savedspecdata=\count604
+\c@credits=\count605
+\c@savedcredits=\count606
+\c@bookcredits=\count607
+\c@savedbookcredits=\count608
+\c@editioncredits=\count609
+\c@savededitioncredits=\count610
+\c@pageref=\count611
+\c@savedpageref=\count612
+\shorthandwidth=\skip289
+\shortjournalwidth=\skip290
+\shortserieswidth=\skip291
+\shorttitlewidth=\skip292
+\shortauthorwidth=\skip293
+\shorteditorwidth=\skip294
+\locallabelnumberwidth=\skip295
+\locallabelalphawidth=\skip296
+\localshorthandwidth=\skip297
+\localshortjournalwidth=\skip298
+\localshortserieswidth=\skip299
+\localshorttitlewidth=\skip300
+\localshortauthorwidth=\skip301
+\localshorteditorwidth=\skip302
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count613
+\c@textcitetotal=\count614
+\c@textcitemaxnames=\count615
+\c@biburlbigbreakpenalty=\count616
+\c@biburlbreakpenalty=\count617
+\c@biburlnumpenalty=\count618
+\c@biburlucpenalty=\count619
+\c@biburllcpenalty=\count620
+\biburlbigskip=\muskip21
+\biburlnumskip=\muskip22
+\biburlucskip=\muskip23
+\biburllcskip=\muskip24
+\c@smartand=\count621
+)
+Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
+Package biblatex Info: ... file 'gost-numeric.bbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
+File: gost-numeric.bbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load bibliography style 'gost-standard'...
+Package biblatex Info: ... file 'gost-standard.bbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
+File: gost-standard.bbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load biblatex-gost generic definitions...
+Package biblatex Info: ... file 'biblatex-gost.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
+File: biblatex-gost.def 2023/04/25 v1.24 biblatex-gost styles
+)
+\c@blx@gost@pointer=\count622
+\c@bbx:relatedcount=\count623
+\c@bbx:relatedtotal=\count624
+Package biblatex Info: Redefining autocite command 'footnote'.
+Package biblatex Info: Redefining autocite command 'superscript'.
+))
+Package biblatex Info: Trying to load citation style 'gost-numeric'...
+Package biblatex Info: ... file 'gost-numeric.cbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
+File: gost-numeric.cbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count625
+\c@cbx@tempcntb=\count626
+\c@cbx@tempcntc=\count627
+\c@cbx@tempcntd=\count628
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-01-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+
+Package biblatex-gost Warning: You set maxbibnames or maxcitenames
+(biblatex-gost)                different from their default value 3.
+(biblatex-gost)                Make sure that sorting works as expected.
+
+\c@citenum=\count629
+\c@citenum@totc=\count630
+\c@citeauthorvak=\count631
+\c@citeauthorvak@totc=\count632
+\c@citeauthorscopus=\count633
+\c@citeauthorscopus@totc=\count634
+\c@citeauthorwos=\count635
+\c@citeauthorwos@totc=\count636
+\c@citeauthorother=\count637
+\c@citeauthorother@totc=\count638
+\c@citeauthorconf=\count639
+\c@citeauthorconf@totc=\count640
+\c@citeauthor=\count641
+\c@citeauthor@totc=\count642
+\c@citeauthorvakscopuswos=\count643
+\c@citeauthorvakscopuswos@totc=\count644
+\c@citeauthorscopuswos=\count645
+\c@citeauthorscopuswos@totc=\count646
+\c@citeregistered=\count647
+\c@citeregistered@totc=\count648
+\c@citeauthorpatent=\count649
+\c@citeauthorpatent@totc=\count650
+\c@citeauthorprogram=\count651
+\c@citeauthorprogram@totc=\count652
+\c@citeexternal=\count653
+\c@citeexternal@totc=\count654
 )
 Selected options:
 Draft mode: 0
 Font: 1
 AltFont: 1
-Bibliography backend: 0
+Bibliography backend: 1
 Precompile images: 0
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'russian'.
 (./dissertation.aux (./Dissertation/title.aux) (./Dissertation/contents.aux)
 (./Dissertation/introduction.aux) (./Dissertation/part1.aux
 
@@ -1811,11 +2110,11 @@ LaTeX Warning: Label `sec:EDM/nuclotron@cref' multiply defined.
 ) (./Dissertation/conclusion.aux) (./Dissertation/acronyms.aux)
 (./Dissertation/dictionary.aux) (./Dissertation/references.aux)
 (./Dissertation/lists.aux)
-\c@totalcount@figure@totc=\count461
-\c@totalcount@table@totc=\count462
-\c@TotPages@totc=\count463
-\c@totalappendix@totc=\count464
-\c@totalchapter@totc=\count465
+\c@totalcount@figure@totc=\count655
+\c@totalcount@table@totc=\count656
+\c@TotPages@totc=\count657
+\c@totalappendix@totc=\count658
+\c@totalchapter@totc=\count659
 )
 \openout1 = `dissertation.aux'.
 
@@ -1829,11 +2128,11 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
@@ -1845,32 +2144,10 @@ line 54.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
  line 54.
 
-(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count466
-\scratchdimen=\dimen396
-\scratchbox=\box103
-\nofMPsegments=\count467
-\nofMParguments=\count468
-\everyMPshowfont=\toks71
-\MPscratchCnt=\count469
-\MPscratchDim=\dimen397
-\MPnumerator=\count470
-\makeMPintoPDFobject=\count471
-\everyMPtoPDFconversion=\toks72
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1908,17 +2185,83 @@ File: siunitx-abbreviations.cfg 2021-04-17 v2.8e siunitx: Abbreviated units
 glish.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-LaTeX Info: Redefining \th on input line 54.
 Package hyperref Info: Link coloring ON on input line 54.
  (./dissertation.out) (./dissertation.out)
-\@outlinefile=\write8
-\openout8 = `dissertation.out'.
+\@outlinefile=\write9
+\openout9 = `dissertation.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count472
+\c@lstlisting=\count660
 Package tocbasic Info: setting babel extension for `lol' on input line 54.
+Package biblatex Info: Trying to load language 'american' -> 'american-gost'...
+
+Package biblatex Info: ... file 'american-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/american-gost.lbx
+File: american-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
+Package biblatex Info: ... file 'english-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
+Package biblatex Info: ... file 'english-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Trying to load language 'russian' -> 'russian-gost'...
+Package biblatex Info: ... file 'russian-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
+File: russian-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout8 = `dissertation.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'dissertation.bbl' found.
+
+(./dissertation.bbl)
+Package biblatex Info: Reference section=0 on input line 54.
+Package biblatex Info: Reference segment=0 on input line 54.
 Package nag Info: Command \captionabove not defined, skipping amendment on inpu
 t line 54.
 Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
@@ -1927,7 +2270,6 @@ Package nag Info: Command \hc@caption not defined, skipping amendment on input
 line 54.
 Package nag Info: Command \topcaption not defined, skipping amendment on input 
 line 54.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
 
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1938,27 +2280,27 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)<<ot1tt.cmap>>
-\c@totalappendix=\count473
-\c@totalchapter=\count474
-
-(./common/renames.tex)
+)
+\c@totalappendix=\count661
+\c@totalchapter=\count662
+ (./common/renames.tex)
 \openout2 = `Dissertation/title.aux'.
 
- (./Dissertation/title.tex)
+
+(./Dissertation/title.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/sl' in size <14.4> not av
+ailable
+(Font)              Font shape `TU/TimesNewRoman(1)/m/it' tried instead on inpu
+t line 26.
+)
 
 [1.1
 
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
-texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
+]
 \openout2 = `Dissertation/contents.aux'.
 
-
-(./Dissertation/contents.tex (./dissertation.toc<<t1.cmap>>
-(./common/renames.tex)
-Package cleveref Info: loaded `russian' language definitions on input line 2.
-
+ (./Dissertation/contents.tex (./dissertation.toc (./common/renames.tex)
 
 [2.2
 
@@ -1966,7 +2308,12 @@ Package cleveref Info: loaded `russian' language definitions on input line 2.
 
 ]
 
-[3.3]))
+[3.3] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)))
 
 [4.4]
 \openout2 = `Dissertation/introduction.aux'.
@@ -1983,328 +2330,419 @@ Package cleveref Info: loaded `russian' language definitions on input line 2.
 [6.6]
 
 [7.7]
-<images/4_EDM_P_T.png, id=399, 1531.7225pt x 2037.6125pt>
-File: images/4_EDM_P_T.png Graphic file (type png)
-<use images/4_EDM_P_T.png>
-Package pdftex.def Info: images/4_EDM_P_T.png  used on input line 19.
-(pdftex.def)             Requested size: 199.16626pt x 264.93001pt.
+File: images/4_EDM_P_T.png Graphic file (type bmp)
+<images/4_EDM_P_T.png>
 
 
-[8.8 <./images/4_EDM_P_T.png (PNG copy)>]
+[8.8]
+Underfull \hbox (badness 4024) in paragraph at lines 30--31
+[]\TU/TimesNewRoman(1)/m/n/14.4 Ускорительный комплекс NICA (Nuclotron-based Io
+n Collider fAсility)
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 30--31
+\TU/TimesNewRoman(1)/m/n/14.4 является современным передовым центром, который о
+борудован передовой
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 30--31
+\TU/TimesNewRoman(1)/m/n/14.4 пучков протонов и дейтронов. Кинематическая облас
+ть, охватываемая SPD,
+ []
+
+
 
 [9.9]
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-
- []
-
-Excluding 'comment' comment.
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
+Underfull \hbox (badness 2469) in paragraph at lines 34--37
+\TU/TimesNewRoman(1)/m/n/14.4 исследования электрического дипольного момента с 
+использованием квази-
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
-[10.10] Excluding 'comment' comment. Excluding 'comment' comment.
-Excluding 'comment' comment.
+ []
+
+
+
+[10.10]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
 
 [11.11]
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-[]\T2A/cmr/m/n/14.4 ���������� ��^^?���^^?��^^?��^^?��^^?���^^?��� 8/16-�������
-���� �����^^?��^^?��
+Underfull \hbox (badness 1472) in paragraph at lines 72--74
+\TU/TimesNewRoman(1)/m/n/14.4 эксперимент. Для исследования были использованы п
+рограммы для расчёта
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
+Underfull \hbox (badness 2608) in paragraph at lines 77--78
+[]\TU/TimesNewRoman(1)/m/n/14.4 Предложена реализация дуальной структуры для ко
+мплекса NICA-
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\TU/TimesNewRoman(1)/m/n/14.4 Nuclotron, оптимальная для тяжелых частиц с точки
+ зрения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\TU/TimesNewRoman(1)/m/n/14.4 Предложены модернизированные 8/16-периодичные с
+труктуры
  []
 
 
 
 [12.12]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
 
  []
 
-)
-\@c=\count475
-\@last=\count476
-\@pnul=\count477
-\@c=\count478
-\@last=\count479
-\@pnul=\count480
-\@c=\count481
-\@last=\count482
-\@pnul=\count483
-\@c=\count484
-\@last=\count485
-\@pnul=\count486
-\@c=\count487
-\@last=\count488
-\@pnul=\count489
-\@c=\count490
-\@last=\count491
-\@pnul=\count492
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
 
 
 [13.13]
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
-[14.14])
+ []
 
-[15.15]
+\blx@maxsegment@1=\count663
+\blx@sectionciteorder@1=\count664
+Package biblatex Info: Reference section=1 on input line 186.
+Package biblatex Info: Setting label 'refsection:1' on input line 186.
+
+Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 186
+.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 186
+.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
+186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 18
+6.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
+86.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioregistered' not found on input line 18
+6.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
+186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
+ 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+Package biblatex Info: Reference section=0 on input line 186.
+\blx@maxsegment@2=\count665
+\blx@sectionciteorder@2=\count666
+Package biblatex Info: Reference section=2 on input line 186.
+Package biblatex Info: Setting label 'refsection:2' on input line 186.
+Package biblatex Info: Reference section=0 on input line 186.
+)
+\@c=\count667
+\@last=\count668
+\@pnul=\count669
+\@c=\count670
+\@last=\count671
+\@pnul=\count672
+\@c=\count673
+\@last=\count674
+\@pnul=\count675
+\@c=\count676
+\@last=\count677
+\@pnul=\count678
+\@c=\count679
+\@last=\count680
+\@pnul=\count681
+\@c=\count682
+\@last=\count683
+\@pnul=\count684
+
+
+[14.14]
+Underfull \hbox (badness 4168) in paragraph at lines 49--50
+\TU/TimesNewRoman(1)/m/n/14.4 использовать альтернативный метод управления спин
+ом, концепция квази-
+ []
+
+
+
+[15.15])
+
+[16.16]
 \openout2 = `Dissertation/part1.aux'.
 
  (./Dissertation/part1.tex
 
-[16.16
+[17.17
 
 
 
 
 ]
-Underfull \hbox (badness 2158) in paragraph at lines 36--37
-\T2A/cmr/m/n/14.4 ��� ���^^?�� ���^^?���^^?�� ���^^?��� ��^^?��^^?��� ����^^?��
-^^?��^^?���� ���^^?��^^?��^^?��� ��^^?��^^?��
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+\TU/TimesNewRoman(1)/m/n/14.4 где также вводится важное понятие коэффициента ра
+сширения орбиты
  []
 
 
-
-[17.17]
 
 [18.18]
 
 [19.19]
+
+[20.20]
 LaTeX Font Info:    Calculating math sizes for size <10.07999> on input line 13
 7.
 
 
-[20.20]
-
 [21.21]
-Underfull \hbox (badness 7308) in paragraph at lines 176--177
-[]\T2A/cmr/m/n/14.4 ��� ���^^?���^^?��^^?��� ��^^?��^^?��^^?��^^?��^^?�� ���^^?
-�����^^?��^^?��^^?��� � ���^^?��^^?���
- []
-
-
 
 [22.22]
-<images/1_regular.png, id=580, 469.2732pt x 237.5274pt>
-File: images/1_regular.png Graphic file (type png)
-<use images/1_regular.png>
-Package pdftex.def Info: images/1_regular.png  used on input line 198.
-(pdftex.def)             Requested size: 497.92325pt x 252.03879pt.
-
-
-[23.23 <./images/1_regular.png>]
-<images/1_resonant.png, id=597, 469.2732pt x 237.5274pt>
-File: images/1_resonant.png Graphic file (type png)
-<use images/1_resonant.png>
-Package pdftex.def Info: images/1_resonant.png  used on input line 207.
-(pdftex.def)             Requested size: 497.92325pt x 252.03879pt.
-<images/1_combined.png, id=602, 469.2732pt x 237.5274pt>
-File: images/1_combined.png Graphic file (type png)
-<use images/1_combined.png>
-Package pdftex.def Info: images/1_combined.png  used on input line 216.
-(pdftex.def)             Requested size: 497.92325pt x 252.03879pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/1_SC.png, id=605, 294.50024pt x 249.3315pt>
-File: images/1_SC.png Graphic file (type png)
-<use images/1_SC.png>
-Package pdftex.def Info: images/1_SC.png  used on input line 225.
-(pdftex.def)             Requested size: 246.46957pt x 208.67612pt.
-<images/1_SC_wide.png, id=607, 293.898pt x 248.127pt>
-File: images/1_SC_wide.png Graphic file (type png)
-<use images/1_SC_wide.png>
-Package pdftex.def Info: images/1_SC_wide.png  used on input line 226.
-(pdftex.def)             Requested size: 246.46957pt x 208.08827pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[24.24 <./images/1_resonant.png>]
-
-[25.25 <./images/1_combined.png> <./images/1_SC.png> <./images/1_SC_wide.png>]
-Excluding 'comment' comment.
-<images/1_IBS.png, id=633, 404.712pt x 251.13824pt>
-File: images/1_IBS.png Graphic file (type png)
-<use images/1_IBS.png>
-Package pdftex.def Info: images/1_IBS.png  used on input line 251.
-(pdftex.def)             Requested size: 373.44243pt x 231.74742pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[26.26]
-Overfull \hbox (2.71504pt too wide) in paragraph at lines 260--279
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+[]\TU/TimesNewRoman(1)/m/n/14.4 при приближении коэффициента проскальзывания к 
+значению
  []
 
 
 
-[27.27 <./images/1_IBS.png>])
+[23.23]
+File: images/1_regular.png Graphic file (type bmp)
+<images/1_regular.png>
+File: images/1_resonant.png Graphic file (type bmp)
+<images/1_resonant.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[24.24]
+File: images/1_combined.png Graphic file (type bmp)
+<images/1_combined.png>
+
+
+[25.25]
+File: images/1_SC.png Graphic file (type bmp)
+<images/1_SC.png>
+File: images/1_SC_wide.png Graphic file (type bmp)
+<images/1_SC_wide.png>
+
+
+[26.26] Excluding 'comment' comment.
+File: images/1_IBS.png Graphic file (type bmp)
+<images/1_IBS.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 256--257
+\TU/TimesNewRoman(1)/m/n/14.4 дисперсией и $\U/eur/m/n/14.4 ^^L$\TU/TimesNewRom
+an(1)/m/n/14.4 -функцией пучка $[]$, чем в случае регулярной. Та-
+ []
+
+
+
+[27.27]
+Underfull \hbox (badness 7796) in paragraph at lines 272--272
+[]\TU/TimesNewRoman(1)/m/n/14.4 Время ВПР, с (для тяжелых
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 [28.28]
+Underfull \hbox (badness 1701) in paragraph at lines 291--292
+[]\TU/TimesNewRoman(1)/m/n/14.4 Показано, что вследствие модуляции $\U/eur/m/n/
+14.4 ^^L$\TU/TimesNewRoman(1)/m/n/14.4 -функции и $\OML/cmm/m/it/14.4 D\OT1/cmr
+/m/n/14.4 (\OML/cmm/m/it/14.4 s\OT1/cmr/m/n/14.4 )$ \TU/TimesNewRoman(1)/m/n/14
+.4 дисперсии
+ []
+
+)
+
+[29.29]
 \openout2 = `Dissertation/part2.aux'.
 
  (./Dissertation/part2.tex
 
-[29.29
+[30.30
 
 
 
 
 ]
-<images/2_twiss_fodo_cell.pdf, id=679, 794.97pt x 614.295pt>
+Underfull \hbox (badness 1502) in paragraph at lines 13--14
+\TU/TimesNewRoman(1)/m/n/14.4 частотных резонаторов (ВЧ) на продольную динамику
+ во время процедуры
+ []
+
 File: images/2_twiss_fodo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_fodo_cell.pdf  used on input line 23.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_cell.pdf, id=681, 794.97pt x 614.295pt>
 File: images/2_twiss_fdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_cell.pdf  used on input line 24.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_cell.pdf, id=683, 794.97pt x 614.295pt>
 File: images/2_twiss_odfdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_odfdo_cell.pdf  used on input line 25.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fodo_regular.pdf, id=685, 794.97pt x 614.295pt>
 File: images/2_twiss_fodo_regular.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_fodo_regular.pdf  used on input line 27
-.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_regular.pdf, id=687, 794.97pt x 614.295pt>
 File: images/2_twiss_fdo_regular.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_regular.pdf  used on input line 28.
-
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_regular.pdf, id=689, 794.97pt x 614.295pt>
 File: images/2_twiss_odfdo_regular.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_regular.pdf>
-Package pdftex.def Info: images/2_twiss_odfdo_regular.pdf  used on input line 2
-9.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[30.30]
-
-[31.31 <./images/2_twiss_fodo_cell.pdf, page is rotated 90 degrees> <./images/2
-_twiss_fdo_cell.pdf, page is rotated 90 degrees> <./images/2_twiss_odfdo_cell.p
-df, page is rotated 90 degrees> <./images/2_twiss_fodo_regular.pdf, page is rot
-ated 90 degrees> <./images/2_twiss_fdo_regular.pdf, page is rotated 90 degrees>
- <./images/2_twiss_odfdo_regular.pdf, page is rotated 90 degrees>]
+[31.31]
 
 [32.32]
 
 [33.33]
-<images/3_adiabatic_time.png, id=791, 288.47775pt x 177.66376pt>
-File: images/3_adiabatic_time.png Graphic file (type png)
-<use images/3_adiabatic_time.png>
-Package pdftex.def Info: images/3_adiabatic_time.png  used on input line 112.
-(pdftex.def)             Requested size: 243.98512pt x 150.26396pt.
-<images/3_nonlin_time.png, id=793, 288.47775pt x 177.66376pt>
-File: images/3_nonlin_time.png Graphic file (type png)
-<use images/3_nonlin_time.png>
-Package pdftex.def Info: images/3_nonlin_time.png  used on input line 113.
-(pdftex.def)             Requested size: 243.98512pt x 150.26396pt.
 
+[34.34]
+File: images/3_adiabatic_time.png Graphic file (type bmp)
+<images/3_adiabatic_time.png>
+File: images/3_nonlin_time.png Graphic file (type bmp)
+<images/3_nonlin_time.png>
+
+
+[35.35]
 
 Package nag Warning: `center' environment in table.
 (nag)                Maybe you want \centering instead on input line 147.
 
+File: images/3_eta_beam_lenght.png Graphic file (type bmp)
+<images/3_eta_beam_lenght.png>
+File: images/3_eta_energy_spread.png Graphic file (type bmp)
+<images/3_eta_energy_spread.png>
+File: images/3_eta_emit.png Graphic file (type bmp)
+<images/3_eta_emit.png>
 
-
-[34.34 <./images/3_adiabatic_time.png> <./images/3_nonlin_time.png>]
-<images/3_eta_beam_lenght.png, id=812, 578.16pt x 433.62pt>
-File: images/3_eta_beam_lenght.png Graphic file (type png)
-<use images/3_eta_beam_lenght.png>
-Package pdftex.def Info: images/3_eta_beam_lenght.png  used on input line 153.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_eta_energy_spread.png, id=814, 578.16pt x 433.62pt>
-File: images/3_eta_energy_spread.png Graphic file (type png)
-<use images/3_eta_energy_spread.png>
-Package pdftex.def Info: images/3_eta_energy_spread.png  used on input line 154
-.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_eta_emit.png, id=816, 578.16pt x 433.62pt>
-File: images/3_eta_emit.png Graphic file (type png)
-<use images/3_eta_emit.png>
-Package pdftex.def Info: images/3_eta_emit.png  used on input line 155.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-
-
-[35.35 <./images/3_eta_beam_lenght.png> <./images/3_eta_energy_spread.png> <./i
-mages/3_eta_emit.png>]
 
 [36.36]
-<images/3_wo_jump_beam_lenght.png, id=843, 578.16pt x 433.62pt>
-File: images/3_wo_jump_beam_lenght.png Graphic file (type png)
-<use images/3_wo_jump_beam_lenght.png>
-Package pdftex.def Info: images/3_wo_jump_beam_lenght.png  used on input line 1
-81.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_wo_jump_energy_spread.png, id=845, 578.16pt x 433.62pt>
-File: images/3_wo_jump_energy_spread.png Graphic file (type png)
-<use images/3_wo_jump_energy_spread.png>
-Package pdftex.def Info: images/3_wo_jump_energy_spread.png  used on input line
- 182.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_wo_jump_emit.png, id=847, 578.16pt x 433.62pt>
-File: images/3_wo_jump_emit.png Graphic file (type png)
-<use images/3_wo_jump_emit.png>
-Package pdftex.def Info: images/3_wo_jump_emit.png  used on input line 183.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
 
-Underfull \hbox (badness 1852) in paragraph at lines 192--192
-[]|\T2A/cmr/m/n/14.4 ��������� ��^^?��^^?
+[37.37]
+File: images/3_wo_jump_beam_lenght.png Graphic file (type bmp)
+<images/3_wo_jump_beam_lenght.png>
+File: images/3_wo_jump_energy_spread.png Graphic file (type bmp)
+<images/3_wo_jump_energy_spread.png>
+File: images/3_wo_jump_emit.png Graphic file (type bmp)
+<images/3_wo_jump_emit.png>
+
+Underfull \hbox (badness 4859) in paragraph at lines 192--192
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Параметры моде-
  []
 
 
-Overfull \hbox (1.97684pt too wide) in paragraph at lines 192--192
- []|\T2A/cmr/m/n/14.4 ���������� 
+Overfull \hbox (2.00716pt too wide) in paragraph at lines 192--192
+ []|\TU/TimesNewRoman(1)/m/n/14.4 Сохранение 
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 196--196
-[]|$\U/eur/m/n/14.4 [] \OT1/cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 ; []$
+Underfull \hbox (badness 1675) in paragraph at lines 196--197
+\TU/TimesNewRoman(1)/m/n/14.4 отсутствует, влияние неадиа-
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 204--205
-[]|\T2A/cmr/m/n/14.4 ���������� ���^^?�� �����^^?��
+Underfull \hbox (badness 2245) in paragraph at lines 198--199
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Влияние нелинейности, рост
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 210--211
-[]|\T2A/cmr/m/n/14.4 ���������� ���^^?�� �����^^?��
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Уменьшение длины сгустка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\TU/TimesNewRoman(1)/m/n/14.4 после $\U/eur/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)
+/m/n/14.4 , фокусирование
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 210--211
+\U/eur/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)/m/n/14.4 , раскачивание после $\U/eu
+r/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 216--217
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Существенное сжатие длины
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 222--223
+\TU/TimesNewRoman(1)/m/n/14.4 рупольных колебаний, суще-
  []
 
 
@@ -2313,136 +2751,87 @@ Package nag Warning: `center' environment in table.
 
 
 
-[37.37 <./images/3_wo_jump_beam_lenght.png> <./images/3_wo_jump_energy_spread.p
-ng> <./images/3_wo_jump_emit.png>]
-
 [38.38]
-<images/3_twiss_U70_regular.png, id=869, 231.7458pt x 118.041pt>
-File: images/3_twiss_U70_regular.png Graphic file (type png)
-<use images/3_twiss_U70_regular.png>
-Package pdftex.def Info: images/3_twiss_U70_regular.png  used on input line 250
-.
-(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
-<images/3_twiss_U70_modulated.png, id=871, 231.7458pt x 118.041pt>
-File: images/3_twiss_U70_modulated.png Graphic file (type png)
-<use images/3_twiss_U70_modulated.png>
-Package pdftex.def Info: images/3_twiss_U70_modulated.png  used on input line 2
-51.
-(pdftex.def)             Requested size: 243.98512pt x 124.27989pt.
-
 
 [39.39]
+File: images/3_twiss_U70_regular.png Graphic file (type bmp)
+<images/3_twiss_U70_regular.png>
+File: images/3_twiss_U70_modulated.png Graphic file (type bmp)
+<images/3_twiss_U70_modulated.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[40.40]
 
 Package nag Warning: `center' environment in table.
 (nag)                Maybe you want \centering instead on input line 272.
 
-<images/3_gamma_transition_jump_U70.png, id=884, 331.9602pt x 250.536pt>
-File: images/3_gamma_transition_jump_U70.png Graphic file (type png)
-<use images/3_gamma_transition_jump_U70.png>
-Package pdftex.def Info: images/3_gamma_transition_jump_U70.png  used on input 
-line 278.
-(pdftex.def)             Requested size: 243.98512pt x 184.13982pt.
-<images/3_eta0_jump_U70.png, id=886, 330.033pt x 250.536pt>
-File: images/3_eta0_jump_U70.png Graphic file (type png)
-<use images/3_eta0_jump_U70.png>
-Package pdftex.def Info: images/3_eta0_jump_U70.png  used on input line 279.
-(pdftex.def)             Requested size: 243.98512pt x 185.21405pt.
-<images/3_jump_U70_oscilogram.png, id=888, 421.0932pt x 316.0608pt>
-File: images/3_jump_U70_oscilogram.png Graphic file (type png)
-<use images/3_jump_U70_oscilogram.png>
-Package pdftex.def Info: images/3_jump_U70_oscilogram.png  used on input line 2
-85.
-(pdftex.def)             Requested size: 243.98512pt x 183.13213pt.
-<images/3_jump_U70_beam_profile.png, id=890, 240.4182pt x 169.5936pt>
-File: images/3_jump_U70_beam_profile.png Graphic file (type png)
-<use images/3_jump_U70_beam_profile.png>
-Package pdftex.def Info: images/3_jump_U70_beam_profile.png  used on input line
- 286.
-(pdftex.def)             Requested size: 243.98512pt x 172.11626pt.
+File: images/3_gamma_transition_jump_U70.png Graphic file (type bmp)
+<images/3_gamma_transition_jump_U70.png>
+File: images/3_eta0_jump_U70.png Graphic file (type bmp)
+<images/3_eta0_jump_U70.png>
+File: images/3_jump_U70_oscilogram.png Graphic file (type bmp)
+<images/3_jump_U70_oscilogram.png>
+File: images/3_jump_U70_beam_profile.png Graphic file (type bmp)
+<images/3_jump_U70_beam_profile.png>
 
 
-[40.40 <./images/3_twiss_U70_regular.png> <./images/3_twiss_U70_modulated.png>]
-<images/3_jump_beam_lenght.png, id=907, 578.16pt x 433.62pt>
-File: images/3_jump_beam_lenght.png Graphic file (type png)
-<use images/3_jump_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_beam_lenght.png  used on input line 294.
+[41.41]
+File: images/3_jump_beam_lenght.png Graphic file (type bmp)
+<images/3_jump_beam_lenght.png>
+File: images/3_jump_energy_spread.png Graphic file (type bmp)
+<images/3_jump_energy_spread.png>
+File: images/3_jump_emit.png Graphic file (type bmp)
+<images/3_jump_emit.png>
+File: images/3_jump_imp_beam_lenght.png Graphic file (type bmp)
+<images/3_jump_imp_beam_lenght.png>
+File: images/3_jump_imp_energy_spread.png Graphic file (type bmp)
+<images/3_jump_imp_energy_spread.png>
+File: images/3_jump_imp_emit.png Graphic file (type bmp)
+<images/3_jump_imp_emit.png>
+File: images/3_jump_U70_beam_lenght.png Graphic file (type bmp)
+<images/3_jump_U70_beam_lenght.png>
 
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_energy_spread.png, id=909, 578.16pt x 433.62pt>
-File: images/3_jump_energy_spread.png Graphic file (type png)
-<use images/3_jump_energy_spread.png>
-Package pdftex.def Info: images/3_jump_energy_spread.png  used on input line 29
-5.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_emit.png, id=911, 578.16pt x 433.62pt>
-File: images/3_jump_emit.png Graphic file (type png)
-<use images/3_jump_emit.png>
-Package pdftex.def Info: images/3_jump_emit.png  used on input line 296.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_beam_lenght.png, id=913, 578.16pt x 433.62pt>
-File: images/3_jump_imp_beam_lenght.png Graphic file (type png)
-<use images/3_jump_imp_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_imp_beam_lenght.png  used on input line 
-302.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_energy_spread.png, id=915, 578.16pt x 433.62pt>
-File: images/3_jump_imp_energy_spread.png Graphic file (type png)
-<use images/3_jump_imp_energy_spread.png>
-Package pdftex.def Info: images/3_jump_imp_energy_spread.png  used on input lin
-e 303.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_imp_emit.png, id=917, 578.16pt x 433.62pt>
-File: images/3_jump_imp_emit.png Graphic file (type png)
-<use images/3_jump_imp_emit.png>
-Package pdftex.def Info: images/3_jump_imp_emit.png  used on input line 304.
-(pdftex.def)             Requested size: 159.33908pt x 119.5006pt.
-<images/3_jump_U70_beam_lenght.png, id=919, 428.802pt x 327.02174pt>
-File: images/3_jump_U70_beam_lenght.png Graphic file (type png)
-<use images/3_jump_U70_beam_lenght.png>
-Package pdftex.def Info: images/3_jump_U70_beam_lenght.png  used on input line 
-311.
-(pdftex.def)             Requested size: 243.98512pt x 186.06999pt.
-
-
-[41.41 <./images/3_gamma_transition_jump_U70.png> <./images/3_eta0_jump_U70.png
-> <./images/3_jump_U70_oscilogram.png> <./images/3_jump_U70_beam_profile.png>]
-
-[42.42 <./images/3_jump_beam_lenght.png> <./images/3_jump_energy_spread.png> <.
-/images/3_jump_emit.png> <./images/3_jump_imp_beam_lenght.png> <./images/3_jump
-_imp_energy_spread.png> <./images/3_jump_imp_emit.png> <./images/3_jump_U70_bea
-m_lenght.png>]
-Underfull \hbox (badness 1852) in paragraph at lines 322--322
-[]|\T2A/cmr/m/n/14.4 ��������� ��^^?��^^?
+Underfull \hbox (badness 4859) in paragraph at lines 322--322
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Параметры моде-
  []
 
 
-Overfull \hbox (1.97684pt too wide) in paragraph at lines 322--322
- []|\T2A/cmr/m/n/14.4 ���������� 
- []
-
-
-Underfull \hbox (badness 2065) in paragraph at lines 328--329
-[]|$\U/eur/m/n/14.4 [] \OT1/cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 ; []$
+Overfull \hbox (2.00716pt too wide) in paragraph at lines 322--322
+ []|\TU/TimesNewRoman(1)/m/n/14.4 Сохранение 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 333--334
-[]|\T2A/cmr/m/n/14.4 ������������ ��^^?���^^?����^^?��,
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Нелинейность отсутствует,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 338--339
-[]|\T2A/cmr/m/n/14.4 ���������� ���^^?�� ��^^?���
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Уменьшение длины после
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 348--349
-[]|\T2A/cmr/m/n/14.4 ����� �����^^?�� ��^^?��^^?�����^^?��
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Длина сгустка существенно
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 353--354
-\T2A/cmr/m/n/14.4 ����^^?��� ��^^?��^^?��^^?���, ������^^?
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Большая амплитуда квад-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+\TU/TimesNewRoman(1)/m/n/14.4 рупольных колебаний,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+\TU/TimesNewRoman(1)/m/n/14.4 небольшой рост эмиттан-
  []
 
 
@@ -2451,542 +2840,335 @@ Package nag Warning: `center' environment in table.
 
 
 
+[42.42]
+
 [43.43]
 
 [44.44]
-<images/3_gamma_tr_vs_dQF.png, id=971, 304.7385pt x 158.39175pt>
-File: images/3_gamma_tr_vs_dQF.png Graphic file (type png)
-<use images/3_gamma_tr_vs_dQF.png>
-Package pdftex.def Info: images/3_gamma_tr_vs_dQF.png  used on input line 372.
-(pdftex.def)             Requested size: 243.98512pt x 126.81506pt.
-<images/3_tunes_vs_dQF.png, id=973, 274.626pt x 157.18726pt>
-File: images/3_tunes_vs_dQF.png Graphic file (type png)
-<use images/3_tunes_vs_dQF.png>
-Package pdftex.def Info: images/3_tunes_vs_dQF.png  used on input line 373.
-(pdftex.def)             Requested size: 243.98512pt x 139.64915pt.
-<images/3_2nd_MCF_vs_g_tr.png, id=975, 298.716pt x 134.904pt>
-File: images/3_2nd_MCF_vs_g_tr.png Graphic file (type png)
-<use images/3_2nd_MCF_vs_g_tr.png>
-Package pdftex.def Info: images/3_2nd_MCF_vs_g_tr.png  used on input line 379.
-(pdftex.def)             Requested size: 243.98512pt x 110.18971pt.
-<images/3_3nd_MCF_vs_g_tr.png, id=977, 249.93375pt x 124.0635pt>
-File: images/3_3nd_MCF_vs_g_tr.png Graphic file (type png)
-<use images/3_3nd_MCF_vs_g_tr.png>
-Package pdftex.def Info: images/3_3nd_MCF_vs_g_tr.png  used on input line 380.
-(pdftex.def)             Requested size: 243.98512pt x 121.11569pt.
+
+[45.45]
+File: images/3_gamma_tr_vs_dQF.png Graphic file (type bmp)
+<images/3_gamma_tr_vs_dQF.png>
+File: images/3_tunes_vs_dQF.png Graphic file (type bmp)
+<images/3_tunes_vs_dQF.png>
+File: images/3_2nd_MCF_vs_g_tr.png Graphic file (type bmp)
+<images/3_2nd_MCF_vs_g_tr.png>
+File: images/3_3nd_MCF_vs_g_tr.png Graphic file (type bmp)
+<images/3_3nd_MCF_vs_g_tr.png>
+
+Underfull \hbox (badness 1681) in paragraph at lines 385--386
+\TU/TimesNewRoman(1)/m/n/14.4 Скачок достигается также искажением дисперсионной
+ функции, однако без
+ []
 
 
-[45.45 <./images/3_gamma_tr_vs_dQF.png> <./images/3_tunes_vs_dQF.png> <./images
-/3_2nd_MCF_vs_g_tr.png> <./images/3_3nd_MCF_vs_g_tr.png>]
-<images/3_tunes_vs_g_tr.png, id=993, 240.29774pt x 210.7875pt>
-File: images/3_tunes_vs_g_tr.png Graphic file (type png)
-<use images/3_tunes_vs_g_tr.png>
-Package pdftex.def Info: images/3_tunes_vs_g_tr.png  used on input line 391.
-(pdftex.def)             Requested size: 243.98512pt x 214.01941pt.
-<images/2_da_x_0.36.png, id=995, 876.27374pt x 629.35126pt>
-File: images/2_da_x_0.36.png Graphic file (type png)
-<use images/2_da_x_0.36.png>
-Package pdftex.def Info: images/2_da_x_0.36.png  used on input line 400.
-(pdftex.def)             Requested size: 204.15034pt x 146.62035pt.
-<images/2_da_y_0.36.png, id=997, 876.27374pt x 623.32875pt>
-File: images/2_da_y_0.36.png Graphic file (type png)
-<use images/2_da_y_0.36.png>
-Package pdftex.def Info: images/2_da_y_0.36.png  used on input line 401.
-(pdftex.def)             Requested size: 204.15034pt x 145.21729pt.
-<images/2_da_x_0.44.png, id=999, 874.26625pt x 620.3175pt>
-File: images/2_da_x_0.44.png Graphic file (type png)
-<use images/2_da_x_0.44.png>
-Package pdftex.def Info: images/2_da_x_0.44.png  used on input line 403.
-(pdftex.def)             Requested size: 204.15034pt x 144.84703pt.
-<images/2_da_y_0.44.png, id=1001, 871.255pt x 620.3175pt>
-File: images/2_da_y_0.44.png Graphic file (type png)
-<use images/2_da_y_0.44.png>
-Package pdftex.def Info: images/2_da_y_0.44.png  used on input line 404.
-(pdftex.def)             Requested size: 204.15034pt x 145.3487pt.
-<images/2_da_x_0.48.png, id=1003, 877.2775pt x 618.31pt>
-File: images/2_da_x_0.48.png Graphic file (type png)
-<use images/2_da_x_0.48.png>
-Package pdftex.def Info: images/2_da_x_0.48.png  used on input line 406.
-(pdftex.def)             Requested size: 204.15034pt x 143.88766pt.
-<images/2_da_y_0.48.png, id=1005, 872.25874pt x 622.325pt>
-File: images/2_da_y_0.48.png Graphic file (type png)
-<use images/2_da_y_0.48.png>
-Package pdftex.def Info: images/2_da_y_0.48.png  used on input line 407.
-(pdftex.def)             Requested size: 204.15034pt x 145.64815pt.
-<images/2_da_x_0.40.png, id=1007, 884.30376pt x 622.325pt>
-File: images/2_da_x_0.40.png Graphic file (type png)
-<use images/2_da_x_0.40.png>
-Package pdftex.def Info: images/2_da_x_0.40.png  used on input line 409.
-(pdftex.def)             Requested size: 204.15034pt x 143.6635pt.
-<images/2_da_y_0.40.png, id=1009, 877.2775pt x 625.33624pt>
-File: images/2_da_y_0.40.png Graphic file (type png)
-<use images/2_da_y_0.40.png>
-Package pdftex.def Info: images/2_da_y_0.40.png  used on input line 410.
-(pdftex.def)             Requested size: 204.15034pt x 145.52275pt.
+Underfull \hbox (badness 4634) in paragraph at lines 385--386
+\TU/TimesNewRoman(1)/m/n/14.4 смещения рабочей точки. Изменение критической эне
+ргии происходит на
+ []
 
 
-[46.46 <./images/3_tunes_vs_g_tr.png>]
 
-[47.47 <./images/2_da_x_0.36.png> <./images/2_da_y_0.36.png> <./images/2_da_x_0
-.44.png> <./images/2_da_y_0.44.png> <./images/2_da_x_0.48.png> <./images/2_da_y
-_0.48.png> <./images/2_da_x_0.40.png> <./images/2_da_y_0.40.png>]
-<images/3_g_tr_harmonic.png, id=1044, 290.88675pt x 225.2415pt>
-File: images/3_g_tr_harmonic.png Graphic file (type png)
-<use images/3_g_tr_harmonic.png>
-Package pdftex.def Info: images/3_g_tr_harmonic.png  used on input line 427.
-(pdftex.def)             Requested size: 243.98512pt x 188.93004pt.
-<images/3_eta_tr_harmonic.png, id=1046, 290.2845pt x 228.25275pt>
-File: images/3_eta_tr_harmonic.png Graphic file (type png)
-<use images/3_eta_tr_harmonic.png>
-Package pdftex.def Info: images/3_eta_tr_harmonic.png  used on input line 428.
-(pdftex.def)             Requested size: 243.98512pt x 191.84592pt.
+[46.46]
+File: images/3_tunes_vs_g_tr.png Graphic file (type bmp)
+<images/3_tunes_vs_g_tr.png>
+File: images/2_da_x_0.36.png Graphic file (type bmp)
+<images/2_da_x_0.36.png>
+File: images/2_da_y_0.36.png Graphic file (type bmp)
+<images/2_da_y_0.36.png>
+File: images/2_da_x_0.44.png Graphic file (type bmp)
+<images/2_da_x_0.44.png>
+File: images/2_da_y_0.44.png Graphic file (type bmp)
+<images/2_da_y_0.44.png>
+File: images/2_da_x_0.48.png Graphic file (type bmp)
+<images/2_da_x_0.48.png>
+File: images/2_da_y_0.48.png Graphic file (type bmp)
+<images/2_da_y_0.48.png>
+File: images/2_da_x_0.40.png Graphic file (type bmp)
+<images/2_da_x_0.40.png>
+File: images/2_da_y_0.40.png Graphic file (type bmp)
+<images/2_da_y_0.40.png>
 
 
-[48.48 <./images/3_g_tr_harmonic.png> <./images/3_eta_tr_harmonic.png>]
+[47.47]
+
+[48.48]
+File: images/3_g_tr_harmonic.png Graphic file (type bmp)
+<images/3_g_tr_harmonic.png>
+File: images/3_eta_tr_harmonic.png Graphic file (type bmp)
+<images/3_eta_tr_harmonic.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 [49.49]
-<images/3_eta_tr_BB.png, id=1067, 230.7822pt x 182.6022pt>
-File: images/3_eta_tr_BB.png Graphic file (type png)
-<use images/3_eta_tr_BB.png>
-Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 445.
-(pdftex.def)             Requested size: 243.98512pt x 193.0475pt.
-<images/3_Imp_vs_freq.png, id=1071, 299.31825pt x 204.765pt>
-File: images/3_Imp_vs_freq.png Graphic file (type png)
-<use images/3_Imp_vs_freq.png>
-Package pdftex.def Info: images/3_Imp_vs_freq.png  used on input line 453.
-(pdftex.def)             Requested size: 253.93811pt x 173.72298pt.
-<images/3_induced_voltage.png, id=1073, 219.7008pt x 164.2938pt>
-File: images/3_induced_voltage.png Graphic file (type png)
-<use images/3_induced_voltage.png>
-Package pdftex.def Info: images/3_induced_voltage.png  used on input line 454.
-(pdftex.def)             Requested size: 239.00102pt x 178.73573pt.
+
+[50.50]
+File: images/3_eta_tr_BB.png Graphic file (type bmp)
+<images/3_eta_tr_BB.png>
+File: images/3_Imp_vs_freq.png Graphic file (type bmp)
+<images/3_Imp_vs_freq.png>
+File: images/3_induced_voltage.png Graphic file (type bmp)
+<images/3_induced_voltage.png>
+
+Underfull \hbox (badness 6927) in paragraph at lines 456--456
+ [][]\TU/TimesNewRoman(1)/m/n/14.4 Рисунок 2.17 [] |Слева – импеданс пространст
+венного заряда; справа – 
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[50.50 <./images/3_eta_tr_BB.png>]
-<images/3_Jump_NICA.png, id=1086, 287.8755pt x 266.79675pt>
-File: images/3_Jump_NICA.png Graphic file (type png)
-<use images/3_Jump_NICA.png>
-Package pdftex.def Info: images/3_Jump_NICA.png  used on input line 475.
-(pdftex.def)             Requested size: 219.58511pt x 203.51668pt.
-<images/3_Jump_NICA_2.png, id=1087, 237.5274pt x 213.4374pt>
-File: images/3_Jump_NICA_2.png Graphic file (type png)
-<use images/3_Jump_NICA_2.png>
-Package pdftex.def Info: images/3_Jump_NICA_2.png  used on input line 479.
-(pdftex.def)             Requested size: 219.58511pt x 197.32227pt.
+[51.51]
+File: images/3_Jump_NICA.png Graphic file (type bmp)
+<images/3_Jump_NICA.png>
+File: images/3_Jump_NICA_2.png Graphic file (type bmp)
+<images/3_Jump_NICA_2.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/3_BB.png, id=1090, 271.0125pt x 220.4235pt>
-File: images/3_BB.png Graphic file (type png)
-<use images/3_BB.png>
-Package pdftex.def Info: images/3_BB.png  used on input line 500.
-(pdftex.def)             Requested size: 298.75697pt x 242.99799pt.
+File: images/3_BB.png Graphic file (type bmp)
+<images/3_BB.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[51.51 <./images/3_Imp_vs_freq.png> <./images/3_induced_voltage.png>]
+[52.52]
 
-[52.52 <./images/3_jump_NICA.png> <./images/3_jump_NICA_2.png> <./images/3_BB.p
-ng>]
-<images/3_BB_V.png, id=1118, 283.0575pt x 225.84375pt>
-File: images/3_BB_V.png Graphic file (type png)
-<use images/3_BB_V.png>
-Package pdftex.def Info: images/3_BB_V.png  used on input line 529.
-(pdftex.def)             Requested size: 243.98512pt x 194.67326pt.
-<images/3_BB_fourier_coef.png, id=1120, 295.70474pt x 225.84375pt>
-File: images/3_BB_fourier_coef.png Graphic file (type png)
-<use images/3_BB_fourier_coef.png>
-Package pdftex.def Info: images/3_BB_fourier_coef.png  used on input line 530.
-(pdftex.def)             Requested size: 243.98512pt x 186.3406pt.
-<images/3_BB_PS_near_tr.png, id=1123, 291.489pt x 281.853pt>
-File: images/3_BB_PS_near_tr.png Graphic file (type png)
-<use images/3_BB_PS_near_tr.png>
-Package pdftex.def Info: images/3_BB_PS_near_tr.png  used on input line 539.
-(pdftex.def)             Requested size: 243.98512pt x 235.92056pt.
-<images/3_BB_PS_near_tr_2.png, id=1125, 291.489pt x 282.45525pt>
-File: images/3_BB_PS_near_tr_2.png Graphic file (type png)
-<use images/3_BB_PS_near_tr_2.png>
-Package pdftex.def Info: images/3_BB_PS_near_tr_2.png  used on input line 540.
-(pdftex.def)             Requested size: 243.98512pt x 236.42465pt.
+[53.53]
+File: images/3_BB_V.png Graphic file (type bmp)
+<images/3_BB_V.png>
+File: images/3_BB_fourier_coef.png Graphic file (type bmp)
+<images/3_BB_fourier_coef.png>
+File: images/3_BB_PS_near_tr.png Graphic file (type bmp)
+<images/3_BB_PS_near_tr.png>
+File: images/3_BB_PS_near_tr_2.png Graphic file (type bmp)
+<images/3_BB_PS_near_tr_2.png>
 
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 541.
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no б ("431) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no р ("440) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no т ("442) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no в ("432) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no б ("431) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no р ("440) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no т ("442) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no в ("432) in font cmmi12!
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
+[54.54]
+File: images/3_BB_PS_jump.png Graphic file (type bmp)
+<images/3_BB_PS_jump.png>
+File: images/3_BB_PS_jump_2.png Graphic file (type bmp)
+<images/3_BB_PS_jump_2.png>
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 541.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 541.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 541.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-
-[53.53 <./images/3_BB_V.png> <./images/3_BB_fourier_coef.png>]
-<images/3_BB_PS_jump.png, id=1140, 291.489pt x 282.45525pt>
-File: images/3_BB_PS_jump.png Graphic file (type png)
-<use images/3_BB_PS_jump.png>
-Package pdftex.def Info: images/3_BB_PS_jump.png  used on input line 548.
-(pdftex.def)             Requested size: 243.98512pt x 236.42465pt.
-<images/3_BB_PS_jump_2.png, id=1142, 291.489pt x 282.45525pt>
-File: images/3_BB_PS_jump_2.png Graphic file (type png)
-<use images/3_BB_PS_jump_2.png>
-Package pdftex.def Info: images/3_BB_PS_jump_2.png  used on input line 549.
-(pdftex.def)             Requested size: 243.98512pt x 236.42465pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[54.54 <./images/3_BB_PS_near_tr.png> <./images/3_BB_PS_near_tr_2.png>]
-
-[55.55 <./images/3_BB_PS_jump.png> <./images/3_BB_PS_jump_2.png>]
+[55.55]
 
 [56.56]
-<images/3_microwave_inst_vs_lenght.png, id=1176, 260.172pt x 130.086pt>
-File: images/3_microwave_inst_vs_lenght.png Graphic file (type png)
-<use images/3_microwave_inst_vs_lenght.png>
-Package pdftex.def Info: images/3_microwave_inst_vs_lenght.png  used on input l
-ine 611.
-(pdftex.def)             Requested size: 383.40302pt x 191.71239pt.
-<images/2_polar2.png, id=1178, 575.14874pt x 271.61475pt>
-File: images/2_polar2.png Graphic file (type png)
-<use images/2_polar2.png>
-Package pdftex.def Info: images/2_polar2.png  used on input line 624.
-(pdftex.def)             Requested size: 219.58511pt x 103.69957pt.
-<images/2_polar1.png, id=1179, 428.3202pt x 209.583pt>
-File: images/2_polar1.png Graphic file (type png)
-<use images/2_polar1.png>
-Package pdftex.def Info: images/2_polar1.png  used on input line 628.
-(pdftex.def)             Requested size: 219.58511pt x 107.44554pt.
+Underfull \hbox (badness 5667) in paragraph at lines 591--592
+\TU/TimesNewRoman(1)/m/n/14.4 Если учесть, что нормализованный эмиттанс для бар
+ьерного ВЧ $\U/eur/m/n/14.4 "[] \OT1/cmr/m/n/14.4 =
+ []
+
+File: images/3_microwave_inst_vs_lenght.png Graphic file (type bmp)
+<images/3_microwave_inst_vs_lenght.png>
 
 
-[57.57 <./images/3_microwave_inst_vs_lenght.png>]
+[57.57]
+File: images/2_polar2.png Graphic file (type bmp)
+<images/2_polar2.png>
+File: images/2_polar1.png Graphic file (type bmp)
+<images/2_polar1.png>
 
-[58.58 <./images/2_polar2.png> <./images/2_polar1.png>])
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[58.58]
+Underfull \hbox (badness 10000) in paragraph at lines 636--637
+[]\TU/TimesNewRoman(1)/m/n/14.4 Более подробно спиновая динамика будет рассмотр
+ена в ЭДМ-
+ []
+
+
 
 [59.59]
+Underfull \hbox (badness 1577) in paragraph at lines 647--648
+\TU/TimesNewRoman(1)/m/n/14.4 четании со схемой процедуры скачка, необходимо ср
+авнивать темп
+ []
+
+)
+
+[60.60]
 \openout2 = `Dissertation/part3.aux'.
 
  (./Dissertation/part3.tex Excluding 'comment' comment.
 
-[60.60
+[61.61
 
 
 
 
 ]
-
-[61.61]
 
 [62.62]
 
 [63.63]
-<images/2_superperiod.png, id=1253, 352.31625pt x 111.41624pt>
-File: images/2_superperiod.png Graphic file (type png)
-<use images/2_superperiod.png>
-Package pdftex.def Info: images/2_superperiod.png  used on input line 97.
-(pdftex.def)             Requested size: 497.92325pt x 157.46413pt.
 
-
-[64.64 <./images/2_superperiod.png>]
+[64.64]
+File: images/2_superperiod.png Graphic file (type bmp)
+<images/2_superperiod.png>
 File: images/2_twiss_fodo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_fodo_cell.pdf  used on input line 106.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
 File: images/2_twiss_fdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_cell.pdf  used on input line 107.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
 File: images/2_twiss_odfdo_cell.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_cell.pdf>
-Package pdftex.def Info: images/2_twiss_odfdo_cell.pdf  used on input line 108.
-
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fodo_resonant.pdf, id=1269, 794.97pt x 614.295pt>
 File: images/2_twiss_fodo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_fodo_resonant.pdf>
-Package pdftex.def Info: images/2_twiss_fodo_resonant.pdf  used on input line 1
-10.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_fdo_resonant.pdf, id=1271, 794.97pt x 614.295pt>
 File: images/2_twiss_fdo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_fdo_resonant.pdf>
-Package pdftex.def Info: images/2_twiss_fdo_resonant.pdf  used on input line 11
-1.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
-<images/2_twiss_odfdo_resonant.pdf, id=1273, 794.97pt x 614.295pt>
 File: images/2_twiss_odfdo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_resonant.pdf>
-Package pdftex.def Info: images/2_twiss_odfdo_resonant.pdf  used on input line 
-112.
-(pdftex.def)             Requested size: 159.33908pt x 123.11926pt.
 
 
-[65.65 <./images/2_twiss_fodo_resonant.pdf, page is rotated 90 degrees> <./imag
-es/2_twiss_fdo_resonant.pdf, page is rotated 90 degrees> <./images/2_twiss_odfd
-o_resonant.pdf, page is rotated 90 degrees>]
-<images/2_twiss_3FODO_regular.png, id=1316, 566.115pt x 458.9145pt>
-File: images/2_twiss_3FODO_regular.png Graphic file (type png)
-<use images/2_twiss_3FODO_regular.png>
-Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
-37.
-(pdftex.def)             Requested size: 243.98512pt x 197.78455pt.
-<images/2_twiss_3FODO_modulated.png, id=1318, 494.44725pt x 398.08725pt>
-File: images/2_twiss_3FODO_modulated.png Graphic file (type png)
-<use images/2_twiss_3FODO_modulated.png>
-Package pdftex.def Info: images/2_twiss_3FODO_modulated.png  used on input line
- 138.
-(pdftex.def)             Requested size: 243.98512pt x 196.43724pt.
+[65.65]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+[]\TU/TimesNewRoman(1)/m/n/14.4 Качественное отличие в пространственном распред
+елении Твисс-
+ []
 
 
-[66.66 <./images/2_twiss_3FODO_regular.png> <./images/2_twiss_3FODO_modulated.p
-ng>]
+
+[66.66]
+File: images/2_twiss_3FODO_regular.png Graphic file (type bmp)
+<images/2_twiss_3FODO_regular.png>
+File: images/2_twiss_3FODO_modulated.png Graphic file (type bmp)
+<images/2_twiss_3FODO_modulated.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 [67.67]
-<images/2_disp_supp.png, id=1343, 528.17325pt x 394.47375pt>
-File: images/2_disp_supp.png Graphic file (type png)
-<use images/2_disp_supp.png>
-Package pdftex.def Info: images/2_disp_supp.png  used on input line 169.
-(pdftex.def)             Requested size: 298.75697pt x 223.1369pt.
-<images/2_supp_scheme_regular.png, id=1345, 623.32875pt x 79.29625pt>
-File: images/2_supp_scheme_regular.png Graphic file (type png)
-<use images/2_supp_scheme_regular.png>
-Package pdftex.def Info: images/2_supp_scheme_regular.png  used on input line 1
-80.
-(pdftex.def)             Requested size: 497.92325pt x 63.3439pt.
-<images/2_supp_Twiss_regular.png, id=1347, 708.6475pt x 356.33125pt>
-File: images/2_supp_Twiss_regular.png Graphic file (type png)
-<use images/2_supp_Twiss_regular.png>
-Package pdftex.def Info: images/2_supp_Twiss_regular.png  used on input line 18
-1.
-(pdftex.def)             Requested size: 497.92325pt x 250.37624pt.
-<images/2_supp_elem_regular.png, id=1349, 844.15375pt x 342.27875pt>
-File: images/2_supp_elem_regular.png Graphic file (type png)
-<use images/2_supp_elem_regular.png>
-Package pdftex.def Info: images/2_supp_elem_regular.png  used on input line 182
-.
-(pdftex.def)             Requested size: 497.92325pt x 201.89569pt.
+
+[68.68]
+File: images/2_disp_supp.png Graphic file (type bmp)
+<images/2_disp_supp.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/2_supp_scheme_ES.png, id=1351, 616.3025pt x 89.33376pt>
-File: images/2_supp_scheme_ES.png Graphic file (type png)
-<use images/2_supp_scheme_ES.png>
-Package pdftex.def Info: images/2_supp_scheme_ES.png  used on input line 192.
-(pdftex.def)             Requested size: 497.92325pt x 72.1759pt.
-<images/2_supp_Twiss_ES.png, id=1353, 708.6475pt x 356.33125pt>
-File: images/2_supp_Twiss_ES.png Graphic file (type png)
-<use images/2_supp_Twiss_ES.png>
-Package pdftex.def Info: images/2_supp_Twiss_ES.png  used on input line 193.
-(pdftex.def)             Requested size: 497.92325pt x 250.37624pt.
-<images/2_supp_elem_ES.png, id=1355, 848.16875pt x 344.28625pt>
-File: images/2_supp_elem_ES.png Graphic file (type png)
-<use images/2_supp_elem_ES.png>
-Package pdftex.def Info: images/2_supp_elem_ES.png  used on input line 194.
-(pdftex.def)             Requested size: 497.92325pt x 202.11322pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[69.69]
+File: images/2_supp_scheme_regular.png Graphic file (type bmp)
+<images/2_supp_scheme_regular.png>
+File: images/2_supp_Twiss_regular.png Graphic file (type bmp)
+<images/2_supp_Twiss_regular.png>
+File: images/2_supp_elem_regular.png Graphic file (type bmp)
+<images/2_supp_elem_regular.png>
+File: images/2_supp_scheme_ES.png Graphic file (type bmp)
+<images/2_supp_scheme_ES.png>
+File: images/2_supp_Twiss_ES.png Graphic file (type bmp)
+<images/2_supp_Twiss_ES.png>
+File: images/2_supp_elem_ES.png Graphic file (type bmp)
+<images/2_supp_elem_ES.png>
 
 
-
-[68.68 <./images/2_disp_supp.png>]
-
-[69.69 <./images/2_supp_scheme_regular.png> <./images/2_supp_twiss_regular.png>
- <./images/2_supp_elem_regular.png>]
-
-[70.70 <./images/2_supp_scheme_ES.png> <./images/2_supp_twiss_ES.png> <./images
-/2_supp_elem_ES.png>]
-<images/2_supp_scheme_AS.png, id=1386, 613.29124pt x 68.255pt>
-File: images/2_supp_scheme_AS.png Graphic file (type png)
-<use images/2_supp_scheme_AS.png>
-Package pdftex.def Info: images/2_supp_scheme_AS.png  used on input line 213.
-(pdftex.def)             Requested size: 497.92325pt x 55.41537pt.
-<images/2_supp_Twiss_AS.png, id=1388, 708.6475pt x 360.34625pt>
-File: images/2_supp_Twiss_AS.png Graphic file (type png)
-<use images/2_supp_Twiss_AS.png>
-Package pdftex.def Info: images/2_supp_Twiss_AS.png  used on input line 214.
-(pdftex.def)             Requested size: 497.92325pt x 253.19737pt.
-<images/2_supp_elem_AS.png, id=1390, 845.1575pt x 380.42125pt>
-File: images/2_supp_elem_AS.png Graphic file (type png)
-<use images/2_supp_elem_AS.png>
-Package pdftex.def Info: images/2_supp_elem_AS.png  used on input line 215.
-(pdftex.def)             Requested size: 497.92325pt x 224.12732pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/2_ES_x_dpp0.png, id=1393, 232.87pt x 170.6375pt>
-File: images/2_ES_x_dpp0.png Graphic file (type png)
-<use images/2_ES_x_dpp0.png>
-Package pdftex.def Info: images/2_ES_x_dpp0.png  used on input line 226.
-(pdftex.def)             Requested size: 243.98512pt x 178.78929pt.
-<images/2_ES_y_dpp0.png, id=1395, 235.88126pt x 170.6375pt>
-File: images/2_ES_y_dpp0.png Graphic file (type png)
-<use images/2_ES_y_dpp0.png>
-Package pdftex.def Info: images/2_ES_y_dpp0.png  used on input line 227.
-(pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_ES_x_dpp0,3.png, id=1397, 234.8775pt x 170.6375pt>
-File: images/2_ES_x_dpp0,3.png Graphic file (type png)
-<use images/2_ES_x_dpp0,3.png>
-Package pdftex.def Info: images/2_ES_x_dpp0,3.png  used on input line 228.
-(pdftex.def)             Requested size: 243.98512pt x 177.2531pt.
-<images/2_ES_y_dpp0,3.png, id=1399, 235.88126pt x 170.6375pt>
-File: images/2_ES_y_dpp0,3.png Graphic file (type png)
-<use images/2_ES_y_dpp0,3.png>
-Package pdftex.def Info: images/2_ES_y_dpp0,3.png  used on input line 229.
-(pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_ES_x_dpp0,5.png, id=1401, 236.885pt x 170.6375pt>
-File: images/2_ES_x_dpp0,5.png Graphic file (type png)
-<use images/2_ES_x_dpp0,5.png>
-Package pdftex.def Info: images/2_ES_x_dpp0,5.png  used on input line 230.
-(pdftex.def)             Requested size: 243.98512pt x 175.75858pt.
-<images/2_ES_y_dpp0,5.png, id=1403, 231.86626pt x 170.6375pt>
-File: images/2_ES_y_dpp0,5.png Graphic file (type png)
-<use images/2_ES_y_dpp0,5.png>
-Package pdftex.def Info: images/2_ES_y_dpp0,5.png  used on input line 231.
-(pdftex.def)             Requested size: 243.98512pt x 179.56pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/2_AS_x_dpp0.png, id=1405, 235.88126pt x 170.6375pt>
-File: images/2_AS_x_dpp0.png Graphic file (type png)
-<use images/2_AS_x_dpp0.png>
-Package pdftex.def Info: images/2_AS_x_dpp0.png  used on input line 239.
-(pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_AS_y_dpp0.png, id=1407, 237.88875pt x 170.6375pt>
-File: images/2_AS_y_dpp0.png Graphic file (type png)
-<use images/2_AS_y_dpp0.png>
-Package pdftex.def Info: images/2_AS_y_dpp0.png  used on input line 240.
-(pdftex.def)             Requested size: 243.98512pt x 175.01912pt.
-<images/2_AS_x_dpp0,3.png, id=1409, 241.90375pt x 170.6375pt>
-File: images/2_AS_x_dpp0,3.png Graphic file (type png)
-<use images/2_AS_x_dpp0,3.png>
-Package pdftex.def Info: images/2_AS_x_dpp0,3.png  used on input line 241.
-(pdftex.def)             Requested size: 243.98512pt x 172.11337pt.
-<images/2_AS_y_dpp0,3.png, id=1411, 235.88126pt x 170.6375pt>
-File: images/2_AS_y_dpp0,3.png Graphic file (type png)
-<use images/2_AS_y_dpp0,3.png>
-Package pdftex.def Info: images/2_AS_y_dpp0,3.png  used on input line 242.
-(pdftex.def)             Requested size: 243.98512pt x 176.50323pt.
-<images/2_AS_x_dpp0,5.png, id=1413, 230.8625pt x 170.6375pt>
-File: images/2_AS_x_dpp0,5.png Graphic file (type png)
-<use images/2_AS_x_dpp0,5.png>
-Package pdftex.def Info: images/2_AS_x_dpp0,5.png  used on input line 243.
-(pdftex.def)             Requested size: 243.98512pt x 180.3385pt.
-<images/2_AS_y_dpp0,5.png, id=1415, 237.88875pt x 170.6375pt>
-File: images/2_AS_y_dpp0,5.png Graphic file (type png)
-<use images/2_AS_y_dpp0,5.png>
-Package pdftex.def Info: images/2_AS_y_dpp0,5.png  used on input line 244.
-(pdftex.def)             Requested size: 243.98512pt x 175.01912pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
+[70.70]
 
 [71.71]
+File: images/2_supp_scheme_AS.png Graphic file (type bmp)
+<images/2_supp_scheme_AS.png>
+File: images/2_supp_Twiss_AS.png Graphic file (type bmp)
+<images/2_supp_Twiss_AS.png>
+File: images/2_supp_elem_AS.png Graphic file (type bmp)
+<images/2_supp_elem_AS.png>
 
-[72.72 <./images/2_supp_scheme_AS.png> <./images/2_supp_twiss_AS.png> <./images
-/2_supp_elem_AS.png>]
 
-[73.73 <./images/2_ES_x_dpp0.png> <./images/2_ES_y_dpp0.png> <./images/2_ES_x_d
-pp0,3.png> <./images/2_ES_y_dpp0,3.png> <./images/2_ES_x_dpp0,5.png> <./images/
-2_ES_y_dpp0,5.png>]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[74.74 <./images/2_AS_x_dpp0.png> <./images/2_AS_y_dpp0.png> <./images/2_AS_x_d
-pp0,3.png> <./images/2_AS_y_dpp0,3.png> <./images/2_AS_x_dpp0,5.png> <./images/
-2_AS_y_dpp0,5.png>])
+File: images/2_ES_x_dpp0.png Graphic file (type bmp)
+<images/2_ES_x_dpp0.png>
+File: images/2_ES_y_dpp0.png Graphic file (type bmp)
+<images/2_ES_y_dpp0.png>
+File: images/2_ES_x_dpp0,3.png Graphic file (type bmp)
+<images/2_ES_x_dpp0,3.png>
+File: images/2_ES_y_dpp0,3.png Graphic file (type bmp)
+<images/2_ES_y_dpp0,3.png>
+File: images/2_ES_x_dpp0,5.png Graphic file (type bmp)
+<images/2_ES_x_dpp0,5.png>
+File: images/2_ES_y_dpp0,5.png Graphic file (type bmp)
+<images/2_ES_y_dpp0,5.png>
 
-[75.75]
+
+[72.72]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/2_AS_x_dpp0.png Graphic file (type bmp)
+<images/2_AS_x_dpp0.png>
+File: images/2_AS_y_dpp0.png Graphic file (type bmp)
+<images/2_AS_y_dpp0.png>
+File: images/2_AS_x_dpp0,3.png Graphic file (type bmp)
+<images/2_AS_x_dpp0,3.png>
+File: images/2_AS_y_dpp0,3.png Graphic file (type bmp)
+<images/2_AS_y_dpp0,3.png>
+File: images/2_AS_x_dpp0,5.png Graphic file (type bmp)
+<images/2_AS_x_dpp0,5.png>
+File: images/2_AS_y_dpp0,5.png Graphic file (type bmp)
+<images/2_AS_y_dpp0,5.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[73.73]
+
+[74.74]
+
+[75.75])
+
+[76.76]
 \openout2 = `Dissertation/part4.aux'.
 
  (./Dissertation/part4.tex
 
-[76.76
+[77.77
 
 
 
 
 ]
 
-[77.77]
-
 [78.78]
-<images/4_orbital_B.png, id=1520, 221.628pt x 135.3858pt>
-File: images/4_orbital_B.png Graphic file (type png)
-<use images/4_orbital_B.png>
-Package pdftex.def Info: images/4_orbital_B.png  used on input line 57.
-(pdftex.def)             Requested size: 243.98512pt x 149.04465pt.
-<images/4_orbital_E.png, id=1522, 221.628pt x 135.3858pt>
-File: images/4_orbital_E.png Graphic file (type png)
-<use images/4_orbital_E.png>
-Package pdftex.def Info: images/4_orbital_E.png  used on input line 58.
-(pdftex.def)             Requested size: 243.98512pt x 149.04465pt.
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]\TU/TimesNewRoman(1)/m/n/14.4 Возможность исследования ЭДМ с применением мето
+да квази-
+ []
 
 
-[79.79 <./images/4_orbital_B.png> <./images/4_orbital_E.png>]
+
+[79.79]
+File: images/4_orbital_B.png Graphic file (type bmp)
+<images/4_orbital_B.png>
+File: images/4_orbital_E.png Graphic file (type bmp)
+<images/4_orbital_E.png>
+
 
 [80.80]
 
@@ -2995,63 +3177,34 @@ Package pdftex.def Info: images/4_orbital_E.png  used on input line 58.
 [82.82]
 
 [83.83]
-Underfull \hbox (badness 1990) in paragraph at lines 208--208
-[][]\T2A/cmr/m/n/14.4 ������� 6 ^^V |���^^?��^^?��� ��^^?�� ��^^?���^^?��^^?���
- ���^^?�� � ��^^?��� ��^^?��^^?�^^?�� � ��^^?
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 208--208
-\T2A/cmr/m/n/14.4 ��^^?���^^?����^^?�^^?��� ��^^?��^^?��^^?��^^?���, ��^^?��^^?
-��^^?�^^?��� �����^^?��^^?��� ���-^^?���^^?��^^?�� �
- []
-
-
 
 [84.84]
-<images/4_spin-tune_ratio.png, id=1602, 301.125pt x 207.77625pt>
-File: images/4_spin-tune_ratio.png Graphic file (type png)
-<use images/4_spin-tune_ratio.png>
-Package pdftex.def Info: images/4_spin-tune_ratio.png  used on input line 228.
-(pdftex.def)             Requested size: 273.8593pt x 188.98155pt.
-<images/4_total_length.png, id=1607, 307.1475pt x 198.7425pt>
-File: images/4_total_length.png Graphic file (type png)
-<use images/4_total_length.png>
-Package pdftex.def Info: images/4_total_length.png  used on input line 237.
-(pdftex.def)             Requested size: 273.8593pt x 177.21384pt.
+
+[85.85]
+File: images/4_spin-tune_ratio.png Graphic file (type bmp)
+<images/4_spin-tune_ratio.png>
+File: images/4_total_length.png Graphic file (type bmp)
+<images/4_total_length.png>
 
 
-[85.85 <./images/4_spin-tune_ratio.png>]
-
-[86.86 <./images/4_total_length.png>]
-<images/4_wien-filter_deuteron.png, id=1625, 455.90324pt x 236.68425pt>
-File: images/4_wien-filter_deuteron.png Graphic file (type png)
-<use images/4_wien-filter_deuteron.png>
-Package pdftex.def Info: images/4_wien-filter_deuteron.png  used on input line 
-267.
-(pdftex.def)             Requested size: 298.75697pt x 155.10696pt.
-<images/4_wien-filter_proton.png, id=1626, 461.92575pt x 235.47975pt>
-File: images/4_wien-filter_proton.png Graphic file (type png)
-<use images/4_wien-filter_proton.png>
-Package pdftex.def Info: images/4_wien-filter_proton.png  used on input line 26
-9.
-(pdftex.def)             Requested size: 298.75697pt x 152.30547pt.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-[87.87 <./images/4_wien-filter_deuteron.png> <./images/4_wien-filter_proton.png
->]
-<images/4_deflector_deutron.png, id=1636, 450.483pt x 302.93175pt>
-File: images/4_deflector_deutron.png Graphic file (type png)
-<use images/4_deflector_deutron.png>
-Package pdftex.def Info: images/4_deflector_deutron.png  used on input line 284
-.
-(pdftex.def)             Requested size: 298.75697pt x 200.90625pt.
-<images/4_deflector_proton.png, id=1637, 464.937pt x 190.91325pt>
-File: images/4_deflector_proton.png Graphic file (type png)
-<use images/4_deflector_proton.png>
-Package pdftex.def Info: images/4_deflector_proton.png  used on input line 286.
 
-(pdftex.def)             Requested size: 383.40302pt x 157.44128pt.
+[86.86]
+File: images/4_wien-filter_deuteron.png Graphic file (type bmp)
+<images/4_wien-filter_deuteron.png>
+File: images/4_wien-filter_proton.png Graphic file (type bmp)
+<images/4_wien-filter_proton.png>
+
+
+[87.87]
+
+[88.88]
+File: images/4_deflector_deutron.png Graphic file (type bmp)
+<images/4_deflector_deutron.png>
+File: images/4_deflector_proton.png Graphic file (type bmp)
+<images/4_deflector_proton.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3063,9 +3216,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--293
 
 
 
-[88.88]
-
-[89.89 <./images/4_deflector_deutron.png> <./images/4_deflector_proton.png>]
+[89.89]
 
 [90.90]
 
@@ -3073,289 +3224,205 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--293
 
 [92.92]
 Underfull \hbox (badness 10000) in paragraph at lines 324--325
-[]\T2A/cmr/m/n/14.4 �������������� ���^^?�� ��^^?��^^?��� ����^^?��^^?��^^?��^^
-?�^^?��^^?��^^?���� �����^^?��^^?��
+[]\TU/TimesNewRoman(1)/m/n/14.4 Принципиальная схема текущей восьмипериодическо
+й структуры
  []
-
-<images/4_Nuclotron_original.png, id=1669, 607.26875pt x 510.90875pt>
-File: images/4_Nuclotron_original.png Graphic file (type png)
-<use images/4_Nuclotron_original.png>
-Package pdftex.def Info: images/4_Nuclotron_original.png  used on input line 32
-8.
-(pdftex.def)             Requested size: 234.02452pt x 196.88367pt.
-<images/4_Nuclotron_original_def.png, id=1671, 607.26875pt x 510.90875pt>
-File: images/4_Nuclotron_original_def.png Graphic file (type png)
-<use images/4_Nuclotron_original_def.png>
-Package pdftex.def Info: images/4_Nuclotron_original_def.png  used on input lin
-e 329.
-(pdftex.def)             Requested size: 234.02452pt x 196.88367pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/4_old_nuclotron.png, id=1673, 709.65125pt x 441.65pt>
-File: images/4_old_nuclotron.png Graphic file (type png)
-<use images/4_old_nuclotron.png>
-Package pdftex.def Info: images/4_old_nuclotron.png  used on input line 336.
-(pdftex.def)             Requested size: 492.94675pt x 306.79422pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
 [93.93]
-
-[94.94 <./images/4_Nuclotron_original.png> <./images/4_Nuclotron_original_def.p
-ng> <./images/4_old_nuclotron.png>]
-<images/4_Nuclotron_8_def2.png, id=1696, 607.26875pt x 510.90875pt>
-File: images/4_Nuclotron_8_def2.png Graphic file (type png)
-<use images/4_Nuclotron_8_def2.png>
-Package pdftex.def Info: images/4_Nuclotron_8_def2.png  used on input line 353.
-
-(pdftex.def)             Requested size: 234.02452pt x 196.88367pt.
-<images/4_Nuclotron_8_def1.png, id=1698, 607.26875pt x 510.90875pt>
-File: images/4_Nuclotron_8_def1.png Graphic file (type png)
-<use images/4_Nuclotron_8_def1.png>
-Package pdftex.def Info: images/4_Nuclotron_8_def1.png  used on input line 354.
-
-(pdftex.def)             Requested size: 234.02452pt x 196.88367pt.
-<images/4_Nuclotron_twiss_8.png, id=1700, 708.6475pt x 360.34625pt>
-File: images/4_Nuclotron_twiss_8.png Graphic file (type png)
-<use images/4_Nuclotron_twiss_8.png>
-Package pdftex.def Info: images/4_Nuclotron_twiss_8.png  used on input line 361
-.
-(pdftex.def)             Requested size: 497.92325pt x 253.19737pt.
+File: images/4_Nuclotron_original.png Graphic file (type bmp)
+<images/4_Nuclotron_original.png>
+File: images/4_Nuclotron_original_def.png Graphic file (type bmp)
+<images/4_Nuclotron_original_def.png>
+File: images/4_old_nuclotron.png Graphic file (type bmp)
+<images/4_old_nuclotron.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/4_Nuclotron_Def_twiss_8.png, id=1702, 708.6475pt x 356.33125pt>
-File: images/4_Nuclotron_Def_twiss_8.png Graphic file (type png)
-<use images/4_Nuclotron_Def_twiss_8.png>
-Package pdftex.def Info: images/4_Nuclotron_Def_twiss_8.png  used on input line
- 368.
-(pdftex.def)             Requested size: 497.92325pt x 250.37624pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[95.95 <./images/4_Nuclotron_8_def2.png> <./images/4_Nuclotron_8_def1.png>]
-<images/4_Nuclotron_16.png, id=1714, 591.20876pt x 510.90875pt>
-File: images/4_Nuclotron_16.png Graphic file (type png)
-<use images/4_Nuclotron_16.png>
-Package pdftex.def Info: images/4_Nuclotron_16.png  used on input line 378.
-(pdftex.def)             Requested size: 248.96162pt x 215.14151pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/4_Nuclotron_twiss_16.png, id=1716, 708.6475pt x 360.34625pt>
-File: images/4_Nuclotron_twiss_16.png Graphic file (type png)
-<use images/4_Nuclotron_twiss_16.png>
-Package pdftex.def Info: images/4_Nuclotron_twiss_16.png  used on input line 38
-5.
-(pdftex.def)             Requested size: 497.92325pt x 253.19737pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/4_Nuclotron_WF_twiss_16.png, id=1718, 708.6475pt x 356.33125pt>
-File: images/4_Nuclotron_WF_twiss_16.png Graphic file (type png)
-<use images/4_Nuclotron_WF_twiss_16.png>
-Package pdftex.def Info: images/4_Nuclotron_WF_twiss_16.png  used on input line
- 392.
-(pdftex.def)             Requested size: 497.92325pt x 250.37624pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[96.96 <./images/4_Nuclotron_twiss_8.png> <./images/4_Nuclotron_Def_twiss_8.png
->]
-
-[97.97 <./images/4_Nuclotron_16.png> <./images/4_Nuclotron_twiss_16.png>]
-Overfull \hbox (5.88779pt too wide) in paragraph at lines 405--416
- [][] 
+Underfull \hbox (badness 1472) in paragraph at lines 345--346
+\TU/TimesNewRoman(1)/m/n/14.4 тура на основе простейшей ФОДО ячейки. В такой ст
+руктуре может быть
  []
 
 
 
-[98.98 <./images/4_Nuclotron_WF_twiss_16.png>]
+[94.94]
+File: images/4_Nuclotron_8_def2.png Graphic file (type bmp)
+<images/4_Nuclotron_8_def2.png>
+File: images/4_Nuclotron_8_def1.png Graphic file (type bmp)
+<images/4_Nuclotron_8_def1.png>
+
+Underfull \hbox (badness 3679) in paragraph at lines 355--355
+ \TU/TimesNewRoman(1)/m/n/14.4 туры Nuclotron с текущей расстановкой при введен
+ии электростатических 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_Nuclotron_twiss_8.png Graphic file (type bmp)
+<images/4_Nuclotron_twiss_8.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_Nuclotron_Def_twiss_8.png Graphic file (type bmp)
+<images/4_Nuclotron_Def_twiss_8.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[95.95]
+File: images/4_Nuclotron_16.png Graphic file (type bmp)
+<images/4_Nuclotron_16.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_Nuclotron_twiss_16.png Graphic file (type bmp)
+<images/4_Nuclotron_twiss_16.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_Nuclotron_WF_twiss_16.png Graphic file (type bmp)
+<images/4_Nuclotron_WF_twiss_16.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]\TU/TimesNewRoman(1)/m/n/14.4 С целью увеличения точности проведения эксперим
+ента, квази-
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 397--398
+\TU/TimesNewRoman(1)/m/n/14.4 замороженный спин может быть как можно больше при
+ближен к режиму
+ []
+
+
+
+[96.96]
+
+[97.97]
+
+[98.98]
 
 [99.99]
+Missing character: There is no м ("43C) in font cmr12!
+File: images/4_NICA_bypass.png Graphic file (type bmp)
+<images/4_NICA_bypass.png>
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 424.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no � in font cmr12!
-<images/4_NICA_bypass.png, id=1760, 898.35625pt x 471.7625pt>
-File: images/4_NICA_bypass.png Graphic file (type png)
-<use images/4_NICA_bypass.png>
-Package pdftex.def Info: images/4_NICA_bypass.png  used on input line 428.
-(pdftex.def)             Requested size: 497.92325pt x 261.47855pt.
+File: images/4_bypass_3scheme.png Graphic file (type bmp)
+<images/4_bypass_3scheme.png>
 
 
-[100.100 <./images/4_NICA_bypass.png>]
-<images/4_bypass_3scheme.png, id=1769, 1020.81375pt x 219.82124pt>
-File: images/4_bypass_3scheme.png Graphic file (type png)
-<use images/4_bypass_3scheme.png>
-Package pdftex.def Info: images/4_bypass_3scheme.png  used on input line 439.
-(pdftex.def)             Requested size: 497.92325pt x 107.22363pt.
-<images/4_bypass_3quad.png, id=1773, 524.96124pt x 283.0575pt>
-File: images/4_bypass_3quad.png Graphic file (type png)
-<use images/4_bypass_3quad.png>
-Package pdftex.def Info: images/4_bypass_3quad.png  used on input line 449.
-(pdftex.def)             Requested size: 497.92325pt x 268.48845pt.
+[100.100]
 
+[101.101]
+File: images/4_bypass_3quad.png Graphic file (type bmp)
+<images/4_bypass_3quad.png>
+File: images/4_bypass_5scheme.png Graphic file (type bmp)
+<images/4_bypass_5scheme.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_bypass_5quad.png Graphic file (type bmp)
+<images/4_bypass_5quad.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[101.101 <./images/4_bypass_3scheme.png>]
-<images/4_bypass_5scheme.png, id=1786, 785.93625pt x 189.70876pt>
-File: images/4_bypass_5scheme.png Graphic file (type png)
-<use images/4_bypass_5scheme.png>
-Package pdftex.def Info: images/4_bypass_5scheme.png  used on input line 460.
-(pdftex.def)             Requested size: 497.92325pt x 120.1916pt.
-<images/4_bypass_5quad.png, id=1788, 483.8075pt x 280.04625pt>
-File: images/4_bypass_5quad.png Graphic file (type png)
-<use images/4_bypass_5quad.png>
-Package pdftex.def Info: images/4_bypass_5quad.png  used on input line 467.
-(pdftex.def)             Requested size: 497.92325pt x 288.22864pt.
+[102.102]
+File: images/4_bypass_real_scheme.png Graphic file (type bmp)
+<images/4_bypass_real_scheme.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[103.103]
+File: images/4_bypass_twiss_ring.png Graphic file (type bmp)
+<images/4_bypass_twiss_ring.png>
 
 
-
-[102.102 <./images/4_bypass_3quad.png> <./images/4_bypass_5scheme.png>]
-<images/4_bypass_real_scheme.png, id=1803, 1072.005pt x 245.91875pt>
-File: images/4_bypass_real_scheme.png Graphic file (type png)
-<use images/4_bypass_real_scheme.png>
-Package pdftex.def Info: images/4_bypass_real_scheme.png  used on input line 47
-8.
-(pdftex.def)             Requested size: 497.92325pt x 114.22345pt.
+[104.104]
+File: images/4_bypass_spin.png Graphic file (type bmp)
+<images/4_bypass_spin.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/4_bypass_twiss_ring.png, id=1805, 548.0475pt x 290.08376pt>
-File: images/4_bypass_twiss_ring.png Graphic file (type png)
-<use images/4_bypass_twiss_ring.png>
-Package pdftex.def Info: images/4_bypass_twiss_ring.png  used on input line 485
-.
-(pdftex.def)             Requested size: 497.92325pt x 263.55612pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[103.103 <./images/4_bypass_5quad.png>]
-<images/4_bypass_spin.png, id=1818, 474.77374pt x 426.59375pt>
-File: images/4_bypass_spin.png Graphic file (type png)
-<use images/4_bypass_spin.png>
-Package pdftex.def Info: images/4_bypass_spin.png  used on input line 498.
-(pdftex.def)             Requested size: 348.54475pt x 313.18788pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[104.104 <./images/4_bypass_real_scheme.png> <./images/4_bypass_twiss_ring.png>
-]
-
-[105.105 <./images/4_bypass_spin.png>]
+[105.105]
 
 [106.106]
-<images/4_NICA_arc.png, id=1848, 473.77pt x 278.03876pt>
-File: images/4_NICA_arc.png Graphic file (type png)
-<use images/4_NICA_arc.png>
-Package pdftex.def Info: images/4_NICA_arc.png  used on input line 542.
-(pdftex.def)             Requested size: 497.92325pt x 292.22083pt.
-<images/4_spin_dependance_x.png, id=1852, 283.0575pt x 252.945pt>
-File: images/4_spin_dependance_x.png Graphic file (type png)
-<use images/4_spin_dependance_x.png>
-Package pdftex.def Info: images/4_spin_dependance_x.png  used on input line 552
-.
-(pdftex.def)             Requested size: 159.33908pt x 142.38928pt.
-<images/4_spin_dependance_y.png, id=1854, 276.03125pt x 249.93375pt>
-File: images/4_spin_dependance_y.png Graphic file (type png)
-<use images/4_spin_dependance_y.png>
-Package pdftex.def Info: images/4_spin_dependance_y.png  used on input line 553
-.
-(pdftex.def)             Requested size: 159.33908pt x 144.27902pt.
-<images/4_spin_dependance_d.png, id=1856, 281.05pt x 251.94125pt>
-File: images/4_spin_dependance_d.png Graphic file (type png)
-<use images/4_spin_dependance_d.png>
-Package pdftex.def Info: images/4_spin_dependance_d.png  used on input line 554
-.
-(pdftex.def)             Requested size: 159.33908pt x 142.8353pt.
+File: images/4_NICA_arc.png Graphic file (type bmp)
+<images/4_NICA_arc.png>
+
+
+[107.107]
+File: images/4_spin_dependance_x.png Graphic file (type bmp)
+<images/4_spin_dependance_x.png>
+File: images/4_spin_dependance_y.png Graphic file (type bmp)
+<images/4_spin_dependance_y.png>
+File: images/4_spin_dependance_d.png Graphic file (type bmp)
+<images/4_spin_dependance_d.png>
+File: images/4_spin_decoherence.png Graphic file (type bmp)
+<images/4_spin_decoherence.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/4_spin_decoherence.png, id=1858, 503.8825pt x 449.68pt>
-File: images/4_spin_decoherence.png Graphic file (type png)
-<use images/4_spin_decoherence.png>
-Package pdftex.def Info: images/4_spin_decoherence.png  used on input line 561.
-
-(pdftex.def)             Requested size: 348.54475pt x 311.05489pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-
-[107.107 <./images/4_NICA_arc.png>]
-
-[108.108 <./images/4_spin_dependance_x.png> <./images/4_spin_dependance_y.png> 
-<./images/4_spin_dependance_d.png> <./images/4_spin_decoherence.png>]
-<images/4_spin_coherence.png, id=1889, 498.86375pt x 447.6725pt>
-File: images/4_spin_coherence.png Graphic file (type png)
-<use images/4_spin_coherence.png>
-Package pdftex.def Info: images/4_spin_coherence.png  used on input line 572.
-(pdftex.def)             Requested size: 348.54475pt x 312.78798pt.
+[108.108]
+File: images/4_spin_coherence.png Graphic file (type bmp)
+<images/4_spin_coherence.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--584
-[]|\T2A/cmr/m/n/14.4 ��� ��^^?��^^?
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Без опти-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--584
-[]|\T2A/cmr/m/n/14.4 ���^^?��^^?���^^?
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--584
-[]|\T2A/cmr/m/n/14.4 ��������
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Спиновая
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--584
-\T2A/cmr/m/n/14.4 ��^^?��^^?����^^?
+\TU/TimesNewRoman(1)/m/n/14.4 когерент-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--584
-[]|\T2A/cmr/m/n/14.4 ���^^?��^^?���^^?
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 584--585
-[]|\T2A/cmr/m/n/14.4 ���^^?��^^?���^^?
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 586--586
-[]|\T2A/cmr/m/n/14.4 ��������
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Значение
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 586--586
-\T2A/cmr/m/n/14.4 ���^^?��^^?���^^?
+\TU/TimesNewRoman(1)/m/n/14.4 хроматич-
  []
 
 
@@ -3365,13 +3432,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 588--588
  []
 
 
+Underfull \hbox (badness 7291) in paragraph at lines 596--596
+[]|\TU/TimesNewRoman(1)/m/n/14.4 # семейств
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 596--596
-\T2A/cmr/m/n/14.4 ���^^?���^^?��^^?
+\TU/TimesNewRoman(1)/m/n/14.4 секступо-
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 598--598
+[]|\TU/TimesNewRoman(1)/m/n/14.4 Макс. поле
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 598--598
-\T2A/cmr/m/n/14.4 ���^^?���^^?��^^?
+\TU/TimesNewRoman(1)/m/n/14.4 секступо-
  []
 
 
@@ -3380,10 +3457,16 @@ Overfull \hbox (6.51344pt too wide) in paragraph at lines 582--602
  []
 
 
+Underfull \hbox (badness 1454) in paragraph at lines 604--605
+\TU/TimesNewRoman(1)/m/n/14.4 ставленной структуре. На рис. [][]4.23[][] (фиоле
+товая линия) показана ненулевая
+ []
+
+
 
 [109.109]
 
-[110.110 <./images/4_spin_coherence.png>]
+[110.110]
 
 [111.111])
 
@@ -3397,9 +3480,11 @@ Overfull \hbox (6.51344pt too wide) in paragraph at lines 582--602
 
 
 
-]))
+])
 
-[114.114]
+[114.114])
+
+[115.115]
 \openout2 = `Dissertation/acronyms.aux'.
 
  (./Dissertation/acronyms.tex
@@ -3414,7 +3499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--76
 
 
 
-[115.115
+[116.116
 
 
 
@@ -3425,11 +3510,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--76
 ]
 \openout2 = `Dissertation/references.aux'.
 
- (./Dissertation/references.tex (./dissertation.bbl
-bibitemlist
+ (./Dissertation/references.tex
+Underfull \hbox (badness 2564) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Isothermal Baryon Number Fluctuations and Primord
+ial Nucleosynthesis /
+ []
 
 
-[116.116
+Underfull \hbox (badness 1960) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Conference on Polarization Dynamics in Nuclear an
+d Particle Physics. []
+ []
+
+
+
+[117.117
 
 
 
@@ -3437,148 +3532,280 @@ bibitemlist
 
 ]
 
-[117.117]
-
 [118.118]
-Underfull \hbox (badness 1721) in paragraph at lines 277--284
-[]\T2A/cmr/m/n/14.4 Features of du^^?al-pur^^?pose struc^^?ture for heavy ion a
-nd light par^^?ti^^?cles /
+Underfull \hbox (badness 2310) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 A New method of measuring electric dipole momen
+ts in storage rings /
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 297--305
-[]\T2A/cmr/m/it/14.4 ������������� �.�. ������� �.�. \T2A/cmr/m/n/14.4 �������-
-���������� ���������
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--316
-[]\T2A/cmr/m/it/14.4 ������������� �.�. ������� �.�. \T2A/cmr/m/n/14.4 ��������
-��� ����������� �
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 308--316
-\T2A/cmr/m/n/14.4 ��������� ����������� ������� ����������� // \T2A/cmr/m/it/14
-.4 ������� ������
+Underfull \hbox (badness 2418) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 F. J. M. Farley, K. Jungmann, J. P. Miller, W. M.
+ Morse, Y. F. Orlov,
  []
 
 
 
-[119.119]
-Underfull \hbox (badness 6078) in paragraph at lines 360--366
-[]\T2A/cmr/m/n/14.4 Transition En^^?er^^?gy Cross^^?ing of Po^^?lar^^?ized Pro^
-^?ton Beam at NICA /
+[119.119] (./common/renames.tex) (./common/renames.tex)
+Overfull \hbox (10.30063pt too wide) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 http://www-bdnew.fnal.gov/pbar/organizationalch
+art/lebedev/OptiM/optim.htm. []
+ []
+
+(./common/renames.tex) (./common/renames.tex)
+Underfull \hbox (badness 6842) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Features of dual-purpose structure for heavy io
+n and light particles /
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Formation of Polarized Proton Beams in the NICA
+ Collider-Accelerator
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 S. D. Kolokolchikov, S. A. Kostromin, I. N. Meshk
+ov, N. V. Mityanina,
  []
 
 
 
 [120.120]
-Underfull \hbox (badness 10000) in paragraph at lines 427--434
-[]\T2A/cmr/m/n/14.4 Spin Co^^?her^^?ence and Be^^?ta^^?tron Chro^^?matic^^?i^^?
-ty of Deuteron Beam in
+Overfull \hbox (0.71893pt too wide) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Transition Energy Crossing of Polarized Proton 
+Beam at NICA / S. Kolokolchikov,
  []
 
 
 
 [121.121]
+Underfull \hbox (badness 2951) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Y. Senichev, A. Aksentyev, S. Kolokolchikov, A. M
+elnikov, V. Ladygin,
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Consideration of an Adapted Nuclotron Structure
+ for Searching for the
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 ring lattice / S. Kolokolchikov, A. Aksentyev, A.
+ Melnikov, Y. Senichev,
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Spin Coherence and Betatron Chromaticity of Deu
+teron Beam in “Quasi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Frozen”Spin Regime / S. Kolokolchikov, A. Aksenti
+ev, A. Melnikov,
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Y. Senichev [] Physics of Atomic Nuclei. [] 2023.
+ [] Т. 86, № 12. []
+ []
+
+
 
 [122.122]
-Underfull \hbox (badness 1502) in paragraph at lines 597--601
-[]\T2A/cmr/m/it/14.4 Pashkov P. T. \T2A/cmr/m/n/14.4 Mea^^?sur^^?ing in^^?duc^^
-?tive com^^?po^^?nent of lon^^?gi^^?tu^^?di^^?nal cou^^?pling
+Underfull \hbox (badness 4181) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 17th International Conference on High-Energy Acce
+lerators. [] 1998. []
  []
 
-
-Overfull \hbox (22.35422pt too wide) in paragraph at lines 620--622
-[]\T2A/cmr/m/n/14.4 http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/
-OptiM/optim.htm.
- []
-
-
+(./common/renames.tex)
 
 [123.123]
-Underfull \hbox (badness 10000) in paragraph at lines 704--711
-[]\T2A/cmr/m/it/14.4 Fukuyama Takeshi, Silenko Alexan^^?der J. \T2A/cmr/m/n/14.
-4 Deriva^^?tion of Gen^^?er^^?al^^?ized
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Senichev\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
+mesNewRoman(0)/m/it/14.4 Y. V. \TU/TimesNewRoman(1)/m/n/14.4 Construction of “r
+esonant”magneto-optical lattices with
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 704--711
-\T2A/cmr/m/n/14.4 Thomas-Bargman^^?n-Michel-Teleg^^?di Equa^^?tion for a Par^^?
-ti^^?cle with Elec^^?tric
+Underfull \hbox (badness 5460) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Antoniou\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
+mesNewRoman(0)/m/it/14.4 F. \TU/TimesNewRoman(1)/m/n/14.4 Revision of Intrabeam
+ Scattering with Non-Ultrarelativistic
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Hardt\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Times
+NewRoman(0)/m/it/14.4 W. \TU/TimesNewRoman(1)/m/n/14.4 Gamma-Transition-Jump Sc
+heme of the CPS / W. Hardt []
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 9th International Conference on High-Energy Accel
+erators. [] 1975. []
+ []
+
+(./common/renames.tex)
+Underfull \hbox (badness 1931) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Autin\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Times
+NewRoman(0)/m/it/14.4 B. \TU/TimesNewRoman(1)/m/n/14.4 DISPERSION SUPPRESSION W
+ITH MISSING MAGNETS IN
  []
 
 
 
 [124.124]
-
-[125.125]
-Underfull \hbox (badness 2173) in paragraph at lines 823--830
-[]\T2A/cmr/m/n/14.4 How to Reach a Thou^^?sand-Sec^^?ond in^^?-^^?Plane Po^^?la
-r^^?iza^^?tion Life^^?time with
+Underfull \hbox (badness 4713) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Pashkov\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Tim
+esNewRoman(0)/m/it/14.4 P. T. \TU/TimesNewRoman(1)/m/n/14.4 Measuring inductive
+ component of longitudinal coupling
  []
 
-))
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+Underfull \hbox (badness 5175) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Accelerator Conference (PAC 07). [] 2007. [] С. 7
+36[]738. [] (IEEE
+ []
+
+
+
+[125.125]
+Underfull \hbox (badness 3168) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Ehrenfest\TU/TimesNewRoman(1)/m/n/14.4 , \TU/T
+imesNewRoman(0)/m/it/14.4 P. \TU/TimesNewRoman(1)/m/n/14.4 Bemerkung über die a
+ngenäherte Gültigkeit der klassischen
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Mechanik innerhalb der Quantenmechanik / P. Ehren
+fest [] Zeitschrift für
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Bargmann\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
+mesNewRoman(0)/m/it/14.4 V. \TU/TimesNewRoman(1)/m/n/14.4 Precession of the Pol
+arization of Particles Moving in a
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Fukuyama\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
+mesNewRoman(0)/m/it/14.4 T. \TU/TimesNewRoman(1)/m/n/14.4 Derivation of General
+ized Thomas-Bargmann-Michel-Telegdi
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Equation for a Particle with Electric Dipole Mome
+nt / T. Fukuyama,
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 Y. N. Filatov, A. M. Kondratenko, M. A. Kondraten
+ko, Y. S. Derbenev,
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 6--6
+\TU/TimesNewRoman(1)/m/n/14.4 S. Korovkin, Y. Bespalov, V. Borisov, H. Khodzhib
+agiyan, S. Kostromin,
+ []
+
+
 
 [126.126]
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Nuclotron at JINR: Operation Experience and Rec
+ent Development /
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 Spin Tune Decoherence Effects in Electro- and M
+agnetostatic Structures /
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(0)/m/it/14.4 Senichev\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
+mesNewRoman(0)/m/it/14.4 Y. \TU/TimesNewRoman(1)/m/n/14.4 Spin Chromaticity of 
+Beam: Orbit Lengthening and Betatron
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 6--6
+[]\TU/TimesNewRoman(1)/m/n/14.4 How to Reach a Thousand-Second in-Plane Polariz
+ation Lifetime with
+ []
+
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex))
+
+[127.127]
+
+[128.128]
 \openout2 = `Dissertation/lists.aux'.
 
  (./Dissertation/lists.tex (./dissertation.lof (./common/renames.tex)
-Package cleveref Info: loaded `russian' language definitions on input line 1.
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex)
+
+[129.129
 
 
-[127.127
 
 
+] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex)
 
+[130.130] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex)
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no б ("431) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no р ("440) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no т ("442) in font cmmi12!
+Missing character: There is no о ("43E) in font cmmi12!
+Missing character: There is no в ("432) in font cmmi12!
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 
-]
+[131.131] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex)
 
-[128.128]
+[132.132] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex))
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 30.
+[133.133] (./dissertation.lot (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex))
 
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 30.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 30.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-
-[129.129]
-
-[130.130])
-
-[131.131] (./dissertation.lot (./common/renames.tex)
-Package cleveref Info: loaded `russian' language definitions on input line 1.
-)
-
-[132.132
+[134.134
 
 ])
 
@@ -3606,23 +3833,21 @@ See the caption package documentation for explanation.
 
 Package nag Warning: 10 complaints in total.
 
-\tf@toc=\write9
-\openout9 = `dissertation.toc'.
+\tf@toc=\write10
+\openout10 = `dissertation.toc'.
 
-\tf@lof=\write10
-\openout10 = `dissertation.lof'.
+\tf@lof=\write11
+\openout11 = `dissertation.lof'.
 
-\tf@lot=\write11
-\openout11 = `dissertation.lot'.
+\tf@lot=\write12
+\openout12 = `dissertation.lot'.
 
-(./dissertation.aux (./Dissertation/title.aux) (./common/renames.tex)
-Package cleveref Info: loaded `russian' language definitions on input line 12.
-
-(./Dissertation/contents.aux) (./Dissertation/introduction.aux)
-(./Dissertation/part1.aux) (./Dissertation/part2.aux) (./Dissertation/part3.aux
-) (./Dissertation/part4.aux) (./Dissertation/conclusion.aux)
-(./Dissertation/acronyms.aux) (./Dissertation/dictionary.aux)
-(./Dissertation/references.aux) (./Dissertation/lists.aux))
+(./dissertation.aux (./Dissertation/title.aux) (./Dissertation/contents.aux)
+(./Dissertation/introduction.aux) (./Dissertation/part1.aux)
+(./Dissertation/part2.aux) (./Dissertation/part3.aux) (./Dissertation/part4.aux
+) (./Dissertation/conclusion.aux) (./Dissertation/acronyms.aux)
+(./Dissertation/dictionary.aux) (./Dissertation/references.aux)
+(./Dissertation/lists.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -3637,7 +3862,7 @@ nag-orthodox.cfg    2006/04/19 v1.8 strict rules for nag.sty (ulmi)
 lass
   xpatch.sty    2020/03/25 v0.3a Extending etoolbox patching commands
    expl3.sty    2025-01-18 L3 programming layer (loader) 
-l3backend-pdftex.def    2024-05-08 L3 backend support: PDF output (pdfTeX)
+l3backend-xetex.def    2024-05-08 L3 backend support: XeTeX
   xparse.sty    2024-08-16 L3 Experimental document command parser
 etoolbox.sty    2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
    iftex.sty    2024/12/12 v1.0g TeX engine tests
@@ -3668,7 +3893,7 @@ pdflscape-nometadata.sty    2022-10-28 v0.13 Display of landscape pages in PDF
 graphics.sty    2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
     trig.sty    2023/12/02 v1.11 sin cos tan (DPC)
 graphics.cfg    2016/06/04 v1.11 sample graphics configuration
-  pdftex.def    2024/04/13 v1.2c Graphics/color driver for pdftex
+   xetex.def    2022/09/22 v5.0n Graphics/color driver for xetex
 geometry.sty    2020/01/02 v5.9 Page Geometry
   ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
   amsthm.sty    2020/05/29 v2.20.6
@@ -3690,19 +3915,13 @@ siunitx-v2.sty
 l3keys2e.sty    2024-08-16 LaTeX2e option processing using LaTeX3 keys
 translator.sty    2021-05-31 v1.12d Easy translation of strings in LaTeX
  siunitx.cfg    
-    cmap.sty    2021/02/06 v1.0j CMap support: searchable PDF
-textcomp.sty    2024/04/24 v2.1b Standard LaTeX package
+polyglossia.sty    2025/01/31 v2.4 Modern multilingual typesetting with XeLaTeX
+ and LuaLaTeX
+fontspec.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+fontspec-xetex.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
  fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
-  t2aenc.def    2023/11/07 v1.0k Cyrillic encoding definition file
-  t2aenc.dfu    2022/06/07 v1.3c UTF-8 support
-  t2acmr.fd    2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-inputenc.sty    2024/02/08 v1.3d Input encoding file
-   babel.sty    2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLa
-TeX and XeLaTeX
- english.ldf    2017/06/06 v3.3r English support from the babel system
-russianb.ldf    2021/01/10 1.3m Russian support for the Babel system
-babel-russian.tex
-babel-english.tex
+fontspec.cfg
+gloss-latex.ldf    polyglossia: module for default language
 indentfirst.sty    2023/07/02 v1.03 Indent first paragraph (DPC)
   xcolor.sty    2024/09/29 v3.02 LaTeX color extensions (UK)
    color.cfg    2016/01/02 v1.6 sample color configuration
@@ -3757,11 +3976,11 @@ stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
 atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
- hpdftex.def    2024-11-05 v7.01l Hyperref driver for pdfTeX
+  hxetex.def    2024-11-05 v7.01l Hyperref driver for XeTeX
+rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
 ge
 with kernel methods
-rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
 memhfixc.sty    2023/09/10 v1.22 hyperref package fixes for memoir class
  caption.sty    2023/08/05 v3.6o Customizing captions (AR)
@@ -3772,7 +3991,7 @@ subcaption.sty    2023/07/28 v1.6b Sub-captions (AR)
 pdfpages.sty    2025/01/30 v0.6e Insert pages of external PDF documents (AM)
   ifthen.sty    2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
  eso-pic.sty    2023/05/03 v3.0c eso-pic (RN)
-pppdftex.def    2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+ ppxetex.def    2025/01/30 v0.6e Pdfpages driver for XeTeX (AM)
 aliascnt.sty    2018/09/07 v1.5 Alias counters (HO)
 totalcount.sty    2018/01/21 v1.0a Total values of counters (AR)
 totcount.sty    2011/01/25 v1.2 package for gettingthe total value of LaTeX cou
@@ -3806,23 +4025,69 @@ Dissertation/setup.tex
 common/newnames.tex
 common/data.tex
 common/fonts.tex
+gloss-russian.ldf    polyglossia: module for Russian
+xpg-cyrillicnumbers.sty    2019/11/15 v0.2 Formatting of Cyrillic alphabetic nu
+mbers
+ babelsh.def    2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+gloss-english.ldf    polyglossia: module for English
 common/styles.tex
 Dissertation/disstyles.tex
 Dissertation/userstyles.tex
-biblio/predefined.tex
-    cite.sty    2015/02/27  v 5.5
-supp-pdf.mkii
-epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
-epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+biblio/biblatex.tex
+csquotes.sty    2024-04-04 v5.2o context-sensitive quotations (JAW)
+csquotes.def    2024-04-04 v5.2o csquotes generic definitions (JAW)
+csquotes.cfg    
+biblatex.sty    2024/03/21 v3.20 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2024/03/21 v3.20 biblatex datamodel (PK/MW)
+biblatex-gost.dbx    2023/04/25 v1.24 biblatex-gost data model
+gost-numeric.dbx    2023/04/25 v1.24 biblatex-gost data model
+blx-unicode.def
+blx-compat.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
+biblatex.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
+biblatex-gost.def    2023/04/25 v1.24 biblatex-gost styles
+gost-standard.bbx    2023/04/25 v1.24 biblatex-gost styles
+gost-numeric.bbx    2023/04/25 v1.24 biblatex-gost styles
+numeric-comp.cbx    2024/03/21 v3.20 biblatex citation style (PK/MW)
+gost-numeric.cbx    2023/04/25 v1.24 biblatex-gost styles
+biblatex.cfg    
+blx-case-expl3.sty    2024/03/21 v3.20 expl3 case changing code for biblatex
 siunitx-abbreviations.cfg    2021-04-17 v2.8e siunitx: Abbreviated units
 translator-basic-dictionary-English.dict    
 dissertation.out
 dissertation.out
+ english.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+english-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
+american.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+american-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
+ russian.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+russian-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
+dissertation.bbl
     umsa.fd    2013/01/14 v3.01 AMS symbols A
     umsb.fd    2013/01/14 v3.01 AMS symbols B
 common/renames.tex
 Dissertation/title.tex
 Dissertation/contents.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
 common/renames.tex
 Dissertation/introduction.tex
 common/characteristic.tex
@@ -3970,8 +4235,95 @@ common/concl.tex
 Dissertation/acronyms.tex
 Dissertation/dictionary.tex
 Dissertation/references.tex
-dissertation.bbl
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
 Dissertation/lists.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
+common/renames.tex
 common/renames.tex
 common/renames.tex
 common/renames.tex
@@ -3985,40 +4337,18 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 48EFB54E26DD8FAE17AF8BBD8E3073DD;27325.
+(rerunfilecheck)             Checksum: C236823C34D815447B90B9540C9BF97E;27749.
+Package logreq Info: Writing requests to 'dissertation.run.xml'.
+\openout1 = `dissertation.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 45015 strings out of 473200
- 862703 string characters out of 5720278
- 1361848 words of memory out of 5000000
- 66840 multiletter control sequences out of 15000+600000
- 580962 words of font info for 103 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 115i,18n,110p,3604b,1443s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/20
-24/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-d
-ist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2024/texmf-dist/fo
-nts/type1/public/amsfonts/euler/eurm7.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-s
-uper/sfbx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0
-700.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c
-:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/
-2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2024/texmf
--dist/fonts/type1/public/cm-super/sfsl1440.pfb><c:/texlive/2024/texmf-dist/font
-s/type1/public/cm-super/sfti1440.pfb>
-Output written on dissertation.pdf (132 pages, 13633639 bytes).
-PDF statistics:
- 2398 PDF objects out of 2487 (max. 8388607)
- 1841 compressed objects within 19 object streams
- 495 named destinations out of 1000 (max. 500000)
- 1823 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 55369 strings out of 473839
+ 1152499 string characters out of 5733380
+ 2468804 words of memory out of 5000000
+ 77165 multiletter control sequences out of 15000+600000
+ 572977 words of font info for 144 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 115i,18n,110p,2278b,7760s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on dissertation.pdf (134 pages).

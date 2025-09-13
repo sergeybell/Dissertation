@@ -1,7 +1,7 @@
 \pdfbookmark{Общая характеристика работы}{characteristic}             % Закладка pdf
 \section*{Общая характеристика работы}
 
-\newcommand{\actuality}{\pdfbookmark[1]{Актуальность}{actuality}\underline{\textbf{\actualityTXT}}}
+\newcommand{\actuality}{\pdfbookmark[1]{Актуальность темы и степень её разработанности}{actuality}\underline{\textbf{\actualityTXT}}}
 \newcommand{\progress}{\pdfbookmark[1]{Разработанность темы}{progress}\underline{\textbf{\progressTXT}}}
 \newcommand{\aim}{\pdfbookmark[1]{Цели}{aim}\underline{{\textbf\aimTXT}}}
 \newcommand{\tasks}{\pdfbookmark[1]{Задачи}{tasks}\underline{\textbf{\tasksTXT}}}
@@ -38,8 +38,8 @@
 
 \[
     \begin{aligned}
-& \varepsilon_{s t}=\left.\tau_{t r} \cdot\left(\frac{d \varepsilon}{d t}\right)_{I B S}\right|_{\mathcal{E}=\varepsilon_{s t}} \\
-& \delta_{s t}^2=\left.\tau_{\text {long}} \cdot\left(\frac{d \delta^2}{d t}\right)_{I B S}\right|_{\delta^2=\delta_{s t}^2}
+& \varepsilon_{\textrm{st}}=\left.\tau_{\textrm{tr}} \cdot\left(\dv{\varepsilon}{t}\right)_{\textrm{IBS}}\right|_{\varepsilon=\varepsilon_{\textrm{st}}}, \\
+& \delta_{s t}^2=\left.\tau_{\text {long }} \cdot\left(\dv{\delta^2}{t}\right)_{\textrm{IBS}}\right|_{\delta^2=\delta_{\textrm{st}}^2}.
 \end{aligned}
 \]
 
@@ -49,24 +49,26 @@
     \centerfloat{
         \hfill
         \subcaptionbox{Зависимость времени стохастического охлаждения от энергии.}{%
-        	    \includegraphics[scale=0.33]{1_SC_common}}
+        	    \includegraphics[scale=0.35]{1_SC_common}}
         \hfill
         \subcaptionbox{Зависимость постоянной времени разогрева пучка из-за внутрипучкового рассеяния.}{%
-            \includegraphics[scale=0.50]{1_IBS}}
+            \includegraphics[scale=0.45]{1_IBS}}
         \hfill
     }
-    \caption{Сравнение времени разогрева пучка и охлаждения. Черная линия – 'регулярная' , синяя – 'резонансная', красная – 'комбинированная' структура, прерывистая – идеальный случай.}\label{fig:latex}
+    \caption{Сравнение времени разогрева пучка и охлаждения. Черная линия – 'регулярная' , синяя – 'резонансная', красная – 'комбинированная' структура, прерывистая – идеальный случай.}
 \end{figure}
 
 \par Для легких частиц, таких как протоны, соотношение заряда к массе отличается почти в 2 раза по сравнению с тяжелыми ионами, таким образом пропорционально увеличивается и энергия эксперимента. При этом критическая энергия остается неизменной, поскольку является характеристикой конкретной установки и определяется магнитооптикой. Преодоление критической энергии является необходимым для обеспечения стабильности, в первую очередь, продольного движения. Таким образом, для тяжелых ионов такой проблемы не возникает, а в случае легких частиц, требуется принимать меры по преодолению критической энергии. Одним из таких методов может является создание 'резонансной' структуры. 
 
 \par Во \underline{\textbf{второй главе}} проведён учёт влияния высших порядков разброса по импульсам и моделей продольных импедансов при пересечении критической энергии. Также рассмотрен метод скачка критической энергии для различных ускоряющих потенциалов с целью сохранения стабильности сгустка. Для этого произведено математическое моделирование процесса, описываемого уравнением продольного движения:
 \[
-\begin{aligned}
-& \frac{d \tau}{d t}=\eta(\delta) \cdot \frac{h \cdot \Delta E}{\beta^2 \cdot E_0} \\
-& \frac{d(\Delta E)}{d t}=\frac{V(\tau)}{T_0}
-\end{aligned}
-\label{long}
+	\begin{cases}
+		\begin{aligned}
+			& \dv{\tau}{t}=\eta(\delta) \cdot \frac{h \cdot \Delta E}{\beta^2 \cdot E_0}, \\
+			& \dv{(\Delta E)}{t}=\frac{V(\tau)}{T_0}.
+		\end{aligned}
+	\end{cases}
+	\label{eq:long_motion_eq_t}
 \]
 
 \noindent Как видно, уравнение зависит от параметров магнитооптической структуры, ускоряющей станции, энергии пучка, а также разброса по импульсам внутри сгустка.
@@ -95,7 +97,7 @@
 В \underline{\textbf{третьей главе}} рассматривается метод вариации критической энергии путем модуляции дисперсионной функции в резонансной структуре. Для этого может вводится как суперпериодическая модуляция градиентов квадрупольных линз, так и модуляция кривизны орбиты, тем самым изменяя коэффициент сжатия орбиты, который напрямую связан с критической энергий ускорителя
 
 \[
-\alpha=\frac{1}{{\gamma_{tr}}^2}=\frac{1}{C}\int_{0}^{C}\frac{D\left(s\right)}{\rho\left(s\right)}ds.
+\alpha=\frac{1}{{\gamma_{\text{tr}}}^2}=\frac{1}{C}\int_{0}^{C}\frac{D\left(s\right)}{\rho\left(s\right)}ds.
 \label{eq:alpha}
 \]
 
@@ -103,10 +105,10 @@
     \centerfloat{
         \hfill
         \subcaptionbox{Регулярный}{%
-        	    \includegraphics[scale=0.3]{2_twiss_3FODO_regular}}
+        	    \includegraphics[scale=0.25]{2_twiss_3FODO_regular}}
         \hfill
         \subcaptionbox{Модулированный}{%
-            \includegraphics[scale=0.3]{2_Twiss_Superperiod}}
+            \includegraphics[scale=0.32]{2_Twiss_Superperiod}}
         \hfill
     }
     \caption{Твисс-параметры для различных суперпериодов.}\label{fig:latex}
@@ -148,8 +150,28 @@
 В \underline{\textbf{заключении}} приведены основные результаты работы, которые заключаются в следующем:
 \input{common/concl}
 
-\pdfbookmark{Литература}{bibliography}                                % Закладка pdf
+\begin{comment}
+\ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=false}}{} % не рекомендуется применять пакет микротипографики к автоматически генерируемому списку литературы
+\ifnumequal{\value{bibliosel}}{0}{% Встроенная реализация с загрузкой файла через движок bibtex8
+	\renewcommand{\bibname}{\large \authorbibtitle}
+	\nocite{*}
+	\insertbiblioauthor           % Подключаем Bib-базы
+	%\insertbiblioother   % !!! bibtex не умеет работать с несколькими библиографиями !!!
+}{% Реализация пакетом biblatex через движок biber
+	\ifnumgreater{\value{usefootcite}}{0}{
+		%  \nocite{*} % Невидимая цитата всех работ, позволит вывести все работы автора
+		\insertbiblioauthorcited      % Вывод процитированных в автореферате работ автора
+	}{
+		\insertbiblioauthor           % Вывод всех работ автора
+		%  \insertbiblioauthorgrouped    % Вывод всех работ автора, сгруппированных по источникам
+		%  \insertbiblioauthorimportant  % Вывод наиболее значимых работ автора (определяется в файле characteristic во второй section)
+		\insertbiblioother            % Вывод списка литературы, на которую ссылались в тексте автореферата
+	}
+}
+\ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=true}}{}
+\end{comment}
 
+%\begin{comment}
 \ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=false}}{} % не рекомендуется применять пакет микротипографики к автоматически генерируемому списку литературы
 \urlstyle{rm}                               % ссылки URL обычным шрифтом
 \ifnumequal{\value{bibliosel}}{0}{% Встроенная реализация с загрузкой файла через движок bibtex8
@@ -164,28 +186,28 @@
 	%  * Если цитировать каждый источник отдельной командой --- найти некоторые ошибки будет проще.
 	%
 	%% authorvak
-	\nocite{vakbib1}%
-	\nocite{vakbib2}%
+	%\nocite{vakbib1}%
+	%\nocite{vakbib2}%
 	%
 	%% authorwos
-	\nocite{wosbib1}%
+	%\nocite{wosbib1}%
 	%
 	%% authorscopus
-	\nocite{scbib1}%
+	%\nocite{scbib1}%
 	%
 	%% authorpathent
-	\nocite{patbib1}%
+	%\nocite{patbib1}%
 	%
 	%% authorprogram
-	\nocite{progbib1}%
+	%\nocite{progbib1}%
 	%
 	%% authorconf
-	\nocite{confbib1}%
-	\nocite{confbib2}%
+	%\nocite{confbib1}%
+	%\nocite{confbib2}%
 	%
 	%% authorother
-	\nocite{bib1}%
-	\nocite{bib2}%
+	%\nocite{bib1}%
+	%\nocite{bib2}%
 	
 	\ifnumgreater{\value{usefootcite}}{0}{
 		\begin{refcontext}[labelprefix={}]
@@ -223,3 +245,4 @@
 }
 \ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=true}}{}
 \urlstyle{tt}                               % возвращаем установки шрифта ссылок URL
+%\end{comment}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  25 AUG 2025 17:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  8 SEP 2025 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (c:/texlive/2024/texmf-dist/tex/latex/nag/nag.sty
 Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
-\c@nag@c=\count196
-\c@nag@sins=\count197
+\c@nag@c=\count192
+\c@nag@sins=\count193
 Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
 
 (c:/texlive/2024/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
@@ -27,10 +27,12 @@ ument class
 (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
 
-(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count194
 \l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
@@ -39,13 +41,13 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
+\etb@tempcnta=\count197
 ))
 \onelineskip=\skip49
 \lxvchars=\skip50
 \xlvchars=\skip51
-\@memcnta=\count266
-\c@@memmarkcntra=\count267
+\@memcnta=\count198
+\c@@memmarkcntra=\count199
 
 (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
@@ -66,20 +68,20 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count268
+\c@storedpagenumber=\count266
 \memPD=\dimen141
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count269
-\c@part=\count270
-\c@chapter=\count271
-\c@section=\count272
-\c@subsection=\count273
-\c@subsubsection=\count274
-\c@paragraph=\count275
-\c@subparagraph=\count276
+\c@book=\count267
+\c@part=\count268
+\c@chapter=\count269
+\c@section=\count270
+\c@subsection=\count271
+\c@subsubsection=\count272
+\c@paragraph=\count273
+\c@subparagraph=\count274
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -101,8 +103,8 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count277
-\c@@ppsaveapp=\count278
+\c@@ppsavesec=\count275
+\c@@ppsaveapp=\count276
 \ragrparindent=\dimen142
 \everylistparindent=\dimen143
 \parsepi=\skip89
@@ -124,10 +126,10 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count279
-\c@poemline=\count280
-\c@modulo@vs=\count281
-\c@memfvsline=\count282
+\c@vslineno=\count277
+\c@poemline=\count278
+\c@modulo@vs=\count279
+\c@memfvsline=\count280
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
@@ -135,11 +137,11 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \vgap=\skip110
 \vindent=\skip111
 \vleftmargin=\dimen145
-\c@verse=\count283
-\c@chrsinstr=\count284
+\c@verse=\count281
+\c@chrsinstr=\count282
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count285
+\c@poem=\count283
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
@@ -167,7 +169,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@old@col=\dimen150
 \TX@target=\dimen151
 \TX@delta=\dimen152
-\TX@cols=\count286
+\TX@cols=\count284
 \TX@ftn=\toks19
 )
 (c:/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -182,23 +184,23 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen160
 \cmidrulekern=\dimen161
 \defaultaddspace=\dimen162
-\@cmidla=\count287
-\@cmidlb=\count288
+\@cmidla=\count285
+\@cmidlb=\count286
 \@aboverulesep=\dimen163
 \@belowrulesep=\dimen164
-\@thisruleclass=\count289
-\@lastruleclass=\count290
+\@thisruleclass=\count287
+\@lastruleclass=\count288
 \@thisrulewidth=\dimen165
 )
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count291
-\@linestogo=\count292
-\@cellstogo=\count293
-\@cellsincolumn=\count294
+\abovecolumnspenalty=\count289
+\@linestogo=\count290
+\@cellstogo=\count291
+\@cellsincolumn=\count292
 \crtok=\toks20
 \@mincolumnwidth=\dimen166
-\c@newflo@tctr=\count295
+\c@newflo@tctr=\count293
 \mem@margin@floatbox=\box55
 \@contcwidth=\skip121
 \@contindw=\skip122
@@ -210,7 +212,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
 \subfloatcapmargin=\dimen167
-\c@@contsubnum=\count296
+\c@@contsubnum=\count294
 \m@mscap@capbox=\box56
 \m@mscap@fbox=\box57
 \sidecapsep=\dimen168
@@ -252,7 +254,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
-\c@section@level=\count297
+\c@section@level=\count295
 )
 \tocentryskip=\skip134
 \tocbaseline=\skip135
@@ -282,7 +284,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
 \prechapterprecisshift=\dimen177
-\c@maxsecnumdepth=\count298
+\c@maxsecnumdepth=\count296
 \bibindent=\dimen178
 \bibitemsep=\skip159
 \indexcolsep=\skip160
@@ -305,7 +307,7 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \footinsdim=\skip170
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count299
+\m@m@k=\count297
 \m@m@h=\dimen181
 \m@mipn@skip=\skip171
 \sidefootins=\insert248
@@ -315,12 +317,12 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count300
+\c@sidefootnote=\count298
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count301
-\c@pagenoteshadow=\count302
+\c@pagenote=\count299
+\c@pagenoteshadow=\count300
 \mem@pn@lastkern=\skip181
 
 (c:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
@@ -337,40 +339,40 @@ Package: shortvrb 2024/10/23 v3.0q Standard LaTeX documentation package V3 (FMi
 )
 )
 \bvboxsep=\skip183
-\c@memfbvline=\count303
-\c@bvlinectr=\count304
+\c@memfbvline=\count301
+\c@bvlinectr=\count302
 \bvnumlength=\skip184
 \fb@frw=\dimen182
 \fb@frh=\dimen183
 \FrameRule=\dimen184
 \FrameSep=\dimen185
-\c@cp@cntr=\count305
-\c@ism@mctr=\count306
-\c@xsm@mctr=\count307
-\c@csm@mctr=\count308
-\c@ksm@mctr=\count309
-\c@xksm@mctr=\count310
-\c@cksm@mctr=\count311
-\c@msm@mctr=\count312
-\c@xmsm@mctr=\count313
-\c@cmsm@mctr=\count314
-\c@bsm@mctr=\count315
-\c@workm@mctr=\count316
-\c@sheetsequence=\count317
-\c@lastsheet=\count318
-\c@lastpage=\count319
+\c@cp@cntr=\count303
+\c@ism@mctr=\count304
+\c@xsm@mctr=\count305
+\c@csm@mctr=\count306
+\c@ksm@mctr=\count307
+\c@xksm@mctr=\count308
+\c@cksm@mctr=\count309
+\c@msm@mctr=\count310
+\c@xmsm@mctr=\count311
+\c@cmsm@mctr=\count312
+\c@bsm@mctr=\count313
+\c@workm@mctr=\count314
+\c@sheetsequence=\count315
+\c@lastsheet=\count316
+\c@lastpage=\count317
 
 (c:/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
-\c@figure=\count320
-\c@lofdepth=\count321
+\c@figure=\count318
+\c@lofdepth=\count319
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count322
-\c@lotdepth=\count323
+\c@table=\count320
+\c@lotdepth=\count321
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -427,14 +429,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count324
+\inf@bad=\count322
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count325
-\leftroot@=\count326
+\uproot@=\count323
+\leftroot@=\count324
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count327
-\DOTSCASE@=\count328
+\classnum@=\count325
+\DOTSCASE@=\count326
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -447,20 +449,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen188
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count329
+\macc@depth=\count327
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count330
+\c@MaxMatrixCols=\count328
 \dotsspace@=\muskip17
-\c@parentequation=\count331
-\dspbrk@lvl=\count332
+\c@parentequation=\count329
+\dspbrk@lvl=\count330
 \tag@help=\toks26
-\row@=\count333
-\column@=\count334
-\maxfields@=\count335
+\row@=\count331
+\column@=\count332
+\maxfields@=\count333
 \andhelp@=\toks27
 \eqnshift@=\dimen189
 \alignsep@=\dimen190
@@ -475,13 +477,13 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )) (./common/setup.tex
-\c@draft=\count336
-\c@showmarkup=\count337
-\c@usealtfont=\count338
-\c@fontfamily=\count339
-\c@bibliosel=\count340
-\c@mediadisplay=\count341
-\c@imgprecompile=\count342
+\c@draft=\count334
+\c@showmarkup=\count335
+\c@usealtfont=\count336
+\c@fontfamily=\count337
+\c@bibliosel=\count338
+\c@mediadisplay=\count339
+\c@imgprecompile=\count340
 ) (./common/packages.tex
 (c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
@@ -506,12 +508,13 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
+Package graphics Info: Driver file: xetex.def on input line 106.
 
-(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 )))
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -519,9 +522,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count343
-\Gm@cntv=\count344
-\c@Gm@tempcnt=\count345
+\Gm@cnth=\count341
+\Gm@cntv=\count342
+\c@Gm@tempcnt=\count343
 \Gm@bindingoffset=\dimen195
 \Gm@wd@mp=\dimen196
 \Gm@odd@mp=\dimen197
@@ -567,21 +570,21 @@ Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 
 (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count346
-\calc@Bcount=\count347
+\calc@Acount=\count344
+\calc@Bcount=\count345
 \calc@Adimen=\dimen262
 \calc@Bdimen=\dimen263
 \calc@Askip=\skip197
 \calc@Bskip=\skip198
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count348
+\calc@Ccount=\count346
 \calc@Cskip=\skip199
 )
 (c:/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count349
+\g_MT_multlinerow_int=\count347
 \l_MT_multwidth_dim=\dimen264
 \origjot=\skip256
 \l_MT_shortvdotswithinadjustabove_dim=\dimen265
@@ -635,27 +638,27 @@ Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box63
 \l__siunitx_tmp_dim=\dimen279
-\l__siunitx_tmp_int=\count350
-\l__siunitx_number_mantissa_length_int=\count351
-\l__siunitx_number_uncert_length_int=\count352
-\l__siunitx_round_int=\count353
-\l__siunitx_process_decimal_int=\count354
-\l__siunitx_process_uncertainty_int=\count355
-\l__siunitx_process_fixed_int=\count356
-\l__siunitx_process_integer_min_int=\count357
-\l__siunitx_process_precision_int=\count358
-\l__siunitx_group_min_int=\count359
+\l__siunitx_tmp_int=\count348
+\l__siunitx_number_mantissa_length_int=\count349
+\l__siunitx_number_uncert_length_int=\count350
+\l__siunitx_round_int=\count351
+\l__siunitx_process_decimal_int=\count352
+\l__siunitx_process_uncertainty_int=\count353
+\l__siunitx_process_fixed_int=\count354
+\l__siunitx_process_integer_min_int=\count355
+\l__siunitx_process_precision_int=\count356
+\l__siunitx_group_min_int=\count357
 \l__siunitx_angle_marker_box=\box64
 \l__siunitx_angle_unit_box=\box65
 \l__siunitx_angle_marker_dim=\dimen280
 \l__siunitx_angle_unit_dim=\dimen281
-\l__siunitx_unit_int=\count360
-\l__siunitx_unit_denominator_int=\count361
-\l__siunitx_unit_numerator_int=\count362
-\l__siunitx_unit_prefix_int=\count363
-\l__siunitx_unit_prefix_base_int=\count364
-\l__siunitx_unit_prefix_gram_int=\count365
-\l__siunitx_number_product_int=\count366
+\l__siunitx_unit_int=\count358
+\l__siunitx_unit_denominator_int=\count359
+\l__siunitx_unit_numerator_int=\count360
+\l__siunitx_unit_prefix_int=\count361
+\l__siunitx_unit_prefix_base_int=\count362
+\l__siunitx_unit_prefix_gram_int=\count363
+\l__siunitx_number_product_int=\count364
 \c__siunitx_one_fill_skip=\skip257
 \l__siunitx_table_unit_align_skip=\skip258
 \l__siunitx_table_exponent_dim=\dimen282
@@ -682,268 +685,40 @@ File: siunitx.cfg
 subequations patched
 \curtextsize=\skip261
 \bigtextsize=\skip262
-(c:/texlive/2024/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(c:/texlive/2024/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex)
-(c:/texlive/2024/texmf-dist/tex/latex/cmap/cmap.sty
-Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/01/31 v2.4 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count365
+\l__fontspec_language_int=\count366
+\l__fontspec_strnum_int=\count367
+\l__fontspec_tmp_int=\count368
+\l__fontspec_tmpa_int=\count369
+\l__fontspec_tmpb_int=\count370
+\l__fontspec_tmpc_int=\count371
+\l__fontspec_em_int=\count372
+\l__fontspec_emdef_int=\count373
+\l__fontspec_strong_int=\count374
+\l__fontspec_strongdef_int=\count375
+\l__fontspec_tmpa_dim=\dimen291
+\l__fontspec_tmpb_dim=\dimen292
+\l__fontspec_tmpc_dim=\dimen293
+
 (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+\l_xpg_alias_keyvals_int=\count376
 
-(c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
-Now handling font encoding T2A ...
-... processing UTF-8 mapping file for font encoding T2A
-
-(c:/texlive/2024/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+0400 (decimal 1024)
-   defining Unicode char U+0401 (decimal 1025)
-   defining Unicode char U+0402 (decimal 1026)
-   defining Unicode char U+0403 (decimal 1027)
-   defining Unicode char U+0404 (decimal 1028)
-   defining Unicode char U+0405 (decimal 1029)
-   defining Unicode char U+0406 (decimal 1030)
-   defining Unicode char U+0407 (decimal 1031)
-   defining Unicode char U+0408 (decimal 1032)
-   defining Unicode char U+0409 (decimal 1033)
-   defining Unicode char U+040A (decimal 1034)
-   defining Unicode char U+040B (decimal 1035)
-   defining Unicode char U+040C (decimal 1036)
-   defining Unicode char U+040D (decimal 1037)
-   defining Unicode char U+040E (decimal 1038)
-   defining Unicode char U+040F (decimal 1039)
-   defining Unicode char U+0410 (decimal 1040)
-   defining Unicode char U+0411 (decimal 1041)
-   defining Unicode char U+0412 (decimal 1042)
-   defining Unicode char U+0413 (decimal 1043)
-   defining Unicode char U+0414 (decimal 1044)
-   defining Unicode char U+0415 (decimal 1045)
-   defining Unicode char U+0416 (decimal 1046)
-   defining Unicode char U+0417 (decimal 1047)
-   defining Unicode char U+0418 (decimal 1048)
-   defining Unicode char U+0419 (decimal 1049)
-   defining Unicode char U+041A (decimal 1050)
-   defining Unicode char U+041B (decimal 1051)
-   defining Unicode char U+041C (decimal 1052)
-   defining Unicode char U+041D (decimal 1053)
-   defining Unicode char U+041E (decimal 1054)
-   defining Unicode char U+041F (decimal 1055)
-   defining Unicode char U+0420 (decimal 1056)
-   defining Unicode char U+0421 (decimal 1057)
-   defining Unicode char U+0422 (decimal 1058)
-   defining Unicode char U+0423 (decimal 1059)
-   defining Unicode char U+0424 (decimal 1060)
-   defining Unicode char U+0425 (decimal 1061)
-   defining Unicode char U+0426 (decimal 1062)
-   defining Unicode char U+0427 (decimal 1063)
-   defining Unicode char U+0428 (decimal 1064)
-   defining Unicode char U+0429 (decimal 1065)
-   defining Unicode char U+042A (decimal 1066)
-   defining Unicode char U+042B (decimal 1067)
-   defining Unicode char U+042C (decimal 1068)
-   defining Unicode char U+042D (decimal 1069)
-   defining Unicode char U+042E (decimal 1070)
-   defining Unicode char U+042F (decimal 1071)
-   defining Unicode char U+0430 (decimal 1072)
-   defining Unicode char U+0431 (decimal 1073)
-   defining Unicode char U+0432 (decimal 1074)
-   defining Unicode char U+0433 (decimal 1075)
-   defining Unicode char U+0434 (decimal 1076)
-   defining Unicode char U+0435 (decimal 1077)
-   defining Unicode char U+0436 (decimal 1078)
-   defining Unicode char U+0437 (decimal 1079)
-   defining Unicode char U+0438 (decimal 1080)
-   defining Unicode char U+0439 (decimal 1081)
-   defining Unicode char U+043A (decimal 1082)
-   defining Unicode char U+043B (decimal 1083)
-   defining Unicode char U+043C (decimal 1084)
-   defining Unicode char U+043D (decimal 1085)
-   defining Unicode char U+043E (decimal 1086)
-   defining Unicode char U+043F (decimal 1087)
-   defining Unicode char U+0440 (decimal 1088)
-   defining Unicode char U+0441 (decimal 1089)
-   defining Unicode char U+0442 (decimal 1090)
-   defining Unicode char U+0443 (decimal 1091)
-   defining Unicode char U+0444 (decimal 1092)
-   defining Unicode char U+0445 (decimal 1093)
-   defining Unicode char U+0446 (decimal 1094)
-   defining Unicode char U+0447 (decimal 1095)
-   defining Unicode char U+0448 (decimal 1096)
-   defining Unicode char U+0449 (decimal 1097)
-   defining Unicode char U+044A (decimal 1098)
-   defining Unicode char U+044B (decimal 1099)
-   defining Unicode char U+044C (decimal 1100)
-   defining Unicode char U+044D (decimal 1101)
-   defining Unicode char U+044E (decimal 1102)
-   defining Unicode char U+044F (decimal 1103)
-   defining Unicode char U+0450 (decimal 1104)
-   defining Unicode char U+0451 (decimal 1105)
-   defining Unicode char U+0452 (decimal 1106)
-   defining Unicode char U+0453 (decimal 1107)
-   defining Unicode char U+0454 (decimal 1108)
-   defining Unicode char U+0455 (decimal 1109)
-   defining Unicode char U+0456 (decimal 1110)
-   defining Unicode char U+0457 (decimal 1111)
-   defining Unicode char U+0458 (decimal 1112)
-   defining Unicode char U+0459 (decimal 1113)
-   defining Unicode char U+045A (decimal 1114)
-   defining Unicode char U+045B (decimal 1115)
-   defining Unicode char U+045C (decimal 1116)
-   defining Unicode char U+045D (decimal 1117)
-   defining Unicode char U+045E (decimal 1118)
-   defining Unicode char U+045F (decimal 1119)
-   defining Unicode char U+0490 (decimal 1168)
-   defining Unicode char U+0491 (decimal 1169)
-   defining Unicode char U+0492 (decimal 1170)
-   defining Unicode char U+0493 (decimal 1171)
-   defining Unicode char U+0496 (decimal 1174)
-   defining Unicode char U+0497 (decimal 1175)
-   defining Unicode char U+0498 (decimal 1176)
-   defining Unicode char U+0499 (decimal 1177)
-   defining Unicode char U+049A (decimal 1178)
-   defining Unicode char U+049B (decimal 1179)
-   defining Unicode char U+049C (decimal 1180)
-   defining Unicode char U+049D (decimal 1181)
-   defining Unicode char U+04A0 (decimal 1184)
-   defining Unicode char U+04A1 (decimal 1185)
-   defining Unicode char U+04A2 (decimal 1186)
-   defining Unicode char U+04A3 (decimal 1187)
-   defining Unicode char U+04A4 (decimal 1188)
-   defining Unicode char U+04A5 (decimal 1189)
-   defining Unicode char U+04AA (decimal 1194)
-   defining Unicode char U+04AB (decimal 1195)
-   defining Unicode char U+04AE (decimal 1198)
-   defining Unicode char U+04AF (decimal 1199)
-   defining Unicode char U+04B0 (decimal 1200)
-   defining Unicode char U+04B1 (decimal 1201)
-   defining Unicode char U+04B2 (decimal 1202)
-   defining Unicode char U+04B3 (decimal 1203)
-   defining Unicode char U+04B6 (decimal 1206)
-   defining Unicode char U+04B7 (decimal 1207)
-   defining Unicode char U+04B8 (decimal 1208)
-   defining Unicode char U+04B9 (decimal 1209)
-   defining Unicode char U+04BA (decimal 1210)
-   defining Unicode char U+04BB (decimal 1211)
-   defining Unicode char U+04C0 (decimal 1216)
-   defining Unicode char U+04C1 (decimal 1217)
-   defining Unicode char U+04C2 (decimal 1218)
-   defining Unicode char U+04D0 (decimal 1232)
-   defining Unicode char U+04D1 (decimal 1233)
-   defining Unicode char U+04D2 (decimal 1234)
-   defining Unicode char U+04D3 (decimal 1235)
-   defining Unicode char U+04D4 (decimal 1236)
-   defining Unicode char U+04D5 (decimal 1237)
-   defining Unicode char U+04D6 (decimal 1238)
-   defining Unicode char U+04D7 (decimal 1239)
-   defining Unicode char U+04D8 (decimal 1240)
-   defining Unicode char U+04D9 (decimal 1241)
-   defining Unicode char U+04DA (decimal 1242)
-   defining Unicode char U+04DB (decimal 1243)
-   defining Unicode char U+04DC (decimal 1244)
-   defining Unicode char U+04DD (decimal 1245)
-   defining Unicode char U+04DE (decimal 1246)
-   defining Unicode char U+04DF (decimal 1247)
-   defining Unicode char U+04E2 (decimal 1250)
-   defining Unicode char U+04E3 (decimal 1251)
-   defining Unicode char U+04E4 (decimal 1252)
-   defining Unicode char U+04E5 (decimal 1253)
-   defining Unicode char U+04E6 (decimal 1254)
-   defining Unicode char U+04E7 (decimal 1255)
-   defining Unicode char U+04E8 (decimal 1256)
-   defining Unicode char U+04E9 (decimal 1257)
-   defining Unicode char U+04EC (decimal 1260)
-   defining Unicode char U+04ED (decimal 1261)
-   defining Unicode char U+04EE (decimal 1262)
-   defining Unicode char U+04EF (decimal 1263)
-   defining Unicode char U+04F0 (decimal 1264)
-   defining Unicode char U+04F1 (decimal 1265)
-   defining Unicode char U+04F2 (decimal 1266)
-   defining Unicode char U+04F3 (decimal 1267)
-   defining Unicode char U+04F4 (decimal 1268)
-   defining Unicode char U+04F5 (decimal 1269)
-   defining Unicode char U+04F8 (decimal 1272)
-   defining Unicode char U+04F9 (decimal 1273)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+3008 (decimal 12296)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+3009 (decimal 12297)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
 ))
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-16.
-
-(c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>)
-(c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks38
-\inpenc@posthook=\toks39
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
-\babel@savecnt=\count367
-\U@D=\dimen291
-\l@unhyphenated=\language90
-
-(c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count368
-
-(c:/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 108.
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel-russian/russianb.ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
-Language: russian 2020/09/09 1.3k Russian support for the Babel system
-Package babel Info: Making " an active character on input line 124.
-Package babel Info: Default for \cyrdash is provided on input line 163.
-))
-(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
-Package babel Info: Importing font and identification data for russian
-(babel)             from babel-ru.ini. Reported on input line 11.
-)
-(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
 (c:/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
@@ -957,10 +732,9 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Warning: Package option `hyperref' is obsolete and ignored on in
 put line 265.
 
-Package xcolor Info: Driver file: pdftex.def on input line 274.
+Package xcolor Info: Driver file: xetex.def on input line 274.
 (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
@@ -974,9 +748,9 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
-\everycr=\toks40
+\everycr=\toks38
 \minrowclearance=\skip263
-\rownum=\count369
+\rownum=\count377
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
@@ -984,18 +758,18 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTright=\skip265
 \LTpre=\skip266
 \LTpost=\skip267
-\LTchunksize=\count370
-\LTcapwidth=\dimen292
+\LTchunksize=\count378
+\LTcapwidth=\dimen294
 \LT@head=\box70
 \LT@firsthead=\box71
 \LT@foot=\box72
 \LT@lastfoot=\box73
 \LT@gbox=\box74
-\LT@cols=\count371
-\LT@rows=\count372
-\c@LT@tables=\count373
-\c@LT@chunks=\count374
-\LT@p@ftn=\toks41
+\LT@cols=\count379
+\LT@rows=\count380
+\c@LT@tables=\count381
+\c@LT@chunks=\count382
+\LT@p@ftn=\toks39
 )
 (c:/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
@@ -1006,15 +780,15 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip271
-\multirow@cntb=\count375
+\multirow@cntb=\count383
 \multirow@dima=\skip272
-\bigstrutjot=\dimen293
+\bigstrutjot=\dimen295
 )
 (c:/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen294
-\c@nlinenum=\count376
-\TeXr@lab=\toks42
+\rotheadsize=\dimen296
+\c@nlinenum=\count384
+\TeXr@lab=\toks40
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
@@ -1022,27 +796,27 @@ Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (c:/texlive/2024/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box75
-\sift@deathcycles=\count377
-\@vwid@loff=\dimen295
-\@vwid@roff=\dimen296
+\sift@deathcycles=\count385
+\@vwid@loff=\dimen297
+\@vwid@roff=\dimen298
 )
-\c@taburow=\count378
-\tabu@nbcols=\count379
-\tabu@cnt=\count380
-\tabu@Xcol=\count381
-\tabu@alloc=\count382
-\tabu@nested=\count383
-\tabu@target=\dimen297
-\tabu@spreadtarget=\dimen298
-\tabu@naturalX=\dimen299
-\tabucolX=\dimen300
-\tabu@Xsum=\dimen301
-\extrarowdepth=\dimen302
-\abovetabulinesep=\dimen303
-\belowtabulinesep=\dimen304
-\tabustrutrule=\dimen305
-\tabu@thebody=\toks43
-\tabu@footnotes=\toks44
+\c@taburow=\count386
+\tabu@nbcols=\count387
+\tabu@cnt=\count388
+\tabu@Xcol=\count389
+\tabu@alloc=\count390
+\tabu@nested=\count391
+\tabu@target=\dimen299
+\tabu@spreadtarget=\dimen300
+\tabu@naturalX=\dimen301
+\tabucolX=\dimen302
+\tabu@Xsum=\dimen303
+\extrarowdepth=\dimen304
+\abovetabulinesep=\dimen305
+\belowtabulinesep=\dimen306
+\tabustrutrule=\dimen307
+\tabu@thebody=\toks41
+\tabu@footnotes=\toks42
 \tabu@box=\box76
 \tabu@arstrutbox=\box77
 \tabu@hleads=\box78
@@ -1051,11 +825,11 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 )
 (c:/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2024/06/04 v0.11 tabulary package (DPC)
-\TY@count=\count384
-\TY@linewidth=\dimen306
-\tymin=\dimen307
-\tymax=\dimen308
-\TY@tablewidth=\dimen309
+\TY@count=\count392
+\TY@linewidth=\dimen308
+\tymin=\dimen309
+\tymax=\dimen310
+\TY@tablewidth=\dimen311
 )
 (c:/texlive/2024/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
@@ -1074,26 +848,26 @@ Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (c:/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks45
-\SOUL@lasttoken=\toks46
-\SOUL@syllable=\toks47
-\SOUL@cmds=\toks48
-\SOUL@buffer=\toks49
-\SOUL@token=\toks50
-\SOUL@syllgoal=\dimen310
-\SOUL@syllwidth=\dimen311
-\SOUL@charkern=\dimen312
-\SOUL@hyphkern=\dimen313
-\SOUL@dimen=\dimen314
-\SOUL@dimeni=\dimen315
-\SOUL@minus=\count385
-\SOUL@comma=\count386
-\SOUL@apo=\count387
-\SOUL@grave=\count388
+\SOUL@word=\toks43
+\SOUL@lasttoken=\toks44
+\SOUL@syllable=\toks45
+\SOUL@cmds=\toks46
+\SOUL@buffer=\toks47
+\SOUL@token=\toks48
+\SOUL@syllgoal=\dimen312
+\SOUL@syllwidth=\dimen313
+\SOUL@charkern=\dimen314
+\SOUL@hyphkern=\dimen315
+\SOUL@dimen=\dimen316
+\SOUL@dimeni=\dimen317
+\SOUL@minus=\count393
+\SOUL@comma=\count394
+\SOUL@apo=\count395
+\SOUL@grave=\count396
 \SOUL@spaceskip=\skip274
-\SOUL@ttwidth=\dimen316
-\SOUL@uldp=\dimen317
-\SOUL@ulht=\dimen318
+\SOUL@ttwidth=\dimen318
+\SOUL@uldp=\dimen319
+\SOUL@ulht=\dimen320
 )
 (c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
@@ -1113,9 +887,9 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks51
-\pgfutil@tempdima=\dimen319
-\pgfutil@tempdimb=\dimen320
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen321
+\pgfutil@tempdimb=\dimen322
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box81
@@ -1132,48 +906,53 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks52
-\pgfkeys@temptoks=\toks53
+\pgfkeys@pathtoks=\toks50
+\pgfkeys@temptoks=\toks51
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
 de.tex
-\pgfkeys@tmptoks=\toks54
+\pgfkeys@tmptoks=\toks52
 ))
-\pgf@x=\dimen321
-\pgf@y=\dimen322
-\pgf@xa=\dimen323
-\pgf@ya=\dimen324
-\pgf@xb=\dimen325
-\pgf@yb=\dimen326
-\pgf@xc=\dimen327
-\pgf@yc=\dimen328
-\pgf@xd=\dimen329
-\pgf@yd=\dimen330
+\pgf@x=\dimen323
+\pgf@y=\dimen324
+\pgf@xa=\dimen325
+\pgf@ya=\dimen326
+\pgf@xb=\dimen327
+\pgf@yb=\dimen328
+\pgf@xc=\dimen329
+\pgf@yc=\dimen330
+\pgf@xd=\dimen331
+\pgf@yd=\dimen332
 \w@pgf@writea=\write5
-\r@pgf@reada=\read4
-\c@pgf@counta=\count389
-\c@pgf@countb=\count390
-\c@pgf@countc=\count391
-\c@pgf@countd=\count392
-\t@pgf@toka=\toks55
-\t@pgf@tokb=\toks56
-\t@pgf@tokc=\toks57
-\pgf@sys@id@count=\count393
+\r@pgf@reada=\read3
+\c@pgf@counta=\count397
+\c@pgf@countb=\count398
+\c@pgf@countc=\count399
+\c@pgf@countd=\count400
+\t@pgf@toka=\toks53
+\t@pgf@tokb=\toks54
+\t@pgf@tokc=\toks55
+\pgf@sys@id@count=\count401
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Driver file for pgf: pgfsys-xetex.def
 
-(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count402
 )))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count394
-\pgfsyssoftpath@bigbuffer@items=\count395
+\pgfsyssoftpath@smallbuffer@items=\count403
+\pgfsyssoftpath@bigbuffer@items=\count404
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1183,12 +962,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen331
-\pgfmath@count=\count396
+\pgfmath@dimen=\dimen333
+\pgfmath@count=\count405
 \pgfmath@box=\box82
-\pgfmath@toks=\toks58
-\pgfmath@stack@operand=\toks59
-\pgfmath@stack@operation=\toks60
+\pgfmath@toks=\toks56
+\pgfmath@stack@operand=\toks57
+\pgfmath@stack@operation=\toks58
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
@@ -1209,56 +988,56 @@ x)
 etics.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count397
+\c@pgfmathroundto@lastzeros=\count406
 ))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen332
-\pgf@picmaxx=\dimen333
-\pgf@picminy=\dimen334
-\pgf@picmaxy=\dimen335
-\pgf@pathminx=\dimen336
-\pgf@pathmaxx=\dimen337
-\pgf@pathminy=\dimen338
-\pgf@pathmaxy=\dimen339
-\pgf@xx=\dimen340
-\pgf@xy=\dimen341
-\pgf@yx=\dimen342
-\pgf@yy=\dimen343
-\pgf@zx=\dimen344
-\pgf@zy=\dimen345
+\pgf@picminx=\dimen334
+\pgf@picmaxx=\dimen335
+\pgf@picminy=\dimen336
+\pgf@picmaxy=\dimen337
+\pgf@pathminx=\dimen338
+\pgf@pathmaxx=\dimen339
+\pgf@pathminy=\dimen340
+\pgf@pathmaxy=\dimen341
+\pgf@xx=\dimen342
+\pgf@xy=\dimen343
+\pgf@yx=\dimen344
+\pgf@yy=\dimen345
+\pgf@zx=\dimen346
+\pgf@zy=\dimen347
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
 e.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen346
-\pgf@path@lasty=\dimen347
+\pgf@path@lastx=\dimen348
+\pgf@path@lasty=\dimen349
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
 x
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen348
-\pgf@shorten@start@additional=\dimen349
+\pgf@shorten@end@additional=\dimen350
+\pgf@shorten@start@additional=\dimen351
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box83
 \pgf@hbox=\box84
 \pgf@layerbox@main=\box85
-\pgf@picture@serial@count=\count398
+\pgf@picture@serial@count=\count407
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
 .tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen350
+\pgflinewidth=\dimen352
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
 ode.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen351
-\pgf@pt@y=\dimen352
-\pgf@pt@temp=\dimen353
+\pgf@pt@x=\dimen353
+\pgf@pt@y=\dimen354
+\pgf@pt@temp=\dimen355
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1272,13 +1051,13 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen354
+\pgfarrowsep=\dimen356
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen355
-\pgf@sys@shading@range@num=\count399
-\pgf@shadingcount=\count400
+\pgf@max=\dimen357
+\pgf@sys@shading@range@num=\count408
+\pgf@shadingcount=\count409
 )
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1308,8 +1087,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
 y
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen356
-\pgf@nodesepend=\dimen357
+\pgf@nodesepstart=\dimen358
+\pgf@nodesepend=\dimen359
 )
 (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
 y
@@ -1321,10 +1100,10 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen358
-\pgffor@skip=\dimen359
-\pgffor@stack=\toks61
-\pgffor@toks=\toks62
+\pgffor@iter=\dimen360
+\pgffor@skip=\dimen361
+\pgffor@stack=\toks59
+\pgffor@toks=\toks60
 ))
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -1332,33 +1111,33 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
 de.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count401
-\pgfplotmarksize=\dimen360
+\pgf@plot@mark@count=\count410
+\pgfplotmarksize=\dimen362
 )
-\tikz@lastx=\dimen361
-\tikz@lasty=\dimen362
-\tikz@lastxsaved=\dimen363
-\tikz@lastysaved=\dimen364
-\tikz@lastmovetox=\dimen365
-\tikz@lastmovetoy=\dimen366
-\tikzleveldistance=\dimen367
-\tikzsiblingdistance=\dimen368
+\tikz@lastx=\dimen363
+\tikz@lasty=\dimen364
+\tikz@lastxsaved=\dimen365
+\tikz@lastysaved=\dimen366
+\tikz@lastmovetox=\dimen367
+\tikz@lastmovetoy=\dimen368
+\tikzleveldistance=\dimen369
+\tikzsiblingdistance=\dimen370
 \tikz@figbox=\box88
 \tikz@figbox@bg=\box89
 \tikz@tempbox=\box90
 \tikz@tempbox@bg=\box91
-\tikztreelevel=\count402
-\tikznumberofchildren=\count403
-\tikznumberofcurrentchild=\count404
-\tikz@fig@count=\count405
+\tikztreelevel=\count411
+\tikznumberofchildren=\count412
+\tikznumberofcurrentchild=\count413
+\tikz@fig@count=\count414
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count406
-\pgfmatrixcurrentcolumn=\count407
-\pgf@matrix@numberofcolumns=\count408
+\pgfmatrixcurrentrow=\count415
+\pgfmatrixcurrentcolumn=\count416
+\pgf@matrix@numberofcolumns=\count417
 )
-\tikz@expandcount=\count409
+\tikz@expandcount=\count418
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
@@ -1394,7 +1173,7 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen369
+\arrowsize=\dimen371
 )) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
@@ -1409,7 +1188,7 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -1418,26 +1197,21 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen370
-\Hy@linkcounter=\count410
-\Hy@pagecounter=\count411
+\@linkdim=\dimen372
+\Hy@linkcounter=\count419
+\Hy@pagecounter=\count420
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count412
+\Hy@SavedSpaceFactor=\count421
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 3143.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -1445,14 +1219,14 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count413
+\c@Hy@tempcnt=\count422
 
 (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip20
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen371
+\XeTeXLinkMargin=\dimen373
 
 (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1461,9 +1235,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count414
-\Field@Width=\dimen372
-\Fld@charsize=\dimen373
+\Fld@menulength=\count423
+\Field@Width=\dimen374
+\Fld@charsize=\dimen375
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -1476,26 +1250,28 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count415
-\c@Item=\count416
-\c@Hfootnote=\count417
+\Hy@abspage=\count424
+\c@Item=\count425
+\c@Hfootnote=\count426
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box92
+\c@Hy@AnnotLevel=\count427
+\HyField@AnnotCount=\count428
+\Fld@listcount=\count429
+\c@bookmark@seq@number=\count430
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
 (c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count418
-\c@bookmark@seq@number=\count419
-
-(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
 (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -1506,8 +1282,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (c:/texlive/2024/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2023/09/10 v1.22 hyperref package fixes for memoir class
-\c@memhycontfloat=\count420
-\c@Hpagenote=\count421
+\c@memhycontfloat=\count431
+\c@Hpagenote=\count432
 
 
 LaTeX Warning: Command `\theHpagenote' already defined -- not changed on input 
@@ -1518,25 +1294,25 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen374
-\captionmargin=\dimen375
-\caption@leftmargin=\dimen376
-\caption@rightmargin=\dimen377
-\caption@width=\dimen378
-\caption@indent=\dimen379
-\caption@parindent=\dimen380
-\caption@hangindent=\dimen381
+\caption@tempdima=\dimen376
+\captionmargin=\dimen377
+\caption@leftmargin=\dimen378
+\caption@rightmargin=\dimen379
+\caption@width=\dimen380
+\caption@indent=\dimen381
+\caption@parindent=\dimen382
+\caption@hangindent=\dimen383
 Package caption Info: memoir document class detected.
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption-memoir.sto
 File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
 e memoir document class (AR)
 ))
-\c@caption@flags=\count422
-\c@continuedfloat=\count423
+\c@caption@flags=\count433
+\c@continuedfloat=\count434
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen382
-\caption@adjustwidth@linewidth=\dimen383
+\caption@adjustwidth@hsize=\dimen384
+\caption@adjustwidth@linewidth=\dimen385
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 Package caption Info: threeparttable package is loaded.
@@ -1544,9 +1320,9 @@ Package caption Info: threeparttable package is loaded.
 (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count424
+\c@subfigure=\count435
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count425
+\c@subtable=\count436
 )
 (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
@@ -1556,32 +1332,32 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen384
-\ESO@tempdimb=\dimen385
+\ESO@tempdima=\dimen386
+\ESO@tempdimb=\dimen387
 )
-\AM@pagewidth=\dimen386
-\AM@pageheight=\dimen387
-\AM@fboxrule=\dimen388
+\AM@pagewidth=\dimen388
+\AM@pageheight=\dimen389
+\AM@fboxrule=\dimen390
 
-(c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+(c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2025/01/30 v0.6e Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count426
-\AM@pagebox=\box92
-\AM@global@opts=\toks63
-\AM@pagecnt=\count427
-\AM@toc@title=\toks64
-\AM@lof@heading=\toks65
-\c@AM@survey=\count428
-\AM@templatesizebox=\box93
+\pdfpages@includegraphics@status=\count437
+\AM@pagebox=\box93
+\AM@global@opts=\toks61
+\AM@pagecnt=\count438
+\AM@toc@title=\toks62
+\AM@lof@heading=\toks63
+\c@AM@survey=\count439
+\AM@templatesizebox=\box94
 )
 (c:/texlive/2024/texmf-dist/tex/latex/oberdiek/aliascnt.sty
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/totalcount/totalcount.sty
 Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
-\c@totalcount@figure=\count429
-\c@totalcount@table=\count430
+\c@totalcount@figure=\count440
+\c@totalcount@table=\count441
 )
 (c:/texlive/2024/texmf-dist/tex/latex/totcount/totcount.sty
 Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
@@ -1617,36 +1393,225 @@ Package: placeins 2005/04/18  v 2.2
 (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip276
-\enit@outerparindent=\dimen389
-\enit@toks=\toks66
-\enit@inbox=\box94
-\enit@count@id=\count431
-\enitdp@description=\count432
+\enit@outerparindent=\dimen391
+\enit@toks=\toks64
+\enit@inbox=\box95
+\enit@count@id=\count442
+\enitdp@description=\count443
 ))
 (./Synopsis/userpackages.tex) (./common/newnames.tex) (./Synopsis/setup.tex
-\c@showperssign=\count433
-\c@showsecrsign=\count434
-\c@showopplead=\count435
-\c@usefootcite=\count436
-\c@bibgrouped=\count437
+\c@showperssign=\count444
+\c@showsecrsign=\count445
+\c@showopplead=\count446
+\c@usefootcite=\count447
+\c@bibgrouped=\count448
 )
-(./common/data.tex) (./common/fonts.tex) (./common/styles.tex
+(./common/data.tex) (./common/fonts.tex
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-russian.ldf
+File: gloss-russian.ldf polyglossia: module for Russian
+
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/xpg-cyrillicnumbers.sty
+Package: xpg-cyrillicnumbers 2019/11/15 v0.2 Formatting of Cyrillic alphabetic 
+numbers
+)
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 115.
+)
+
+Package polyglossia Info: Default language is russian
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(1)' created for font 'Courier
+(fontspec)             New' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(1)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+)
+(./common/styles.tex
 Package caption Info: Modify subtype `subfigure' on input line 42.
 Package hyperref Info: Option `linktocpage' set `true' on input line 169.
 Package hyperref Info: Option `plainpages' set `false' on input line 169.
 Package hyperref Info: Option `colorlinks' set `true' on input line 169.
-
-Excluding comment 'commentbox') (./Synopsis/synstyles.tex)
-(./Synopsis/userstyles.tex) (./biblio/biblatex.tex
+ Excluding comment 'commentbox') (./Synopsis/synstyles.tex) (./Synopsis/usersty
+les.tex) (./biblio/biblatex.tex
 (c:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count438
-\csq@gtype=\count439
-\csq@glevel=\count440
-\csq@qlevel=\count441
-\csq@maxlvl=\count442
-\csq@tshold=\count443
-\csq@ltx@everypar=\toks67
+\csq@reset=\count449
+\csq@gtype=\count450
+\csq@glevel=\count451
+\csq@qlevel=\count452
+\csq@maxlvl=\count453
+\csq@tshold=\count454
+\csq@ltx@everypar=\toks65
 
 (c:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
@@ -1662,54 +1627,54 @@ Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
 (c:/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count444
+\lrq@indent=\count455
 
 (c:/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count445
-\c@listtotal=\count446
-\c@listcount=\count447
-\c@liststart=\count448
-\c@liststop=\count449
-\c@citecount=\count450
-\c@citetotal=\count451
-\c@multicitecount=\count452
-\c@multicitetotal=\count453
-\c@instcount=\count454
-\c@maxnames=\count455
-\c@minnames=\count456
-\c@maxitems=\count457
-\c@minitems=\count458
-\c@citecounter=\count459
-\c@maxcitecounter=\count460
-\c@savedcitecounter=\count461
-\c@uniquelist=\count462
-\c@uniquename=\count463
-\c@refsection=\count464
-\c@refsegment=\count465
-\c@maxextratitle=\count466
-\c@maxextratitleyear=\count467
-\c@maxextraname=\count468
-\c@maxextradate=\count469
-\c@maxextraalpha=\count470
-\c@abbrvpenalty=\count471
-\c@highnamepenalty=\count472
-\c@lownamepenalty=\count473
-\c@maxparens=\count474
-\c@parenlevel=\count475
-\blx@tempcnta=\count476
-\blx@tempcntb=\count477
-\blx@tempcntc=\count478
-\c@blx@maxsection=\count479
-\blx@maxsegment@0=\count480
-\blx@notetype=\count481
-\blx@parenlevel@text=\count482
-\blx@parenlevel@foot=\count483
-\blx@sectionciteorder@0=\count484
-\blx@sectionciteorderinternal@0=\count485
-\blx@entrysetcounter=\count486
-\blx@biblioinstance=\count487
+\c@tabx@nest=\count456
+\c@listtotal=\count457
+\c@listcount=\count458
+\c@liststart=\count459
+\c@liststop=\count460
+\c@citecount=\count461
+\c@citetotal=\count462
+\c@multicitecount=\count463
+\c@multicitetotal=\count464
+\c@instcount=\count465
+\c@maxnames=\count466
+\c@minnames=\count467
+\c@maxitems=\count468
+\c@minitems=\count469
+\c@citecounter=\count470
+\c@maxcitecounter=\count471
+\c@savedcitecounter=\count472
+\c@uniquelist=\count473
+\c@uniquename=\count474
+\c@refsection=\count475
+\c@refsegment=\count476
+\c@maxextratitle=\count477
+\c@maxextratitleyear=\count478
+\c@maxextraname=\count479
+\c@maxextradate=\count480
+\c@maxextraalpha=\count481
+\c@abbrvpenalty=\count482
+\c@highnamepenalty=\count483
+\c@lownamepenalty=\count484
+\c@maxparens=\count485
+\c@parenlevel=\count486
+\blx@tempcnta=\count487
+\blx@tempcntb=\count488
+\blx@tempcntc=\count489
+\c@blx@maxsection=\count490
+\blx@maxsegment@0=\count491
+\blx@notetype=\count492
+\blx@parenlevel@text=\count493
+\blx@parenlevel@foot=\count494
+\blx@sectionciteorder@0=\count495
+\blx@sectionciteorderinternal@0=\count496
+\blx@entrysetcounter=\count497
+\blx@biblioinstance=\count498
 \labelnumberwidth=\skip277
 \labelalphawidth=\skip278
 \biblabelsep=\skip279
@@ -1717,12 +1682,12 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibinitsep=\skip281
 \bibparsep=\skip282
 \bibhang=\skip283
-\blx@bcfin=\read5
+\blx@bcfin=\read4
 \blx@bcfout=\write6
-\blx@langwohyphens=\language91
-\c@mincomprange=\count488
-\c@maxcomprange=\count489
-\c@mincompwidth=\count490
+\blx@langwohyphens=\language90
+\c@mincomprange=\count499
+\c@maxcomprange=\count500
+\c@mincompwidth=\count501
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1742,96 +1707,96 @@ File: biblatex-gost.dbx 2023/04/25 v1.24 biblatex-gost data model
 ))
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count491
-\c@savedafterword=\count492
-\c@annotator=\count493
-\c@savedannotator=\count494
-\c@author=\count495
-\c@savedauthor=\count496
-\c@bookauthor=\count497
-\c@savedbookauthor=\count498
-\c@commentator=\count499
-\c@savedcommentator=\count500
-\c@editor=\count501
-\c@savededitor=\count502
-\c@editora=\count503
-\c@savededitora=\count504
-\c@editorb=\count505
-\c@savededitorb=\count506
-\c@editorc=\count507
-\c@savededitorc=\count508
-\c@foreword=\count509
-\c@savedforeword=\count510
-\c@holder=\count511
-\c@savedholder=\count512
-\c@introduction=\count513
-\c@savedintroduction=\count514
-\c@namea=\count515
-\c@savednamea=\count516
-\c@nameb=\count517
-\c@savednameb=\count518
-\c@namec=\count519
-\c@savednamec=\count520
-\c@translator=\count521
-\c@savedtranslator=\count522
-\c@shortauthor=\count523
-\c@savedshortauthor=\count524
-\c@shorteditor=\count525
-\c@savedshorteditor=\count526
-\c@booktranslator=\count527
-\c@savedbooktranslator=\count528
-\c@bookcommentator=\count529
-\c@savedbookcommentator=\count530
-\c@bookannotator=\count531
-\c@savedbookannotator=\count532
-\c@bookintroduction=\count533
-\c@savedbookintroduction=\count534
-\c@bookforeword=\count535
-\c@savedbookforeword=\count536
-\c@bookafterword=\count537
-\c@savedbookafterword=\count538
-\c@labelname=\count539
-\c@savedlabelname=\count540
-\c@institution=\count541
-\c@savedinstitution=\count542
-\c@lista=\count543
-\c@savedlista=\count544
-\c@listb=\count545
-\c@savedlistb=\count546
-\c@listc=\count547
-\c@savedlistc=\count548
-\c@listd=\count549
-\c@savedlistd=\count550
-\c@liste=\count551
-\c@savedliste=\count552
-\c@listf=\count553
-\c@savedlistf=\count554
-\c@location=\count555
-\c@savedlocation=\count556
-\c@organization=\count557
-\c@savedorganization=\count558
-\c@origlocation=\count559
-\c@savedoriglocation=\count560
-\c@origpublisher=\count561
-\c@savedorigpublisher=\count562
-\c@publisher=\count563
-\c@savedpublisher=\count564
-\c@language=\count565
-\c@savedlanguage=\count566
-\c@origlanguage=\count567
-\c@savedoriglanguage=\count568
-\c@bookoriglanguage=\count569
-\c@savedbookoriglanguage=\count570
-\c@specdata=\count571
-\c@savedspecdata=\count572
-\c@credits=\count573
-\c@savedcredits=\count574
-\c@bookcredits=\count575
-\c@savedbookcredits=\count576
-\c@editioncredits=\count577
-\c@savededitioncredits=\count578
-\c@pageref=\count579
-\c@savedpageref=\count580
+\c@afterword=\count502
+\c@savedafterword=\count503
+\c@annotator=\count504
+\c@savedannotator=\count505
+\c@author=\count506
+\c@savedauthor=\count507
+\c@bookauthor=\count508
+\c@savedbookauthor=\count509
+\c@commentator=\count510
+\c@savedcommentator=\count511
+\c@editor=\count512
+\c@savededitor=\count513
+\c@editora=\count514
+\c@savededitora=\count515
+\c@editorb=\count516
+\c@savededitorb=\count517
+\c@editorc=\count518
+\c@savededitorc=\count519
+\c@foreword=\count520
+\c@savedforeword=\count521
+\c@holder=\count522
+\c@savedholder=\count523
+\c@introduction=\count524
+\c@savedintroduction=\count525
+\c@namea=\count526
+\c@savednamea=\count527
+\c@nameb=\count528
+\c@savednameb=\count529
+\c@namec=\count530
+\c@savednamec=\count531
+\c@translator=\count532
+\c@savedtranslator=\count533
+\c@shortauthor=\count534
+\c@savedshortauthor=\count535
+\c@shorteditor=\count536
+\c@savedshorteditor=\count537
+\c@booktranslator=\count538
+\c@savedbooktranslator=\count539
+\c@bookcommentator=\count540
+\c@savedbookcommentator=\count541
+\c@bookannotator=\count542
+\c@savedbookannotator=\count543
+\c@bookintroduction=\count544
+\c@savedbookintroduction=\count545
+\c@bookforeword=\count546
+\c@savedbookforeword=\count547
+\c@bookafterword=\count548
+\c@savedbookafterword=\count549
+\c@labelname=\count550
+\c@savedlabelname=\count551
+\c@institution=\count552
+\c@savedinstitution=\count553
+\c@lista=\count554
+\c@savedlista=\count555
+\c@listb=\count556
+\c@savedlistb=\count557
+\c@listc=\count558
+\c@savedlistc=\count559
+\c@listd=\count560
+\c@savedlistd=\count561
+\c@liste=\count562
+\c@savedliste=\count563
+\c@listf=\count564
+\c@savedlistf=\count565
+\c@location=\count566
+\c@savedlocation=\count567
+\c@organization=\count568
+\c@savedorganization=\count569
+\c@origlocation=\count570
+\c@savedoriglocation=\count571
+\c@origpublisher=\count572
+\c@savedorigpublisher=\count573
+\c@publisher=\count574
+\c@savedpublisher=\count575
+\c@language=\count576
+\c@savedlanguage=\count577
+\c@origlanguage=\count578
+\c@savedoriglanguage=\count579
+\c@bookoriglanguage=\count580
+\c@savedbookoriglanguage=\count581
+\c@specdata=\count582
+\c@savedspecdata=\count583
+\c@credits=\count584
+\c@savedcredits=\count585
+\c@bookcredits=\count586
+\c@savedbookcredits=\count587
+\c@editioncredits=\count588
+\c@savededitioncredits=\count589
+\c@pageref=\count590
+\c@savedpageref=\count591
 \shorthandwidth=\skip284
 \shortjournalwidth=\skip285
 \shortserieswidth=\skip286
@@ -1846,6 +1811,10 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip295
 \localshortauthorwidth=\skip296
 \localshorteditorwidth=\skip297
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1857,19 +1826,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count581
-\c@textcitetotal=\count582
-\c@textcitemaxnames=\count583
-\c@biburlbigbreakpenalty=\count584
-\c@biburlbreakpenalty=\count585
-\c@biburlnumpenalty=\count586
-\c@biburlucpenalty=\count587
-\c@biburllcpenalty=\count588
+\c@textcitecount=\count592
+\c@textcitetotal=\count593
+\c@textcitemaxnames=\count594
+\c@biburlbigbreakpenalty=\count595
+\c@biburlbreakpenalty=\count596
+\c@biburlnumpenalty=\count597
+\c@biburlucpenalty=\count598
+\c@biburllcpenalty=\count599
 \biburlbigskip=\muskip21
 \biburlnumskip=\muskip22
 \biburlucskip=\muskip23
 \biburllcskip=\muskip24
-\c@smartand=\count589
+\c@smartand=\count600
 )
 Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
 Package biblatex Info: ... file 'gost-numeric.bbx' found.
@@ -1887,9 +1856,9 @@ Package biblatex Info: ... file 'biblatex-gost.def' found.
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
 File: biblatex-gost.def 2023/04/25 v1.24 biblatex-gost styles
 )
-\c@blx@gost@pointer=\count590
-\c@bbx:relatedcount=\count591
-\c@bbx:relatedtotal=\count592
+\c@blx@gost@pointer=\count601
+\c@bbx:relatedcount=\count602
+\c@bbx:relatedtotal=\count603
 Package biblatex Info: Redefining autocite command 'footnote'.
 Package biblatex Info: Redefining autocite command 'superscript'.
 ))
@@ -1903,10 +1872,10 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count593
-\c@cbx@tempcntb=\count594
-\c@cbx@tempcntc=\count595
-\c@cbx@tempcntd=\count596
+\c@cbx@tempcnta=\count604
+\c@cbx@tempcntb=\count605
+\c@cbx@tempcntc=\count606
+\c@cbx@tempcntd=\count607
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1925,7 +1894,8 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
 (biblatex)             2025-01-18 L3 programming layer (loader) 
@@ -1935,32 +1905,37 @@ Package biblatex Info: ... and expl3
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-\c@citenum=\count597
-\c@citenum@totc=\count598
-\c@citeauthorvak=\count599
-\c@citeauthorvak@totc=\count600
-\c@citeauthorscopus=\count601
-\c@citeauthorscopus@totc=\count602
-\c@citeauthorwos=\count603
-\c@citeauthorwos@totc=\count604
-\c@citeauthorother=\count605
-\c@citeauthorother@totc=\count606
-\c@citeauthorconf=\count607
-\c@citeauthorconf@totc=\count608
-\c@citeauthor=\count609
-\c@citeauthor@totc=\count610
-\c@citeauthorvakscopuswos=\count611
-\c@citeauthorvakscopuswos@totc=\count612
-\c@citeauthorscopuswos=\count613
-\c@citeauthorscopuswos@totc=\count614
-\c@citeregistered=\count615
-\c@citeregistered@totc=\count616
-\c@citeauthorpatent=\count617
-\c@citeauthorpatent@totc=\count618
-\c@citeauthorprogram=\count619
-\c@citeauthorprogram@totc=\count620
-\c@citeexternal=\count621
-\c@citeexternal@totc=\count622
+
+Package biblatex-gost Warning: You set maxbibnames or maxcitenames
+(biblatex-gost)                different from their default value 3.
+(biblatex-gost)                Make sure that sorting works as expected.
+
+\c@citenum=\count608
+\c@citenum@totc=\count609
+\c@citeauthorvak=\count610
+\c@citeauthorvak@totc=\count611
+\c@citeauthorscopus=\count612
+\c@citeauthorscopus@totc=\count613
+\c@citeauthorwos=\count614
+\c@citeauthorwos@totc=\count615
+\c@citeauthorother=\count616
+\c@citeauthorother@totc=\count617
+\c@citeauthorconf=\count618
+\c@citeauthorconf@totc=\count619
+\c@citeauthor=\count620
+\c@citeauthor@totc=\count621
+\c@citeauthorvakscopuswos=\count622
+\c@citeauthorvakscopuswos@totc=\count623
+\c@citeauthorscopuswos=\count624
+\c@citeauthorscopuswos@totc=\count625
+\c@citeregistered=\count626
+\c@citeregistered@totc=\count627
+\c@citeauthorpatent=\count628
+\c@citeauthorpatent@totc=\count629
+\c@citeauthorprogram=\count630
+\c@citeauthorprogram@totc=\count631
+\c@citeexternal=\count632
+\c@citeexternal@totc=\count633
 )
 Selected options:
 Draft mode: 0
@@ -1969,16 +1944,10 @@ AltFont: 1
 Bibliography backend: 1
 Precompile images: 0
 Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
 (./synopsis.aux
-
-LaTeX Warning: Label `fig:latex' multiply defined.
-
-
-LaTeX Warning: Label `fig:latex@cref' multiply defined.
-
 
 LaTeX Warning: Label `fig:latex' multiply defined.
 
@@ -1998,11 +1967,11 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
@@ -2013,32 +1982,11 @@ Package nag Info: Command \RaggedLeft not defined, skipping amendment on input
 line 42.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
  line 42.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count623
-\scratchdimen=\dimen390
-\scratchbox=\box95
-\nofMPsegments=\count624
-\nofMParguments=\count625
-\everyMPshowfont=\toks68
-\MPscratchCnt=\count626
-\MPscratchDim=\dimen391
-\MPnumerator=\count627
-\makeMPintoPDFobject=\count628
-\everyMPtoPDFconversion=\toks69
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
 
-(c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -2076,7 +2024,6 @@ File: siunitx-abbreviations.cfg 2021-04-17 v2.8e siunitx: Abbreviated units
 glish.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-LaTeX Info: Redefining \th on input line 42.
 Package hyperref Info: Link coloring ON on input line 42.
  (./synopsis.out) (./synopsis.out)
 \@outlinefile=\write7
@@ -2084,6 +2031,44 @@ Package hyperref Info: Link coloring ON on input line 42.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'american' -> 'american-gost'...
+
+Package biblatex Info: ... file 'american-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/american-gost.lbx
+File: american-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
+Package biblatex Info: ... file 'english-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
+Package biblatex Info: ... file 'english-gost.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))))
 Package biblatex Info: Trying to load language 'russian' -> 'russian-gost'...
 Package biblatex Info: ... file 'russian-gost.lbx' found.
 
@@ -2101,24 +2086,8 @@ Package biblatex Info: ... file 'russian.lbx' found.
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
 File: russian.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 ))
-Package biblatex Info: Trying to load language 'english' -> 'english-gost'...
-Package biblatex Info: ... file 'english-gost.lbx' found.
-
-(c:/texlive/2024/texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
-File: english-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(c:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-))
-Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
 \openout6 = `synopsis.bcf'.
@@ -2127,390 +2096,6 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'synopsis.bbl' found.
 
 (./synopsis.bbl)
-
-Package biblatex Warning: citation 'phase_transition_universe'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'neutron_stars'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'quark_gluon'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'RHIC_luminosity_heavy'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation '2016_IBS'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'spin_crisis_1989'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'quarks_overview_2022'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'COSY_ANKE'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'SATURNE'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'RHIC_2014'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'RHIC_luminosity'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'ng'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'lee'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'sakharov'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'CP'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'P-violation'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'CKM'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'CPstrong'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'EMD_overview'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'EDM'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'NeutronEDM'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'neutron_EDM_current'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Farley:edm'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'QFS'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Axion_Nikolaev'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'lhc:heavy_ions'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'rhic:design'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'j-park'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'nuclotron24'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Ladygin:SPD'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'MPD'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Tech_NICA'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2025_dual'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Syresin:2021_polar'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2021trans'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_pecular'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2025_U70'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2025_jump'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2024_bb_rupac'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_bb_IPAC'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2024_bb_dspin'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Senichev:2023_QFS'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Senichev:2023_nuclotron'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2025_nuclotron'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_bypass_ru'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_bypass_IPAC'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Senichev:2024_nica_edm'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_sc'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'Kolokolchikov:2023_sc_IPAC'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vakbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vakbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'wosbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'scbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'patbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'progbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'vakbib2'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'patbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'progbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'bib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
-
-Package biblatex Warning: citation 'confbib1'
-(biblatex)                was not found at all in the .bbl file,
-(biblatex)                bibliography labels cannot be generated,
-(biblatex)                please correct the citation.
-
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
 Package nag Info: Command \captionabove not defined, skipping amendment on inpu
@@ -2521,11 +2106,9 @@ Package nag Info: Command \hc@caption not defined, skipping amendment on input
 line 42.
 Package nag Info: Command \topcaption not defined, skipping amendment on input 
 line 42.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
-
-(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
@@ -2533,16 +2116,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)<<ot1tt.cmap>>
-(./Synopsis/title.tex
+) (./Synopsis/title.tex
 
 [1.1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
-texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-Underfull \hbox (badness 2318) in paragraph at lines 99--99
-[]|[]\T2A/cmr/m/n/10 профессор, док^^?тор фи^^?зико-^^?мате^^?ма^^?ти^^?че^^?ск
-их
+]
+Underfull \hbox (badness 2460) in paragraph at lines 99--99
+\TU/TimesNewRoman(1)/m/n/10 РІР°С‚РµР»СЊРЅРѕРµ СѓС‡СЂРµР¶РґРµРЅРёРµ РІС‹СЃС€РµРіРѕ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊ-
  []
 
 )
@@ -2554,555 +2134,105 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--46
 
 [2.2] (./Synopsis/content.tex (./common/characteristic.tex
 
-LaTeX Warning: Citation 'phase_transition_universe' on page 3 undefined on inpu
-t line 3.
-
-
-LaTeX Warning: Citation 'neutron_stars' on page 3 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'quark_gluon' on page 3 undefined on input line 3.
-
-
-Underfull \hbox (badness 2229) in paragraph at lines 3--4
-\T2A/cmr/m/n/10 лен^^?ной оста^^?ет^^?ся за^^?гад^^?кой. По те^^?ку^^?щим пред^
-^?став^^?ле^^?ни^^?ям, на ран^^?них
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-\T2A/cmr/m/n/10 эта^^?пах фор^^?ми^^?ро^^?ва^^?ния Все^^?лен^^?ной ма^^?те^^?ри
-я на^^?хо^^?ди^^?лась в экс^^?тре^^?
- []
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 3--4
-\T2A/cmr/m/n/10 маль^^?но плот^^?ном со^^?сто^^?я^^?нии, из^^?вест^^?ной как кв
-арк-^^?глю^^?он^^?ная плаз^^?ма
- []
-
-
-LaTeX Warning: Citation 'RHIC_luminosity_heavy' on page 3 undefined on input li
-ne 5.
-
-
-LaTeX Warning: Citation '2016_IBS' on page 3 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'spin_crisis_1989' on page 3 undefined on input line 7.
-
-
-
-LaTeX Warning: Citation 'quarks_overview_2022' on page 3 undefined on input lin
-e 7.
-
-
-LaTeX Warning: Citation 'COSY_ANKE' on page 3 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'SATURNE' on page 3 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'RHIC_2014' on page 3 undefined on input line 7.
-
-
-Underfull \vbox (badness 1005) has occurred while \output is active []
-
-
-
 [3.3
 
 ]
-
-LaTeX Warning: Citation 'RHIC_luminosity' on page 4 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'ng' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'lee' on page 4 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'sakharov' on page 4 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'CP' on page 4 undefined on input line 13.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [4.4]
+File: images/4_EDM_P_T.png Graphic file (type bmp)
+<images/4_EDM_P_T.png>
 
-LaTeX Warning: Citation 'P-violation' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'CKM' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'CPstrong' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'EMD_overview' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'EDM' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'NeutronEDM' on page 5 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'neutron_EDM_current' on page 5 undefined on input line
- 15.
-
-<images/4_EDM_P_T.png, id=94, 1531.7225pt x 2037.6125pt>
-File: images/4_EDM_P_T.png Graphic file (type png)
-<use images/4_EDM_P_T.png>
-Package pdftex.def Info: images/4_EDM_P_T.png  used on input line 19.
-(pdftex.def)             Requested size: 136.57115pt x 181.66718pt.
-
-LaTeX Warning: Citation 'Farley:edm' on page 5 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'QFS' on page 5 undefined on input line 24.
-
-
-Underfull \vbox (badness 3179) has occurred while \output is active []
+Underfull \vbox (badness 2088) has occurred while \output is active []
 
 
 
 [5.5]
-
-LaTeX Warning: Citation 'Axion_Nikolaev' on page 6 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'lhc:heavy_ions' on page 6 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'rhic:design' on page 6 undefined on input line 28.
+Underfull \hbox (badness 2302) in paragraph at lines 30--31
+[]\TU/TimesNewRoman(1)/m/n/10 РЈСЃРєРѕСЂРёС‚РµР»СЊРЅС‹Р№ РєРѕРјРїР»РµРєСЃ NICA (Nuclotron-based Ion 
+Collider fAСЃility)
+ []
 
 
-LaTeX Warning: Citation 'j-park' on page 6 undefined on input line 28.
+Underfull \hbox (badness 2435) in paragraph at lines 30--31
+\TU/TimesNewRoman(1)/m/n/10 РјР°С‚РµСЂРёР°Р»СЊРЅРѕ-С‚РµС…РЅРёС‡РµСЃРєРѕР№ Р±Р°Р·РѕР№, РѕС‚РІРµС‡Р°СЋС‰РµР№ РјРёСЂРѕРІС‹Рј С‚
+РµРЅРґРµРЅС†РёСЏРј Рё С„РѕСЂ-
+ []
+
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+
+
+[6.6]
+Underfull \hbox (badness 1442) in paragraph at lines 32--34
+[]\TU/TimesNewRoman(1)/m/n/10 РСЃСЃР»РµРґРѕРІР°РЅРёСЏ РЅР°РїСЂР°РІР»РµРЅС‹ РЅР° С„РѕСЂРјРёСЂРѕРІР°РЅРёРµ РїРѕР»РЅРѕС†РµРЅРЅ
+РѕР№ С„РёР·РёС‡РµСЃРєРѕР№
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 32--34
+\TU/TimesNewRoman(1)/m/n/10 NICA. РџСЂРёРјРµРЅРµРЅРёРµ РёР·Р»РѕР¶РµРЅРЅС‹С… РІ СЂР°Р±РѕС‚Рµ РїРѕРґС…РѕРґРѕРІ РІРѕР·РјРѕ
+Р¶РЅРѕ Рё РЅР° РґСЂСѓРіРёС…
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+
+
+[7.7]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 72--74
+[]$[]$ \TU/TimesNewRoman(1)/m/n/10 РћСЃРЅРѕРІРЅС‹РјРё РјРµС‚РѕРґР°РјРё РёСЃСЃР»РµРґРѕ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[6.6 <./images/4_EDM_P_T.png (PNG copy)>]
-
-LaTeX Warning: Citation 'nuclotron24' on page 7 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'Ladygin:SPD' on page 7 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'MPD' on page 7 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'Tech_NICA' on page 7 undefined on input line 30.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-
- []
-
-
-Underfull \vbox (badness 5388) has occurred while \output is active []
-
-
-
-[7.7] Excluding 'comment' comment.
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 66--67
-[]\T2A/cmr/m/n/10 Были раз^^?ра^^?бо^^?та^^?ны 8- и 16-пери^^?о^^?дич^^?ная ква
-зи-^^?замо^^?ро^^?жен^^?ная
- []
-
-Excluding 'comment' comment. Excluding 'comment' comment.
-Excluding 'comment' comment.
-
-LaTeX Warning: Citation 'Kolokolchikov:2025_dual' on page 8 undefined on input 
-line 138.
-
-
-LaTeX Warning: Citation 'Syresin:2021_polar' on page 8 undefined on input line 
-138.
-
-
-Underfull \hbox (badness 2229) in paragraph at lines 138--139
-[]\T2A/cmr/m/n/10 Предложена ре^^?а^^?ли^^?за^^?ция ду^^?аль^^?ной струк^^?ту^^
-?ры для ком^^?плек^^?са
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 138--139
-\T2A/cmr/m/n/10 NICA-^^?Nuclotron, оп^^?ти^^?маль^^?ная для тя^^?же^^?лых ча^^?
-стиц с точ^^?ки
- []
-
-
-Underfull \hbox (badness 2951) in paragraph at lines 138--139
-\T2A/cmr/m/n/10 зре^^?ния внут^^?ри^^?пуч^^?ко^^?во^^?го рас^^?се^^?я^^?ния и л
-ег^^?ких ча^^?стиц с под^^?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-\T2A/cmr/m/n/10 ня^^?той кри^^?ти^^?че^^?ской энер^^?ги^^?ей вы^^?ше энер^^?гии
- экс^^?пе^^?ри^^?мен^^?та;
- []
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2021trans' on page 8 undefined on input 
-line 139.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_pecular' on page 8 undefined on inp
-ut line 139.
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 139--140
-[]\T2A/cmr/m/n/10 Реализован ме^^?тод ва^^?ри^^?а^^?ции кри^^?ти^^?че^^?ской эн
-ер^^?гии для маг^^?
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 139--140
-\T2A/cmr/m/n/10 ни^^?то^^?оп^^?ти^^?ки кол^^?лай^^?де^^?ра NICA с от^^?сут^^?ст
-ву^^?ю^^?щи^^?ми маг^^?ни^^?та^^?ми
- []
-
-
-Underfull \hbox (badness 2426) in paragraph at lines 139--140
-\T2A/cmr/m/n/10 при по^^?дав^^?ле^^?нии дис^^?пер^^?си^^?он^^?ной функ^^?ции дв
-у^^?мя се^^?мей^^?ства^^?ми
- []
-
-
-Underfull \hbox (badness 1983) in paragraph at lines 139--140
-\T2A/cmr/m/n/10 квад^^?ру^^?по^^?лей и дву^^?мя край^^?ни^^?ми ячей^^?ка^^?ми п
-о^^?во^^?рот^^?ной ар^^?ки;
- []
 
 
 
 [8.8]
-
-LaTeX Warning: Citation 'Kolokolchikov:2025_U70' on page 9 undefined on input l
-ine 140.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2025_jump' on page 9 undefined on input 
-line 140.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2024_bb_rupac' on page 9 undefined on in
-put line 141.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_bb_IPAC' on page 9 undefined on inp
-ut line 141.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2024_bb_dspin' on page 9 undefined on in
-put line 141.
-
-
-Underfull \hbox (badness 3219) in paragraph at lines 141--142
-\T2A/cmr/m/n/10 ро^^?вол^^?но^^?вой неустой^^?чи^^?во^^?сти; [[];
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\TU/TimesNewRoman(1)/m/n/10 РџСЂРµРґР»РѕР¶РµРЅС‹ РјРѕРґРµСЂРЅРёР·РёСЂРѕРІР°РЅРЅС‹Рµ 8/16-РїРµСЂРёРѕРґРёС‡РЅС‹Рµ СЃС‚СЂ
+СѓРєС‚СѓСЂС‹
  []
 
 
-Overfull \hbox (12.02237pt too wide) in paragraph at lines 141--142
-[]\T2A/cmr/m/n/10 ; []] 
+Underfull \hbox (badness 1436) in paragraph at lines 81--82
+\TU/TimesNewRoman(1)/m/n/10 С‡РµСЃРєРѕРіРѕ РґРёРїРѕР»СЊРЅРѕРіРѕ РјРѕРјРµРЅС‚Р° Р»РµРіРєРёС… СЏРґРµСЂ, СЃ СЃРѕС…СЂР°РЅРµРЅРё
+РµРј С„СѓРЅРєС†РёРё
  []
 
 
-LaTeX Warning: Citation 'Senichev:2023_QFS' on page 9 undefined on input line 1
-42.
-
-
-LaTeX Warning: Citation 'Senichev:2023_nuclotron' on page 9 undefined on input 
-line 142.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2025_nuclotron' on page 9 undefined on i
-nput line 142.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_bypass_ru' on page 9 undefined on i
-nput line 143.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_bypass_IPAC' on page 9 undefined on
- input line 143.
-
-
-LaTeX Warning: Citation 'Senichev:2024_nica_edm' on page 9 undefined on input l
-ine 143.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_sc' on page 9 undefined on input li
-ne 143.
-
-
-LaTeX Warning: Citation 'Kolokolchikov:2023_sc_IPAC' on page 9 undefined on inp
-ut line 143.
-
-
-Underfull \hbox (badness 7888) in paragraph at lines 143--144
-[]\T2A/cmr/m/n/10 Применен ме^^?тод филь^^?тров Ви^^?на для со^^?хра^^?не^^?нии
- на^^?прав^^?
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 143--144
-\T2A/cmr/m/n/10 ле^^?ния по^^?ля^^?ри^^?за^^?ции на ос^^?но^^?ве вве^^?де^^?ния
- об^^?вод^^?ных ка^^?на^^?лов
- []
-
-
-Underfull \hbox (badness 4229) in paragraph at lines 143--144
-\T2A/cmr/m/n/10 в струк^^?ту^^?ре кол^^?лай^^?де^^?ра NICA с квази-^^?замо^^?ро
-^^?жен^^?ным спи^^?
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 143--144
-\T2A/cmr/m/n/10 ном для вы^^?де^^?ле^^?ния ЭДМ сиг^^?на^^?ла в по^^?ля^^?ри^^?з
-о^^?ван^^?ном пуч^^?ке
- []
-
-
-Overfull \hbox (89.2785pt too wide) in paragraph at lines 143--144
-\T2A/cmr/m/n/10 дейтронов;[[]; [];
- []
-
-
-Overfull \hbox (104.2765pt too wide) in paragraph at lines 143--144
-[]\T2A/cmr/m/n/10 ; []; []] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
-[]$[]$ \T2A/cmr/m/n/10 по^^?лу^^?чен^^?ных ре^^?зуль^^?та^^?тов под^^?твер^^?жд
-а^^?ет^^?ся со^^?
- []
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
 
-
-Underfull \hbox (badness 5260) in paragraph at lines 147--149
-\T2A/cmr/m/n/10 гла^^?со^^?ва^^?ни^^?ем ана^^?ли^^?ти^^?че^^?ских вы^^?чис^^?ле
-^^?ний с ре^^?зуль^^?та^^?та^^?ми чис^^?лен^^?ных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
-
- []
-
-
-
-[9.9]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-
- []
-
-\blx@maxsegment@1=\count629
-\blx@sectionciteorder@1=\count630
-Package biblatex Info: Reference section=1 on input line 247.
-Package biblatex Info: Setting label 'refsection:1' on input line 247.
-
-Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 247
-.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 247
-.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
-247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 24
-7.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 2
-47.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioregistered' not found on input line 24
-7.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
-247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
- 247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-Package biblatex Warning: Keyword 'biblioauthor' not found on input line 247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-
-LaTeX Warning: Empty bibliography on input line 247.
-
-Package biblatex Info: Reference section=0 on input line 247.
-\blx@maxsegment@2=\count631
-\blx@sectionciteorder@2=\count632
-Package biblatex Info: Reference section=2 on input line 247.
-Package biblatex Info: Setting label 'refsection:2' on input line 247.
-
-LaTeX Warning: Citation 'vakbib2' undefined on input line 247.
-
-
-LaTeX Warning: Citation 'patbib1' undefined on input line 247.
-
-
-LaTeX Warning: Citation 'progbib1' undefined on input line 247.
-
-
-LaTeX Warning: Citation 'bib1' undefined on input line 247.
-
-
-LaTeX Warning: Citation 'confbib1' undefined on input line 247.
-
-Package biblatex Info: Reference section=0 on input line 247.
-)
-
-[10.10]
-<images/1_SC_common.png, id=145, 483.8075pt x 314.17375pt>
-File: images/1_SC_common.png Graphic file (type png)
-<use images/1_SC_common.png>
-Package pdftex.def Info: images/1_SC_common.png  used on input line 52.
-(pdftex.def)             Requested size: 159.65697pt x 103.67764pt.
-<images/1_IBS.png, id=147, 404.712pt x 251.13824pt>
-File: images/1_IBS.png Graphic file (type png)
-<use images/1_IBS.png>
-Package pdftex.def Info: images/1_IBS.png  used on input line 55.
-(pdftex.def)             Requested size: 202.3555pt x 125.56882pt.
-
-
-[11.11 <./images/1_SC_common.png> <./images/1_IBS.png>]
-<images/3_g_tr_BB.png, id=158, 214.401pt x 198.5016pt>
-File: images/3_g_tr_BB.png Graphic file (type png)
-<use images/3_g_tr_BB.png>
-Package pdftex.def Info: images/3_g_tr_BB.png  used on input line 82.
-(pdftex.def)             Requested size: 160.80034pt x 148.87582pt.
-<images/3_eta_tr_BB.png, id=159, 230.7822pt x 182.6022pt>
-File: images/3_eta_tr_BB.png Graphic file (type png)
-<use images/3_eta_tr_BB.png>
-Package pdftex.def Info: images/3_eta_tr_BB.png  used on input line 85.
-(pdftex.def)             Requested size: 173.08621pt x 136.95131pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[12.12]
-<images/2_twiss_3FODO_regular.png, id=164, 566.115pt x 458.9145pt>
-File: images/2_twiss_3FODO_regular.png Graphic file (type png)
-<use images/2_twiss_3FODO_regular.png>
-Package pdftex.def Info: images/2_twiss_3FODO_regular.png  used on input line 1
-06.
-(pdftex.def)             Requested size: 169.8358pt x 137.6754pt.
-<images/2_Twiss_Superperiod.png, id=165, 531.9875pt x 355.3275pt>
-File: images/2_Twiss_Superperiod.png Graphic file (type png)
-<use images/2_Twiss_Superperiod.png>
-Package pdftex.def Info: images/2_Twiss_Superperiod.png  used on input line 109
-.
-(pdftex.def)             Requested size: 159.59747pt x 106.59906pt.
-
-
-[13.13 <./images/3_g_tr_BB.png> <./images/3_eta_tr_BB.png>]
-<images/4_deflector_deutron.png, id=176, 450.483pt x 302.93175pt>
-File: images/4_deflector_deutron.png Graphic file (type png)
-<use images/4_deflector_deutron.png>
-Package pdftex.def Info: images/4_deflector_deutron.png  used on input line 128
-.
-(pdftex.def)             Requested size: 157.6714pt x 106.0277pt.
-<images/4_arc_B+E_WF.png, id=177, 411.5375pt x 210.7875pt>
-File: images/4_arc_B+E_WF.png Graphic file (type png)
-<use images/4_arc_B+E_WF.png>
-Package pdftex.def Info: images/4_arc_B+E_WF.png  used on input line 131.
-(pdftex.def)             Requested size: 144.04028pt x 73.77672pt.
-
-Underfull \vbox (badness 6461) has occurred while \output is active []
-
-
-
-[14.14 <./images/2_twiss_3FODO_regular.png> <./images/2_Twiss_Superperiod.png> 
-<./images/4_deflector_deutron.png> <./images/4_arc_B+E_WF.png>]
-
-LaTeX Warning: Citation 'Kolokolchikov:2021trans' on page 15 undefined on input
- line 143.
-
-(./common/concl.tex
-Underfull \vbox (badness 1210) has occurred while \output is active []
-
-
-
-[15.15]
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[]\T2A/cmr/m/n/10 Рассмотрена мо^^?дер^^?ни^^?зи^^?ро^^?ван^^?ная струк^^?ту^^?
-ра син^^?хро^^?тро^^?на
- []
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 16--17
-\T2A/cmr/m/n/10 Nuclotron с со^^?хра^^?не^^?ни^^?ем функ^^?ции бу^^?сте^^?ра по
-^^?ля^^?ри^^?зо^^?ван^^?но^^?го
  []
 
 
@@ -3110,67 +2240,268 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16.16])
+[9.9]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
-LaTeX Warning: Citation 'vakbib1' undefined on input line 223.
-
-
-LaTeX Warning: Citation 'vakbib2' undefined on input line 223.
+ []
 
 
-LaTeX Warning: Citation 'wosbib1' undefined on input line 223.
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+\blx@maxsegment@1=\count634
+\blx@sectionciteorder@1=\count635
+Package biblatex Info: Reference section=1 on input line 186.
+Package biblatex Info: Setting label 'refsection:1' on input line 186.
+
+Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 186
+.
 
 
-LaTeX Warning: Citation 'scbib1' undefined on input line 223.
+LaTeX Warning: Empty bibliography on input line 186.
 
 
-LaTeX Warning: Citation 'patbib1' undefined on input line 223.
+Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 186
+.
 
 
-LaTeX Warning: Citation 'progbib1' undefined on input line 223.
+LaTeX Warning: Empty bibliography on input line 186.
 
 
-LaTeX Warning: Citation 'confbib1' undefined on input line 223.
+Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
+186.
 
 
-LaTeX Warning: Citation 'confbib2' undefined on input line 223.
+LaTeX Warning: Empty bibliography on input line 186.
 
 
-LaTeX Warning: Citation 'bib1' undefined on input line 223.
+Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 18
+6.
 
 
-LaTeX Warning: Citation 'bib2' undefined on input line 223.
+LaTeX Warning: Empty bibliography on input line 186.
 
 
-LaTeX Warning: Empty bibliography on input line 223.
+Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
+86.
 
 
-Package biblatex Warning: Keyword 'biblioexternal' not found on input line 223.
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioregistered' not found on input line 18
+6.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
+186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
+ 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+
+LaTeX Warning: Empty bibliography on input line 186.
+
+Package biblatex Info: Reference section=0 on input line 186.
+\blx@maxsegment@2=\count636
+\blx@sectionciteorder@2=\count637
+Package biblatex Info: Reference section=2 on input line 186.
+Package biblatex Info: Setting label 'refsection:2' on input line 186.
+Package biblatex Info: Reference section=0 on input line 186.
+)
+Underfull \hbox (badness 4279) in paragraph at lines 186--19
+[]$[]$ \TU/TimesNewRoman(1)/m/n/10 РћСЃРЅРѕРІРЅС‹Рµ СЂРµР·СѓР»СЊС‚Р°С‚С‹ РїРѕ С‚РµРјРµ РґРёСЃСЃРµСЂС‚Р°С†РёРё РёР·Р»Рѕ
+Р¶РµРЅС‹
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Empty bibliography on input line 223.
+[10.10]
+File: images/1_SC_common.png Graphic file (type bmp)
+<images/1_SC_common.png>
+File: images/1_IBS.png Graphic file (type bmp)
+<images/1_IBS.png>
 
 
-Package biblatex Warning: Keyword 'biblioexternal' not found on input line 223.
+[11.11]
+
+[12.12]
+File: images/3_g_tr_BB.png Graphic file (type bmp)
+<images/3_g_tr_BB.png>
+File: images/3_eta_tr_BB.png Graphic file (type bmp)
+<images/3_eta_tr_BB.png>
+File: images/2_twiss_3FODO_regular.png Graphic file (type bmp)
+<images/2_twiss_3FODO_regular.png>
+File: images/2_Twiss_Superperiod.png Graphic file (type bmp)
+<images/2_Twiss_Superperiod.png>
+
+
+[13.13]
+File: images/4_deflector_deutron.png Graphic file (type bmp)
+<images/4_deflector_deutron.png>
+File: images/4_arc_B+E_WF.png Graphic file (type bmp)
+<images/4_arc_B+E_WF.png>
+
+Underfull \vbox (badness 1019) has occurred while \output is active []
 
 
 
-LaTeX Warning: Empty bibliography on input line 223.
+[14.14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[15.15] (./common/concl.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[16.16]
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\TU/TimesNewRoman(1)/m/n/10 Р’ С‡Р°СЃС‚Рё СЂР°Р·РІРёС‚РёСЏ РјР°РіРЅРёС‚РѕРѕРїС‚РёС‡РµСЃРєРѕР№ СЃС‚СЂСѓРєС‚СѓСЂС‹ РєРѕРјРї
+Р»РµРєСЃР° NICA-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 28--29
+\TU/TimesNewRoman(1)/m/n/10 Nuclotron Р±СѓРґСѓС‚ СЂР°СЃСЃРјРѕС‚СЂРµРЅС‹ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё СЃРѕР·РґР°РЅРёСЏ РѕС‚
+РґРµР»СЊРЅРѕРіРѕ РєРѕР»СЊС†Р° СЃ
+ []
+
+) Excluding 'comment' comment.
+Underfull \hbox (badness 3168) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Features of dual-purpose structure for heavy ion 
+and light particles /
+ []
+
+
+
+[17.17]
+Underfull \hbox (badness 2662) in paragraph at lines 245--245
+\TU/TimesNewRoman(1)/m/n/10 in Harmonic and Barrier RF / S. D. Kolokolchikov, A
+. E. Aksentev,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Transition Energy Crossing of Polarized Proton Be
+am at NICA /
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 245--245
+\TU/TimesNewRoman(1)/m/n/10 S. Kolokolchikov, Y. Senichev, A. Aksentiev, A. Mel
+nikov, E. Syresin,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 245--245
+\TU/TimesNewRoman(1)/m/n/10 V. Ladygin [] Physics of Atomic Nuclei. [] 2024. []
+ Рў. 87, в„– 3. []
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Consideration of an Adapted Nuclotron Structure f
+or Searching for the
+ []
+
+
+
+[18.18]
+Underfull \hbox (badness 2478) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 NICA Facilities for the Search for EDM Light Nucl
+ei / Y. Senichev,
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 245--245
+\TU/TimesNewRoman(1)/m/n/10 E. Syresin [] Physics of Atomic Nuclei. [] 2024. []
+ Рў. 87, в„– 4. []
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 245--245
+\TU/TimesNewRoman(1)/m/n/10 FrozenвЂќSpin Regime / S. Kolokolchikov, A. Aksentiev
+, A. Melnikov,
+ []
+
+
+
+[19.19]
+Underfull \hbox (badness 2608) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/it/10 Robert-Demolaize\TU/TimesNewRoman(1)/m/n/10 , \T
+U/TimesNewRoman(1)/m/it/10 G. \TU/TimesNewRoman(1)/m/n/10 The Luminosity Upgrad
+e at RHIC / G. Robert-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Inclusive double-helicity asymmetries in neutral-
+pion and eta-meson
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Prospects for spin physics at RHIC / G. Bunce, N.
+ Saito, J. Soffer,
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/it/10 Sakharov\TU/TimesNewRoman(1)/m/n/10 , \TU/TimesN
+ewRoman(1)/m/it/10 A. D. \TU/TimesNewRoman(1)/m/n/10 Violation of CP Invariance
+, C asymmetry, and baryon
+ []
+
+
+
+[20.20]
+Underfull \hbox (badness 4328) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 Quasi-frozen Spin Method for EDM Deuteron Search 
+/ Y. Senichev,
+ []
+
+
+
+[21.21]
+Overfull \hbox (18.72198pt too wide) in paragraph at lines 245--245
+[]\TU/TimesNewRoman(1)/m/n/10 http://www-bdnew.fnal.gov/pbar/organizationalchar
+t/lebedev/OptiM/optim.htm. []
+ []
 
 )
 
-[17.17]
+[22.22]
 
-[18.18]
+[23.23]
+
+[24.24
+
+]
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
 
 No complaints by nag.
-(./synopsis.aux<<t1.cmap>>
-Package cleveref Info: loaded `russian' language definitions on input line 10.
-)
+(./synopsis.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -3185,7 +2516,7 @@ nag-orthodox.cfg    2006/04/19 v1.8 strict rules for nag.sty (ulmi)
 lass
   xpatch.sty    2020/03/25 v0.3a Extending etoolbox patching commands
    expl3.sty    2025-01-18 L3 programming layer (loader) 
-l3backend-pdftex.def    2024-05-08 L3 backend support: PDF output (pdfTeX)
+l3backend-xetex.def    2024-05-08 L3 backend support: XeTeX
   xparse.sty    2024-08-16 L3 Experimental document command parser
 etoolbox.sty    2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
    iftex.sty    2024/12/12 v1.0g TeX engine tests
@@ -3222,7 +2553,7 @@ pdflscape-nometadata.sty    2022-10-28 v0.13 Display of landscape pages in PDF
 graphics.sty    2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
     trig.sty    2023/12/02 v1.11 sin cos tan (DPC)
 graphics.cfg    2016/06/04 v1.11 sample graphics configuration
-  pdftex.def    2024/04/13 v1.2c Graphics/color driver for pdftex
+   xetex.def    2022/09/22 v5.0n Graphics/color driver for xetex
 geometry.sty    2020/01/02 v5.9 Page Geometry
   ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
   amsthm.sty    2020/05/29 v2.20.6
@@ -3239,19 +2570,13 @@ siunitx-v2.sty
 l3keys2e.sty    2024-08-16 LaTeX2e option processing using LaTeX3 keys
 translator.sty    2021-05-31 v1.12d Easy translation of strings in LaTeX
  siunitx.cfg    
-    cmap.sty    2021/02/06 v1.0j CMap support: searchable PDF
-textcomp.sty    2024/04/24 v2.1b Standard LaTeX package
+polyglossia.sty    2025/01/31 v2.4 Modern multilingual typesetting with XeLaTeX
+ and LuaLaTeX
+fontspec.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+fontspec-xetex.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
  fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
-  t2aenc.def    2023/11/07 v1.0k Cyrillic encoding definition file
-  t2aenc.dfu    2022/06/07 v1.3c UTF-8 support
-  t2acmr.fd    2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-inputenc.sty    2024/02/08 v1.3d Input encoding file
-   babel.sty    2025/02/02 v25.3 The multilingual framework for pdfLaTeX, LuaLa
-TeX and XeLaTeX
- english.ldf    2017/06/06 v3.3r English support from the babel system
-russianb.ldf    2021/01/10 1.3m Russian support for the Babel system
-babel-russian.tex
-babel-english.tex
+fontspec.cfg
+gloss-latex.ldf    polyglossia: module for default language
 indentfirst.sty    2023/07/02 v1.03 Indent first paragraph (DPC)
   xcolor.sty    2024/09/29 v3.02 LaTeX color extensions (UK)
    color.cfg    2016/01/02 v1.6 sample color configuration
@@ -3306,11 +2631,11 @@ stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
 atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
- hpdftex.def    2024-11-05 v7.01l Hyperref driver for pdfTeX
+  hxetex.def    2024-11-05 v7.01l Hyperref driver for XeTeX
+rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
 ge
 with kernel methods
-rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
 memhfixc.sty    2023/09/10 v1.22 hyperref package fixes for memoir class
  caption.sty    2023/08/05 v3.6o Customizing captions (AR)
@@ -3321,7 +2646,7 @@ subcaption.sty    2023/07/28 v1.6b Sub-captions (AR)
 pdfpages.sty    2025/01/30 v0.6e Insert pages of external PDF documents (AM)
   ifthen.sty    2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
  eso-pic.sty    2023/05/03 v3.0c eso-pic (RN)
-pppdftex.def    2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+ ppxetex.def    2025/01/30 v0.6e Pdfpages driver for XeTeX (AM)
 aliascnt.sty    2018/09/07 v1.5 Alias counters (HO)
 totalcount.sty    2018/01/21 v1.0a Total values of counters (AR)
 totcount.sty    2011/01/25 v1.2 package for gettingthe total value of LaTeX cou
@@ -3337,6 +2662,12 @@ common/newnames.tex
 Synopsis/setup.tex
 common/data.tex
 common/fonts.tex
+gloss-russian.ldf    polyglossia: module for Russian
+xpg-cyrillicnumbers.sty    2019/11/15 v0.2 Formatting of Cyrillic alphabetic nu
+mbers
+ babelsh.def    2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+gloss-english.ldf    polyglossia: module for English
 common/styles.tex
 Synopsis/synstyles.tex
 Synopsis/userstyles.tex
@@ -3350,6 +2681,7 @@ biblatex.sty    2024/03/21 v3.20 programmable bibliographies (PK/MW)
   blx-dm.def    2024/03/21 v3.20 biblatex datamodel (PK/MW)
 biblatex-gost.dbx    2023/04/25 v1.24 biblatex-gost data model
 gost-numeric.dbx    2023/04/25 v1.24 biblatex-gost data model
+blx-unicode.def
 blx-compat.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
 biblatex.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
 biblatex-gost.def    2023/04/25 v1.24 biblatex-gost styles
@@ -3359,17 +2691,16 @@ numeric-comp.cbx    2024/03/21 v3.20 biblatex citation style (PK/MW)
 gost-numeric.cbx    2023/04/25 v1.24 biblatex-gost styles
 biblatex.cfg    
 blx-case-expl3.sty    2024/03/21 v3.20 expl3 case changing code for biblatex
-supp-pdf.mkii
-epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
-epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 siunitx-abbreviations.cfg    2021-04-17 v2.8e siunitx: Abbreviated units
 translator-basic-dictionary-English.dict    
 synopsis.out
 synopsis.out
- russian.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
-russian-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
  english.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
 english-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
+american.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+american-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
+ russian.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+russian-gost.lbx    2023/04/25 v1.24 biblatex-gost styles
 synopsis.bbl
     umsa.fd    2013/01/14 v3.01 AMS symbols A
     umsb.fd    2013/01/14 v3.01 AMS symbols B
@@ -3389,52 +2720,21 @@ common/concl.tex
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `synopsis.out' has not changed.
-(rerunfilecheck)             Checksum: E4AA9794AF75B0F9ABD49B85CEE6FA2E;2140.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                synopsis
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 7D5A509F2843475E5D70A602E9F0A4DE;2853.
 Package logreq Info: Writing requests to 'synopsis.run.xml'.
 \openout1 = `synopsis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48018 strings out of 473200
- 921958 string characters out of 5720278
- 2035014 words of memory out of 5000000
- 70393 multiletter control sequences out of 15000+600000
- 576396 words of font info for 80 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 94i,12n,98p,3663b,3121s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2024/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texl
-ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2024/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2024/texmf-dist/
-fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2024/texmf-dist/fonts/type
-1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/c
-m-super/sfrm0700.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sf
-rm0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
-><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texli
-ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/te
-xmf-dist/fonts/type1/public/cm-super/sfti0900.pfb><c:/texlive/2024/texmf-dist/f
-onts/type1/public/cm-super/sfti1000.pfb>
-Output written on synopsis.pdf (18 pages, 854384 bytes).
-PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49603 strings out of 473839
+ 1030011 string characters out of 5733380
+ 2305803 words of memory out of 5000000
+ 71856 multiletter control sequences out of 15000+600000
+ 567037 words of font info for 115 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 94i,15n,98p,2281b,7304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on synopsis.pdf (24 pages).

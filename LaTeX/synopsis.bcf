@@ -96,7 +96,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -104,7 +104,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -355,7 +355,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -363,7 +363,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -594,7 +594,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -602,7 +602,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -833,7 +833,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -841,7 +841,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -1072,7 +1072,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -1080,7 +1080,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>11</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -3625,6 +3625,7 @@
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/external.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/author.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/registered.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">phase_transition_universe</bcf:citekey>
@@ -3657,30 +3658,35 @@
     <bcf:citekey order="27" intorder="1">j-park</bcf:citekey>
     <bcf:citekey order="28" intorder="1">nuclotron24</bcf:citekey>
     <bcf:citekey order="29" intorder="1">Ladygin:SPD</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">MPD</bcf:citekey>
-    <bcf:citekey order="30" intorder="2">Tech_NICA</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Kolokolchikov:2025_dual</bcf:citekey>
-    <bcf:citekey order="31" intorder="2">Syresin:2021_polar</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Kolokolchikov:2021trans</bcf:citekey>
-    <bcf:citekey order="32" intorder="2">Kolokolchikov:2023_pecular</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Kolokolchikov:2025_U70</bcf:citekey>
-    <bcf:citekey order="33" intorder="2">Kolokolchikov:2025_jump</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">Kolokolchikov:2024_bb_rupac</bcf:citekey>
-    <bcf:citekey order="34" intorder="2">Kolokolchikov:2023_bb_IPAC</bcf:citekey>
-    <bcf:citekey order="34" intorder="3">Kolokolchikov:2024_bb_dspin</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">Senichev:2023_QFS</bcf:citekey>
-    <bcf:citekey order="35" intorder="2">Senichev:2023_nuclotron</bcf:citekey>
-    <bcf:citekey order="35" intorder="3">Kolokolchikov:2025_nuclotron</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">Kolokolchikov:2023_bypass_ru</bcf:citekey>
-    <bcf:citekey order="36" intorder="2">Kolokolchikov:2023_bypass_IPAC</bcf:citekey>
-    <bcf:citekey order="36" intorder="3">Senichev:2024_nica_edm</bcf:citekey>
-    <bcf:citekey order="36" intorder="4">Kolokolchikov:2023_sc</bcf:citekey>
-    <bcf:citekey order="36" intorder="5">Kolokolchikov:2023_sc_IPAC</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Tech</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">MPD</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">madx</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">optim</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">bmad</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">blond</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">cosy</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Kolokolchikov:2025_dual</bcf:citekey>
+    <bcf:citekey order="36" intorder="2">Syresin:2021_polar</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Kolokolchikov:2021trans</bcf:citekey>
+    <bcf:citekey order="37" intorder="2">Kolokolchikov:2023_pecular</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Kolokolchikov:2025_U70</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">Kolokolchikov:2025_jump</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">Kolokolchikov:2024_bb_rupac</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">Kolokolchikov:2023_bb_IPAC</bcf:citekey>
+    <bcf:citekey order="39" intorder="3">Kolokolchikov:2024_bb_dspin</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Senichev:2023_QFS</bcf:citekey>
+    <bcf:citekey order="40" intorder="2">Senichev:2023_nuclotron</bcf:citekey>
+    <bcf:citekey order="40" intorder="3">Kolokolchikov:2025_nuclotron</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Kolokolchikov:2023_bypass_ru</bcf:citekey>
+    <bcf:citekey order="41" intorder="2">Kolokolchikov:2023_bypass_IPAC</bcf:citekey>
+    <bcf:citekey order="41" intorder="3">Senichev:2024_nica_edm</bcf:citekey>
+    <bcf:citekey order="41" intorder="4">Kolokolchikov:2023_sc</bcf:citekey>
+    <bcf:citekey order="41" intorder="5">Kolokolchikov:2023_sc_IPAC</bcf:citekey>
   </bcf:section>
   <!-- SECTION 1 -->
   <bcf:bibdata section="1">
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/author.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">bl-registered.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/registered.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
@@ -3691,28 +3697,13 @@
   <!-- SECTION 2 -->
   <bcf:bibdata section="2">
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/author.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">bl-registered.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/registered.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
-    <bcf:citekey order="1" intorder="1" nocite="1">vakbib2</bcf:citekey>
-    <bcf:citekey order="2" intorder="2" nocite="1">patbib1</bcf:citekey>
-    <bcf:citekey order="3" intorder="3" nocite="1">progbib1</bcf:citekey>
-    <bcf:citekey order="4" intorder="4" nocite="1">bib1</bcf:citekey>
-    <bcf:citekey order="5" intorder="5" nocite="1">confbib1</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
-    <bcf:citekey order="37" intorder="1">Kolokolchikov:2021trans</bcf:citekey>
-    <bcf:citekey order="38" intorder="1" nocite="1">vakbib1</bcf:citekey>
-    <bcf:citekey order="39" intorder="2" nocite="1">vakbib2</bcf:citekey>
-    <bcf:citekey order="40" intorder="3" nocite="1">wosbib1</bcf:citekey>
-    <bcf:citekey order="41" intorder="4" nocite="1">scbib1</bcf:citekey>
-    <bcf:citekey order="42" intorder="5" nocite="1">patbib1</bcf:citekey>
-    <bcf:citekey order="43" intorder="6" nocite="1">progbib1</bcf:citekey>
-    <bcf:citekey order="44" intorder="7" nocite="1">confbib1</bcf:citekey>
-    <bcf:citekey order="45" intorder="8" nocite="1">confbib2</bcf:citekey>
-    <bcf:citekey order="46" intorder="9" nocite="1">bib1</bcf:citekey>
-    <bcf:citekey order="47" intorder="10" nocite="1">bib2</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Kolokolchikov:2021trans</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -3735,7 +3726,17 @@
                 namehashtemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="0"
-                name="none/global//global/global/global"
+                name="none/global/7FC56270E7A70FA81A5935B72EACBE29/global/global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix="A"
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="none/global/D41D8CD98F00B204E9800998ECF8427E/global/global/global"
                 type="entry"
                 sortingtemplatename="none"
                 sortingnamekeytemplatename="global"
@@ -3745,7 +3746,7 @@
                 namehashtemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="0"
-                name="none/global/D41D8CD98F00B204E9800998ECF8427E/global/global/global"
+                name="none/global//global/global/global"
                 type="entry"
                 sortingtemplatename="none"
                 sortingnamekeytemplatename="global"
