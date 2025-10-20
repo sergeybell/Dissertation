@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  6 OCT 2025 18:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  20 OCT 2025 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2145,37 +2145,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/4_EDM_P_T.png Graphic file (type bmp)
 <images/4_EDM_P_T.png>
 
-Underfull \vbox (badness 2088) has occurred while \output is active []
+Underfull \vbox (badness 2503) has occurred while \output is active []
 
 
 
 [5.5]
-Underfull \hbox (badness 2302) in paragraph at lines 30--31
-[]\TU/TimesNewRoman(1)/m/n/10 Ускорительный комплекс NICA (Nuclotron-based Ion 
-Collider fAсility)
- []
-
-
-Underfull \hbox (badness 2435) in paragraph at lines 30--31
-\TU/TimesNewRoman(1)/m/n/10 материально-технической базой, отвечающей мировым т
-енденциям и фор-
- []
-
-
-Underfull \vbox (badness 1303) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [6.6]
-Underfull \hbox (badness 1442) in paragraph at lines 32--34
-[]\TU/TimesNewRoman(1)/m/n/10 Исследования направлены на формирование полноценн
-ой физической
+Underfull \hbox (badness 2173) in paragraph at lines 32--34
+[]\TU/TimesNewRoman(1)/m/n/10 Исследования направлены на расширение существующе
+й физической
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 32--34
-\TU/TimesNewRoman(1)/m/n/10 NICA. Применение изложенных в работе подходов возмо
-жно и на других
+Underfull \hbox (badness 2608) in paragraph at lines 32--34
+\TU/TimesNewRoman(1)/m/n/10 NICA. Предложенные подходы применимы также на други
+х аналогичных
  []
 
 
@@ -2184,54 +2172,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--34
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
-
-
-Underfull \vbox (badness 3118) has occurred while \output is active []
 
 
 
 [7.7]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 3128) in paragraph at lines 52--53
+[]\TU/TimesNewRoman(1)/m/n/10 Разработаны 8- и 16-периодичные квази-замороженны
+е структуры
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 72--74
+Underfull \hbox (badness 1910) in paragraph at lines 71--73
 []$[]$ \TU/TimesNewRoman(1)/m/n/10 Основными методами исследо-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [8.8]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-[]\TU/TimesNewRoman(1)/m/n/10 Предложены модернизированные 8/16-периодичные стр
-уктуры
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(1)/m/n/10 Предложены модернизированные 8- и 16-периодные ст
+руктуры
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 81--82
-\TU/TimesNewRoman(1)/m/n/10 ческого дипольного момента легких ядер, с сохранени
-ем функции
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
@@ -2241,95 +2233,84 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9.9]
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
-
- []
-
 \blx@maxsegment@1=\count634
 \blx@sectionciteorder@1=\count635
-Package biblatex Info: Reference section=1 on input line 186.
-Package biblatex Info: Setting label 'refsection:1' on input line 186.
+Package biblatex Info: Reference section=1 on input line 185.
+Package biblatex Info: Setting label 'refsection:1' on input line 185.
 
-Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 186
+
+Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 185
 .
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 186
+Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 185
 .
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
-186.
+185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 18
-6.
+5.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
-86.
+85.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioregistered' not found on input line 18
-6.
+5.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
-186.
+185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
- 186.
+ 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
-Package biblatex Info: Reference section=0 on input line 186.
+Package biblatex Info: Reference section=0 on input line 185.
 \blx@maxsegment@2=\count636
 \blx@sectionciteorder@2=\count637
-Package biblatex Info: Reference section=2 on input line 186.
-Package biblatex Info: Setting label 'refsection:2' on input line 186.
-Package biblatex Info: Reference section=0 on input line 186.
+Package biblatex Info: Reference section=2 on input line 185.
+Package biblatex Info: Setting label 'refsection:2' on input line 185.
+Package biblatex Info: Reference section=0 on input line 185.
 )
-Underfull \hbox (badness 4279) in paragraph at lines 186--19
+Underfull \hbox (badness 4279) in paragraph at lines 185--19
 []$[]$ \TU/TimesNewRoman(1)/m/n/10 Основные результаты по теме диссертации изло
 жены
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -2341,39 +2322,31 @@ File: images/1_IBS.png Graphic file (type bmp)
 
 
 [11.11]
-
-[12.12]
 File: images/3_g_tr_BB.png Graphic file (type bmp)
 <images/3_g_tr_BB.png>
 File: images/3_eta_tr_BB.png Graphic file (type bmp)
 <images/3_eta_tr_BB.png>
+
+
+[12.12]
 File: images/2_twiss_3FODO_regular.png Graphic file (type bmp)
 <images/2_twiss_3FODO_regular.png>
 File: images/2_Twiss_Superperiod.png Graphic file (type bmp)
 <images/2_Twiss_Superperiod.png>
-
-
-[13.13]
 File: images/4_deflector_deutron.png Graphic file (type bmp)
 <images/4_deflector_deutron.png>
 File: images/4_arc_B+E_WF.png Graphic file (type bmp)
 <images/4_arc_B+E_WF.png>
 
-Underfull \vbox (badness 1019) has occurred while \output is active []
 
+[13.13]
 
-
-[14.14]
+[14.14] (./common/concl.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[15.15] (./common/concl.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[16.16]
+[15.15]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 []\TU/TimesNewRoman(1)/m/n/10 В части развития магнитооптической структуры комп
 лекса NICA-
@@ -2386,86 +2359,86 @@ Underfull \hbox (badness 3907) in paragraph at lines 28--29
  []
 
 ) Excluding 'comment' comment.
-Underfull \hbox (badness 3168) in paragraph at lines 245--245
+Underfull \hbox (badness 3168) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Features of dual-purpose structure for heavy ion 
 and light particles /
  []
 
 
 
-[17.17]
-Underfull \hbox (badness 2662) in paragraph at lines 245--245
+[16.16]
+Underfull \hbox (badness 2662) in paragraph at lines 247--247
 \TU/TimesNewRoman(1)/m/n/10 in Harmonic and Barrier RF / S. D. Kolokolchikov, A
 . E. Aksentev,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Transition Energy Crossing of Polarized Proton Be
 am at NICA /
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 245--245
+Underfull \hbox (badness 1642) in paragraph at lines 247--247
 \TU/TimesNewRoman(1)/m/n/10 S. Kolokolchikov, Y. Senichev, A. Aksentiev, A. Mel
 nikov, E. Syresin,
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 245--245
+Underfull \hbox (badness 2005) in paragraph at lines 247--247
 \TU/TimesNewRoman(1)/m/n/10 V. Ladygin [] Physics of Atomic Nuclei. [] 2024. []
  Т. 87, № 3. []
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 245--245
+Underfull \hbox (badness 1661) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Consideration of an Adapted Nuclotron Structure f
 or Searching for the
  []
 
 
 
-[18.18]
-Underfull \hbox (badness 2478) in paragraph at lines 245--245
+[17.17]
+Underfull \hbox (badness 2478) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 NICA Facilities for the Search for EDM Light Nucl
 ei / Y. Senichev,
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 245--245
+Underfull \hbox (badness 2435) in paragraph at lines 247--247
 \TU/TimesNewRoman(1)/m/n/10 E. Syresin [] Physics of Atomic Nuclei. [] 2024. []
  Т. 87, № 4. []
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 245--245
+Underfull \hbox (badness 4181) in paragraph at lines 247--247
 \TU/TimesNewRoman(1)/m/n/10 Frozen”Spin Regime / S. Kolokolchikov, A. Aksentiev
 , A. Melnikov,
  []
 
 
 
-[19.19]
-Underfull \hbox (badness 2608) in paragraph at lines 245--245
+[18.18]
+Underfull \hbox (badness 2608) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/it/10 Robert-Demolaize\TU/TimesNewRoman(1)/m/n/10 , \T
 U/TimesNewRoman(1)/m/it/10 G. \TU/TimesNewRoman(1)/m/n/10 The Luminosity Upgrad
 e at RHIC / G. Robert-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Inclusive double-helicity asymmetries in neutral-
 pion and eta-meson
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 245--245
+Underfull \hbox (badness 3118) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Prospects for spin physics at RHIC / G. Bunce, N.
  Saito, J. Soffer,
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 245--245
+Underfull \hbox (badness 1496) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/it/10 Sakharov\TU/TimesNewRoman(1)/m/n/10 , \TU/TimesN
 ewRoman(1)/m/it/10 A. D. \TU/TimesNewRoman(1)/m/n/10 Violation of CP Invariance
 , C asymmetry, and baryon
@@ -2473,29 +2446,25 @@ ewRoman(1)/m/it/10 A. D. \TU/TimesNewRoman(1)/m/n/10 Violation of CP Invariance
 
 
 
-[20.20]
-Underfull \hbox (badness 4328) in paragraph at lines 245--245
+[19.19]
+Underfull \hbox (badness 4328) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 Quasi-frozen Spin Method for EDM Deuteron Search 
 / Y. Senichev,
  []
 
 
 
-[21.21]
-Overfull \hbox (18.72198pt too wide) in paragraph at lines 245--245
+[20.20]
+Overfull \hbox (18.72198pt too wide) in paragraph at lines 247--247
 []\TU/TimesNewRoman(1)/m/n/10 http://www-bdnew.fnal.gov/pbar/organizationalchar
 t/lebedev/OptiM/optim.htm. []
  []
 
 )
 
+[21.21]
+
 [22.22]
-
-[23.23]
-
-[24.24
-
-]
 
 Package caption Warning: Unused \captionsetup[table] on input line 25.
 See the caption package documentation for explanation.
@@ -2730,11 +2699,11 @@ Package logreq Info: Writing requests to 'synopsis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  49603 strings out of 473839
- 1030011 string characters out of 5733380
+ 1030019 string characters out of 5733380
  2305803 words of memory out of 5000000
  71856 multiletter control sequences out of 15000+600000
  567037 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,15n,98p,2281b,7304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,15n,98p,2148b,7304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on synopsis.pdf (24 pages).
+Output written on synopsis.pdf (22 pages).

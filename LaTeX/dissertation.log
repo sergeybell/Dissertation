@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  6 OCT 2025 18:31
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.12)  20 OCT 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2319,6 +2319,12 @@ t line 26.
 \openout2 = `Dissertation/introduction.aux'.
 
  (./Dissertation/introduction.tex (./common/characteristic.tex
+Underfull \hbox (badness 1838) in paragraph at lines 5--6
+\TU/TimesNewRoman(1)/m/n/14.4 перименте необходимо накопление достаточного объё
+ма экспериментальных
+ []
+
+
 
 [5.5
 
@@ -2328,6 +2334,12 @@ t line 26.
 ]
 
 [6.6]
+Underfull \hbox (badness 1448) in paragraph at lines 15--16
+[]\TU/TimesNewRoman(1)/m/n/14.4 В современной Стандартной модели частиц нарушаю
+тся P-[[][]16[][]] и CP-
+ []
+
+
 
 [7.7]
 File: images/4_EDM_P_T.png Graphic file (type bmp)
@@ -2335,175 +2347,161 @@ File: images/4_EDM_P_T.png Graphic file (type bmp)
 
 
 [8.8]
-Underfull \hbox (badness 4024) in paragraph at lines 30--31
-[]\TU/TimesNewRoman(1)/m/n/14.4 Ускорительный комплекс NICA (Nuclotron-based Io
-n Collider fAсility)
+Underfull \hbox (badness 1546) in paragraph at lines 32--34
+\TU/TimesNewRoman(1)/m/n/14.4 пучками. В работе ускоритель выступает как экспер
+иментальная установка,
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 30--31
-\TU/TimesNewRoman(1)/m/n/14.4 является современным передовым центром, который о
-борудован передовой
+Underfull \hbox (badness 4156) in paragraph at lines 32--34
+\TU/TimesNewRoman(1)/m/n/14.4 NICA. Предложенные подходы применимы также на дру
+гих аналогичных
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 30--31
-\TU/TimesNewRoman(1)/m/n/14.4 пучков протонов и дейтронов. Кинематическая облас
-ть, охватываемая SPD,
- []
-
-
-
-[9.9]
 Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 34--37
-\TU/TimesNewRoman(1)/m/n/14.4 исследования электрического дипольного момента с 
-использованием квази-
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[9.9]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
 
 [10.10]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 5681) in paragraph at lines 52--53
+[]\TU/TimesNewRoman(1)/m/n/14.4 Разработаны 8- и 16-периодичные квази-заморожен
+ные структуры
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 71--73
+\TU/TimesNewRoman(1)/m/n/14.4 эксперимент. Для исследования были использованы п
+рограммы для расчёта
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
 
 [11.11]
-Underfull \hbox (badness 1472) in paragraph at lines 72--74
-\TU/TimesNewRoman(1)/m/n/14.4 эксперимент. Для исследования были использованы п
-рограммы для расчёта
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(1)/m/n/14.4 Предложены модернизированные 8- и 16-периодные 
+структуры
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 1584) in paragraph at lines 80--81
+\TU/TimesNewRoman(1)/m/n/14.4 Nuclotron с квази-замороженным спином для экспери
+ментов по из-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 77--78
-[]\TU/TimesNewRoman(1)/m/n/14.4 Предложена реализация дуальной структуры для ко
-мплекса NICA-
- []
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-\TU/TimesNewRoman(1)/m/n/14.4 Nuclotron, оптимальная для тяжелых частиц с точки
- зрения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-[]\TU/TimesNewRoman(1)/m/n/14.4 Предложены модернизированные 8/16-периодичные с
-труктуры
  []
 
 
 
 [12.12]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
-
- []
-
-
-
-[13.13]
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 \blx@maxsegment@1=\count663
 \blx@sectionciteorder@1=\count664
-Package biblatex Info: Reference section=1 on input line 186.
-Package biblatex Info: Setting label 'refsection:1' on input line 186.
+Package biblatex Info: Reference section=1 on input line 185.
+Package biblatex Info: Setting label 'refsection:1' on input line 185.
 
-Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 186
+Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 185
 .
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 186
+Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 185
 .
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
-186.
+185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 18
-6.
+5.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
-86.
+85.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioregistered' not found on input line 18
-6.
+5.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
-186.
+185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
 Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
- 186.
+ 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
 
-LaTeX Warning: Empty bibliography on input line 186.
+LaTeX Warning: Empty bibliography on input line 185.
 
-Package biblatex Info: Reference section=0 on input line 186.
+Package biblatex Info: Reference section=0 on input line 185.
 \blx@maxsegment@2=\count665
 \blx@sectionciteorder@2=\count666
-Package biblatex Info: Reference section=2 on input line 186.
-Package biblatex Info: Setting label 'refsection:2' on input line 186.
-Package biblatex Info: Reference section=0 on input line 186.
+Package biblatex Info: Reference section=2 on input line 185.
+Package biblatex Info: Setting label 'refsection:2' on input line 185.
+Package biblatex Info: Reference section=0 on input line 185.
 )
 \@c=\count667
 \@last=\count668
@@ -2520,27 +2518,24 @@ Package biblatex Info: Reference section=0 on input line 186.
 \@c=\count679
 \@last=\count680
 \@pnul=\count681
-\@c=\count682
-\@last=\count683
-\@pnul=\count684
 
 
-[14.14]
-Underfull \hbox (badness 4168) in paragraph at lines 49--50
-\TU/TimesNewRoman(1)/m/n/14.4 использовать альтернативный метод управления спин
-ом, концепция квази-
+[13.13]
+Underfull \hbox (badness 2435) in paragraph at lines 47--48
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для регулярной магнитооптической структуры колл
+айдера NICA про-
  []
 
 
 
-[15.15])
+[14.14])
 
-[16.16]
+[15.15]
 \openout2 = `Dissertation/part1.aux'.
 
  (./Dissertation/part1.tex
 
-[17.17
+[16.16
 
 
 
@@ -2553,18 +2548,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
 
 
+[17.17]
+
 [18.18]
 
 [19.19]
-
-[20.20]
 LaTeX Font Info:    Calculating math sizes for size <10.07999> on input line 13
 7.
 
 
-[21.21]
+[20.20]
 
-[22.22]
+[21.21]
 Underfull \hbox (badness 10000) in paragraph at lines 176--177
 []\TU/TimesNewRoman(1)/m/n/14.4 при приближении коэффициента проскальзывания к 
 значению
@@ -2572,7 +2567,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
 
 
-[23.23]
+[22.22]
 File: images/1_regular.png Graphic file (type bmp)
 <images/1_regular.png>
 File: images/1_resonant.png Graphic file (type bmp)
@@ -2581,61 +2576,39 @@ File: images/1_resonant.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-
-[24.24]
 File: images/1_combined.png Graphic file (type bmp)
 <images/1_combined.png>
 
 
-[25.25]
+[23.23]
+
+[24.24]
 File: images/1_SC.png Graphic file (type bmp)
 <images/1_SC.png>
 File: images/1_SC_wide.png Graphic file (type bmp)
 <images/1_SC_wide.png>
+ Excluding 'comment' comment.
 
-
-[26.26] Excluding 'comment' comment.
+[25.25]
 File: images/1_IBS.png Graphic file (type bmp)
 <images/1_IBS.png>
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 256--257
-\TU/TimesNewRoman(1)/m/n/14.4 дисперсией и $\U/eur/m/n/14.4 ^^L$\TU/TimesNewRom
-an(1)/m/n/14.4 -функцией пучка $[]$, чем в случае регулярной. Та-
- []
-
-
-
-[27.27]
-Underfull \hbox (badness 7796) in paragraph at lines 272--272
+Underfull \hbox (badness 7796) in paragraph at lines 270--270
 []\TU/TimesNewRoman(1)/m/n/14.4 Время ВПР, с (для тяжелых
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[26.26]
 
+[27.27])
 
 [28.28]
-Underfull \hbox (badness 1701) in paragraph at lines 291--292
-[]\TU/TimesNewRoman(1)/m/n/14.4 Показано, что вследствие модуляции $\U/eur/m/n/
-14.4 ^^L$\TU/TimesNewRoman(1)/m/n/14.4 -функции и $\OML/cmm/m/it/14.4 D\OT1/cmr
-/m/n/14.4 (\OML/cmm/m/it/14.4 s\OT1/cmr/m/n/14.4 )$ \TU/TimesNewRoman(1)/m/n/14
-.4 дисперсии
- []
-
-)
-
-[29.29]
 \openout2 = `Dissertation/part2.aux'.
 
  (./Dissertation/part2.tex
 
-[30.30
+[29.29
 
 
 
@@ -2659,23 +2632,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
+[30.30]
+
 [31.31]
 
 [32.32]
 
 [33.33]
-
-[34.34]
 File: images/3_adiabatic_time.png Graphic file (type bmp)
 <images/3_adiabatic_time.png>
 File: images/3_nonlin_time.png Graphic file (type bmp)
 <images/3_nonlin_time.png>
 
 
-[35.35]
-
 Package nag Warning: `center' environment in table.
-(nag)                Maybe you want \centering instead on input line 146.
+(nag)                Maybe you want \centering instead on input line 148.
 
 File: images/3_eta_beam_lenght.png Graphic file (type bmp)
 <images/3_eta_beam_lenght.png>
@@ -2685,9 +2656,17 @@ File: images/3_eta_emit.png Graphic file (type bmp)
 <images/3_eta_emit.png>
 
 
-[36.36]
+[34.34]
 
-[37.37]
+[35.35]
+
+Package caption Warning: \label without proper reference on input line 188.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tbl:u-70_crossing' on page 36 undefined on input line
+ 178.
+
 File: images/3_wo_jump_beam_lenght.png Graphic file (type bmp)
 <images/3_wo_jump_beam_lenght.png>
 File: images/3_wo_jump_energy_spread.png Graphic file (type bmp)
@@ -2695,75 +2674,82 @@ File: images/3_wo_jump_energy_spread.png Graphic file (type bmp)
 File: images/3_wo_jump_emit.png Graphic file (type bmp)
 <images/3_wo_jump_emit.png>
 
-Underfull \hbox (badness 4859) in paragraph at lines 191--191
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package nag Warning: \label in float, but not after \caption on input line 188.
+
+
+
+Package nag Warning: \label in float, but not after \caption on input line 188.
+
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 193--193
 []|\TU/TimesNewRoman(1)/m/n/14.4 Параметры моде-
  []
 
 
-Overfull \hbox (2.00716pt too wide) in paragraph at lines 191--191
+Overfull \hbox (2.00716pt too wide) in paragraph at lines 193--193
  []|\TU/TimesNewRoman(1)/m/n/14.4 Сохранение 
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 195--196
+Underfull \hbox (badness 1675) in paragraph at lines 197--198
 \TU/TimesNewRoman(1)/m/n/14.4 отсутствует, влияние неадиа-
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 197--198
+Underfull \hbox (badness 2245) in paragraph at lines 199--200
 []|\TU/TimesNewRoman(1)/m/n/14.4 Влияние нелинейности, рост
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 []|\TU/TimesNewRoman(1)/m/n/14.4 Уменьшение длины сгустка
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \TU/TimesNewRoman(1)/m/n/14.4 после $\U/eur/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)
 /m/n/14.4 , фокусирование
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 209--210
+Underfull \hbox (badness 3746) in paragraph at lines 211--212
 \U/eur/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)/m/n/14.4 , раскачивание после $\U/eu
 r/m/n/14.4 ^^M[]$\TU/TimesNewRoman(1)/m/n/14.4 ,
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 215--216
+Underfull \hbox (badness 1552) in paragraph at lines 217--218
 []|\TU/TimesNewRoman(1)/m/n/14.4 Существенное сжатие длины
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 221--222
+Underfull \hbox (badness 2376) in paragraph at lines 223--224
 \TU/TimesNewRoman(1)/m/n/14.4 рупольных колебаний, суще-
  []
 
 
 Package nag Warning: `center' environment in table.
-(nag)                Maybe you want \centering instead on input line 224.
+(nag)                Maybe you want \centering instead on input line 226.
 
 
+
+[36.36]
+
+[37.37]
 
 [38.38]
-
-[39.39]
 File: images/3_twiss_U70_regular.png Graphic file (type bmp)
 <images/3_twiss_U70_regular.png>
 File: images/3_twiss_U70_modulated.png Graphic file (type bmp)
 <images/3_twiss_U70_modulated.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[40.40]
-
 Package nag Warning: `center' environment in table.
-(nag)                Maybe you want \centering instead on input line 271.
+(nag)                Maybe you want \centering instead on input line 273.
 
 File: images/3_gamma_transition_jump_U70.png Graphic file (type bmp)
 <images/3_gamma_transition_jump_U70.png>
@@ -2773,15 +2759,17 @@ File: images/3_jump_U70_oscilogram.png Graphic file (type bmp)
 <images/3_jump_U70_oscilogram.png>
 File: images/3_jump_U70_beam_profile.png Graphic file (type bmp)
 <images/3_jump_U70_beam_profile.png>
-
-
-[41.41]
 File: images/3_jump_beam_lenght.png Graphic file (type bmp)
 <images/3_jump_beam_lenght.png>
 File: images/3_jump_energy_spread.png Graphic file (type bmp)
 <images/3_jump_energy_spread.png>
 File: images/3_jump_emit.png Graphic file (type bmp)
 <images/3_jump_emit.png>
+
+
+[39.39]
+
+[40.40]
 File: images/3_jump_imp_beam_lenght.png Graphic file (type bmp)
 <images/3_jump_imp_beam_lenght.png>
 File: images/3_jump_imp_energy_spread.png Graphic file (type bmp)
@@ -2791,58 +2779,57 @@ File: images/3_jump_imp_emit.png Graphic file (type bmp)
 File: images/3_jump_U70_beam_lenght.png Graphic file (type bmp)
 <images/3_jump_U70_beam_lenght.png>
 
-Underfull \hbox (badness 4859) in paragraph at lines 321--321
+
+Package nag Warning: `center' environment in table.
+(nag)                Maybe you want \centering instead on input line 319.
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 323--323
 []|\TU/TimesNewRoman(1)/m/n/14.4 Параметры моде-
  []
 
 
-Overfull \hbox (2.00716pt too wide) in paragraph at lines 321--321
+Overfull \hbox (2.00716pt too wide) in paragraph at lines 323--323
  []|\TU/TimesNewRoman(1)/m/n/14.4 Сохранение 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 []|\TU/TimesNewRoman(1)/m/n/14.4 Нелинейность отсутствует,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 []|\TU/TimesNewRoman(1)/m/n/14.4 Уменьшение длины после
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 []|\TU/TimesNewRoman(1)/m/n/14.4 Длина сгустка существенно
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []|\TU/TimesNewRoman(1)/m/n/14.4 Большая амплитуда квад-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 \TU/TimesNewRoman(1)/m/n/14.4 рупольных колебаний,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 \TU/TimesNewRoman(1)/m/n/14.4 небольшой рост эмиттан-
  []
 
 
-Package nag Warning: `center' environment in table.
-(nag)                Maybe you want \centering instead on input line 355.
 
-
+[41.41]
 
 [42.42]
 
 [43.43]
-
-[44.44]
-
-[45.45]
 File: images/3_gamma_tr_vs_dQF.png Graphic file (type bmp)
 <images/3_gamma_tr_vs_dQF.png>
 File: images/3_tunes_vs_dQF.png Graphic file (type bmp)
@@ -2851,6 +2838,10 @@ File: images/3_2nd_MCF_vs_g_tr.png Graphic file (type bmp)
 <images/3_2nd_MCF_vs_g_tr.png>
 File: images/3_3nd_MCF_vs_g_tr.png Graphic file (type bmp)
 <images/3_3nd_MCF_vs_g_tr.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Underfull \hbox (badness 1681) in paragraph at lines 384--385
 \TU/TimesNewRoman(1)/m/n/14.4 Скачок достигается также искажением дисперсионной
@@ -2865,7 +2856,7 @@ Underfull \hbox (badness 4634) in paragraph at lines 384--385
 
 
 
-[46.46]
+[44.44]
 File: images/3_tunes_vs_g_tr.png Graphic file (type bmp)
 <images/3_tunes_vs_g_tr.png>
 File: images/2_da_x_0.36.png Graphic file (type bmp)
@@ -2886,18 +2877,22 @@ File: images/2_da_y_0.40.png Graphic file (type bmp)
 <images/2_da_y_0.40.png>
 
 
-[47.47]
+[45.45]
 
-[48.48]
+[46.46]
 File: images/3_g_tr_harmonic.png Graphic file (type bmp)
 <images/3_g_tr_harmonic.png>
 File: images/3_eta_tr_harmonic.png Graphic file (type bmp)
 <images/3_eta_tr_harmonic.png>
 
 
-[49.49]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[50.50]
+
+
+[47.47]
+
+[48.48]
 File: images/3_eta_tr_BB.png Graphic file (type bmp)
 <images/3_eta_tr_BB.png>
 File: images/3_Imp_vs_freq.png Graphic file (type bmp)
@@ -2911,11 +2906,8 @@ Underfull \hbox (badness 6927) in paragraph at lines 455--455
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-
-[51.51]
+[49.49]
 File: images/3_Jump_NICA.png Graphic file (type bmp)
 <images/3_Jump_NICA.png>
 File: images/3_Jump_NICA_2.png Graphic file (type bmp)
@@ -2924,20 +2916,25 @@ File: images/3_Jump_NICA_2.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+
+[50.50]
 File: images/3_BB.png Graphic file (type bmp)
 <images/3_BB.png>
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[52.52]
-
-[53.53]
+[51.51]
 File: images/3_BB_V.png Graphic file (type bmp)
 <images/3_BB_V.png>
 File: images/3_BB_fourier_coef.png Graphic file (type bmp)
 <images/3_BB_fourier_coef.png>
+
+
+[52.52]
 File: images/3_BB_PS_near_tr.png Graphic file (type bmp)
 <images/3_BB_PS_near_tr.png>
 File: images/3_BB_PS_near_tr_2.png Graphic file (type bmp)
@@ -2959,43 +2956,42 @@ Missing character: There is no о ("43E) in font cmmi12!
 Missing character: There is no т ("442) in font cmmi12!
 Missing character: There is no о ("43E) in font cmmi12!
 Missing character: There is no в ("432) in font cmmi12!
-
-
-[54.54]
 File: images/3_BB_PS_jump.png Graphic file (type bmp)
 <images/3_BB_PS_jump.png>
 File: images/3_BB_PS_jump_2.png Graphic file (type bmp)
 <images/3_BB_PS_jump_2.png>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55.55]
 
-[56.56]
+
+[53.53]
+
+[54.54]
 Underfull \hbox (badness 5667) in paragraph at lines 590--591
 \TU/TimesNewRoman(1)/m/n/14.4 Если учесть, что нормализованный эмиттанс для бар
 ьерного ВЧ $\U/eur/m/n/14.4 "[] \OT1/cmr/m/n/14.4 =
  []
 
+
+
+[55.55]
 File: images/3_microwave_inst_vs_lenght.png Graphic file (type bmp)
 <images/3_microwave_inst_vs_lenght.png>
 
-
-[57.57]
 Underfull \hbox (badness 1484) in paragraph at lines 619--620
 []\TU/TimesNewRoman(1)/m/n/14.4 Во время процедуры скачка необходимо также прок
 онтролировать со-
  []
 
+
+
+[56.56]
 File: images/2_polar2.png Graphic file (type bmp)
 <images/2_polar2.png>
 File: images/2_polar1.png Graphic file (type bmp)
 <images/2_polar1.png>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[58.58]
 Underfull \hbox (badness 10000) in paragraph at lines 635--636
 []\TU/TimesNewRoman(1)/m/n/14.4 Более подробно спиновая динамика будет рассмотр
 ена в ЭДМ-
@@ -3003,25 +2999,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
 
 
-[59.59])
+[57.57])
 
-[60.60]
+[58.58]
 \openout2 = `Dissertation/part3.aux'.
 
  (./Dissertation/part3.tex
 
-[61.61
+[59.59
 
 
 
 
 ]
 
+[60.60]
+
+[61.61]
+
 [62.62]
-
-[63.63]
-
-[64.64]
 File: images/2_superperiod.png Graphic file (type bmp)
 <images/2_superperiod.png>
 File: images/2_twiss_fodo_cell.pdf Graphic file (type pdf)
@@ -3038,7 +3034,9 @@ File: images/2_twiss_odfdo_resonant.pdf Graphic file (type pdf)
 <use images/2_twiss_odfdo_resonant.pdf>
 
 
-[65.65]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 114--116
 []\TU/TimesNewRoman(1)/m/n/14.4 Качественное отличие в пространственном распред
 елении Твисс-
@@ -3046,15 +3044,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
 
 
-[66.66]
+[63.63]
+
+[64.64]
 File: images/2_twiss_3FODO_regular.png Graphic file (type bmp)
 <images/2_twiss_3FODO_regular.png>
 File: images/2_twiss_3FODO_modulated.png Graphic file (type bmp)
 <images/2_twiss_3FODO_modulated.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Underfull \hbox (badness 6825) in paragraph at lines 139--140
 \TU/TimesNewRoman(1)/m/n/14.4 Глубина модуляции определяется соотношением гради
@@ -3063,20 +3059,21 @@ Underfull \hbox (badness 6825) in paragraph at lines 139--140
 
 
 
-[67.67]
+[65.65]
 
-[68.68]
+[66.66]
 File: images/2_disp_supp.png Graphic file (type bmp)
 <images/2_disp_supp.png>
-
-
-[69.69]
 File: images/2_supp_scheme_regular.png Graphic file (type bmp)
 <images/2_supp_scheme_regular.png>
 File: images/2_supp_Twiss_regular.png Graphic file (type bmp)
 <images/2_supp_Twiss_regular.png>
 File: images/2_supp_elem_regular.png Graphic file (type bmp)
 <images/2_supp_elem_regular.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/2_supp_scheme_ES.png Graphic file (type bmp)
 <images/2_supp_scheme_ES.png>
 File: images/2_supp_Twiss_ES.png Graphic file (type bmp)
@@ -3085,13 +3082,15 @@ File: images/2_supp_elem_ES.png Graphic file (type bmp)
 <images/2_supp_elem_ES.png>
 
 
+[67.67]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[70.70]
+[68.68]
 
-[71.71]
+[69.69]
 File: images/2_supp_scheme_AS.png Graphic file (type bmp)
 <images/2_supp_scheme_AS.png>
 File: images/2_supp_Twiss_AS.png Graphic file (type bmp)
@@ -3115,9 +3114,6 @@ File: images/2_ES_x_dpp0,5.png Graphic file (type bmp)
 File: images/2_ES_y_dpp0,5.png Graphic file (type bmp)
 <images/2_ES_y_dpp0,5.png>
 
-
-[72.72]
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: images/2_AS_x_dpp0.png Graphic file (type bmp)
@@ -3137,48 +3133,50 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[73.73]
+[70.70]
+
+[71.71]
+
+[72.72]
+
+[73.73])
 
 [74.74]
-
-[75.75])
-
-[76.76]
 \openout2 = `Dissertation/part4.aux'.
 
  (./Dissertation/part4.tex
 
-[77.77
+[75.75
 
 
 
 
 ]
 
-[78.78]
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-[]\TU/TimesNewRoman(1)/m/n/14.4 Возможность исследования ЭДМ с применением мето
-да квази-
- []
+[76.76]
 
-
-
-[79.79]
+[77.77]
 File: images/4_orbital_B.png Graphic file (type bmp)
 <images/4_orbital_B.png>
 File: images/4_orbital_E.png Graphic file (type bmp)
 <images/4_orbital_E.png>
 
 
+[78.78]
+
+[79.79]
+
 [80.80]
 
 [81.81]
+Underfull \hbox (badness 1953) in paragraph at lines 188--189
+[]\TU/TimesNewRoman(1)/m/n/14.4 Как следует из уравнения Т–БМТ, энергия пучка я
+вляется ключевым
+ []
+
+
 
 [82.82]
-
-[83.83]
-
-[84.84]
 Underfull \hbox (badness 3219) in paragraph at lines 224--225
 \TU/TimesNewRoman(1)/m/n/14.4 славливает различия в их спиновой динамике. Для п
 ротонов направление
@@ -3186,7 +3184,7 @@ Underfull \hbox (badness 3219) in paragraph at lines 224--225
 
 
 
-[85.85]
+[83.83]
 File: images/4_spin-tune_ratio.png Graphic file (type bmp)
 <images/4_spin-tune_ratio.png>
 File: images/4_total_length.png Graphic file (type bmp)
@@ -3197,16 +3195,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[86.86]
+[84.84]
 File: images/4_wien-filter_deuteron.png Graphic file (type bmp)
 <images/4_wien-filter_deuteron.png>
 File: images/4_wien-filter_proton.png Graphic file (type bmp)
 <images/4_wien-filter_proton.png>
 
+Underfull \hbox (badness 2197) in paragraph at lines 270--270
+ [][]\TU/TimesNewRoman(1)/m/n/14.4 Рисунок 4.4 [] |Принципиальная схема одного 
+периода структуры с квази- 
+ []
 
-[87.87]
 
-[88.88]
+
+[85.85]
+
+[86.86]
 File: images/4_deflector_deutron.png Graphic file (type bmp)
 <images/4_deflector_deutron.png>
 File: images/4_deflector_proton.png Graphic file (type bmp)
@@ -3216,33 +3220,24 @@ File: images/4_deflector_proton.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--293
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
 
  []
 
 
+
+[87.87]
+
+[88.88]
 
 [89.89]
 
 [90.90]
-
-[91.91]
-
-[92.92]
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 []\TU/TimesNewRoman(1)/m/n/14.4 Принципиальная схема текущей восьмипериодическо
 й структуры
  []
 
-
-Underfull \hbox (badness 1546) in paragraph at lines 324--325
-\TU/TimesNewRoman(1)/m/n/14.4 ной структуры Нуклотрона практически полностью ис
-ключает возможность
- []
-
-
-
-[93.93]
 File: images/4_Nuclotron_original.png Graphic file (type bmp)
 <images/4_Nuclotron_original.png>
 File: images/4_Nuclotron_original_def.png Graphic file (type bmp)
@@ -3251,33 +3246,35 @@ File: images/4_old_nuclotron.png Graphic file (type bmp)
 <images/4_old_nuclotron.png>
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[91.91]
 
-
-
-[94.94]
-
-[95.95]
+[92.92]
 File: images/4_Nuclotron_8_def2.png Graphic file (type bmp)
 <images/4_Nuclotron_8_def2.png>
 File: images/4_Nuclotron_8_def1.png Graphic file (type bmp)
 <images/4_Nuclotron_8_def1.png>
 File: images/4_Nuclotron_twiss_8.png Graphic file (type bmp)
 <images/4_Nuclotron_twiss_8.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/4_Nuclotron_Def_twiss_8.png Graphic file (type bmp)
 <images/4_Nuclotron_Def_twiss_8.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[96.96]
+[93.93]
 File: images/4_Nuclotron_16.png Graphic file (type bmp)
 <images/4_Nuclotron_16.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: images/4_Nuclotron_twiss_16.png Graphic file (type bmp)
 <images/4_Nuclotron_twiss_16.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -3288,37 +3285,47 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
+[94.94]
+
+[95.95]
+Underfull \hbox (badness 3240) in paragraph at lines 395--396
+[]\TU/TimesNewRoman(1)/m/n/14.4 Рассмотренные модернизированные структуры Nuclo
+tron приведены в
+ []
+
+
+
+[96.96]
+
 [97.97]
-
-[98.98]
-
-[99.99]
 Missing character: There is no м ("43C) in font cmr12!
 File: images/4_NICA_bypass.png Graphic file (type bmp)
 <images/4_NICA_bypass.png>
+File: images/4_bypass_3scheme.png Graphic file (type bmp)
+<images/4_bypass_3scheme.png>
+
+
+[98.98]
+File: images/4_bypass_3quad.png Graphic file (type bmp)
+<images/4_bypass_3quad.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/4_bypass_5scheme.png Graphic file (type bmp)
+<images/4_bypass_5scheme.png>
+
+
+[99.99]
+File: images/4_bypass_5quad.png Graphic file (type bmp)
+<images/4_bypass_5quad.png>
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
 [100.100]
-File: images/4_bypass_3scheme.png Graphic file (type bmp)
-<images/4_bypass_3scheme.png>
-
-
-[101.101]
-File: images/4_bypass_3quad.png Graphic file (type bmp)
-<images/4_bypass_3quad.png>
-
-
-[102.102]
-File: images/4_bypass_5scheme.png Graphic file (type bmp)
-<images/4_bypass_5scheme.png>
-File: images/4_bypass_5quad.png Graphic file (type bmp)
-<images/4_bypass_5quad.png>
-
-
-[103.103]
 File: images/4_bypass_real_scheme.png Graphic file (type bmp)
 <images/4_bypass_real_scheme.png>
 File: images/4_bypass_twiss_ring.png Graphic file (type bmp)
@@ -3329,7 +3336,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[104.104]
+[101.101]
 File: images/4_bypass_spin.png Graphic file (type bmp)
 <images/4_bypass_spin.png>
 
@@ -3338,9 +3345,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[105.105]
+[102.102]
 
-[106.106]
+[103.103]
 File: images/4_NICA_arc.png Graphic file (type bmp)
 <images/4_NICA_arc.png>
 
@@ -3349,7 +3356,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[107.107]
+[104.104]
 File: images/4_spin_dependance_x.png Graphic file (type bmp)
 <images/4_spin_dependance_x.png>
 File: images/4_spin_dependance_y.png Graphic file (type bmp)
@@ -3364,111 +3371,111 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[108.108]
+[105.105]
 
-[109.109]
+[106.106]
 File: images/4_spin_coherence.png Graphic file (type bmp)
 <images/4_spin_coherence.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
 []|\TU/TimesNewRoman(1)/m/n/14.4 Без опти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
 []|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
 []|\TU/TimesNewRoman(1)/m/n/14.4 Спиновая
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
 \TU/TimesNewRoman(1)/m/n/14.4 когерент-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Underfull \hbox (badness 10000) in paragraph at lines 577--577
 []|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
 []|\TU/TimesNewRoman(1)/m/n/14.4 Хроматич-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
 []|\TU/TimesNewRoman(1)/m/n/14.4 Значение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
 \TU/TimesNewRoman(1)/m/n/14.4 хроматич-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--588
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
 []|$\OMS/cmsy/m/n/14.4 ^^@\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/1
 4.4 37 \OMS/cmsy/m/n/14.4 ^^B
  []
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 596--596
+Underfull \hbox (badness 7291) in paragraph at lines 589--589
 []|\TU/TimesNewRoman(1)/m/n/14.4 # семейств
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--596
+Underfull \hbox (badness 10000) in paragraph at lines 589--589
 \TU/TimesNewRoman(1)/m/n/14.4 секступо-
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 598--598
+Underfull \hbox (badness 4120) in paragraph at lines 591--591
 []|\TU/TimesNewRoman(1)/m/n/14.4 Макс. поле
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--598
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
 \TU/TimesNewRoman(1)/m/n/14.4 секступо-
  []
 
 
-Overfull \hbox (6.51344pt too wide) in paragraph at lines 582--602
+Overfull \hbox (6.51344pt too wide) in paragraph at lines 575--595
  [][] 
  []
 
 
 
+[107.107]
+
+[108.108]
+
+[109.109])
+
 [110.110]
-
-[111.111]
-
-[112.112]
-Underfull \hbox (badness 1565) in paragraph at lines 617--618
-\TU/TimesNewRoman(1)/m/n/14.4 нативные прямые участки и, в конечном счёте, расш
-ирить область
- []
-
-)
-
-[113.113]
 \openout2 = `Dissertation/conclusion.aux'.
 
  (./Dissertation/conclusion.tex (./common/concl.tex
 
-[114.114
+[111.111
 
 
 
 
 ])
+Underfull \hbox (badness 1430) in paragraph at lines 12--17
+\TU/TimesNewRoman(1)/m/n/14.4 суждениях. Cотрудников ОИЯИ Лебедева В.A. за плод
+отворные дискуссии,
+ []
 
-[115.115])
+)
 
-[116.116]
+[112.112]
+
+[113.113]
 \openout2 = `Dissertation/acronyms.aux'.
 
  (./Dissertation/acronyms.tex
@@ -3483,7 +3490,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--76
 
 
 
-[117.117
+[114.114
 
 
 
@@ -3508,7 +3515,7 @@ d Particle Physics. []
 
 
 
-[118.118
+[115.115
 
 
 
@@ -3516,7 +3523,7 @@ d Particle Physics. []
 
 ]
 
-[119.119]
+[116.116]
 Underfull \hbox (badness 2310) in paragraph at lines 6--6
 []\TU/TimesNewRoman(1)/m/n/14.4 A New method of measuring electric dipole momen
 ts in storage rings /
@@ -3530,7 +3537,7 @@ Underfull \hbox (badness 2418) in paragraph at lines 6--6
 
 
 
-[120.120] (./common/renames.tex) (./common/renames.tex)
+[117.117] (./common/renames.tex) (./common/renames.tex)
 Overfull \hbox (10.30063pt too wide) in paragraph at lines 6--6
 []\TU/TimesNewRoman(1)/m/n/14.4 http://www-bdnew.fnal.gov/pbar/organizationalch
 art/lebedev/OptiM/optim.htm. []
@@ -3556,7 +3563,7 @@ ov, N. V. Mityanina,
 
 
 
-[121.121]
+[118.118]
 Overfull \hbox (0.71893pt too wide) in paragraph at lines 6--6
 []\TU/TimesNewRoman(1)/m/n/14.4 Transition Energy Crossing of Polarized Proton 
 Beam at NICA / S. Kolokolchikov,
@@ -3564,7 +3571,7 @@ Beam at NICA / S. Kolokolchikov,
 
 
 
-[122.122]
+[119.119]
 Underfull \hbox (badness 2951) in paragraph at lines 6--6
 \TU/TimesNewRoman(1)/m/n/14.4 Y. Senichev, A. Aksentyev, S. Kolokolchikov, A. M
 elnikov, V. Ladygin,
@@ -3602,15 +3609,13 @@ Underfull \hbox (badness 2443) in paragraph at lines 6--6
 
 
 
-[123.123]
+[120.120]
 Underfull \hbox (badness 4181) in paragraph at lines 6--6
 \TU/TimesNewRoman(1)/m/n/14.4 17th International Conference on High-Energy Acce
 lerators. [] 1998. []
  []
 
 (./common/renames.tex)
-
-[124.124]
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 []\TU/TimesNewRoman(0)/m/it/14.4 Senichev\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
 mesNewRoman(0)/m/it/14.4 Y. V. \TU/TimesNewRoman(1)/m/n/14.4 Construction of “r
@@ -3618,6 +3623,8 @@ esonant”magneto-optical lattices with
  []
 
 
+
+[121.121]
 Underfull \hbox (badness 5460) in paragraph at lines 6--6
 []\TU/TimesNewRoman(0)/m/it/14.4 Antoniou\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
 mesNewRoman(0)/m/it/14.4 F. \TU/TimesNewRoman(1)/m/n/14.4 Revision of Intrabeam
@@ -3645,23 +3652,21 @@ ITH MISSING MAGNETS IN
  []
 
 
-
-[125.125]
 Underfull \hbox (badness 4713) in paragraph at lines 6--6
 []\TU/TimesNewRoman(0)/m/it/14.4 Pashkov\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Tim
 esNewRoman(0)/m/it/14.4 P. T. \TU/TimesNewRoman(1)/m/n/14.4 Measuring inductive
  component of longitudinal coupling
  []
 
-(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+
+
+[122.122] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 Underfull \hbox (badness 5175) in paragraph at lines 6--6
 \TU/TimesNewRoman(1)/m/n/14.4 Accelerator Conference (PAC 07). [] 2007. [] С. 7
 36[]738. [] (IEEE
  []
 
 
-
-[126.126]
 Underfull \hbox (badness 3168) in paragraph at lines 6--6
 []\TU/TimesNewRoman(0)/m/it/14.4 Ehrenfest\TU/TimesNewRoman(1)/m/n/14.4 , \TU/T
 imesNewRoman(0)/m/it/14.4 P. \TU/TimesNewRoman(1)/m/n/14.4 Bemerkung über die a
@@ -3675,6 +3680,8 @@ fest [] Zeitschrift für
  []
 
 
+
+[123.123]
 Underfull \hbox (badness 5756) in paragraph at lines 6--6
 []\TU/TimesNewRoman(0)/m/it/14.4 Bargmann\TU/TimesNewRoman(1)/m/n/14.4 , \TU/Ti
 mesNewRoman(0)/m/it/14.4 V. \TU/TimesNewRoman(1)/m/n/14.4 Precession of the Pol
@@ -3708,7 +3715,7 @@ agiyan, S. Kostromin,
 
 
 
-[127.127]
+[124.124]
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 []\TU/TimesNewRoman(1)/m/n/14.4 Nuclotron at JINR: Operation Experience and Rec
 ent Development /
@@ -3737,18 +3744,16 @@ ation Lifetime with
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex))
 
-[128.128]
-
-[129.129]
+[125.125]
 \openout2 = `Dissertation/lists.aux'.
 
  (./Dissertation/lists.tex (./dissertation.lof (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex)
 
-[130.130
+[126.126
 
 
 
@@ -3758,8 +3763,8 @@ ation Lifetime with
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex)
 
-[131.131] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex) (./common/renames.tex)
+[127.127] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex)
 Missing character: There is no о ("43E) in font cmmi12!
 Missing character: There is no б ("431) in font cmmi12!
 Missing character: There is no о ("43E) in font cmmi12!
@@ -3771,26 +3776,26 @@ Missing character: There is no в ("432) in font cmmi12!
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex)
-
-[132.132] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
-(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex)
 
-[133.133] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+[128.128] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
+(./common/renames.tex)
+
+[129.129] (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex))
 
-[134.134] (./dissertation.lot (./common/renames.tex) (./common/renames.tex)
+[130.130] (./dissertation.lot (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex) (./common/renames.tex) (./common/renames.tex)
 (./common/renames.tex))
 
-[135.135
+[131.131
 
 ])
 
@@ -3816,7 +3821,7 @@ Package caption Warning: Unused \captionsetup[subfloat] on input line 62.
 See the caption package documentation for explanation.
 
 
-Package nag Warning: 10 complaints in total.
+Package nag Warning: 12 complaints in total.
 
 \tf@toc=\write10
 \openout10 = `dissertation.toc'.
@@ -4319,6 +4324,9 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.55pt have occurred.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
@@ -4328,12 +4336,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55369 strings out of 473839
- 1152499 string characters out of 5733380
- 2467764 words of memory out of 5000000
- 77165 multiletter control sequences out of 15000+600000
+ 55381 strings out of 473839
+ 1152825 string characters out of 5733380
+ 2467676 words of memory out of 5000000
+ 77178 multiletter control sequences out of 15000+600000
  572977 words of font info for 144 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,18n,110p,2278b,7760s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,18n,110p,2145b,7760s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on dissertation.pdf (135 pages).
+Output written on dissertation.pdf (131 pages).
